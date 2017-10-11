@@ -129,20 +129,20 @@ def main():
 
     #Initialisation des planètes
     #Exemple 1: corps central et orbite
-    #planete1 = Planet(100*masse_terre,rayon_terre,0,0,0,0)
-    #planete2 = Planet(masse_terre,rayon_terre,5000*10**3,0,0,70000)
+    planete1 = Planet(100*masse_terre,rayon_terre,0,0,0,20000)
+    planete2 = Planet(masse_terre,rayon_terre,5000*10**3,0,-70000,0)
     #Liste de planètes
-    #global liste_planetes
-    #liste_planetes = [planete1, planete2]
+    global liste_planetes
+    liste_planetes = [planete1, planete2]
 
 
     #Exemple 2: trois planètes
-    planete1 = Planet(masse_terre,rayon_terre,1000*10**3,0,4000,4000)
-    planete2 = Planet(masse_terre,rayon_terre,-5000*10**3,-5000*10**3,4000,-4000)
-    planete3 = Planet(masse_terre,rayon_terre,-5000*10**3,5000*10**3,-4000,-4000)
+    #planete1 = Planet(masse_terre,rayon_terre,1000*10**3,0,4000,4000)
+    #planete2 = Planet(masse_terre,rayon_terre,-5000*10**3,-5000*10**3,4000,-4000)
+    #planete3 = Planet(masse_terre,rayon_terre,-5000*10**3,5000*10**3,-4000,-4000)
     #Liste de planètes
-    global liste_planetes
-    liste_planetes = [planete1, planete2, planete3]
+    #global liste_planetes
+    #liste_planetes = [planete1, planete2, planete3]
 
 
     #Initialisation de la figure
