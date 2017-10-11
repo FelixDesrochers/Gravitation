@@ -137,12 +137,21 @@ def main():
 
 
     #Exemple 2: trois planètes
-    planete1 = Planet(masse_terre,rayon_terre,1000*10**3,0,4000,4000)
-    planete2 = Planet(masse_terre,rayon_terre,-5000*10**3,-5000*10**3,4000,-4000)
-    planete3 = Planet(masse_terre,rayon_terre,-5000*10**3,5000*10**3,-4000,-4000)
+    #planete1 = Planet(masse_terre,rayon_terre,1000*10**3,0,4000,4000)
+    #planete2 = Planet(masse_terre,rayon_terre,-5000*10**3,-5000*10**3,4000,-4000)
+    #planete3 = Planet(masse_terre,rayon_terre,-5000*10**3,5000*10**3,-4000,-4000)
+    #Liste de planètes
+    #global liste_planetes
+    #liste_planetes = [planete1, planete2, planete3]
+
+    #Exemple 3: trois planètes2
+    planete1 = Planet(masse_terre,rayon_terre,5000*10**3,5000*10**3,-6000,0)
+    planete2 = Planet(masse_terre,rayon_terre,5000*10**3,-5000*10**3,0,6000)
+    planete3 = Planet(masse_terre,rayon_terre,-5000*10**3,5000*10**3,0,-6000)
+    planete4 = Planet(masse_terre,rayon_terre,-5000*10**3,-5000*10**3,6000,0)
     #Liste de planètes
     global liste_planetes
-    liste_planetes = [planete1, planete2, planete3]
+    liste_planetes = [planete1, planete2, planete3, planete4]
 
 
     #Initialisation de la figure
