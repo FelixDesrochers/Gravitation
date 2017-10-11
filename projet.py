@@ -129,35 +129,29 @@ def main():
 
     #Initialisation des planètes
     #Exemple 1: corps central et orbite
-    planete1 = Planet(100*masse_terre,rayon_terre,0,0,0,20000)
-    planete2 = Planet(masse_terre,rayon_terre,5000*10**3,0,-50000,0)
+    #planete1 = Planet(100*masse_terre,rayon_terre,0,0,0,20000)
+    #planete2 = Planet(masse_terre,rayon_terre,5000*10**3,0,-5000,0)
     #Liste de planètes
-    global liste_planetes
-    liste_planetes = [planete1, planete2]
+    #global liste_planetes
+    #liste_planetes = [planete1, planete2]
 
 
     #Exemple 2: trois planètes
     #planete1 = Planet(masse_terre,rayon_terre,1000*10**3,0,4000,4000)
     #planete2 = Planet(masse_terre,rayon_terre,-5000*10**3,-5000*10**3,4000,-4000)
     #planete3 = Planet(masse_terre,rayon_terre,-5000*10**3,5000*10**3,-4000,-4000)
-<<<<<<< HEAD
     #Liste de planètes
     #global liste_planetes
     #liste_planetes = [planete1, planete2, planete3]
 
-    #Exemple 3: trois planètes2
-    planete1 = Planet(masse_terre,rayon_terre,5000*10**3,5000*10**3,-6000,0)
-    planete2 = Planet(masse_terre,rayon_terre,5000*10**3,-5000*10**3,0,6000)
-    planete3 = Planet(masse_terre,rayon_terre,-5000*10**3,5000*10**3,0,-6000)
-    planete4 = Planet(masse_terre,rayon_terre,-5000*10**3,-5000*10**3,6000,0)
+    #Exemple 3: quatres planètes
+    planete1 = Planet(masse_terre,rayon_terre,5000*10**3,5000*10**3,-8000,0)
+    planete2 = Planet(masse_terre,rayon_terre,5000*10**3,-5000*10**3,0,8000)
+    planete3 = Planet(masse_terre,rayon_terre,-5000*10**3,5000*10**3,0,-8000)
+    planete4 = Planet(masse_terre,rayon_terre,-5000*10**3,-5000*10**3,8000,0)
     #Liste de planètes
     global liste_planetes
     liste_planetes = [planete1, planete2, planete3, planete4]
-=======
-    #Liste de planètes
-    #global liste_planetes
-    #liste_planetes = [planete1, planete2, planete3]
->>>>>>> c870de8eb0343f6b640b9a77d98e7fd33e4dc51e
 
 
     #Initialisation de la figure
