@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
-
+from scipy.misc import imread
 
 #Définition des constantes
 G = 6.67408 * 10**(-11)
@@ -125,13 +125,17 @@ def actualiser_systeme(liste_planetes, dt=1):
 def main():
 
     #Importation d'une configuration initiale particulière
-    from initialisation import liste_1
+    from initialisation import liste_2
     global liste_planetes
-    liste_planetes = liste_1
+    liste_planetes = liste_2
 
 
     #Initialisation de la figure
     fig, ax = plt.subplots()
+
+    #Initialisation d'un fond étoilé pour la figure
+    img = imread("fond_etoiles.jpeg")
+    ax.imshow(img,zorder=0,extent=[-10000000, 10000000, -10000000, 10000000])
 
     #Paramètres esthétiques
     ax.set_xlim([-10000000,10000000])
@@ -145,7 +149,7 @@ def main():
         position_y.append([planet.y])
 
     #Traçage des points initiaux
-    points_espace = [plt.plot([], [], '-') for i in liste_planetes]
+    points_espace = [plt.plot([], [], '-', zorder=1) for i in liste_planetes]
 
     #Définition de la fonction d'animation du système
     def run(data):

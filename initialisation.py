@@ -17,9 +17,9 @@ liste_1 = [planete1, planete2]
 
 
 #Configuration 2: trois planètes
-planete1 = Planet(masse_terre,rayon_terre,1000*10**3,0,4000,4000)
-planete2 = Planet(masse_terre,rayon_terre,-5000*10**3,-5000*10**3,4000,-4000)
-planete3 = Planet(masse_terre,rayon_terre,-5000*10**3,5000*10**3,-4000,-4000)
+planete1 = Planet(masse_terre,rayon_terre,1000*10**3,0,6000,6000)
+planete2 = Planet(masse_terre,rayon_terre,-5000*10**3,-5000*10**3,6000,-6000)
+planete3 = Planet(masse_terre,rayon_terre,-5000*10**3,5000*10**3,-6000,-6000)
 liste_2 = [planete1, planete2, planete3]
 
 
