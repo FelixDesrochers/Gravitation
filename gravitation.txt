@@ -1,3 +1,0 @@
-Gravitation
-
-Code qui représente la gravitation de "n" corps célectres
