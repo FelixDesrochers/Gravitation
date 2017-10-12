@@ -117,6 +117,16 @@ def actualiser_systeme(liste_planetes, dt=1):
             planete.x, planete.y = planete.actualiser_position(dt)
             nouvelle_liste.append(planete)
 
+            # Première ébauche d'une collision (à prendre avec des petites pincettes)
+            for Planete in ancienne_liste:
+                if planete is Planete:
+                    pass
+
+                if np.sqrt((planete.x - Planete.x) ** 2 + (planete.y - Planete.y) ** 2) < 0.1* (Planete.rayon + planete.rayon):
+                    planete.vx = Planete.vx
+                    planete.vy = Planete.vy
+            ###########################################################################
+
         liste_planetes = nouvelle_liste
         yield liste_planetes
 
