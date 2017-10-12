@@ -182,10 +182,15 @@ def main():
     def run(data):
         nouvelle_liste_planete = data
 
+        print(len(position_x[0]))
         #Incrémentation de l'évolution des planètes
         for planet,i in zip(nouvelle_liste_planete, range(len(nouvelle_liste_planete))):
             position_x[i].append(planet.x)
             position_y[i].append(planet.y)
+            if (len(position_x[0]) > 300) and (len(position_y[0]) > 300):
+                for i in range(len(position_x)):
+                    del position_x[i][0]
+                    del position_y[i][0]
 
         #actualisation du graphique
         for planete,points,planetes,i in zip(nouvelle_liste_planete, lignes_espace, planetes_espace, range(len(nouvelle_liste_planete))):
