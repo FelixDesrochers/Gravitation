@@ -11,21 +11,21 @@ rayon_terre = 6378.137 *(10)**3
 
 
 #Configuration 1: corps central et orbite stable
-planete1 = Planet(100*masse_terre,rayon_terre,0,0,0,20000)
-planete2 = Planet(masse_terre,rayon_terre,5000*10**3,0,-5000,0)
+planete1 = Planet(100*masse_terre,rayon_terre,0,0,0,20000, 'laval')
+planete2 = Planet(masse_terre,rayon_terre,5000*10**3,0,-5000,0, 'Montréal')
 liste_1 = [planete1, planete2]
 
 
 #Configuration 2: trois planètes
-planete1 = Planet(masse_terre,rayon_terre,1000*10**3,0,6000,6000)
-planete2 = Planet(masse_terre,rayon_terre,-5000*10**3,-5000*10**3,6000,-6000)
-planete3 = Planet(masse_terre,rayon_terre,-5000*10**3,5000*10**3,-6000,-6000)
+planete1 = Planet(masse_terre,rayon_terre,1000*10**3,0,6000,6000, 'terre')
+planete2 = Planet(masse_terre,rayon_terre,-5000*10**3,-5000*10**3,6000,-6000, 'terre2')
+planete3 = Planet(masse_terre,rayon_terre,-5000*10**3,5000*10**3,-6000,-6000, 'terre3')
 liste_2 = [planete1, planete2, planete3]
 
 
 #Configuration 3: quatres planètes
-planete1 = Planet(masse_terre,rayon_terre,2000*10**3,2000*10**3,-8000,0)
-planete2 = Planet(masse_terre,rayon_terre,2000*10**3,-2000*10**3,0,8000)
-planete3 = Planet(masse_terre,rayon_terre,-2000*10**3,2000*10**3,0,-8000)
-planete4 = Planet(masse_terre,rayon_terre,-2000*10**3,-2000*10**3,8000,0)
+planete1 = Planet(masse_terre,rayon_terre/10,2000*10**3,2000*10**3,-8000,0, "zebulon")
+planete2 = Planet(masse_terre,rayon_terre/10,2000*10**3,-2000*10**3,0,8000, "l'étoile de la mort")
+planete3 = Planet(masse_terre,rayon_terre/10,-2000*10**3,2000*10**3,0,-8000, 'Gatineau-78')
+planete4 = Planet(masse_terre,rayon_terre/10,-2000*10**3,-2000*10**3,8000,0, 'La Poune')
 liste_3 = [planete1, planete2, planete3, planete4]

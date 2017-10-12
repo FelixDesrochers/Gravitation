@@ -16,13 +16,14 @@ rayon_terre = 6378.137 *(10)**3
 class Planet:
 
     #Définir les différents attributs
-    def __init__(self,mass,rayon,x,y,vx,vy):
+    def __init__(self,mass,rayon,x,y,vx,vy,nom):
         self.mass = mass
         self.rayon = rayon
         self.x = x
         self.y = y
         self.vx = vx
         self.vy = vy
+        self.nom = nom
 
 
     #Définir les différentes méthodes
@@ -31,7 +32,7 @@ class Planet:
         d = np.sqrt((autre_planete.x-self.x)**2 + (autre_planete.y-self.y)**2)
         return d
 
-    #Acélération
+    #Calcul de l'accélération résultante
     def acceleration(self,liste_planetes,G=6.67408 * 10**(-11)):
         '''Calcul de l'accélération pour une planètes selon toutes les autres planètes préssntes dans la simualtion
 
@@ -58,7 +59,7 @@ class Planet:
 
         return ax, ay
 
-    #Actualiser la vitesse
+    #Actualiser la vitesse de la planète
     def actualiser_vitesse(self,ax,ay,dt):
         '''Actualise la vitesse de la planète à partir de l'accélération (utilisation de la méthode d'Euler)
 
@@ -148,11 +149,12 @@ def main():
     ax.imshow(img,zorder=0,extent=[-10000000, 10000000, -10000000, 10000000])
 
     #Paramètres esthétiques
-    ax.set_xlim([-10000000,10000000])
-    ax.set_ylim([-10000000,10000000])
+    limite_fig = 10000000
+    ax.set_xlim([-limite_fig,limite_fig])
+    ax.set_ylim([-limite_fig,limite_fig])
 
     #Initialisation de la couleur des graphiques
-    colors = [cm.gist_ncar(1/i) for i in range(1,len(liste_planetes)+1) ]
+    colors = [cm.gist_ncar(1/i) for i in range(2,len(liste_planetes)+2) ]
 
     #Initilisation de points pour chacune des planètes
     position_x = []
@@ -162,10 +164,19 @@ def main():
         position_y.append([planet.y])
 
     #Traçage des orbites initiales
-    lignes_espace = [plt.plot([], [], '-', color=colors[i], zorder=1) for i in range(len(liste_planetes)) ]
+    lignes_espace = [plt.plot([], [], '-', color=colors[i], zorder=1, label=planetes.nom) for i,planetes in zip(range(len(liste_planetes)),liste_planetes) ]
 
     #Traçage des planètes initiales
-    planetes_espace = [plt.plot([], [], 'o', color=colors[i], zorder=2) for i in range(len(liste_planetes)) ]
+    planetes_espace = [plt.plot(planetes.x,planetes.y, 'o', color=colors[i], markersize=(planetes.rayon*375)/limite_fig , zorder=2) for planetes,i in zip(liste_planetes,range(len(liste_planetes))) ]
+
+    #Ajout d'une légende
+    # Shrink current axis by 20%
+    box = ax.get_position()
+    ax.set_position([box.x0, box.y0, box.width*1.1, box.height*1.1])
+
+    # Put a legend to the right of the current axis
+    leg = ax.legend(loc='center left', bbox_to_anchor=(1, 0.5))
+    leg.get_frame().set_alpha(1)
 
     #Définition de la fonction d'animation du système
     def run(data):
