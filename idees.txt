@@ -3,31 +3,31 @@ Liste d'idées ou de choses à modifier dans le code afin de le perfectionner et
 
 
 1) Algorithme
---------------
+--------------                                                                                                                    Check
 
--Modifier méthode numérique afin d'utiliser runge kutta d'ordre 4
+-Modifier méthode numérique afin d'utiliser runge kutta d'ordre 4                                                                   []
 
--Vérifier référence dans actualiser_systeme afin de voir si modifie pas objet au cours de la boucle
+-Vérifier référence dans actualiser_systeme afin de voir si modifie pas objet au cours de la boucle                                 [x]
 
--Créer des collision lorsque la distance entre deux planètes est inférieure à r1 + r2 (collision parfaitement inélastique)
+-Créer des collision lorsque la distance entre deux planètes est inférieure à r1 + r2 (collision parfaitement inélastique)          []
 
--Créer section plus propre (fichier, section de code) pour initialiser les planètes pour que ce soit plus simple
+-Créer section plus propre (fichier, section de code) pour initialiser les planètes pour que ce soit plus simple                    [x]
 
 
 2) Animation
 -------------
 
--Définir des points pour chaque planètes selon leur rayon
+-Définir des points pour chaque planètes selon leur rayon                                                                           []
 
--Définir les lignes de trajectoire seulement pour une certaine longueur (+ dégradé si possible)
+-Définir les lignes de trajectoire seulement pour une certaine longueur (+ dégradé si possible)                                     []
 
--Mettre schéma à l'échelle (carré afin que les deux aient une graduation équivalente)
+-Mettre schéma à l'échelle (carré afin que les deux aient une graduation équivalente)                                               [x]
 
--Mettre fond étoilé
+-Mettre fond étoilé                                                                                                                 [x]
 
--Définir plus belle figure que juste points pour chaque planètes
+-Définir plus belle figure que juste points pour chaque planètes                                                                    []
 
--Afficher temps et/ou énergie système ou autre comme si collision
+-Afficher temps et/ou énergie système ou autre comme si collision                                                                   []
 
--Redéfinir axe si planète sort de la figure afin de toujours pouvoir voir
+-Redéfinir axe si planète sort de la figure afin de toujours pouvoir voir                                                           []
 

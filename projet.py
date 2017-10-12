@@ -1,6 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
+import matplotlib.cm as cm
 from scipy.misc import imread
 
 #Définition des constantes
@@ -103,31 +104,30 @@ class Planet:
 #Définition d'une fonction pour pour actualiser la position de plusieurs planètes à la fois
 def actualiser_systeme(liste_planetes, dt=1):
     while True:
-        ancienne_liste = []
 
-        #Garder en mémoire les planètes initiales lors de l'actualisation
-        ancienne_liste = [ i for i in liste_planetes ]
+        # Création d'une liste des accélérations des planètes
+        acceleration = []
 
-        #Actualise la vitesse et la position de toutes le planètes
-        nouvelle_liste = []
-
+        #Calcul de l'accélération de chaque planète
         for planete in liste_planetes:
-            ax, ay = planete.acceleration(ancienne_liste)
-            planete.vx, planete.vy = planete.actualiser_vitesse(ax,ay,dt)
+            acceleration.append(planete.acceleration(liste_planetes))
+
+        #Actualisation de la position et de la vitesse de chaque planète
+        for planete,a in zip(liste_planetes,acceleration):
+            planete.vx, planete.vy = planete.actualiser_vitesse(a[0],a[1],dt)
             planete.x, planete.y = planete.actualiser_position(dt)
-            nouvelle_liste.append(planete)
 
+            ###########################################################################
             # Première ébauche d'une collision (à prendre avec des petites pincettes)
-            for Planete in ancienne_liste:
-                if planete is Planete:
-                    pass
+            #for Planete in ancienne_liste:
+            #    if planete is Planete:
+            #        pass
 
-                if np.sqrt((planete.x - Planete.x) ** 2 + (planete.y - Planete.y) ** 2) < 0.1* (Planete.rayon + planete.rayon):
-                    planete.vx = Planete.vx
-                    planete.vy = Planete.vy
+            #    if np.sqrt((planete.x - Planete.x) ** 2 + (planete.y - Planete.y) ** 2) < 0.1* (Planete.rayon + planete.rayon):
+            #        planete.vx = Planete.vx
+            #        planete.vy = Planete.vy
             ###########################################################################
 
-        liste_planetes = nouvelle_liste
         yield liste_planetes
 
 
@@ -135,9 +135,9 @@ def actualiser_systeme(liste_planetes, dt=1):
 def main():
 
     #Importation d'une configuration initiale particulière
-    from initialisation import liste_2
+    from initialisation import liste_3
     global liste_planetes
-    liste_planetes = liste_2
+    liste_planetes = liste_3
 
 
     #Initialisation de la figure
@@ -151,6 +151,9 @@ def main():
     ax.set_xlim([-10000000,10000000])
     ax.set_ylim([-10000000,10000000])
 
+    #Initialisation de la couleur des graphiques
+    colors = [cm.gist_ncar(1/i) for i in range(1,len(liste_planetes)+1) ]
+
     #Initilisation de points pour chacune des planètes
     position_x = []
     position_y = []
@@ -158,27 +161,32 @@ def main():
         position_x.append([planet.x])
         position_y.append([planet.y])
 
-    #Traçage des points initiaux
-    points_espace = [plt.plot([], [], '-', zorder=1) for i in liste_planetes]
+    #Traçage des orbites initiales
+    lignes_espace = [plt.plot([], [], '-', color=colors[i], zorder=1) for i in range(len(liste_planetes)) ]
+
+    #Traçage des planètes initiales
+    planetes_espace = [plt.plot([], [], 'o', color=colors[i], zorder=2) for i in range(len(liste_planetes)) ]
 
     #Définition de la fonction d'animation du système
     def run(data):
         nouvelle_liste_planete = data
 
         #Incrémentation de l'évolution des planètes
-        for planet,i in zip(nouvelle_liste_planete,range(len(nouvelle_liste_planete))):
+        for planet,i in zip(nouvelle_liste_planete, range(len(nouvelle_liste_planete))):
             position_x[i].append(planet.x)
             position_y[i].append(planet.y)
 
         #actualisation du graphique
-        for planete,points,i in zip(nouvelle_liste_planete,points_espace,range(len(nouvelle_liste_planete))):
+        for planete,points,planetes,i in zip(nouvelle_liste_planete, lignes_espace, planetes_espace, range(len(nouvelle_liste_planete))):
+            #i) Traçage des orbites
             points[0].set_data(position_x[i],position_y[i])
+            planetes[0].set_data(position_x[i][-1],position_y[i][-1])
 
         #Impression de la position (débuggage)
         #for planet in nouvelle_liste_planete:
             #print(planet.x,planet.y)
 
-        return points
+        return points,planetes
 
     #Animation
     anim = animation.FuncAnimation(fig, run, actualiser_systeme(liste_planetes), interval=10, blit=False, repeat=True)

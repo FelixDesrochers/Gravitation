@@ -24,8 +24,8 @@ liste_2 = [planete1, planete2, planete3]
 
 
 #Configuration 3: quatres planètes
-planete1 = Planet(masse_terre,rayon_terre,3000*10**3,3000*10**3,-8000,0)
-planete2 = Planet(masse_terre,rayon_terre,3000*10**3,-3000*10**3,0,8000)
-planete3 = Planet(masse_terre,rayon_terre,-3000*10**3,3000*10**3,0,-8000)
-planete4 = Planet(masse_terre,rayon_terre,-3000*10**3,-3000*10**3,8000,0)
+planete1 = Planet(masse_terre,rayon_terre,2000*10**3,2000*10**3,-8000,0)
+planete2 = Planet(masse_terre,rayon_terre,2000*10**3,-2000*10**3,0,8000)
+planete3 = Planet(masse_terre,rayon_terre,-2000*10**3,2000*10**3,0,-8000)
+planete4 = Planet(masse_terre,rayon_terre,-2000*10**3,-2000*10**3,8000,0)
 liste_3 = [planete1, planete2, planete3, planete4]
