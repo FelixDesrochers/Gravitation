@@ -121,7 +121,7 @@ def collision(liste_planetes):
             if (planete is Planete) or (type(planete) is FusionPlanete) or (type(Planete) is FusionPlanete) :
                 continue
 
-            elif planete.distance(Planete) < 0.9*(Planete.rayon + planete.rayon) :
+            elif planete.distance(Planete) < 0.95*(Planete.rayon + planete.rayon) :
                 print('COLLISION!!!!')
                 #Calcul de la vitesse de la nouvelle planète résultante
                 vx = (planete.mass*planete.vx + Planete.mass * Planete.vx)/(Planete.mass+planete.mass)
@@ -191,7 +191,7 @@ def main():
     ax.set_ylim([-limite_fig,limite_fig])
 
     #Initialisation de la couleur des graphiques
-    colors = [cm.gist_ncar(1/i) for i in range(2,len(liste_planetes)+2) ]
+    colors = [cm.viridis(10*i) for i in range(2,len(liste_planetes)+2) ]
 
     #Initilisation de points pour chacune des planètes
     position_x = []
@@ -224,7 +224,7 @@ def main():
             if type(planet) is not FusionPlanete:
                 position_x[i].append(planet.x)
                 position_y[i].append(planet.y)
-                if (len(position_x[0]) > 50) and (len(position_y[0]) > 50):
+                if (len(position_x[0]) > 30):
                     for i in range(len(position_x)):
                         if position_x[i]:
                             del position_x[i][0]
