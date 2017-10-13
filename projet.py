@@ -16,13 +16,14 @@ rayon_terre = 6378.137 *(10)**3
 class Planet:
 
     #Définir les différents attributs
-    def __init__(self,mass,rayon,x,y,vx,vy):
+    def __init__(self,mass,rayon,x,y,vx,vy,nom):
         self.mass = mass
         self.rayon = rayon
         self.x = x
         self.y = y
         self.vx = vx
         self.vy = vy
+        self.nom = nom
 
 
     #Définir les différentes méthodes
@@ -31,7 +32,7 @@ class Planet:
         d = np.sqrt((autre_planete.x-self.x)**2 + (autre_planete.y-self.y)**2)
         return d
 
-    #Acélération
+    #Calcul de l'accélération résultante
     def acceleration(self,liste_planetes,G=6.67408 * 10**(-11)):
         '''Calcul de l'accélération pour une planètes selon toutes les autres planètes préssntes dans la simualtion
 
@@ -58,7 +59,7 @@ class Planet:
 
         return ax, ay
 
-    #Actualiser la vitesse
+    #Actualiser la vitesse de la planète
     def actualiser_vitesse(self,ax,ay,dt):
         '''Actualise la vitesse de la planète à partir de l'accélération (utilisation de la méthode d'Euler)
 
@@ -103,18 +104,24 @@ class Planet:
 
 ###########################################################################
  # Première ébauche d'une collision (à prendre avec des petites pincettes)
+
 def collision(liste_planetes):
     cpt1 = 0
     reponse = 0
+
     for planete in liste_planetes:
         cpt2 = 0
+
         for Planete in liste_planetes:
             if (Planete.x==planete.x) or cpt1 == cpt2:
                 a=0
 
-            elif (np.sqrt((planete.x - Planete.x) ** 2 + (planete.y - Planete.y) ** 2) < 0.01*(Planete.rayon + planete.rayon)) and reponse == 0:
+
+            ######Seuil de distance entre 2 planètes pour avoir une collision
+            elif (np.sqrt((planete.x - Planete.x) ** 2 + (planete.y - Planete.y) ** 2) < 0.1*(Planete.rayon + planete.rayon)) and reponse == 0:
 
                 reponse = 1
+
                 if planete.vx >= 0 and planete.vy >= 0:
                     directionp = np.arctan(planete.vy / planete.vx)
                 elif planete.vx < 0 and planete.vy >= 0:
@@ -139,6 +146,8 @@ def collision(liste_planetes):
 
                 Angle_impact = abs(np.arctan((planete.y - Planete.y) / (planete.y - Planete.x)))
 
+                ########Analyse de toutes les collisions entre les deux masses possibles
+                ########(Attention, les angles sont merdiques, et c'est clairement pas optimal, mais l'intention est là)
                 if planete.x >= Planete.x and planete.y >= Planete.y:
 
                     angle = Angle_impact
@@ -211,8 +220,10 @@ def collision(liste_planetes):
 
                 #planete1 = Planet(planete.mass + Planete.mass, planete.rayon,planete.x,planete.y,vx,vy)
                 #planete2 = planete1
-                liste_planetes[cpt1] = Planet(planete.mass , planete.rayon,planete.x,planete.y,vx,vy)
-                liste_planetes[cpt2] = Planet(Planete.mass,Planete.rayon,planete.x,planete.y,vx,vy)
+
+                ######Changement des planètes dans la liste
+                liste_planetes[cpt1] = Planet(planete.mass , planete.rayon,planete.x,planete.y,vx,vy,'Montréal ou Laval')
+                liste_planetes[cpt2] = Planet(Planete.mass,Planete.rayon,planete.x,planete.y,vx,vy,'Montréal ou Laval')
 
             cpt2 = cpt2+1
         cpt1 = cpt1 + 1
@@ -248,7 +259,7 @@ def actualiser_systeme(liste_planetes, dt=1):
 
 
 
-                ###########################################################################
+
 
 #Programme principal
 def main():
@@ -267,11 +278,12 @@ def main():
     ax.imshow(img,zorder=0,extent=[-10000000, 10000000, -10000000, 10000000])
 
     #Paramètres esthétiques
-    ax.set_xlim([-10000000,10000000])
-    ax.set_ylim([-10000000,10000000])
+    limite_fig = 10000000
+    ax.set_xlim([-limite_fig,limite_fig])
+    ax.set_ylim([-limite_fig,limite_fig])
 
     #Initialisation de la couleur des graphiques
-    colors = [cm.gist_ncar(1/i) for i in range(1,len(liste_planetes)+1) ]
+    colors = [cm.gist_ncar(1/i) for i in range(2,len(liste_planetes)+2) ]
 
     #Initilisation de points pour chacune des planètes
     position_x = []
@@ -281,19 +293,33 @@ def main():
         position_y.append([planet.y])
 
     #Traçage des orbites initiales
-    lignes_espace = [plt.plot([], [], '-', color=colors[i], zorder=1) for i in range(len(liste_planetes)) ]
+    lignes_espace = [plt.plot([], [], '-', color=colors[i], zorder=1, label=planetes.nom) for i,planetes in zip(range(len(liste_planetes)),liste_planetes) ]
 
     #Traçage des planètes initiales
-    planetes_espace = [plt.plot([], [], 'o', color=colors[i], zorder=2) for i in range(len(liste_planetes)) ]
+    planetes_espace = [plt.plot(planetes.x,planetes.y, 'o', color=colors[i], markersize=(planetes.rayon*375)/limite_fig , zorder=2) for planetes,i in zip(liste_planetes,range(len(liste_planetes))) ]
+
+    #Ajout d'une légende
+    # Shrink current axis by 20%
+    box = ax.get_position()
+    ax.set_position([box.x0, box.y0, box.width*1.1, box.height*1.1])
+
+    # Put a legend to the right of the current axis
+    leg = ax.legend(loc='center left', bbox_to_anchor=(1, 0.5))
+    leg.get_frame().set_alpha(1)
 
     #Définition de la fonction d'animation du système
     def run(data):
         nouvelle_liste_planete = data
 
+        print(len(position_x[0]))
         #Incrémentation de l'évolution des planètes
         for planet,i in zip(nouvelle_liste_planete, range(len(nouvelle_liste_planete))):
             position_x[i].append(planet.x)
             position_y[i].append(planet.y)
+            if (len(position_x[0]) > 300) and (len(position_y[0]) > 300):
+                for i in range(len(position_x)):
+                    del position_x[i][0]
+                    del position_y[i][0]
 
         #actualisation du graphique
         for planete,points,planetes,i in zip(nouvelle_liste_planete, lignes_espace, planetes_espace, range(len(nouvelle_liste_planete))):
