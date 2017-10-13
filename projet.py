@@ -224,7 +224,7 @@ def main():
             if type(planet) is not FusionPlanete:
                 position_x[i].append(planet.x)
                 position_y[i].append(planet.y)
-                if (len(position_x[0]) > 300) and (len(position_y[0]) > 300):
+                if (len(position_x[0]) > 50) and (len(position_y[0]) > 50):
                     for i in range(len(position_x)):
                         if position_x[i]:
                             del position_x[i][0]

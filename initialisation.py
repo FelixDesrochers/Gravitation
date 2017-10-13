@@ -49,7 +49,7 @@ abs_liste = np.vectorize(abs)
 masse = abs_liste(np.random.normal(5*masse_terre,2*masse_terre,50))
 
 # 2) Rayon:
-rayon = abs_liste(np.random.normal(rayon_terre/10,rayon_terre/30,50))
+rayon = abs_liste(np.random.normal(rayon_terre/100,rayon_terre/300,50))
 
 # 3) Position
 x = np.random.rand(50)*2*10**7 - 10**7
