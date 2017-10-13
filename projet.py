@@ -12,7 +12,9 @@ rayon_terre = 6378.137 *(10)**3
 
 
 
-#Définition d'une classe planète
+###############################################
+#      Définition d'une classe planète        #
+###############################################
 class Planet:
 
     #Définir les différents attributs
@@ -102,172 +104,78 @@ class Planet:
         return x,y
 
 
-###########################################################################
- # Première ébauche d'une collision (à prendre avec des petites pincettes)
+#Création d'une sous classe pour les planètes fusionnées
+class FusionPlanete(Planet):
+    def __init__(self,mass,rayon,x,y,vx,vy):
+        Planet.__init__(self,mass,rayon,x,y,vx,vy,'Planete fusionnée')
 
+
+
+####################################
+#          Collision              #
+###################################
 def collision(liste_planetes):
-    cpt1 = 0
-    reponse = 0
 
     for planete in liste_planetes:
-        cpt2 = 0
-
         for Planete in liste_planetes:
-            if (Planete.x==planete.x) or cpt1 == cpt2:
-                a=0
+            if (planete is Planete) or (type(planete) is FusionPlanete) or (type(Planete) is FusionPlanete) :
+                continue
 
-
-            ######Seuil de distance entre 2 planètes pour avoir une collision
-            elif (np.sqrt((planete.x - Planete.x) ** 2 + (planete.y - Planete.y) ** 2) < 0.1*(Planete.rayon + planete.rayon)) and reponse == 0:
-
-                reponse = 1
-
-                if planete.vx >= 0 and planete.vy >= 0:
-                    directionp = np.arctan(planete.vy / planete.vx)
-                elif planete.vx < 0 and planete.vy >= 0:
-                    directionp = 3.1416 + np.arctan(planete.vy / planete.vx)
-
-                elif planete.vx >= 0 and planete.vy < 0:
-                    directionp = np.arctan(planete.vy / planete.vx)
-
-                elif planete.vx < 0 and planete.vy < 0:
-                    directionp = -3.1416 + np.arctan(planete.vy / planete.vx)
-
-                if Planete.vx >= 0 and Planete.vy >= 0:
-                    directionP = np.arctan(Planete.vy / Planete.vx)
-                elif Planete.vx < 0 and Planete.vy >= 0:
-                    directionP = 3.1416 + np.arctan(Planete.vy / Planete.vx)
-
-                elif Planete.vx >= 0 and Planete.vy < 0:
-                    directionP = np.arctan(Planete.vy / Planete.vx)
-
-                elif Planete.vx < 0 and Planete.vy < 0:
-                    directionP = -3.1416 + np.arctan(Planete.vy / Planete.vx)
-
-                Angle_impact = abs(np.arctan((planete.y - Planete.y) / (planete.y - Planete.x)))
-
-                ########Analyse de toutes les collisions entre les deux masses possibles
-                ########(Attention, les angles sont merdiques, et c'est clairement pas optimal, mais l'intention est là)
-                if planete.x >= Planete.x and planete.y >= Planete.y:
-
-                    angle = Angle_impact
-
-                    V_planetein = np.sqrt(planete.vx ** 2 + planete.vy ** 2) * np.cos((directionp - angle))
-                    V_Planetein = np.sqrt(Planete.vx ** 2 + Planete.vy ** 2) * np.cos((directionP - angle))
-
-                    V_planeteit = np.sqrt(planete.vx ** 2 + planete.vy ** 2) * np.sin((directionp - angle))
-                    V_Planeteit = np.sqrt(Planete.vx ** 2 + Planete.vy ** 2) * np.sin((directionP - angle))
-
-                    Vitessen = (planete.mass * V_planetein + Planete.mass * V_Planetein) / (planete.mass + Planete.mass)
-                    Vitesset = (planete.mass * V_planeteit + Planete.mass * V_Planeteit) / (planete.mass + Planete.mass)
-
-                    angle2 = np.arctan(Vitessen / Vitesset)
-
-                    vx = np.sqrt(Vitessen ** 2 + Vitesset ** 2) * np.cos(angle2 + angle - 3.1416 / 2)
-                    vy = np.sqrt(Vitessen ** 2 + Vitesset ** 2) * np.sin(angle2 + angle + 3.1416 / 2)
-
-
-                elif planete.x >= Planete.x and planete.y < Planete.y:
-
-                    angle = Angle_impact
-
-                    V_planetein = np.sqrt(planete.vx ** 2 + planete.vy ** 2) * np.cos(directionp + angle)
-                    V_Planetein = np.sqrt(Planete.vx ** 2 + Planete.vy ** 2) * np.cos(-(directionP + angle))
-
-                    V_planeteit = np.sqrt(planete.vx ** 2 + planete.vy ** 2) * np.sin(directionp + angle-3.1416/2)
-                    V_Planeteit = np.sqrt(Planete.vx ** 2 + Planete.vy ** 2) * np.sin(-(directionP + angle)+3.1416/2)
-
-                    Vitessen = (planete.mass * V_planetein + Planete.mass * V_Planetein) / (planete.mass + Planete.mass)
-                    Vitesset = (planete.mass * V_planeteit + Planete.mass * V_Planeteit) / (planete.mass + Planete.mass)
-
-
-                    angle2 = np.arctan(Vitesset / Vitessen)
-
-                    vx = np.sqrt(Vitessen ** 2 + Vitesset ** 2) * np.cos(angle2)
-                    vy = np.sqrt(Vitessen ** 2 + Vitesset ** 2) * np.sin(angle2-3.1416/2)
-
-                elif planete.x < Planete.x and planete.y >= Planete.y:
-
-                    angle = 3.1416 + Angle_impact
-                    V_planetein = np.sqrt(planete.vx ** 2 + planete.vy ** 2) * np.cos(-(directionp - angle))
-                    V_Planetein = np.sqrt(Planete.vx ** 2 + Planete.vy ** 2) * np.cos((directionP - angle))
-
-                    V_planeteit = np.sqrt(planete.vx ** 2 + planete.vy ** 2) * np.sin(-(directionp - angle)+3.1416/2)
-                    V_Planeteit = np.sqrt(Planete.vx ** 2 + Planete.vy ** 2) * np.sin((directionP - angle))
-
-                    Vitessen = (planete.mass * V_planetein + Planete.mass * V_Planetein) / (planete.mass + Planete.mass)
-                    Vitesset = (planete.mass * V_planeteit + Planete.mass * V_Planeteit) / (planete.mass + Planete.mass)
-
-                    angle2 = np.arctan(Vitesset / Vitessen)
-                    vx = np.sqrt(Vitessen ** 2 + Vitesset ** 2) * np.cos(angle2)
-                    vy = np.sqrt(Vitessen ** 2 + Vitesset ** 2) * np.sin(angle2)
-
-                elif planete.x < Planete.x and planete.y < Planete.y:
-
-                    angle = -3.1416 + Angle_impact
-                    V_planetein = np.sqrt(planete.vx ** 2 + planete.vy ** 2) * np.cos(-(directionp - angle))
-                    V_Planetein = np.sqrt(Planete.vx ** 2 + Planete.vy ** 2) * np.cos((directionP - angle))
-
-                    V_planeteit = np.sqrt(planete.vx ** 2 + planete.vy ** 2) * np.sin(-(directionp - angle)-3.1416/2)
-                    V_Planeteit = np.sqrt(Planete.vx ** 2 + Planete.vy ** 2) * np.sin((directionP - angle)+3.1416/2)
-
-                    Vitessen = (planete.mass * V_planetein + Planete.mass * V_Planetein) / (planete.mass + Planete.mass)
-                    Vitesset = (planete.mass * V_planeteit + Planete.mass * V_Planeteit) / (planete.mass + Planete.mass)
-
-                    angle2 = np.arctan(Vitesset / Vitessen)
-                    vx = np.sqrt(Vitessen ** 2 + Vitesset ** 2) * np.cos(angle2)
-                    vy = np.sqrt(Vitessen ** 2 + Vitesset ** 2) * np.sin(angle2)
-
-                #planete1 = Planet(planete.mass + Planete.mass, planete.rayon,planete.x,planete.y,vx,vy)
-                #planete2 = planete1
+            elif planete.distance(Planete) < 0.9*(Planete.rayon + planete.rayon) :
+                print('COLLISION!!!!')
+                #Calcul de la vitesse de la nouvelle planète résultante
+                vx = (planete.mass*planete.vx + Planete.mass * Planete.vx)/(Planete.mass+planete.mass)
+                vy = (planete.mass * planete.vy + Planete.mass * Planete.vy) / (Planete.mass + planete.mass)
 
                 ######Changement des planètes dans la liste
-                liste_planetes[cpt1] = Planet(planete.mass , planete.rayon,planete.x,planete.y,vx,vy,'Montréal ou Laval')
-                liste_planetes[cpt2] = Planet(Planete.mass,Planete.rayon,planete.x,planete.y,vx,vy,'Montréal ou Laval')
+                # 1) Création d'une nouvelle planète
+                new_rayon = np.sqrt(planete.rayon**2 + Planete.rayon**2)
+                new_planete =  Planet(planete.mass+Planete.mass, new_rayon, (planete.mass*planete.x+Planete.mass*Planete.x)/(planete.mass+Planete.mass), (planete.mass*planete.y+Planete.mass*Planete.y)/(planete.mass+Planete.mass), vx, vy, 'Fusion de {0} et {1}'.format(planete.nom,Planete.nom))
 
-            cpt2 = cpt2+1
-        cpt1 = cpt1 + 1
-
-    #if reponse == 1:
-        #liste_planetes = [planete1,planete2]
+                # 2) Remplacement des planètes dans la liste
+                liste_planetes[liste_planetes.index(planete)] = new_planete
+                liste_planetes[liste_planetes.index(Planete)] = FusionPlanete(0,0,Planete.x,Planete.y,Planete.vx,Planete.vy)
+                break
 
     return liste_planetes
-##################################################################################
 
-#Définition d'une fonction pour pour actualiser la position de plusieurs planètes à la fois
+
+#####################################################################################################
+#    Définition d'une fonction pour pour actualiser la position de plusieurs planètes à la fois     #
+#####################################################################################################
 def actualiser_systeme(liste_planetes, dt=1):
     while True:
 
         # Création d'une liste des accélérations des planètes
         acceleration = []
-        ancienne_liste = liste_planetes
 
         #Calcul de l'accélération de chaque planète
         for planete in liste_planetes:
-            acceleration.append(planete.acceleration(liste_planetes))
+            if not (planete.nom == 'Planete fusionnée'):
+                acceleration.append(planete.acceleration(liste_planetes))
+            else:
+                acceleration.append((0,0))
 
-        reponse = 0
         #Actualisation de la position et de la vitesse de chaque planète
-        for planete,a in zip(liste_planetes,acceleration):
-
-            planete.vx, planete.vy = planete.actualiser_vitesse(a[0],a[1],dt)
-            planete.x, planete.y = planete.actualiser_position(dt)
+        for planete,a,i in zip(liste_planetes,acceleration,range(len(liste_planetes))):
+            if not (planete.nom == 'Planete fusionnée'):
+                planete.vx, planete.vy = planete.actualiser_vitesse(a[0],a[1],dt)
+                planete.x, planete.y = planete.actualiser_position(dt)
 
 
         yield liste_planetes
         liste_planetes = collision(liste_planetes)
 
 
-
-
-
-#Programme principal
+######################################
+#        Programme principal         #
+######################################
 def main():
 
     #Importation d'une configuration initiale particulière
-    from initialisation import liste_2
+    from initialisation import liste_4
     global liste_planetes
-    liste_planetes = liste_2
+    liste_planetes = liste_4
 
 
     #Initialisation de la figure
@@ -313,22 +221,25 @@ def main():
 
         #Incrémentation de l'évolution des planètes
         for planet,i in zip(nouvelle_liste_planete, range(len(nouvelle_liste_planete))):
-            position_x[i].append(planet.x)
-            position_y[i].append(planet.y)
-            if (len(position_x[0]) > 300) and (len(position_y[0]) > 300):
-                for i in range(len(position_x)):
-                    del position_x[i][0]
-                    del position_y[i][0]
+            if type(planet) is not FusionPlanete:
+                position_x[i].append(planet.x)
+                position_y[i].append(planet.y)
+                if (len(position_x[0]) > 300) and (len(position_y[0]) > 300):
+                    for i in range(len(position_x)):
+                        if position_x[i]:
+                            del position_x[i][0]
+                            del position_y[i][0]
 
         #actualisation du graphique
         for planete,points,planetes,i in zip(nouvelle_liste_planete, lignes_espace, planetes_espace, range(len(nouvelle_liste_planete))):
             #i) Traçage des orbites
-            points[0].set_data(position_x[i],position_y[i])
-            planetes[0].set_data(position_x[i][-1],position_y[i][-1])
-
-        #Impression de la position (débuggage)
-        #for planet in nouvelle_liste_planete:
-            #print(planet.x,planet.y)
+            if position_x[i]:
+                points[0].set_data(position_x[i],position_y[i])
+                planetes[0].set_data(position_x[i][-1],position_y[i][-1])
+                planetes[0].set_markersize((planete.rayon*375)/limite_fig)
+                if type(planete) is FusionPlanete:
+                    planetes[0].set_markersize(0)
+                    points[0].set_markersize(0)
 
         return points,planetes
 
