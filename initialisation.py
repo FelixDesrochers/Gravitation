@@ -11,15 +11,15 @@ rayon_terre = 6378.137 *(10)**3
 
 
 #Configuration 1: corps central et orbite stable
-planete1 = Planet(100*masse_terre,rayon_terre,0,0,0,20000, 'laval')
-planete2 = Planet(masse_terre,rayon_terre,5000*10**3,0,-5000,0, 'Montréal')
+planete1 = Planet(100*masse_terre,rayon_terre/3,0,0,0,0, 'Montréal')
+planete2 = Planet(masse_terre,rayon_terre/10,5000*10**3,0,0,100000, 'Laval')
 liste_1 = [planete1, planete2]
 
 
 #Configuration 2: trois planètes
-planete1 = Planet(masse_terre,rayon_terre,1000*10**3,0,6000,6000, 'terre')
-planete2 = Planet(masse_terre,rayon_terre,-5000*10**3,-5000*10**3,6000,-6000, 'terre2')
-planete3 = Planet(masse_terre,rayon_terre,-5000*10**3,5000*10**3,-6000,-6000, 'terre3')
+planete1 = Planet(10*masse_terre,rayon_terre/10,1000*10**3,0,10000,10000, 'terre')
+planete2 = Planet(10*masse_terre,rayon_terre/10,-5000*10**3,-5000*10**3,10000,-10000, 'terre2')
+planete3 = Planet(10*masse_terre,rayon_terre/10,-5000*10**3,5000*10**3,-10000,-10000, 'terre3')
 liste_2 = [planete1, planete2, planete3]
 
 

@@ -136,9 +136,9 @@ def actualiser_systeme(liste_planetes, dt=1):
 def main():
 
     #Importation d'une configuration initiale particulière
-    from initialisation import liste_3
+    from initialisation import liste_1
     global liste_planetes
-    liste_planetes = liste_3
+    liste_planetes = liste_1
 
 
     #Initialisation de la figure
@@ -182,7 +182,6 @@ def main():
     def run(data):
         nouvelle_liste_planete = data
 
-        print(len(position_x[0]))
         #Incrémentation de l'évolution des planètes
         for planet,i in zip(nouvelle_liste_planete, range(len(nouvelle_liste_planete))):
             position_x[i].append(planet.x)
