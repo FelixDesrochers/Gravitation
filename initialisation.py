@@ -1,5 +1,5 @@
 '''
-Ce fichier sers à initialiser la position des planètes. On y crée des listes de configurations initiales afin de le utiliser dans le programme
+Ce fichier sert à initialiser la position des planètes. On y crée des listes de configurations initiales afin de le utiliser dans le programme
 principal projet.py
 '''
 
@@ -13,7 +13,11 @@ rayon_terre = 6378.137 *(10)**3
 #Configuration 1: corps central et orbite stable
 planete1 = Planet(100*masse_terre,rayon_terre/3,0,0,0,0, 'Montréal')
 planete2 = Planet(masse_terre,rayon_terre/10,5000*10**3,0,0,100000, 'Laval')
-liste_1 = [planete1, planete2]
+liste_11 = [planete1, planete2]
+
+planete1 = Planet(masse_terre,rayon_terre/10,0,0,30000,20000, 'laval')
+planete2 = Planet(masse_terre,rayon_terre/10,3000*10**3,0,-30000,20000, 'Montréal')
+liste_12 = [planete1, planete2]
 
 
 #Configuration 2: trois planètes
@@ -24,8 +28,10 @@ liste_2 = [planete1, planete2, planete3]
 
 
 #Configuration 3: quatres planètes
+
 planete1 = Planet(masse_terre,rayon_terre/10,2000*10**3,2000*10**3,-8000,0, "zebulon")
 planete2 = Planet(masse_terre,rayon_terre/10,2000*10**3,-2000*10**3,0,8000, "l'étoile de la mort")
 planete3 = Planet(masse_terre,rayon_terre/10,-2000*10**3,2000*10**3,0,-8000, 'Gatineau-78')
 planete4 = Planet(masse_terre,rayon_terre/10,-2000*10**3,-2000*10**3,8000,0, 'La Poune')
+
 liste_3 = [planete1, planete2, planete3, planete4]
