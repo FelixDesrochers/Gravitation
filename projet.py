@@ -201,7 +201,7 @@ def main():
         position_y.append([planet.y])
 
     #Traçage des orbites initiales
-    lignes_espace = [plt.plot([], [], '-', color=colors[i], zorder=1, label=planetes.nom) for i,planetes in zip(range(len(liste_planetes)),liste_planetes) ]
+    lignes_espace = [plt.plot([], [], '-', color=colors[i], linewidth=0.5, zorder=1, label=planetes.nom) for i,planetes in zip(range(len(liste_planetes)),liste_planetes) ]
 
     #Traçage des planètes initiales
     planetes_espace = [plt.plot(planetes.x,planetes.y, 'o', color=colors[i], markersize=(planetes.rayon*375)/limite_fig , zorder=2) for planetes,i in zip(liste_planetes,range(len(liste_planetes))) ]
