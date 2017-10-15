@@ -8,6 +8,7 @@ from projet import Planet
 #Définition des constantes
 masse_terre = 5.9722*(10)**24
 rayon_terre = 6378.137 *(10)**3
+densitee_terre = (masse_terre)/((4*np.pi*rayon_terre**3)/3)
 
 
 #####################################################
@@ -46,18 +47,18 @@ liste_3 = [planete1, planete2, planete3, planete4]
 abs_liste = np.vectorize(abs)
 
 # 1) Masse:
-masse = abs_liste(np.random.normal(5*masse_terre,2*masse_terre,50))
+masse = abs_liste(np.random.normal(3*masse_terre,masse_terre,100))
 
 # 2) Rayon:
-rayon = abs_liste(np.random.normal(rayon_terre/80,rayon_terre/150,50))
+rayon = abs_liste(np.random.normal(rayon_terre/100,rayon_terre/170,100))
 
 # 3) Position
-x = np.random.rand(50)*2*10**7 - 10**7
-y = np.random.rand(50)*2*10**7 - 10**7
+x = np.random.rand(100)*2*10**7 - 10**7
+y = np.random.rand(100)*2*10**7 - 10**7
 
 # 4) Vitesse
-vx = np.random.normal(0,15000,50)
-vy = np.random.normal(0,15000,50)
+vx = np.random.normal(0,15000,100)
+vy = np.random.normal(0,15000,100)
 
 # 5) Création des planètes
 liste_4 = [Planet(masse, rayon, x, y, vx, vy, 'Planète {}'.format(i)) for masse,rayon,x,y,vx,vy,i in zip(masse,rayon,x,y,vx,vy,range(1,len(masse)+1))]
