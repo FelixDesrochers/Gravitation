@@ -13,7 +13,7 @@ densitee_terre = (masse_terre)/((4*np.pi*rayon_terre**3)/3)
 
 #####################################################
 #Configuration 1: corps central et orbite stable
-planete1 = Planet(100*masse_terre,rayon_terre/3,0,0,0,0, 'Montréal')
+planete1 = Planet(100*masse_terre,rayon_terre/3,0,0,0,0, 'Beach Club')
 planete2 = Planet(masse_terre,rayon_terre/10,5000*10**3,0,0,100000, 'Laval')
 liste_11 = [planete1, planete2]
 
@@ -33,10 +33,10 @@ liste_2 = [planete1, planete2, planete3]
 #####################################################
 #Configuration 3: quatres planètes
 
-planete1 = Planet(masse_terre,rayon_terre/10,2000*10**3,2000*10**3,-8000,0, "zebulon")
-planete2 = Planet(masse_terre,rayon_terre/10,2000*10**3,-2000*10**3,0,8000, "l'étoile de la mort")
-planete3 = Planet(masse_terre,rayon_terre/10,-2000*10**3,2000*10**3,0,-8000, 'Gatineau-78')
-planete4 = Planet(masse_terre,rayon_terre/10,-2000*10**3,-2000*10**3,8000,0, 'La Poune')
+planete1 = Planet(masse_terre,rayon_terre/100,2000*10**3,2000*10**3,-8000,0, "zebulon")
+planete2 = Planet(masse_terre,rayon_terre/100,2000*10**3,-2000*10**3,0,8000, "l'étoile de la mort")
+planete3 = Planet(masse_terre,rayon_terre/100,-2000*10**3,2000*10**3,0,-8000, 'Gatineau-78')
+planete4 = Planet(masse_terre,rayon_terre/100,-2000*10**3,-2000*10**3,8000,0, 'La Poune')
 
 liste_3 = [planete1, planete2, planete3, planete4]
 
@@ -47,18 +47,20 @@ liste_3 = [planete1, planete2, planete3, planete4]
 abs_liste = np.vectorize(abs)
 
 # 1) Masse:
-masse = abs_liste(np.random.normal(3*masse_terre,masse_terre,100))
+masse = abs_liste(np.random.normal(4*masse_terre,masse_terre,100))
 
 # 2) Rayon:
-rayon = abs_liste(np.random.normal(rayon_terre/100,rayon_terre/170,100))
+rayon = [(((3*m)/(densitee_terre * 4 * np.pi))**(1/3))/150 for m in masse]
+
+#rayon = abs_liste(np.random.normal(rayon_terre/100,rayon_terre/170,100))
 
 # 3) Position
-x = np.random.rand(100)*2*10**7 - 10**7
-y = np.random.rand(100)*2*10**7 - 10**7
+x = np.random.rand(100)*2*10**7 - (10**7)
+y = np.random.rand(100)*2*10**7 - (10**7)
 
 # 4) Vitesse
 vx = np.random.normal(0,15000,100)
 vy = np.random.normal(0,15000,100)
 
 # 5) Création des planètes
-liste_4 = [Planet(masse, rayon, x, y, vx, vy, 'Planète {}'.format(i)) for masse,rayon,x,y,vx,vy,i in zip(masse,rayon,x,y,vx,vy,range(1,len(masse)+1))]
+liste_4 = [Planet(masse, rayon, x, y, vx, vy, '{}'.format(i)) for masse,rayon,x,y,vx,vy,i in zip(masse,rayon,x,y,vx,vy,range(1,len(masse)+1))]
