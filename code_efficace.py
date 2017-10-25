@@ -5,7 +5,7 @@ import matplotlib.animation as animation
 
 #Définition des constantes
 G = 6.67408 * 10**(-11)
-dt =1
+dt = 1
 masse_terre = 5.9722*(10)**24
 rayon_terre = 6378.137 *(10)**3
 
@@ -111,14 +111,14 @@ def collision(liste_planetes):
 
             #Changement des planètes dans la liste
             # i) Création d'une nouvelle planète
-            new_rayon = (planete.rayon**2 + Planete.rayon**2)**(1/2)
+            new_rayon = (planete.rayon**3 + Planete.rayon**3)**(1/3)
             new_planete = Planet(planete.mass+Planete.mass, new_rayon, (planete.mass*planete.x+Planete.mass*Planete.x)/(planete.mass+Planete.mass), (planete.mass*planete.y+Planete.mass*Planete.y)/(planete.mass+Planete.mass), vx, vy, '{0} - {1}'.format(planete.nom,Planete.nom))
 
             # ii) Ajout de la nouvelle planète au premier indice
             liste_planetes[index_fusion[i][0]] = new_planete
 
             #Message indiquant une collision
-            print('Collission!!!')
+            #print('Collission!!!')
 
         index_a_supprimer.sort()
         # iii) Effacer les planètes ayant fusionner de la liste (celle du 2e indice)
@@ -134,7 +134,6 @@ def collision(liste_planetes):
 #####################################################################################################
 def actualiser_systeme(liste_planetes, dt=1):
     while True:
-
         # Création d'une liste des accélérations des planètes
         acceleration = []
 
@@ -152,6 +151,72 @@ def actualiser_systeme(liste_planetes, dt=1):
         yield liste_planetes,index_fusion,index_a_supprimer
 
 
+####################################################################################
+#        Définition de fonctions pouvant déteminer les conditions initiales        #
+####################################################################################
+
+#Fonction pour calculer la masse moyenne
+def masse_moyenne(liste_planete):
+    masse = 0
+    for planete in liste_planete:
+        masse += planete.mass
+
+    masse = masse/len(liste_planete)
+    return masse
+
+
+#Fonction pour calculer le rayon moyen
+def rayon_moyen(liste_planete):
+    rayon = 0
+    for planete in liste_planete:
+        rayon += planete.rayon
+
+    rayon = rayon/len(liste_planete)
+    return rayon
+
+
+#Fonction pour calculer la vitesse moyenne
+def vitesse_moyenne(liste_planete):
+    vitesse = 0
+    for planete in liste_planete:
+        vitesse += np.sqrt( planete.vx**2 + planete.vy**2 )
+
+    vitesse = vitesse/len(liste_planete)
+    return vitesse
+
+#Fonction pour calculer la quantité de mouvement moyenne
+def quantite_mouvement_moyen(liste_planete):
+    qte_mvt = 0
+    for planete in liste_planete:
+        qte_mvt += planete.mass * np.sqrt( planete.vx**2 + planete.vy**2 )
+
+    qte_mvt = qte_mvt/len(liste_planete)
+    return qte_mvt
+
+
+
+#Fonction pour calculer le moment cinétique en z
+def moment_angulaire_moyen(liste_planete):
+    lz = 0
+    for planete in liste_planete:
+        #Définition d'un vecteur direction
+        x = planete.x/np.sqrt(planete.x**2 + planete.y**2)
+        y = planete.y/np.sqrt(planete.x**2 + planete.y**2)
+
+        #Projection du vecteur direction sur le vecteur direction
+        v_par_x = x * planete.vx
+        v_par_y = y * planete.vy
+
+        #Vitesse perpendiculaire à la direction à partir de v_par
+        vpx = planete.vx - v_par_x
+        vpy = planete.vy - v_par_y
+        vp = np.sqrt( vpx**2 + vpy**2 )
+
+        #Calul du moment angulaire par rapport à l'origine
+        lz += np.sqrt(planete.x**2 + planete.y**2) * vp
+
+    return lz
+
 ######################################
 #        Programme principal         #
 ######################################
@@ -162,6 +227,19 @@ def main():
     global liste_planetes
     liste_planetes = liste_4
 
+    #Identification des différents paramètres initiaux
+    MasseMoyenne = masse_moyenne(liste_planetes)
+    RayonMoyen = rayon_moyen(liste_planetes)
+    VitesseMoyenne = vitesse_moyenne(liste_planetes)
+    qte_mvt_moyenne = quantite_mouvement_moyen(liste_planetes)
+    lz = moment_angulaire_moyen(liste_planetes)
+
+    print("nombre de planètes : {}".format(len(liste_planetes)))
+    print("masse moyenne : {}".format(MasseMoyenne))
+    print("rayon moyen : {}".format(RayonMoyen))
+    print("vitesse moyenne : {}".format(VitesseMoyenne))
+    print("quantité de mouvement moyenne : {}".format(qte_mvt_moyenne))
+    print("lz : {}".format(lz))
 
     #Initialisation de la figure
     fig, ax = plt.subplots()

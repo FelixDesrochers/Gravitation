@@ -42,12 +42,12 @@ liste_3 = [planete1, planete2, planete3, planete4]
 
 
 #####################################################
-#Configuration 4: 50 planètes
+#Configuration 4: 100 planètes
 
 abs_liste = np.vectorize(abs)
 
 # 1) Masse:
-masse = abs_liste(np.random.normal(4*masse_terre,masse_terre,100))
+masse = abs_liste(np.random.normal(4*masse_terre,masse_terre,200))
 
 # 2) Rayon:
 rayon = [(((3*m)/(densitee_terre * 4 * np.pi))**(1/3))/150 for m in masse]
@@ -55,12 +55,12 @@ rayon = [(((3*m)/(densitee_terre * 4 * np.pi))**(1/3))/150 for m in masse]
 #rayon = abs_liste(np.random.normal(rayon_terre/100,rayon_terre/170,100))
 
 # 3) Position
-x = np.random.rand(100)*2*10**7 - (10**7)
-y = np.random.rand(100)*2*10**7 - (10**7)
+x = np.random.rand(200)*2*10**7 - (10**7)
+y = np.random.rand(200)*2*10**7 - (10**7)
 
 # 4) Vitesse
-vx = np.random.normal(0,15000,100)
-vy = np.random.normal(0,15000,100)
+vx = np.random.normal(0,15000,200)
+vy = np.random.normal(0,15000,200)
 
 # 5) Création des planètes
 liste_4 = [Planet(masse, rayon, x, y, vx, vy, '{}'.format(i)) for masse,rayon,x,y,vx,vy,i in zip(masse,rayon,x,y,vx,vy,range(1,len(masse)+1))]
