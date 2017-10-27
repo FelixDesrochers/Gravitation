@@ -3,7 +3,7 @@ Ce fichier sert à initialiser la position des planètes. On y crée des listes 
 principal projet.py
 '''
 import numpy as np
-from projet import Planet
+from code_efficace import Planet
 
 #Définition des constantes
 masse_terre = 5.9722*(10)**24
