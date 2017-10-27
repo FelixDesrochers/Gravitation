@@ -1,11 +1,11 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
-from scipy.misc import imread
+
 
 #Définition des constantes
 G = 6.67408 * 10**(-11)
-dt =1
+dt = 1
 masse_terre = 5.9722*(10)**24
 rayon_terre = 6378.137 *(10)**3
 
@@ -67,37 +67,65 @@ class Planet:
 #          Collision              #
 ###################################
 def collision(liste_planetes):
-    index_1 = []
-    index_2 = []
-    for planete in liste_planetes:
-        for Planete in liste_planetes:
-            if planete == Planete:
+
+    #Initialisation des paramètres
+    index_fusion = []
+    index_a_supprimer = []
+    liste_collision = []
+
+    #Construction d'une liste comprenant toutes les planètes en collision
+    for planete,i in zip(liste_planetes,range(len(liste_planetes))):
+        for Planete,j in zip(liste_planetes,range(len(liste_planetes))):
+            #Si index 1 plus petit que 2 passe (pour prendre chaque interaction une seule fois en compte)
+            if i >= j:
                 pass
 
-            elif planete.distance(Planete) < 0.98*(Planete.rayon + planete.rayon) :
+            #Si collision ajouter à la liste
+            elif planete.distance(Planete) <= (Planete.rayon + planete.rayon) :
+                if i in index_a_supprimer:
+                    #Mettre comme premier indice l'indice de la première planète en collision seulement si le nouveau couple n,est pas déjà dans la liste
+                    k = index_fusion[index_a_supprimer.index(i)][0]
+                    if (k,j) in index_fusion:
+                        pass
+                    else:
+                        index_fusion.append((k,j))
+                        index_a_supprimer.append(j)
+                        liste_collision.append((liste_planetes[k],Planete))
+                else:
+                    #Ajouter à la liste
+                    liste_collision.append((planete,Planete))
+                    #Garder en mémoire les index
+                    index_fusion.append((i,j))
+                    index_a_supprimer.append(j)
 
-                #Calcul de la vitesse de la nouvelle planète résultante
-                vx = (planete.mass*planete.vx + Planete.mass * Planete.vx)/(Planete.mass+planete.mass)
-                vy = (planete.mass * planete.vy + Planete.mass * Planete.vy) / (Planete.mass + planete.mass)
 
-                ######Changement des planètes dans la liste
-                # 1) Création d'une nouvelle planète
-                new_rayon = (planete.rayon**3 + Planete.rayon**3)**(1/3)
-                new_planete =  Planet(planete.mass+Planete.mass, new_rayon, (planete.mass*planete.x+Planete.mass*Planete.x)/(planete.mass+Planete.mass), (planete.mass*planete.y+Planete.mass*Planete.y)/(planete.mass+Planete.mass), vx, vy, '{0} - {1}'.format(planete.nom,Planete.nom))
+    #Changement des planètes dans la liste selon les collisions
+    if liste_collision:
+        for Planetes,i in zip(liste_collision,range(len(liste_collision))):
+            Planete = Planetes[0]
+            planete = Planetes[1]
 
-                # 2) Garder en mémoire les index
-                index_1 = liste_planetes.index(planete)
-                index_2 = liste_planetes.index(Planete)
+            #Calcul de la vitesse de la nouvelle planète résultante
+            vx = (planete.mass*planete.vx + Planete.mass * Planete.vx)/(Planete.mass+planete.mass)
+            vy = (planete.mass * planete.vy + Planete.mass * Planete.vy) / (Planete.mass + planete.mass)
 
-                # 3) Ajout de la nouvelle planète
-                liste_planetes[index_2] = new_planete
+            #Changement des planètes dans la liste
+            # i) Création d'une nouvelle planète
+            new_rayon = (planete.rayon**3 + Planete.rayon**3)**(1/3)
+            new_planete = Planet(planete.mass+Planete.mass, new_rayon, (planete.mass*planete.x+Planete.mass*Planete.x)/(planete.mass+Planete.mass), (planete.mass*planete.y+Planete.mass*Planete.y)/(planete.mass+Planete.mass), vx, vy, '{0} - {1}'.format(planete.nom,Planete.nom))
 
-                # 4) Effacer les planètes dans la liste
-                del liste_planetes[index_1]
+            # ii) Ajout de la nouvelle planète au premier indice
+            liste_planetes[index_fusion[i][0]] = new_planete
 
-                print('Collission!!!')
-                return liste_planetes,index_1,index_2
-    return liste_planetes,index_1,index_2
+            #Message indiquant une collision
+            #print('Collission!!!')
+
+        index_a_supprimer.sort()
+        # iii) Effacer les planètes ayant fusionner de la liste (celle du 2e indice)
+        for index in index_a_supprimer[::-1]:
+            del liste_planetes[index]
+
+    return liste_planetes,index_fusion,index_a_supprimer
 
 
 
@@ -106,7 +134,6 @@ def collision(liste_planetes):
 #####################################################################################################
 def actualiser_systeme(liste_planetes, dt=1):
     while True:
-
         # Création d'une liste des accélérations des planètes
         acceleration = []
 
@@ -119,10 +146,76 @@ def actualiser_systeme(liste_planetes, dt=1):
             planete.vx, planete.vy = planete.actualiser_vitesse(a[0],a[1],dt)
             planete.x, planete.y = planete.actualiser_position(dt)
 
-        liste_planetes,index_1,index_2 = collision(liste_planetes)
+        liste_planetes,index_fusion,index_a_supprimer = collision(liste_planetes)
 
-        yield liste_planetes,index_1,index_2
+        yield liste_planetes,index_fusion,index_a_supprimer
 
+
+####################################################################################
+#        Définition de fonctions pouvant déteminer les conditions initiales        #
+####################################################################################
+
+#Fonction pour calculer la masse moyenne
+def masse_moyenne(liste_planete):
+    masse = 0
+    for planete in liste_planete:
+        masse += planete.mass
+
+    masse = masse/len(liste_planete)
+    return masse
+
+
+#Fonction pour calculer le rayon moyen
+def rayon_moyen(liste_planete):
+    rayon = 0
+    for planete in liste_planete:
+        rayon += planete.rayon
+
+    rayon = rayon/len(liste_planete)
+    return rayon
+
+
+#Fonction pour calculer la vitesse moyenne
+def vitesse_moyenne(liste_planete):
+    vitesse = 0
+    for planete in liste_planete:
+        vitesse += np.sqrt( planete.vx**2 + planete.vy**2 )
+
+    vitesse = vitesse/len(liste_planete)
+    return vitesse
+
+#Fonction pour calculer la quantité de mouvement moyenne
+def quantite_mouvement_moyen(liste_planete):
+    qte_mvt = 0
+    for planete in liste_planete:
+        qte_mvt += planete.mass * np.sqrt( planete.vx**2 + planete.vy**2 )
+
+    qte_mvt = qte_mvt/len(liste_planete)
+    return qte_mvt
+
+
+
+#Fonction pour calculer le moment cinétique en z
+def moment_angulaire_moyen(liste_planete):
+    lz = 0
+    for planete in liste_planete:
+        #Définition d'un vecteur direction
+        x = planete.x/np.sqrt(planete.x**2 + planete.y**2)
+        y = planete.y/np.sqrt(planete.x**2 + planete.y**2)
+
+        #Projection du vecteur direction sur le vecteur direction
+        v_par_x = x * planete.vx
+        v_par_y = y * planete.vy
+
+        #Vitesse perpendiculaire à la direction à partir de v_par
+        vpx = planete.vx - v_par_x
+        vpy = planete.vy - v_par_y
+        vp = np.sqrt( vpx**2 + vpy**2 )
+
+        #Calul du moment angulaire par rapport à l'origine
+        lz += np.sqrt(planete.x**2 + planete.y**2) * vp
+
+    return lz
 
 ######################################
 #        Programme principal         #
@@ -134,16 +227,29 @@ def main():
     global liste_planetes
     liste_planetes = liste_4
 
+    #Identification des différents paramètres initiaux
+    MasseMoyenne = masse_moyenne(liste_planetes)
+    RayonMoyen = rayon_moyen(liste_planetes)
+    VitesseMoyenne = vitesse_moyenne(liste_planetes)
+    qte_mvt_moyenne = quantite_mouvement_moyen(liste_planetes)
+    lz = moment_angulaire_moyen(liste_planetes)
+
+    print("nombre de planètes : {}".format(len(liste_planetes)))
+    print("masse moyenne : {}".format(MasseMoyenne))
+    print("rayon moyen : {}".format(RayonMoyen))
+    print("vitesse moyenne : {}".format(VitesseMoyenne))
+    print("quantité de mouvement moyenne : {}".format(qte_mvt_moyenne))
+    print("lz : {}".format(lz))
 
     #Initialisation de la figure
     fig, ax = plt.subplots()
 
     #Initialisation d'un fond étoilé pour la figure
-    img = imread("fond_etoiles.jpeg")
-    ax.imshow(img,zorder=0,extent=[-10000000, 10000000, -10000000, 10000000])
+    ax.set_facecolor('black')
+    ax.set_aspect(1)
 
     #Paramètres esthétiques
-    limite_fig = 10000000
+    limite_fig = 20000000
     ax.set_xlim([-limite_fig,limite_fig])
     ax.set_ylim([-limite_fig,limite_fig])
 
@@ -164,17 +270,18 @@ def main():
 
     #Définition de la fonction d'animation du système
     def run(data):
-        nouvelle_liste_planete,index_1,index_2 = data
+        nouvelle_liste_planete,index_fusion,index_a_supprimer = data
 
         #Retirer planetes collisionner de liste
-        if not index_1==[]:
-            planetes_espace[index_1][0].set_markersize(0)
-            del planetes_espace[index_1]
+        if index_fusion:
+            for index in index_a_supprimer[::-1]:
+                planetes_espace[index][0].set_markersize(0)
+                del planetes_espace[index]
 
         #Incrémentation de l'évolution des planètes
         for planet,i in zip(nouvelle_liste_planete, range(len(nouvelle_liste_planete))):
-                position_x[i] = planet.x
-                position_y[i] = planet.y
+            position_x[i] = planet.x
+            position_y[i] = planet.y
 
         #actualisation du graphique
         for planete,planetes,i in zip(nouvelle_liste_planete, planetes_espace, range(len(nouvelle_liste_planete))):
@@ -184,7 +291,7 @@ def main():
         return planetes
 
     #Animation
-    anim = animation.FuncAnimation(fig, run, actualiser_systeme(liste_planetes), interval=10, blit=False, repeat=True)
+    anim = animation.FuncAnimation(fig, run, actualiser_systeme(liste_planetes), interval=5, blit=False, repeat=True)
 
     #Traçage de l'animation
     plt.show()
