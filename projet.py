@@ -182,7 +182,7 @@ def main():
     fig, ax = plt.subplots()
 
     #Initialisation d'un fond étoilé pour la figure
-    img = plt.imread("fond_etoiles.jpeg")
+    img = plt.imread("fond_etoile.png")
     ax.imshow(img,zorder=0,extent=[-10000000, 10000000, -10000000, 10000000])
 
     #Paramètres esthétiques
