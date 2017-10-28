@@ -127,7 +127,41 @@ def collision(liste_planetes):
 
     return liste_planetes,index_fusion,index_a_supprimer
 
+#Énergie cinétique d'une planète
+def ECin(planete):
 
+    vitesse = np.sqrt(planete.vx**2+planete.vy**2)
+    T = 0.5*planete.mass*(vitesse**2)
+
+    return T
+
+#Énergie potentielle entre 2 planètes
+def EGrav(planete, autre_planete):
+    U = -((6.67408 * 10**(-11))*planete.mass*autre_planete.mass)/(planete.distance(autre_planete))
+
+    return U
+
+#################################################
+#    Calcul des énergies totales du système     #
+#################################################
+def Energie(liste_planetes):
+    Ttot = 0
+    Utot = 0
+
+    for planete in liste_planetes:
+        Ttot = Ttot + ECin(planete)
+
+        for Planete in liste_planetes:
+            if planete is Planete:
+                continue
+
+            else:
+                Utot = Utot + EGrav(planete,Planete)
+
+    Utot = Utot/2
+    Etot = Utot + Ttot
+
+    return Etot, Ttot, Utot
 
 #####################################################################################################
 #    Définition d'une fonction pour pour actualiser la position de plusieurs planètes à la fois     #
@@ -147,6 +181,11 @@ def actualiser_systeme(liste_planetes, dt=1):
             planete.x, planete.y = planete.actualiser_position(dt)
 
         liste_planetes,index_fusion,index_a_supprimer = collision(liste_planetes)
+
+        Etot, Ttot, Utot = Energie(liste_planetes)
+        print('Etot = ', Etot)
+        print('Ttot = ', Ttot)
+        print('Utot = ', Utot)
 
         yield liste_planetes,index_fusion,index_a_supprimer
 
