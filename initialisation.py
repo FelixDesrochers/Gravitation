@@ -47,7 +47,7 @@ liste_3 = [planete1, planete2, planete3, planete4]
 abs_liste = np.vectorize(abs)
 
 # 1) Masse:
-masse = abs_liste(np.random.normal(4*masse_terre,masse_terre,200))
+masse = abs_liste(np.random.normal(4200,1050,200))
 
 # 2) Rayon:
 rayon = [(((3*m)/(densitee_terre * 4 * np.pi))**(1/3))/150 for m in masse]

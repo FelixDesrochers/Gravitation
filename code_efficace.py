@@ -8,6 +8,7 @@ G = 6.67408 * 10**(-11)
 dt = 1
 masse_terre = 5.9722*(10)**24
 rayon_terre = 6378.137 *(10)**3
+t = 0
 
 
 
@@ -61,6 +62,15 @@ class Planet:
         y = self.y + self.vy*dt
         return x,y
 
+    #Énergie cinétique
+    def ECin(self):
+        T = 0.5 * self.mass * (self.vx**2 + self.vy**2)
+        return T
+
+    #Énergie potentielle gravitationnelle entre deux planètes
+    def EGrav(self, autre_planete):
+        U = - (G * self.mass * autre_planete.mass) / self.distance(autre_planete)
+        return U
 
 
 ####################################
@@ -127,20 +137,6 @@ def collision(liste_planetes):
 
     return liste_planetes,index_fusion,index_a_supprimer
 
-#Énergie cinétique d'une planète
-def ECin(planete):
-
-    vitesse = np.sqrt(planete.vx**2+planete.vy**2)
-    T = 0.5*planete.mass*(vitesse**2)
-
-    return T
-
-#Énergie potentielle entre 2 planètes
-def EGrav(planete, autre_planete):
-    U = -((6.67408 * 10**(-11))*planete.mass*autre_planete.mass)/(planete.distance(autre_planete))
-
-    return U
-
 #################################################
 #    Calcul des énergies totales du système     #
 #################################################
@@ -149,14 +145,13 @@ def Energie(liste_planetes):
     Utot = 0
 
     for planete in liste_planetes:
-        Ttot = Ttot + ECin(planete)
+        Ttot += planete.ECin()
 
         for Planete in liste_planetes:
             if planete is Planete:
                 continue
-
             else:
-                Utot = Utot + EGrav(planete,Planete)
+                Utot += planete.EGrav(Planete)
 
     Utot = Utot/2
     Etot = Utot + Ttot
@@ -183,11 +178,11 @@ def actualiser_systeme(liste_planetes, dt=1):
         liste_planetes,index_fusion,index_a_supprimer = collision(liste_planetes)
 
         Etot, Ttot, Utot = Energie(liste_planetes)
-        print('Etot = ', Etot)
-        print('Ttot = ', Ttot)
-        print('Utot = ', Utot)
+        #print('Etot = ', Etot)
+        #print('Ttot = ', Ttot)
+        #print('Utot = ', Utot)
 
-        yield liste_planetes,index_fusion,index_a_supprimer
+        yield liste_planetes,index_fusion,index_a_supprimer,Etot
 
 
 ####################################################################################
@@ -262,9 +257,8 @@ def moment_angulaire_moyen(liste_planete):
 def main():
 
     #Importation d'une configuration initiale particulière
-    from initialisation import liste_4
+    from init_parametres import liste_planetes
     global liste_planetes
-    liste_planetes = liste_4
 
     #Identification des différents paramètres initiaux
     MasseMoyenne = masse_moyenne(liste_planetes)
@@ -292,6 +286,10 @@ def main():
     ax.set_xlim([-limite_fig,limite_fig])
     ax.set_ylim([-limite_fig,limite_fig])
 
+    #Écriture de l'énergie
+    E_texte = ax.text(0.02, 0.95, '', color='w', transform=ax.transAxes)
+    T_texte = ax.text(0.02, 0.90, '', color='w', transform=ax.transAxes)
+
     #Initilisation de points pour chacune des planètes
     position_x = []
     position_y = []
@@ -309,7 +307,7 @@ def main():
 
     #Définition de la fonction d'animation du système
     def run(data):
-        nouvelle_liste_planete,index_fusion,index_a_supprimer = data
+        nouvelle_liste_planete,index_fusion,index_a_supprimer,Etot = data
 
         #Retirer planetes collisionner de liste
         if index_fusion:
@@ -322,10 +320,18 @@ def main():
             position_x[i] = planet.x
             position_y[i] = planet.y
 
-        #actualisation du graphique
+        #Actualisation du graphique
         for planete,planetes,i in zip(nouvelle_liste_planete, planetes_espace, range(len(nouvelle_liste_planete))):
             planetes[0].set_data(planete.x, planete.y)
             planetes[0].set_markersize((planete.rayon*375)/limite_fig)
+
+        #Écriture de l'énergie
+        E_texte.set_text('E = {:.2E} J'.format(Etot))
+
+        #Écriture du temps
+        global t
+        t += dt
+        T_texte.set_text('t = {} s'.format(t))
 
         return planetes
 
