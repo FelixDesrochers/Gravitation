@@ -60,6 +60,8 @@ class Planet:
 
         return ax, ay
 
+
+
     #Actualiser la vitesse de la planète
     def actualiser_vitesse(self,ax,ay,dt):
         '''Actualise la vitesse de la planète à partir de l'accélération (utilisation de la méthode d'Euler)
@@ -138,6 +140,44 @@ def collision(liste_planetes):
 
     return liste_planetes
 
+#Énergie cinétique de la planète
+def ECin(planete):
+
+    vitesse = np.sqrt(planete.vx**2+planete.vy**2)
+    T = 0.5*planete.mass*(vitesse**2)
+
+    return T
+
+#Énergie potentielle de la planète
+def EGrav(planete, autre_planete):
+    U = -((6.67408 * 10**(-11))*planete.mass*autre_planete.mass)/(planete.distance(autre_planete))
+
+    return U
+
+#################################################
+#    Calcul des énergies totales du système     #
+#################################################
+def Energie(liste_planetes):
+    Ttot = 0
+    Utot = 0
+
+    for planete in liste_planetes:
+        Ttot = Ttot + ECin(planete)
+
+        for Planete in liste_planetes:
+            if planete is Planete:
+                continue
+
+            else:
+                Utot = Utot + EGrav(planete,Planete)
+
+    Utot = Utot/2
+    Etot = Utot + Ttot
+
+    return Etot, Ttot, Utot
+
+
+
 
 #####################################################################################################
 #    Définition d'une fonction pour pour actualiser la position de plusieurs planètes à la fois     #
@@ -162,6 +202,12 @@ def actualiser_systeme(liste_planetes, dt=1):
                 planete.x, planete.y = planete.actualiser_position(dt)
 
 
+        Etot, Ttot, Utot = Energie(liste_planetes)
+        print('Etot = ',  Etot)
+        print('Ttot = ', Ttot)
+        print('Utot = ', Utot)
+
+
         yield liste_planetes
         liste_planetes = collision(liste_planetes)
 
@@ -172,9 +218,11 @@ def actualiser_systeme(liste_planetes, dt=1):
 def main():
 
     #Importation d'une configuration initiale particulière
-    from initialisation import liste_2
+
+    from initialisation import liste_11
     global liste_planetes
-    liste_planetes = liste_2
+    liste_planetes = liste_11
+
 
 
     #Initialisation de la figure
