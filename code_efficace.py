@@ -234,20 +234,26 @@ def moment_angulaire_moyen(liste_planete):
     lz = 0
     for planete in liste_planete:
         #Définition d'un vecteur direction
-        x = planete.x/np.sqrt(planete.x**2 + planete.y**2)
-        y = planete.y/np.sqrt(planete.x**2 + planete.y**2)
+        #x = planete.x/np.sqrt(planete.x**2 + planete.y**2)
+        #y = planete.y/np.sqrt(planete.x**2 + planete.y**2)
 
         #Projection du vecteur direction sur le vecteur direction
-        v_par_x = x * planete.vx
-        v_par_y = y * planete.vy
+        #v_par_x = x * planete.vx
+        #v_par_y = y * planete.vy
 
         #Vitesse perpendiculaire à la direction à partir de v_par
-        vpx = planete.vx - v_par_x
-        vpy = planete.vy - v_par_y
-        vp = np.sqrt( vpx**2 + vpy**2 )
+        #vpx = planete.vx - v_par_x
+        #vpy = planete.vy - v_par_y
+        #vp = np.sqrt( vpx**2 + vpy**2 )
+
+        vitesse = [planete.vx,planete.vy,0]
+        position = [planete.x,planete.y,0]
 
         #Calul du moment angulaire par rapport à l'origine
-        lz += np.sqrt(planete.x**2 + planete.y**2) * vp
+        lz += planete.mass*np.cross(position,vitesse)[2]
+        #lz += np.sqrt(planete.x**2 + planete.y**2) * vp * planete.mass
+
+    lz = lz/len(liste_planete)
 
     return lz
 
