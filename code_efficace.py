@@ -247,7 +247,7 @@ def moment_angulaire_moyen(liste_planete):
         vp = np.sqrt( vpx**2 + vpy**2 )
 
         #Calul du moment angulaire par rapport à l'origine
-        lz += np.sqrt(planete.x**2 + planete.y**2) * vp
+        lz += np.sqrt(planete.x**2 + planete.y**2) * vp * planete.mass
 
     return lz
 

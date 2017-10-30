@@ -35,6 +35,7 @@ y = [ d * np.sin(theta) for d,theta in zip(dist,angle) ]
 # 4) Vitesse
 vitesse = np.random.normal(vitesse_moyenne, vitesse_moyenne/3, nbr_planetes)
 vitesse = vitesse * (vitesse_moyenne/vitesse.mean())
+angle = np.random.rand(nbr_planetes) * 2 * np.pi
 
 vx = [ v * np.cos(theta) for v,theta in zip(vitesse,angle) ]
 vy = [ v * np.sin(theta) for v,theta in zip(vitesse,angle) ]
