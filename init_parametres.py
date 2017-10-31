@@ -46,8 +46,8 @@ moment_ang = np.random.normal(moment_ang_moyen,abs(moment_ang_moyen/3),nbr_plane
 angle3 = np.random.rand(nbr_planetes)* 2 *np.pi
 V = [lz/(m*d*np.sin(theta)) for lz,m,d,theta in zip(moment_ang,masse,dist,angle3)]
 
-vx = [v*np.cos(theta1+theta2) for v,theta1,theta2 in zip(V,angle,angle3)]
-vy = [v*np.sin(theta1+theta2) for v,theta1,theta2 in zip(V,angle,angle3)]
+#vx = [v*np.cos(theta1+theta2) for v,theta1,theta2 in zip(V,angle,angle3)]
+#vy = [v*np.sin(theta1+theta2) for v,theta1,theta2 in zip(V,angle,angle3)]
 
 
 # 6) Création des planètes
