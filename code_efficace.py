@@ -18,7 +18,7 @@ t = 0
 class Planet:
 
     #Définir les différents attributs
-    def __init__(self,mass,rayon,x,y,vx,vy,nom):
+    def __init__(self,mass,rayon,x,y,vx,vy,nom,x0=0,y0=0,init=False):
         self.mass = mass
         self.rayon = rayon
         self.x = x
@@ -26,6 +26,9 @@ class Planet:
         self.vx = vx
         self.vy = vy
         self.nom = nom
+        self.x0 = x0
+        self.y0 = y0
+        self.init = init
 
 
     #Définir les différentes méthodes
@@ -49,18 +52,44 @@ class Planet:
         return ax, ay
 
     #Actualiser la vitesse de la planète
-    def actualiser_vitesse(self,ax,ay,dt):
+    def actualiser_sys(self,ax,ay,dt):
+        if not self.init:
+            self.init = True
+            #Change the speed with the acceleration using Euler method
+            self.vx = self.vx + ax * dt
+            self.vy = self.vy + ay * dt
 
-        vx = self.vx + ax*dt
-        vy = self.vy + ay*dt
-        return vx,vy
+            #Compute the position using the spedd and Euler's method
+            x = self.x + self.vx * dt + (1/2) * ax * dt**2
+            y = self.y + self.vy * dt + (1/2) * ay * dt**2
 
-    #Actualiser la position de la planète
-    def actualiser_position(self,dt):
+            #Update the values of the position (x,y) and old position (x0,y0)
+            # 1) Old position
+            self.x0 = self.x
+            self.y0 = self.y
 
-        x = self.x + self.vx*dt
-        y = self.y + self.vy*dt
-        return x,y
+            # 2) New position
+            self.x = x
+            self.y = y
+
+            #Else, use verlet integration method to actualize position and speed
+        else:
+            #Defining the new position
+            x_t2 = 2 * self.x - self.x0 + ax * dt**2
+            y_t2 = 2 * self.y - self.y0 + ay * dt**2
+
+            #Defining the new speed with the new position
+            self.vx = ((x_t2 - self.x0) / (2*dt))
+            self.vy = ((y_t2 - self.y0) / (2*dt))
+
+            #Updating the position
+            # 1) Old positions
+            self.x0 = self.x
+            self.y0 = self.y
+
+            # 2) New positions
+            self.x = x_t2
+            self.y = y_t2
 
     #Énergie cinétique
     def ECin(self):
@@ -172,8 +201,7 @@ def actualiser_systeme(liste_planetes, dt=1):
 
         #Actualisation de la position et de la vitesse de chaque planète
         for planete,a,i in zip(liste_planetes,acceleration,range(len(liste_planetes))):
-            planete.vx, planete.vy = planete.actualiser_vitesse(a[0],a[1],dt)
-            planete.x, planete.y = planete.actualiser_position(dt)
+            planete.actualiser_sys(a[0],a[1],dt)
 
         liste_planetes,index_fusion,index_a_supprimer = collision(liste_planetes)
 
@@ -290,7 +318,7 @@ def main():
         position_y.append(planet.y)
 
     #Traçage des planètes initiales
-    planetes_espace = [plt.plot(planetes.x,planetes.y, 'o', color='r', markersize=(planetes.rayon*300)/limite_fig) for planetes,i in zip(liste_planetes,range(len(liste_planetes))) ]
+    planetes_espace = [plt.plot(planetes.x,planetes.y, 'o', color='r', markersize=(planetes.rayon*270)/limite_fig) for planetes,i in zip(liste_planetes,range(len(liste_planetes))) ]
 
     #Ajout d'une légende
     # Shrink current axis by 20%
@@ -315,7 +343,7 @@ def main():
         #Actualisation du graphique
         for planete,planetes,i in zip(nouvelle_liste_planete, planetes_espace, range(len(nouvelle_liste_planete))):
             planetes[0].set_data(planete.x, planete.y)
-            planetes[0].set_markersize((planete.rayon*300)/limite_fig)
+            planetes[0].set_markersize((planete.rayon*270)/limite_fig)
 
         #Écriture de l'énergie
         E_texte.set_text('E = {:.2E} J'.format(Etot))
@@ -323,7 +351,7 @@ def main():
         #Écriture du temps
         global t
         t += dt
-        T_texte.set_text('t = {} s'.format(t))
+        T_texte.set_text('t = {}'.format(t))
 
         return planetes
 

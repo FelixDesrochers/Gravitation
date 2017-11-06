@@ -17,7 +17,7 @@ dist_max = 10**7 #rayon du cercle dans lequel toutes les planètes sont situées
 nbr_planetes = 143
 masse_moyenne = 4 * masse_terre
 vitesse_moyenne = 22000
-moment_ang_moyen = 1e+35
+moment_ang_moyen = 2e+35
 
 
 #########################################
@@ -63,6 +63,7 @@ multiple_moyen = moment_ang_moyen*nbr_planetes/lz_max_liste.sum() if moment_ang_
 
 #Boucle sur tous les mutliples jusqu'à obtention d'une liste convenable
 multiple2=[2]
+index = 0
 while not all(i<=1 and i>=-1 for i in multiple2):
     multiple2=[]
 
@@ -81,8 +82,8 @@ while not all(i<=1 and i>=-1 for i in multiple2):
     #Normalisation de la deuxième liste de multiple
     correction = moment_ang_moyen /(sum([l*m for l,m in zip(lz_max_liste,multiple2)]) / nbr_planetes)
     multiple2 = multiple2 * correction
-    #print(multiple2)
-    #print('lz_anticipé:{}'.format(sum([ m*l for m,l in zip(multiple2,lz_max_liste) ])/nbr_planetes))
+
+    index += 1
 
 #Définir les angles associé pour chaque multiple
 angle2 = []
