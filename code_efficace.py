@@ -1,6 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
+#from init_parametres import *
+from Planet import Planet
 
 
 #Définition des constantes
@@ -9,97 +11,6 @@ dt = 1
 masse_terre = 5.9722*(10)**24
 rayon_terre = 6378.137 *(10)**3
 t = 0
-
-
-
-###############################################
-#      Définition d'une classe planète        #
-###############################################
-class Planet:
-
-    #Définir les différents attributs
-    def __init__(self,mass,rayon,x,y,vx,vy,nom,x0=0,y0=0,init=False):
-        self.mass = mass
-        self.rayon = rayon
-        self.x = x
-        self.y = y
-        self.vx = vx
-        self.vy = vy
-        self.nom = nom
-        self.x0 = x0
-        self.y0 = y0
-        self.init = init
-
-
-    #Définir les différentes méthodes
-    #Distance
-    def distance(self, autre_planete):
-        d = np.sqrt((autre_planete.x-self.x)**2 + (autre_planete.y-self.y)**2)
-        return d
-
-    #Calcul de l'accélération résultante
-    def acceleration(self,liste_planetes,G=6.67408 * 10**(-11)):
-        ax = 0
-        ay = 0
-        for planets in liste_planetes:
-            if planets is self or self.x == planets.x:
-                pass
-            else:
-                d = self.distance(planets)
-                ax += (G * planets.mass)/(d**2) * (planets.x - self.x)/d
-                ay += (G * planets.mass)/(d**2) * (planets.y - self.y)/d
-
-        return ax, ay
-
-    #Actualiser la vitesse de la planète
-    def actualiser_sys(self,ax,ay,dt):
-        if not self.init:
-            self.init = True
-            #Change the speed with the acceleration using Euler method
-            self.vx = self.vx + ax * dt
-            self.vy = self.vy + ay * dt
-
-            #Compute the position using the spedd and Euler's method
-            x = self.x + self.vx * dt + (1/2) * ax * dt**2
-            y = self.y + self.vy * dt + (1/2) * ay * dt**2
-
-            #Update the values of the position (x,y) and old position (x0,y0)
-            # 1) Old position
-            self.x0 = self.x
-            self.y0 = self.y
-
-            # 2) New position
-            self.x = x
-            self.y = y
-
-            #Else, use verlet integration method to actualize position and speed
-        else:
-            #Defining the new position
-            x_t2 = 2 * self.x - self.x0 + ax * dt**2
-            y_t2 = 2 * self.y - self.y0 + ay * dt**2
-
-            #Defining the new speed with the new position
-            self.vx = ((x_t2 - self.x0) / (2*dt))
-            self.vy = ((y_t2 - self.y0) / (2*dt))
-
-            #Updating the position
-            # 1) Old positions
-            self.x0 = self.x
-            self.y0 = self.y
-
-            # 2) New positions
-            self.x = x_t2
-            self.y = y_t2
-
-    #Énergie cinétique
-    def ECin(self):
-        T = 0.5 * self.mass * (self.vx**2 + self.vy**2)
-        return T
-
-    #Énergie potentielle gravitationnelle entre deux planètes
-    def EGrav(self, autre_planete):
-        U = - (G * self.mass * autre_planete.mass) / self.distance(autre_planete)
-        return U
 
 
 ####################################
@@ -218,7 +129,7 @@ def actualiser_systeme(liste_planetes, dt=1):
 ####################################################################################
 
 #Fonction pour calculer la masse moyenne
-def masse_moyenne(liste_planete):
+def masse_moyen(liste_planete):
     masse = 0
     for planete in liste_planete:
         masse += planete.mass
@@ -238,7 +149,7 @@ def rayon_moyen(liste_planete):
 
 
 #Fonction pour calculer la vitesse moyenne
-def vitesse_moyenne(liste_planete):
+def vitesse_moyen(liste_planete):
     vitesse = 0
     for planete in liste_planete:
         vitesse += np.sqrt( planete.vx**2 + planete.vy**2 )
@@ -297,7 +208,7 @@ def trouver_massive(liste_planete, init):
 #Fonction pour trouver toutes les planètes à l'intérieur d'un certain rayon autour de la planète
 def get_other_planets(liste_planete, planete_mere):
     nbr_stable=0
-    if planete_mere.mass < 3*masse_terre:
+    if planete_mere.mass < 10*masse_terre:
         pass
     else:
         for planete in liste_planete:
@@ -319,16 +230,16 @@ def define_stabilite(planete_mere, nbr_stable):
 ######################################
 #        Programme principal         #
 ######################################
-def main():
+def main(liste_planetes):
 
     #Importation d'une configuration initiale particulière
-    from init_parametres import liste_planetes
-    global liste_planetes
+    #global liste_planetes
+    #liste_planetes = initialize_list(dist_max, nbr_planetes, masse_moyenne, vitesse_moyenne, moment_ang_moyen)
 
     #Identification des différents paramètres initiaux
-    MasseMoyenne = masse_moyenne(liste_planetes)
+    MasseMoyenne = masse_moyen(liste_planetes)
     RayonMoyen = rayon_moyen(liste_planetes)
-    VitesseMoyenne = vitesse_moyenne(liste_planetes)
+    VitesseMoyenne = vitesse_moyen(liste_planetes)
     qte_mvt_moyenne = quantite_mouvement_moyen(liste_planetes)
     lz = moment_angulaire_moyen(liste_planetes)
 
@@ -400,13 +311,20 @@ def main():
 
 
         #Détermine si le système est stable
+        # À la première itération
         if t == 300:
             init = False
             planete_mere = trouver_massive(nouvelle_liste_planete, init)
             nbr_stable = 0
             if planete_mere:
                 nbr_stable = get_other_planets(nouvelle_liste_planete, planete_mere)
+            else:
+                stable = define_stabilite(planete_mere, nbr_stable)
+                print('Nbr orbites : {}'.format(nbr_stable))
+                print('stabilité : {}'.format(stable))
+                raise SystemExit
 
+        #Ensuite, s'il y a une planète mère
         if t > 300:
             init = True
             planete_mere = trouver_massive(nouvelle_liste_planete, init)
@@ -414,13 +332,12 @@ def main():
             if planete_mere:
                 nbr_stable = get_other_planets(nouvelle_liste_planete, planete_mere)
 
-            if t > 450 or planete_mere == []:
+            if t > 500 or planete_mere == []:
                 stable = define_stabilite(planete_mere, nbr_stable)
                 print('Masse planète mère : {}'.format(planete_mere.mass))
                 print('Nbr orbites : {}'.format(nbr_stable))
                 print('stabilité : {}'.format(stable))
                 raise SystemExit
-
 
         return planetes
 
@@ -430,6 +347,3 @@ def main():
     #Traçage de l'animation
     plt.show()
 
-
-if __name__ == "__main__":
-    main()
