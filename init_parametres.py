@@ -16,7 +16,7 @@ abs_liste = np.vectorize(abs)
 dist_max = 10**7 #rayon du cercle dans lequel toutes les planètes sont situées
 nbr_planetes = 143
 masse_moyenne = 4 * masse_terre
-vitesse_moyenne = 22000
+vitesse_moyenne = 25000
 moment_ang_moyen = 2e+35
 
 
@@ -84,6 +84,12 @@ while not all(i<=1 and i>=-1 for i in multiple2):
     multiple2 = multiple2 * correction
 
     index += 1
+
+    #Si incapable de définir liste de planètes, sortir de la boucle
+    if index > 200:
+        print('Incapable de définir le système')
+        raise SystemExit
+
 
 #Définir les angles associé pour chaque multiple
 angle2 = []

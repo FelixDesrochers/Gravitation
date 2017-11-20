@@ -261,7 +261,6 @@ def quantite_mouvement_moyen(liste_planete):
 def moment_angulaire_moyen(liste_planete):
     lz = 0
     for planete in liste_planete:
-
         vitesse = [planete.vx,planete.vy,0]
         position = [planete.x,planete.y,0]
 
@@ -270,6 +269,52 @@ def moment_angulaire_moyen(liste_planete):
 
     lz = lz/len(liste_planete)
     return lz
+
+
+#####################################################################################
+#       Définition d'une fonction pour déterminer la stabilité d'un système         #
+#####################################################################################
+
+# Fonction pour trouver la planète la plus massive
+def trouver_massive(liste_planete, init):
+    masse_max = 0
+    planete_max = []
+
+    if not init:
+        for planete in liste_planete:
+            if planete.mass > masse_max and planete.x>-20000000 and planete.x<20000000 and planete.y>-20000000 and planete.y<20000000:
+                planete_max = planete
+                masse_max = planete.mass
+    else:
+        for planete in liste_planete :
+            if planete.mass > masse_max and planete.x>-2*20000000 and planete.x<2*20000000 and planete.y>-2*20000000 and planete.y<2*20000000:
+                planete_max = planete
+                masse_max = planete.mass
+
+    return planete_max
+
+
+#Fonction pour trouver toutes les planètes à l'intérieur d'un certain rayon autour de la planète
+def get_other_planets(liste_planete, planete_mere):
+    nbr_stable=0
+    if planete_mere.mass < 3*masse_terre:
+        pass
+    else:
+        for planete in liste_planete:
+            if planete is not planete_mere and (planete_mere.distance(planete) < (2*10**7)) and (np.sqrt(planete.vx**2 + planete.vy**2) < np.sqrt(2*G*planete_mere.mass/planete_mere.distance(planete))):
+                nbr_stable += 1
+
+    return nbr_stable
+
+#Fonction afin de déterminer si le système est vraiment stable
+def define_stabilite(planete_mere, nbr_stable):
+    if planete_mere == [] or nbr_stable == 0:
+        stable = False
+    else:
+        stable = True
+
+    return stable
+
 
 ######################################
 #        Programme principal         #
@@ -341,7 +386,7 @@ def main():
             position_y[i] = planet.y
 
         #Actualisation du graphique
-        for planete,planetes,i in zip(nouvelle_liste_planete, planetes_espace, range(len(nouvelle_liste_planete))):
+        for planete,planetes in zip(nouvelle_liste_planete, planetes_espace):
             planetes[0].set_data(planete.x, planete.y)
             planetes[0].set_markersize((planete.rayon*270)/limite_fig)
 
@@ -352,6 +397,30 @@ def main():
         global t
         t += dt
         T_texte.set_text('t = {}'.format(t))
+
+
+        #Détermine si le système est stable
+        if t == 300:
+            init = False
+            planete_mere = trouver_massive(nouvelle_liste_planete, init)
+            nbr_stable = 0
+            if planete_mere:
+                nbr_stable = get_other_planets(nouvelle_liste_planete, planete_mere)
+
+        if t > 300:
+            init = True
+            planete_mere = trouver_massive(nouvelle_liste_planete, init)
+            nbr_stable = 0
+            if planete_mere:
+                nbr_stable = get_other_planets(nouvelle_liste_planete, planete_mere)
+
+            if t > 450 or planete_mere == []:
+                stable = define_stabilite(planete_mere, nbr_stable)
+                print('Masse planète mère : {}'.format(planete_mere.mass))
+                print('Nbr orbites : {}'.format(nbr_stable))
+                print('stabilité : {}'.format(stable))
+                raise SystemExit
+
 
         return planetes
 
