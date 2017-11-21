@@ -193,12 +193,12 @@ def trouver_massive(liste_planete, init):
 
     if not init:
         for planete in liste_planete:
-            if planete.mass > masse_max and planete.x>-20000000 and planete.x<20000000 and planete.y>-20000000 and planete.y<20000000:
+            if planete.mass > masse_max and planete.x>-3*20000000 and planete.x<3*20000000 and planete.y>-3*20000000 and planete.y<3*20000000:
                 planete_max = planete
                 masse_max = planete.mass
     else:
         for planete in liste_planete :
-            if planete.mass > masse_max and planete.x>-2*20000000 and planete.x<2*20000000 and planete.y>-2*20000000 and planete.y<2*20000000:
+            if planete.mass > masse_max and planete.x>-5*20000000 and planete.x<5*20000000 and planete.y>-5*20000000 and planete.y<5*20000000:
                 planete_max = planete
                 masse_max = planete.mass
 
@@ -208,7 +208,7 @@ def trouver_massive(liste_planete, init):
 #Fonction pour trouver toutes les planètes à l'intérieur d'un certain rayon autour de la planète
 def get_other_planets(liste_planete, planete_mere):
     nbr_stable=0
-    if planete_mere.mass < 10*masse_terre:
+    if planete_mere.mass < 100*masse_terre:
         pass
     else:
         for planete in liste_planete:
@@ -312,7 +312,7 @@ def main(liste_planetes):
 
         #Détermine si le système est stable
         # À la première itération
-        if t == 300:
+        if t == 500:
             init = False
             planete_mere = trouver_massive(nouvelle_liste_planete, init)
             nbr_stable = 0
@@ -325,24 +325,28 @@ def main(liste_planetes):
                 raise SystemExit
 
         #Ensuite, s'il y a une planète mère
-        if t > 300:
+        if t > 500:
             init = True
             planete_mere = trouver_massive(nouvelle_liste_planete, init)
             nbr_stable = 0
             if planete_mere:
                 nbr_stable = get_other_planets(nouvelle_liste_planete, planete_mere)
 
-            if t > 500 or planete_mere == []:
+            if t > 650 or planete_mere == []:
                 stable = define_stabilite(planete_mere, nbr_stable)
+                print('Nombre de planètes : {}'.format(len(nouvelle_liste_planete)))
                 print('Masse planète mère : {}'.format(planete_mere.mass))
                 print('Nbr orbites : {}'.format(nbr_stable))
                 print('stabilité : {}'.format(stable))
+                #anim.event_source.quit()
                 raise SystemExit
+                #quit()
 
         return planetes
 
     #Animation
-    anim = animation.FuncAnimation(fig, run, actualiser_systeme(liste_planetes), interval=5, blit=False, repeat=True)
+    #anim = animation.FuncAnimation(fig, run, actualiser_systeme(liste_planetes), frames=650, blit=False, repeat=False)
+    anim = animation.FuncAnimation(fig, run, actualiser_systeme(liste_planetes), interval=5, blit=False, repeat=False)
 
     #Traçage de l'animation
     plt.show()
