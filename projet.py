@@ -219,9 +219,9 @@ def main():
 
     #Importation d'une configuration initiale particulière
 
-    from initialisation import liste_11
+    from initialisation import liste_3
     global liste_planetes
-    liste_planetes = liste_11
+    liste_planetes = liste_3
 
 
 
