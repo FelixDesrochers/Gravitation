@@ -208,7 +208,7 @@ def trouver_massive(liste_planete, init):
 #Fonction pour trouver toutes les planètes à l'intérieur d'un certain rayon autour de la planète
 def get_other_planets(liste_planete, planete_mere):
     nbr_stable=0
-    if planete_mere.mass < 100*masse_terre:
+    if planete_mere.mass < 15*masse_terre:
         pass
     else:
         for planete in liste_planete:
