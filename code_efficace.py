@@ -233,28 +233,14 @@ def quantite_mouvement_moyen(liste_planete):
 def moment_angulaire_moyen(liste_planete):
     lz = 0
     for planete in liste_planete:
-        #Définition d'un vecteur direction
-        #x = planete.x/np.sqrt(planete.x**2 + planete.y**2)
-        #y = planete.y/np.sqrt(planete.x**2 + planete.y**2)
-
-        #Projection du vecteur direction sur le vecteur direction
-        #v_par_x = x * planete.vx
-        #v_par_y = y * planete.vy
-
-        #Vitesse perpendiculaire à la direction à partir de v_par
-        #vpx = planete.vx - v_par_x
-        #vpy = planete.vy - v_par_y
-        #vp = np.sqrt( vpx**2 + vpy**2 )
 
         vitesse = [planete.vx,planete.vy,0]
         position = [planete.x,planete.y,0]
 
         #Calul du moment angulaire par rapport à l'origine
         lz += planete.mass*np.cross(position,vitesse)[2]
-        #lz += np.sqrt(planete.x**2 + planete.y**2) * vp * planete.mass
 
     lz = lz/len(liste_planete)
-
     return lz
 
 ######################################
@@ -304,7 +290,7 @@ def main():
         position_y.append(planet.y)
 
     #Traçage des planètes initiales
-    planetes_espace = [plt.plot(planetes.x,planetes.y, 'o', color='r', markersize=(planetes.rayon*375)/limite_fig) for planetes,i in zip(liste_planetes,range(len(liste_planetes))) ]
+    planetes_espace = [plt.plot(planetes.x,planetes.y, 'o', color='r', markersize=(planetes.rayon*300)/limite_fig) for planetes,i in zip(liste_planetes,range(len(liste_planetes))) ]
 
     #Ajout d'une légende
     # Shrink current axis by 20%
@@ -329,7 +315,7 @@ def main():
         #Actualisation du graphique
         for planete,planetes,i in zip(nouvelle_liste_planete, planetes_espace, range(len(nouvelle_liste_planete))):
             planetes[0].set_data(planete.x, planete.y)
-            planetes[0].set_markersize((planete.rayon*375)/limite_fig)
+            planetes[0].set_markersize((planete.rayon*300)/limite_fig)
 
         #Écriture de l'énergie
         E_texte.set_text('E = {:.2E} J'.format(Etot))
