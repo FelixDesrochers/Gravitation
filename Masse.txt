@@ -10000,3 +10000,12 @@ Nombre de planètes : 11
 Masse planète mère : 3.7607268353385124e+27
 Nbr orbites : 2
 stabilité : True
+
+# Essai 0.3 - 1.0
+lz_max: 2.093318403509141e+35
+nombre de plan�tes : 150
+masse moyenne : 1.791660000000001e+24
+rayon moyen : 28026.343225329685
+vitesse moyenne : 25000.000000000004
+quantit� de mouvement moyenne : 4.426057719750493e+28
+lz : 2.0000000000000163e+33

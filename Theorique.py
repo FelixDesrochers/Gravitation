@@ -98,10 +98,40 @@ def Energie(liste_planetes):
 
     return Etot, Ttot, Utot
 
+#Moment angulaire total
+def moment_angulaire_tot(liste_planete):
+    lz = 0
+    for planete in liste_planete:
+        vitesse = [planete.vx,planete.vy,0]
+        position = [planete.x,planete.y,0]
+
+        #Calul du moment angulaire par rapport à l'origine
+        lz += planete.mass*np.cross(position,vitesse)[2]
+
+    return lz
+
+#Déterminer la masse totale et la masse réduite
+def Masse(liste_planete):
+    M = 0
+    mult = 1
+    for planete in liste_planete:
+        M += planete.mass
+        mult = mult*planete.mass
+
+    mu = mult/M
+    return M, mu
+
 #####################################################################################################
 #    Définition d'une fonction pour pour actualiser la position de plusieurs planètes à la fois     #
 #####################################################################################################
 def actualiser_systeme(liste_planetes, dt=1):
+    t = 0
+    rmin = 10000000000000
+    rmax = 0
+    sommelz = 0
+    sommeEnergie = 0
+    pos1x = liste_planetes[0].x
+
     while True:
         # Création d'une liste des accélérations des planètes
         acceleration = []
@@ -116,13 +146,59 @@ def actualiser_systeme(liste_planetes, dt=1):
 
         liste_planetes,index_fusion,index_a_supprimer = collision(liste_planetes)
 
+        # Opérations pour trouver les paramètres de l'ellipse
+        r = liste_planetes[0].distance(liste_planetes[1])
+        if r <= rmin:
+            rmin = r
+
+        if r >= rmax:
+            rmax = r
+
+        t = t + 1
         Etot, Ttot, Utot = Energie(liste_planetes)
-        #print('Etot = ', Etot)
-        #print('Ttot = ', Ttot)
-        #print('Utot = ', Utot)
+        lz = moment_angulaire_tot(liste_planetes)
+        sommelz = sommelz + lz
+        sommeEnergie = sommeEnergie + Etot
+
+        # Déterminer la période
+        if  t > 100 and abs(pos1x - liste_planetes[0].x) < 10:
+            periode = t
+            break
+
+
+        print('Etot = ', Etot)
+        print('lz = ', lz)
+        # print('Ttot = ', Ttot)
+        # print('Utot = ', Utot)
+
 
         yield liste_planetes,index_fusion,index_a_supprimer,Etot
 
+
+        # Contrainte de temps avant d'éteindre
+        if t > 1000:
+            break
+
+    #Valeurs des différents paramètres du parcours elliptique
+    Masse_tot, Masse_red = Masse(liste_planetes)
+    a = rmin + rmax / 2
+    lzmoy = sommelz / t
+    c = lzmoy ** 2 / (Masse_tot * (Masse_red ** 2) * G)
+    epsilon = np.sqrt(1 - c / a)
+    Energie_moyenne = sommeEnergie / t
+    Energie_parametres = ((((Masse_red * G * Masse_tot) ** 2) * (Masse_red)) / (2 * lz ** 2)) * (epsilon ** 2 - 1)
+
+    print('rmin = ', rmin)
+    print('rmax = ', rmax)
+    print('Masse totale = ', Masse_tot)
+    print('Masse réduite = ', Masse_red)
+    print('a = ', a)
+    print('lzmoy = ', lzmoy)
+    print('c = ', c)
+    print('epsilon = ', epsilon)
+    print('Énergie moyenne = ', Energie_moyenne)
+    print('Énergie selon les paramètres calculés = ', Energie_parametres)
+    print('periode = ', periode)
 
 ####################################################################################
 #        Définition de fonctions pouvant déteminer les conditions initiales        #
@@ -182,6 +258,7 @@ def moment_angulaire_moyen(liste_planete):
     return lz
 
 
+
 #####################################################################################
 #       Définition d'une fonction pour déterminer la stabilité d'un système         #
 #####################################################################################
@@ -230,10 +307,14 @@ def define_stabilite(planete_mere, nbr_stable):
 ######################################
 #        Programme principal         #
 ######################################
-def main(liste_planetes):
+def main():
 
     #Importation d'une configuration initiale particulière
-    # global liste_planetes
+    planete1 = Planet(100 * masse_terre, rayon_terre / 3, 0, 0, 0, 0, 'Beach Club', 0, 0, False)
+    planete2 = Planet(masse_terre, rayon_terre / 10, 5000 * 10 ** 3, 0, 0, 100000, 'Laval', 5000 * 10 ** 3, 0, False)
+    liste_5 = [planete1, planete2]
+    global liste_planetes
+    liste_planetes = liste_5
     #liste_planetes = initialize_list(dist_max, nbr_planetes, masse_moyenne, vitesse_moyenne, moment_ang_moyen)
 
     #Identification des différents paramètres initiaux
@@ -351,3 +432,5 @@ def main(liste_planetes):
     #Traçage de l'animation
     plt.show()
 
+if __name__ == "__main__":
+    main()

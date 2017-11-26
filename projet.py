@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 import matplotlib.cm as cm
 
+
 #Définition des constantes
 G = 6.67408 * 10**(-11)
 dt =1
@@ -14,7 +15,7 @@ rayon_terre = 6378.137 *(10)**3
 ###############################################
 #      Définition d'une classe planète        #
 ###############################################
-class Planet:
+class planet:
 
     #Définir les différents attributs
     def __init__(self,mass,rayon,x,y,vx,vy,nom):
@@ -106,9 +107,9 @@ class Planet:
 
 
 #Création d'une sous classe pour les planètes fusionnées
-class FusionPlanete(Planet):
+class FusionPlanete(planet):
     def __init__(self,mass,rayon,x,y,vx,vy):
-        Planet.__init__(self,mass,rayon,x,y,vx,vy,'Planete fusionnée')
+        planet.__init__(self,mass,rayon,x,y,vx,vy,'Planete fusionnée')
 
 
 
@@ -176,13 +177,43 @@ def Energie(liste_planetes):
 
     return Etot, Ttot, Utot
 
+def moment_angulaire_tot(liste_planete):
+    lz = 0
+    for planete in liste_planete:
+        vitesse = [planete.vx,planete.vy,0]
+        position = [planete.x,planete.y,0]
 
+        #Calul du moment angulaire par rapport à l'origine
+        lz += planete.mass*np.cross(position,vitesse)[2]
+
+    return lz
+
+def Masse(liste_planete):
+    M = 0
+    mult = 1
+    for planete in liste_planete:
+        M += planete.mass
+        mult = mult*planete.mass
+
+    mu = mult/M
+    return M, mu
 
 
 #####################################################################################################
 #    Définition d'une fonction pour pour actualiser la position de plusieurs planètes à la fois     #
 #####################################################################################################
 def actualiser_systeme(liste_planetes, dt=1):
+    t=0
+    rmin = 10000000000000
+    rmax = 0
+    sommelz = 0
+    sommeEnergie = 0
+    pos1x = liste_planetes[0].x
+    pos1y = liste_planetes[0].y
+    pos2x = liste_planetes[1].x
+    pos2y = liste_planetes[1].y
+    reponse = 1
+
     while True:
 
         # Création d'une liste des accélérations des planètes
@@ -202,15 +233,64 @@ def actualiser_systeme(liste_planetes, dt=1):
                 planete.x, planete.y = planete.actualiser_position(dt)
 
 
+        #Opérations pour trouver les paramètres de l'ellipse
+
+
+        r = liste_planetes[0].distance(liste_planetes[1])
+        if r <= rmin:
+            rmin = r
+
+        if r>= rmax:
+            rmax = r
+
+
+
+        t = t+1
         Etot, Ttot, Utot = Energie(liste_planetes)
+        lz = moment_angulaire_tot(liste_planetes)
+        sommelz = sommelz+lz
+        sommeEnergie = sommeEnergie+Etot
+
+        #Déterminer la période
+        if reponse == 1 and t > 100 and abs(pos1x-liste_planetes[0].x) < 1000:
+            periode = t
+            reponse = 0
+            break
+
+        print('rmin = ', rmin)
+        print('rmax = ', rmax)
+        print('t = ', t)
         print('Etot = ',  Etot)
-        print('Ttot = ', Ttot)
-        print('Utot = ', Utot)
+        print('lz = ', lz)
+        #print('Ttot = ', Ttot)
+        #print('Utot = ', Utot)
 
 
         yield liste_planetes
         liste_planetes = collision(liste_planetes)
 
+        #Contrainte de temps avant d'éteindre
+        if t>1000:
+            break
+
+    #Valeurs des différents paramètres du parcours elliptique
+    Masse_tot, Masse_red = Masse(liste_planetes)
+    a = rmin+rmax/2
+    lzmoy = sommelz/t
+    c = lzmoy**2/(Masse_tot*(Masse_red**2)*G)
+    epsilon = np.sqrt(1-c/a)
+    Energie_moyenne = sommeEnergie/t
+    Energie_parametres = ((((Masse_red * G * Masse_tot)**2)*(Masse_red))/(2*lz**2))*(epsilon**2-1)
+
+    print('Masse totale = ', Masse_tot)
+    print('Masse réduite = ', Masse_red)
+    print('a = ', a)
+    print('lzmoy = ', lzmoy)
+    print('c = ', c)
+    print('epsilon = ', epsilon)
+    print('Énergie moyenne = ', Energie_moyenne)
+    print('Énergie selon les paramètres calculés = ', Energie_parametres)
+    print('periode = ', periode)
 
 ######################################
 #        Programme principal         #
@@ -219,9 +299,9 @@ def main():
 
     #Importation d'une configuration initiale particulière
 
-    from initialisation import liste_3
+    from initialisation import liste_11
     global liste_planetes
-    liste_planetes = liste_3
+    liste_planetes = liste_11
 
 
 
