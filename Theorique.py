@@ -131,8 +131,9 @@ def actualiser_systeme(liste_planetes, dt=1):
     sommelz = 0
     sommeEnergie = 0
     pos1x = liste_planetes[0].x
+    reponse = True
 
-    while True:
+    while reponse:
         # Création d'une liste des accélérations des planètes
         acceleration = []
 
@@ -163,7 +164,7 @@ def actualiser_systeme(liste_planetes, dt=1):
         # Déterminer la période
         if  t > 100 and abs(pos1x - liste_planetes[0].x) < 10:
             periode = t
-            break
+            reponse = False
 
 
         print('Etot = ', Etot)
@@ -181,12 +182,16 @@ def actualiser_systeme(liste_planetes, dt=1):
 
     #Valeurs des différents paramètres du parcours elliptique
     Masse_tot, Masse_red = Masse(liste_planetes)
-    a = rmin + rmax / 2
+    a = (rmin + rmax) / 2
     lzmoy = sommelz / t
     c = lzmoy ** 2 / (Masse_tot * (Masse_red ** 2) * G)
-    epsilon = np.sqrt(1 - c / a)
+    epsilon1 = np.sqrt(1 - c / a)
+    epsilon2 = c/rmin - 1
+    epsilon3 = 1 - c/rmax
+    epsilon = (epsilon1+epsilon2+epsilon3)/3
     Energie_moyenne = sommeEnergie / t
     Energie_parametres = ((((Masse_red * G * Masse_tot) ** 2) * (Masse_red)) / (2 * lz ** 2)) * (epsilon ** 2 - 1)
+    T = 2*np.pi*np.sqrt(a**3/(Masse_tot*G))
 
     print('rmin = ', rmin)
     print('rmax = ', rmax)
@@ -198,7 +203,8 @@ def actualiser_systeme(liste_planetes, dt=1):
     print('epsilon = ', epsilon)
     print('Énergie moyenne = ', Energie_moyenne)
     print('Énergie selon les paramètres calculés = ', Energie_parametres)
-    print('periode = ', periode)
+    print('periode selon les paramètres = ', T)
+    print('periode de la figure = ', periode)
 
 ####################################################################################
 #        Définition de fonctions pouvant déteminer les conditions initiales        #
@@ -310,8 +316,8 @@ def define_stabilite(planete_mere, nbr_stable):
 def main():
 
     #Importation d'une configuration initiale particulière
-    planete1 = Planet(100 * masse_terre, rayon_terre / 3, 0, 0, 0, 0, 'Beach Club', 0, 0, False)
-    planete2 = Planet(masse_terre, rayon_terre / 10, 5000 * 10 ** 3, 0, 0, 100000, 'Laval', 5000 * 10 ** 3, 0, False)
+    planete1 = Planet(1000 * masse_terre, rayon_terre / 3, 0, 0, 0, 0, 'Beach Club', 0, 0, False)
+    planete2 = Planet(masse_terre, rayon_terre / 10, 5000 * 10 ** 3, 0, 0, 300000, 'Laval', 5000 * 10 ** 3, 0, False)
     liste_5 = [planete1, planete2]
     global liste_planetes
     liste_planetes = liste_5
