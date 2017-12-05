@@ -18,7 +18,7 @@ Le fichier Run.py peut être modifié afin de modifier les paramètres initiaux 
 
 ## Exemples
 
-Le programme produit ce genre de résultats avec un plus grande fluidité normalement (ici, nous avons 200 corps initialement):
+Le programme produit ce genre de résultats (ici, nous avons 200 corps initialement):
 
 <img src="/Examples/planet2.gif?raw=true" width="1200" height="600" />
 
