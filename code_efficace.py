@@ -346,13 +346,10 @@ def main(liste_planetes):
 
     #Animation
     #anim = animation.FuncAnimation(fig, run, actualiser_systeme(liste_planetes), frames=650, blit=False, repeat=False)
-    anim = animation.FuncAnimation(fig, run, actualiser_systeme(liste_planetes), interval=5, blit=False, repeat=False)
-
-    #fig = plt.gcf()
-    #fig.set_size_inches(18.5, 10.5, forward=True)
+    anim = animation.FuncAnimation(fig, run, actualiser_systeme(liste_planetes), interval=5, blit=False, repeat=False, save_count=300,)
 
     #Traçage de l'animation
     plt.show()
 
-    #anim.save('planet.gif', writer='imagemagick', dpi=100, fps=25)
+    anim.save('planet.gif', writer='imagemagick', dpi=150, fps=30)
 
