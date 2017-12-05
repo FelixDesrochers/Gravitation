@@ -16,16 +16,16 @@ Pour exécuter ce programme, cloner simplement le programme et exécuter le scri
 
 Le fichier Run.py peut être modifié afin de modifier les paramètres initiaux de la simulation.
 
-## Examples
+## Exemples
 
-Le programme produit ce genre de résultats (ici, nous avons 200 corps intiialement):
+Le programme produit ce genre de résultats avec un plus grande fluidité normalement (ici, nous avons 200 corps initialement):
 
 <img src="/Examples/planet2.gif?raw=true" width="1200" height="600" />
 
 
-# Contributing
+# Contribution
 
-I am open to any improvement suggestion or contribution. If you wish to contribute to this repository just follow these simple steps:
+Nous sommes ouverts à tout type de contribution pour ce projet. Pour se faire, simplement suivre les étapes suivantes:
 
 1. Fork it (<https://github.com/yourname/yourproject/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
@@ -37,4 +37,4 @@ I am open to any improvement suggestion or contribution. If you wish to contribu
 # License
 MIT - [http://alco.mit-license.org](http://alco.mit-license.org)
 
-(See the LICENSE.md for more informations)
+(Voir LICENSE.md pour plus d'informations)
