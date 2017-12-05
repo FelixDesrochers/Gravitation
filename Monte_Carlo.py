@@ -8,8 +8,12 @@ sys.stdout = open("vitesse.txt", "a")
 i = float(sys.argv[1])
 j = int(sys.argv[2])
 
+<<<<<<< HEAD
 i = 5
 j = 1
+=======
+
+>>>>>>> 5e3278bb5b36e122c1cf878784a7c6adea8cdb27
 #Impression d'un message permettant d'afficher l'essai en question
 print('\n# Essai {0} - {1}'.format(i,j))
 
