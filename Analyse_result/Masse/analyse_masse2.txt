@@ -1,0 +1,2325 @@
+0.3 masse de la Terre
+Nombre de planètes : 37
+ 
+0.3 masse de la Terre
+Nombre de planètes : 32
+ 
+0.3 masse de la Terre
+Nombre de planètes : 41
+ 
+0.3 masse de la Terre
+Nombre de planètes : 59
+ 
+0.3 masse de la Terre
+Nombre de planètes : 49
+ 
+0.35 masse de la Terre
+Nombre de planètes : 35
+ 
+0.35 masse de la Terre
+Nombre de planètes : 41
+ 
+0.35 masse de la Terre
+Nombre de planètes : 35
+ 
+0.35 masse de la Terre
+Nombre de planètes : 44
+ 
+0.35 masse de la Terre
+Nombre de planètes : 39
+ 
+0.4 masse de la Terre
+Nombre de planètes : 34
+ 
+0.4 masse de la Terre
+Nombre de planètes : 28
+ 
+0.4 masse de la Terre
+Nombre de planètes : 32
+ 
+0.4 masse de la Terre
+Nombre de planètes : 34
+ 
+0.4 masse de la Terre
+Nombre de planètes : 32
+ 
+0.45 masse de la Terre
+Nombre de planètes : 37
+ 
+0.45 masse de la Terre
+Nombre de planètes : 36
+ 
+0.45 masse de la Terre
+Nombre de planètes : 44
+ 
+0.45 masse de la Terre
+Nombre de planètes : 30
+ 
+0.45 masse de la Terre
+Nombre de planètes : 37
+ 
+0.5 masse de la Terre
+Nombre de planètes : 43
+ 
+0.5 masse de la Terre
+Nombre de planètes : 47
+ 
+0.5 masse de la Terre
+Nombre de planètes : 37
+ 
+0.5 masse de la Terre
+Nombre de planètes : 41
+ 
+0.5 masse de la Terre
+Nombre de planètes : 38
+ 
+0.55 masse de la Terre
+Nombre de planètes : 35
+ 
+0.55 masse de la Terre
+Nombre de planètes : 34
+ 
+0.55 masse de la Terre
+Nombre de planètes : 38
+ 
+0.55 masse de la Terre
+Nombre de planètes : 26
+ 
+0.55 masse de la Terre
+Nombre de planètes : 42
+ 
+0.6 masse de la Terre
+Nombre de planètes : 31
+ 
+0.6 masse de la Terre
+Nombre de planètes : 37
+ 
+0.6 masse de la Terre
+Nombre de planètes : 38
+ 
+0.6 masse de la Terre
+Nombre de planètes : 29
+ 
+0.6 masse de la Terre
+Nombre de planètes : 28
+ 
+0.65 masse de la Terre
+Nombre de planètes : 29
+ 
+0.65 masse de la Terre
+Nombre de planètes : 26
+ 
+0.65 masse de la Terre
+Nombre de planètes : 29
+ 
+0.65 masse de la Terre
+Nombre de planètes : 34
+ 
+0.65 masse de la Terre
+Nombre de planètes : 41
+ 
+0.7 masse de la Terre
+Nombre de planètes : 27
+ 
+0.7 masse de la Terre
+Nombre de planètes : 28
+ 
+0.7 masse de la Terre
+Nombre de planètes : 32
+ 
+0.7 masse de la Terre
+Nombre de planètes : 30
+ 
+0.7 masse de la Terre
+Nombre de planètes : 30
+ 
+0.75 masse de la Terre
+Nombre de planètes : 28
+ 
+0.75 masse de la Terre
+Nombre de planètes : 31
+ 
+0.75 masse de la Terre
+Nombre de planètes : 43
+ 
+0.75 masse de la Terre
+Nombre de planètes : 38
+ 
+0.75 masse de la Terre
+Nombre de planètes : 23
+ 
+0.8 masse de la Terre
+Nombre de planètes : 37
+ 
+0.8 masse de la Terre
+Nombre de planètes : 24
+ 
+0.8 masse de la Terre
+Nombre de planètes : 25
+ 
+0.8 masse de la Terre
+Nombre de planètes : 31
+ 
+0.8 masse de la Terre
+Nombre de planètes : 31
+ 
+0.85 masse de la Terre
+Nombre de planètes : 33
+ 
+0.85 masse de la Terre
+Nombre de planètes : 20
+ 
+0.85 masse de la Terre
+Nombre de planètes : 26
+ 
+0.85 masse de la Terre
+Nombre de planètes : 26
+ 
+0.85 masse de la Terre
+Nombre de planètes : 32
+ 
+0.9 masse de la Terre
+Nombre de planètes : 26
+ 
+0.9 masse de la Terre
+Nombre de planètes : 27
+ 
+0.9 masse de la Terre
+Nombre de planètes : 27
+ 
+0.9 masse de la Terre
+Nombre de planètes : 27
+ 
+0.9 masse de la Terre
+Nombre de planètes : 39
+ 
+0.95 masse de la Terre
+Nombre de planètes : 34
+ 
+0.95 masse de la Terre
+Nombre de planètes : 30
+ 
+0.95 masse de la Terre
+Nombre de planètes : 35
+ 
+0.95 masse de la Terre
+Nombre de planètes : 26
+ 
+0.95 masse de la Terre
+Nombre de planètes : 34
+ 
+1.0 masse de la Terre
+Nombre de planètes : 25
+ 
+1.0 masse de la Terre
+Nombre de planètes : 31
+ 
+1.0 masse de la Terre
+Nombre de planètes : 33
+ 
+1.0 masse de la Terre
+Nombre de planètes : 26
+ 
+1.0 masse de la Terre
+Nombre de planètes : 21
+ 
+1.05 masse de la Terre
+Nombre de planètes : 21
+ 
+1.05 masse de la Terre
+Nombre de planètes : 31
+ 
+1.05 masse de la Terre
+Nombre de planètes : 34
+ 
+1.05 masse de la Terre
+Nombre de planètes : 28
+ 
+1.05 masse de la Terre
+Nombre de planètes : 34
+ 
+1.1 masse de la Terre
+Nombre de planètes : 35
+ 
+1.1 masse de la Terre
+Nombre de planètes : 29
+ 
+1.1 masse de la Terre
+Nombre de planètes : 26
+ 
+1.1 masse de la Terre
+Nombre de planètes : 32
+ 
+1.1 masse de la Terre
+Nombre de planètes : 37
+ 
+1.15 masse de la Terre
+Nombre de planètes : 17
+ 
+1.15 masse de la Terre
+Nombre de planètes : 34
+ 
+1.15 masse de la Terre
+Nombre de planètes : 31
+ 
+1.15 masse de la Terre
+Nombre de planètes : 30
+ 
+1.15 masse de la Terre
+Nombre de planètes : 38
+ 
+1.2 masse de la Terre
+Nombre de planètes : 26
+ 
+1.2 masse de la Terre
+Nombre de planètes : 28
+ 
+1.2 masse de la Terre
+Nombre de planètes : 25
+ 
+1.2 masse de la Terre
+Nombre de planètes : 23
+ 
+1.2 masse de la Terre
+Nombre de planètes : 30
+ 
+1.25 masse de la Terre
+Nombre de planètes : 23
+ 
+1.25 masse de la Terre
+Nombre de planètes : 38
+ 
+1.25 masse de la Terre
+Nombre de planètes : 22
+ 
+1.25 masse de la Terre
+Nombre de planètes : 29
+ 
+1.25 masse de la Terre
+Nombre de planètes : 30
+ 
+1.3 masse de la Terre
+Nombre de planètes : 27
+ 
+1.3 masse de la Terre
+Nombre de planètes : 30
+ 
+1.3 masse de la Terre
+Nombre de planètes : 22
+ 
+1.3 masse de la Terre
+Nombre de planètes : 22
+ 
+1.3 masse de la Terre
+Nombre de planètes : 32
+ 
+1.35 masse de la Terre
+Nombre de planètes : 24
+ 
+1.35 masse de la Terre
+Nombre de planètes : 21
+ 
+1.35 masse de la Terre
+Nombre de planètes : 22
+ 
+1.35 masse de la Terre
+Nombre de planètes : 26
+ 
+1.35 masse de la Terre
+Nombre de planètes : 21
+ 
+1.4 masse de la Terre
+Nombre de planètes : 31
+ 
+1.4 masse de la Terre
+Nombre de planètes : 28
+ 
+1.4 masse de la Terre
+Nombre de planètes : 19
+ 
+1.4 masse de la Terre
+Nombre de planètes : 25
+ 
+1.4 masse de la Terre
+Nombre de planètes : 27
+ 
+1.45 masse de la Terre
+Nombre de planètes : 38
+ 
+1.45 masse de la Terre
+Nombre de planètes : 20
+ 
+1.45 masse de la Terre
+Nombre de planètes : 29
+ 
+1.45 masse de la Terre
+Nombre de planètes : 34
+ 
+1.45 masse de la Terre
+Nombre de planètes : 34
+ 
+1.5 masse de la Terre
+Nombre de planètes : 22
+ 
+1.5 masse de la Terre
+Nombre de planètes : 23
+ 
+1.5 masse de la Terre
+Nombre de planètes : 30
+ 
+1.5 masse de la Terre
+Nombre de planètes : 21
+ 
+1.5 masse de la Terre
+Nombre de planètes : 22
+ 
+1.55 masse de la Terre
+Nombre de planètes : 22
+ 
+1.55 masse de la Terre
+Nombre de planètes : 36
+ 
+1.55 masse de la Terre
+Nombre de planètes : 20
+ 
+1.55 masse de la Terre
+Nombre de planètes : 30
+ 
+1.55 masse de la Terre
+Nombre de planètes : 25
+ 
+1.6 masse de la Terre
+Nombre de planètes : 19
+ 
+1.6 masse de la Terre
+Nombre de planètes : 26
+ 
+1.6 masse de la Terre
+Nombre de planètes : 25
+ 
+1.6 masse de la Terre
+Nombre de planètes : 22
+ 
+1.6 masse de la Terre
+Nombre de planètes : 27
+ 
+1.65 masse de la Terre
+Nombre de planètes : 22
+ 
+1.65 masse de la Terre
+Nombre de planètes : 32
+ 
+1.65 masse de la Terre
+Nombre de planètes : 15
+ 
+1.65 masse de la Terre
+Nombre de planètes : 26
+ 
+1.65 masse de la Terre
+Nombre de planètes : 21
+ 
+1.7 masse de la Terre
+Nombre de planètes : 25
+ 
+1.7 masse de la Terre
+Nombre de planètes : 21
+ 
+1.7 masse de la Terre
+Nombre de planètes : 21
+ 
+1.7 masse de la Terre
+Nombre de planètes : 16
+ 
+1.7 masse de la Terre
+Nombre de planètes : 22
+ 
+1.75 masse de la Terre
+Nombre de planètes : 21
+ 
+1.75 masse de la Terre
+Nombre de planètes : 27
+ 
+1.75 masse de la Terre
+Nombre de planètes : 28
+ 
+1.75 masse de la Terre
+Nombre de planètes : 27
+ 
+1.75 masse de la Terre
+Nombre de planètes : 21
+ 
+1.8 masse de la Terre
+Nombre de planètes : 16
+ 
+1.8 masse de la Terre
+Nombre de planètes : 23
+ 
+1.8 masse de la Terre
+Nombre de planètes : 23
+ 
+1.8 masse de la Terre
+Nombre de planètes : 34
+ 
+1.8 masse de la Terre
+Nombre de planètes : 30
+ 
+1.85 masse de la Terre
+Nombre de planètes : 24
+ 
+1.85 masse de la Terre
+Nombre de planètes : 29
+ 
+1.85 masse de la Terre
+Nombre de planètes : 28
+ 
+1.85 masse de la Terre
+Nombre de planètes : 26
+ 
+1.85 masse de la Terre
+Nombre de planètes : 34
+ 
+1.9 masse de la Terre
+Nombre de planètes : 24
+ 
+1.9 masse de la Terre
+Nombre de planètes : 21
+ 
+1.9 masse de la Terre
+Nombre de planètes : 25
+ 
+1.9 masse de la Terre
+Nombre de planètes : 33
+ 
+1.9 masse de la Terre
+Nombre de planètes : 26
+ 
+1.95 masse de la Terre
+Nombre de planètes : 25
+ 
+1.95 masse de la Terre
+Nombre de planètes : 18
+ 
+1.95 masse de la Terre
+Nombre de planètes : 23
+ 
+1.95 masse de la Terre
+Nombre de planètes : 18
+ 
+1.95 masse de la Terre
+Nombre de planètes : 25
+ 
+2.0 masse de la Terre
+Nombre de planètes : 26
+ 
+2.0 masse de la Terre
+Nombre de planètes : 21
+ 
+2.0 masse de la Terre
+Nombre de planètes : 27
+ 
+2.0 masse de la Terre
+Nombre de planètes : 19
+ 
+2.0 masse de la Terre
+
+ 
+2.05 masse de la Terre
+Nombre de planètes : 29
+ 
+2.05 masse de la Terre
+Nombre de planètes : 12
+ 
+2.05 masse de la Terre
+Nombre de planètes : 24
+ 
+2.05 masse de la Terre
+Nombre de planètes : 23
+ 
+2.05 masse de la Terre
+Nombre de planètes : 24
+ 
+2.1 masse de la Terre
+Nombre de planètes : 23
+ 
+2.1 masse de la Terre
+Nombre de planètes : 22
+ 
+2.1 masse de la Terre
+Nombre de planètes : 23
+ 
+2.1 masse de la Terre
+Nombre de planètes : 25
+ 
+2.1 masse de la Terre
+Nombre de planètes : 23
+ 
+2.15 masse de la Terre
+Nombre de planètes : 29
+ 
+2.15 masse de la Terre
+Nombre de planètes : 19
+ 
+2.15 masse de la Terre
+Nombre de planètes : 28
+ 
+2.15 masse de la Terre
+Nombre de planètes : 22
+ 
+2.15 masse de la Terre
+Nombre de planètes : 24
+ 
+2.2 masse de la Terre
+Nombre de planètes : 25
+ 
+2.2 masse de la Terre
+Nombre de planètes : 25
+ 
+2.2 masse de la Terre
+Nombre de planètes : 26
+ 
+2.2 masse de la Terre
+Nombre de planètes : 22
+ 
+2.2 masse de la Terre
+Nombre de planètes : 32
+ 
+2.25 masse de la Terre
+Nombre de planètes : 18
+ 
+2.25 masse de la Terre
+Nombre de planètes : 26
+ 
+2.25 masse de la Terre
+Nombre de planètes : 26
+ 
+2.25 masse de la Terre
+Nombre de planètes : 14
+ 
+2.25 masse de la Terre
+Nombre de planètes : 17
+ 
+2.3 masse de la Terre
+Nombre de planètes : 24
+ 
+2.3 masse de la Terre
+Nombre de planètes : 27
+ 
+2.3 masse de la Terre
+Nombre de planètes : 23
+ 
+2.3 masse de la Terre
+Nombre de planètes : 30
+ 
+2.3 masse de la Terre
+Nombre de planètes : 32
+ 
+2.35 masse de la Terre
+Nombre de planètes : 25
+ 
+2.35 masse de la Terre
+Nombre de planètes : 25
+ 
+2.35 masse de la Terre
+Nombre de planètes : 24
+ 
+2.35 masse de la Terre
+Nombre de planètes : 24
+ 
+2.35 masse de la Terre
+Nombre de planètes : 26
+ 
+2.4 masse de la Terre
+Nombre de planètes : 20
+ 
+2.4 masse de la Terre
+Nombre de planètes : 23
+ 
+2.4 masse de la Terre
+Nombre de planètes : 18
+ 
+2.4 masse de la Terre
+Nombre de planètes : 23
+ 
+2.4 masse de la Terre
+Nombre de planètes : 23
+ 
+2.45 masse de la Terre
+Nombre de planètes : 27
+ 
+2.45 masse de la Terre
+
+ 
+2.45 masse de la Terre
+Nombre de planètes : 23
+ 
+2.45 masse de la Terre
+
+ 
+2.45 masse de la Terre
+Nombre de planètes : 21
+ 
+2.5 masse de la Terre
+Nombre de planètes : 25
+ 
+2.5 masse de la Terre
+Nombre de planètes : 30
+ 
+2.5 masse de la Terre
+Nombre de planètes : 29
+ 
+2.5 masse de la Terre
+Nombre de planètes : 22
+ 
+2.5 masse de la Terre
+Nombre de planètes : 28
+ 
+2.55 masse de la Terre
+Nombre de planètes : 22
+ 
+2.55 masse de la Terre
+Nombre de planètes : 24
+ 
+2.55 masse de la Terre
+Nombre de planètes : 26
+ 
+2.55 masse de la Terre
+Nombre de planètes : 20
+ 
+2.55 masse de la Terre
+Nombre de planètes : 21
+ 
+2.6 masse de la Terre
+Nombre de planètes : 19
+ 
+2.6 masse de la Terre
+Nombre de planètes : 24
+ 
+2.6 masse de la Terre
+Nombre de planètes : 26
+ 
+2.6 masse de la Terre
+Nombre de planètes : 23
+ 
+2.6 masse de la Terre
+Nombre de planètes : 16
+ 
+2.65 masse de la Terre
+Nombre de planètes : 20
+ 
+2.65 masse de la Terre
+Nombre de planètes : 30
+ 
+2.65 masse de la Terre
+Nombre de planètes : 24
+ 
+2.65 masse de la Terre
+Nombre de planètes : 20
+ 
+2.65 masse de la Terre
+Nombre de planètes : 26
+ 
+2.7 masse de la Terre
+Nombre de planètes : 26
+ 
+2.7 masse de la Terre
+Nombre de planètes : 35
+ 
+2.7 masse de la Terre
+Nombre de planètes : 17
+ 
+2.7 masse de la Terre
+Nombre de planètes : 31
+ 
+2.7 masse de la Terre
+Nombre de planètes : 29
+ 
+2.75 masse de la Terre
+Nombre de planètes : 32
+ 
+2.75 masse de la Terre
+Nombre de planètes : 24
+ 
+2.75 masse de la Terre
+Nombre de planètes : 31
+ 
+2.75 masse de la Terre
+Nombre de planètes : 31
+ 
+2.75 masse de la Terre
+Nombre de planètes : 19
+ 
+2.8 masse de la Terre
+Nombre de planètes : 29
+ 
+2.8 masse de la Terre
+Nombre de planètes : 22
+ 
+2.8 masse de la Terre
+Nombre de planètes : 19
+ 
+2.8 masse de la Terre
+Nombre de planètes : 20
+ 
+2.8 masse de la Terre
+Nombre de planètes : 31
+ 
+2.85 masse de la Terre
+Nombre de planètes : 26
+ 
+2.85 masse de la Terre
+Nombre de planètes : 18
+ 
+2.85 masse de la Terre
+Nombre de planètes : 18
+ 
+2.85 masse de la Terre
+Nombre de planètes : 29
+ 
+2.85 masse de la Terre
+Nombre de planètes : 16
+ 
+2.9 masse de la Terre
+Nombre de planètes : 19
+ 
+2.9 masse de la Terre
+Nombre de planètes : 30
+ 
+2.9 masse de la Terre
+Nombre de planètes : 26
+ 
+2.9 masse de la Terre
+Nombre de planètes : 23
+ 
+2.9 masse de la Terre
+Nombre de planètes : 23
+ 
+2.95 masse de la Terre
+Nombre de planètes : 16
+ 
+2.95 masse de la Terre
+Nombre de planètes : 23
+ 
+2.95 masse de la Terre
+Nombre de planètes : 22
+ 
+2.95 masse de la Terre
+Nombre de planètes : 12
+ 
+2.95 masse de la Terre
+Nombre de planètes : 19
+ 
+3.0 masse de la Terre
+Nombre de planètes : 18
+ 
+3.0 masse de la Terre
+Nombre de planètes : 25
+ 
+3.0 masse de la Terre
+Nombre de planètes : 24
+ 
+3.0 masse de la Terre
+Nombre de planètes : 18
+ 
+3.0 masse de la Terre
+Nombre de planètes : 25
+ 
+3.05 masse de la Terre
+Nombre de planètes : 26
+ 
+3.05 masse de la Terre
+Nombre de planètes : 26
+ 
+3.05 masse de la Terre
+Nombre de planètes : 18
+ 
+3.05 masse de la Terre
+Nombre de planètes : 21
+ 
+3.05 masse de la Terre
+Nombre de planètes : 12
+ 
+3.1 masse de la Terre
+Nombre de planètes : 32
+ 
+3.1 masse de la Terre
+Nombre de planètes : 21
+ 
+3.1 masse de la Terre
+Nombre de planètes : 11
+ 
+3.1 masse de la Terre
+Nombre de planètes : 18
+ 
+3.1 masse de la Terre
+Nombre de planètes : 24
+ 
+3.15 masse de la Terre
+Nombre de planètes : 19
+ 
+3.15 masse de la Terre
+Nombre de planètes : 23
+ 
+3.15 masse de la Terre
+Nombre de planètes : 28
+ 
+3.15 masse de la Terre
+Nombre de planètes : 28
+ 
+3.15 masse de la Terre
+Nombre de planètes : 29
+ 
+3.2 masse de la Terre
+Nombre de planètes : 22
+ 
+3.2 masse de la Terre
+Nombre de planètes : 20
+ 
+3.2 masse de la Terre
+Nombre de planètes : 24
+ 
+3.2 masse de la Terre
+Nombre de planètes : 16
+ 
+3.2 masse de la Terre
+Nombre de planètes : 20
+ 
+3.25 masse de la Terre
+Nombre de planètes : 30
+ 
+3.25 masse de la Terre
+Nombre de planètes : 17
+ 
+3.25 masse de la Terre
+Nombre de planètes : 24
+ 
+3.25 masse de la Terre
+Nombre de planètes : 16
+ 
+3.25 masse de la Terre
+Nombre de planètes : 23
+ 
+3.3 masse de la Terre
+Nombre de planètes : 19
+ 
+3.3 masse de la Terre
+Nombre de planètes : 26
+ 
+3.3 masse de la Terre
+Nombre de planètes : 31
+ 
+3.3 masse de la Terre
+Nombre de planètes : 22
+ 
+3.3 masse de la Terre
+Nombre de planètes : 25
+ 
+3.35 masse de la Terre
+Nombre de planètes : 27
+ 
+3.35 masse de la Terre
+Nombre de planètes : 24
+ 
+3.35 masse de la Terre
+Nombre de planètes : 22
+ 
+3.35 masse de la Terre
+Nombre de planètes : 19
+ 
+3.35 masse de la Terre
+Nombre de planètes : 30
+ 
+3.4 masse de la Terre
+Nombre de planètes : 20
+ 
+3.4 masse de la Terre
+Nombre de planètes : 21
+ 
+3.4 masse de la Terre
+Nombre de planètes : 20
+ 
+3.4 masse de la Terre
+Nombre de planètes : 17
+ 
+3.4 masse de la Terre
+Nombre de planètes : 24
+ 
+3.45 masse de la Terre
+Nombre de planètes : 22
+ 
+3.45 masse de la Terre
+Nombre de planètes : 21
+ 
+3.45 masse de la Terre
+Nombre de planètes : 25
+ 
+3.45 masse de la Terre
+Nombre de planètes : 29
+ 
+3.45 masse de la Terre
+Nombre de planètes : 15
+ 
+3.5 masse de la Terre
+
+ 
+3.5 masse de la Terre
+Nombre de planètes : 20
+ 
+3.5 masse de la Terre
+Nombre de planètes : 32
+ 
+3.5 masse de la Terre
+Nombre de planètes : 27
+ 
+3.5 masse de la Terre
+Nombre de planètes : 25
+ 
+3.55 masse de la Terre
+Nombre de planètes : 21
+ 
+3.55 masse de la Terre
+Nombre de planètes : 27
+ 
+3.55 masse de la Terre
+Nombre de planètes : 18
+ 
+3.55 masse de la Terre
+Nombre de planètes : 26
+ 
+3.55 masse de la Terre
+Nombre de planètes : 18
+ 
+3.6 masse de la Terre
+Nombre de planètes : 30
+ 
+3.6 masse de la Terre
+Nombre de planètes : 19
+ 
+3.6 masse de la Terre
+Nombre de planètes : 18
+ 
+3.6 masse de la Terre
+Nombre de planètes : 23
+ 
+3.6 masse de la Terre
+Nombre de planètes : 22
+ 
+3.65 masse de la Terre
+Nombre de planètes : 20
+ 
+3.65 masse de la Terre
+Nombre de planètes : 23
+ 
+3.65 masse de la Terre
+Nombre de planètes : 16
+ 
+3.65 masse de la Terre
+Nombre de planètes : 23
+ 
+3.65 masse de la Terre
+Nombre de planètes : 16
+ 
+3.7 masse de la Terre
+Nombre de planètes : 31
+ 
+3.7 masse de la Terre
+Nombre de planètes : 16
+ 
+3.7 masse de la Terre
+Nombre de planètes : 21
+ 
+3.7 masse de la Terre
+Nombre de planètes : 18
+ 
+3.7 masse de la Terre
+Nombre de planètes : 20
+ 
+3.75 masse de la Terre
+Nombre de planètes : 23
+ 
+3.75 masse de la Terre
+Nombre de planètes : 21
+ 
+3.75 masse de la Terre
+Nombre de planètes : 29
+ 
+3.75 masse de la Terre
+
+ 
+3.75 masse de la Terre
+Nombre de planètes : 18
+ 
+3.8 masse de la Terre
+Nombre de planètes : 15
+ 
+3.8 masse de la Terre
+Nombre de planètes : 23
+ 
+3.8 masse de la Terre
+Nombre de planètes : 23
+ 
+3.8 masse de la Terre
+Nombre de planètes : 13
+ 
+3.8 masse de la Terre
+Nombre de planètes : 16
+ 
+3.85 masse de la Terre
+Nombre de planètes : 15
+ 
+3.85 masse de la Terre
+Nombre de planètes : 25
+ 
+3.85 masse de la Terre
+Nombre de planètes : 12
+ 
+3.85 masse de la Terre
+Nombre de planètes : 18
+ 
+3.85 masse de la Terre
+Nombre de planètes : 22
+ 
+3.9 masse de la Terre
+Nombre de planètes : 19
+ 
+3.9 masse de la Terre
+Nombre de planètes : 21
+ 
+3.9 masse de la Terre
+Nombre de planètes : 22
+ 
+3.9 masse de la Terre
+Nombre de planètes : 32
+ 
+3.9 masse de la Terre
+Nombre de planètes : 15
+ 
+3.95 masse de la Terre
+Nombre de planètes : 17
+ 
+3.95 masse de la Terre
+Nombre de planètes : 25
+ 
+3.95 masse de la Terre
+Nombre de planètes : 30
+ 
+3.95 masse de la Terre
+Nombre de planètes : 14
+ 
+3.95 masse de la Terre
+Nombre de planètes : 23
+ 
+4.0 masse de la Terre
+Nombre de planètes : 29
+ 
+4.0 masse de la Terre
+Nombre de planètes : 27
+ 
+4.0 masse de la Terre
+Nombre de planètes : 24
+ 
+4.0 masse de la Terre
+Nombre de planètes : 24
+ 
+4.0 masse de la Terre
+Nombre de planètes : 24
+ 
+4.05 masse de la Terre
+Nombre de planètes : 23
+ 
+4.05 masse de la Terre
+Nombre de planètes : 21
+ 
+4.05 masse de la Terre
+Nombre de planètes : 30
+ 
+4.05 masse de la Terre
+Nombre de planètes : 15
+ 
+4.05 masse de la Terre
+Nombre de planètes : 23
+ 
+4.1 masse de la Terre
+Nombre de planètes : 27
+ 
+4.1 masse de la Terre
+Nombre de planètes : 31
+ 
+4.1 masse de la Terre
+Nombre de planètes : 23
+ 
+4.1 masse de la Terre
+Nombre de planètes : 26
+ 
+4.1 masse de la Terre
+Nombre de planètes : 24
+ 
+4.15 masse de la Terre
+Nombre de planètes : 25
+ 
+4.15 masse de la Terre
+Nombre de planètes : 22
+ 
+4.15 masse de la Terre
+Nombre de planètes : 12
+ 
+4.15 masse de la Terre
+Nombre de planètes : 22
+ 
+4.15 masse de la Terre
+Nombre de planètes : 16
+ 
+4.2 masse de la Terre
+Nombre de planètes : 22
+ 
+4.2 masse de la Terre
+Nombre de planètes : 14
+ 
+4.2 masse de la Terre
+Nombre de planètes : 34
+ 
+4.2 masse de la Terre
+Nombre de planètes : 18
+ 
+4.2 masse de la Terre
+Nombre de planètes : 20
+ 
+4.25 masse de la Terre
+Nombre de planètes : 20
+ 
+4.25 masse de la Terre
+Nombre de planètes : 28
+ 
+4.25 masse de la Terre
+Nombre de planètes : 24
+ 
+4.25 masse de la Terre
+Nombre de planètes : 15
+ 
+4.25 masse de la Terre
+Nombre de planètes : 32
+ 
+4.3 masse de la Terre
+Nombre de planètes : 22
+ 
+4.3 masse de la Terre
+Nombre de planètes : 21
+ 
+4.3 masse de la Terre
+Nombre de planètes : 27
+ 
+4.3 masse de la Terre
+Nombre de planètes : 17
+ 
+4.3 masse de la Terre
+Nombre de planètes : 22
+ 
+4.35 masse de la Terre
+Nombre de planètes : 21
+ 
+4.35 masse de la Terre
+Nombre de planètes : 20
+ 
+4.35 masse de la Terre
+Nombre de planètes : 18
+ 
+4.35 masse de la Terre
+Nombre de planètes : 22
+ 
+4.35 masse de la Terre
+Nombre de planètes : 18
+ 
+4.4 masse de la Terre
+
+ 
+4.4 masse de la Terre
+Nombre de planètes : 19
+ 
+4.4 masse de la Terre
+Nombre de planètes : 26
+ 
+4.4 masse de la Terre
+Nombre de planètes : 26
+ 
+4.4 masse de la Terre
+
+ 
+4.45 masse de la Terre
+Nombre de planètes : 16
+ 
+4.45 masse de la Terre
+Nombre de planètes : 22
+ 
+4.45 masse de la Terre
+Nombre de planètes : 17
+ 
+4.45 masse de la Terre
+Nombre de planètes : 22
+ 
+4.45 masse de la Terre
+Nombre de planètes : 24
+ 
+4.5 masse de la Terre
+Nombre de planètes : 21
+ 
+4.5 masse de la Terre
+Nombre de planètes : 26
+ 
+4.5 masse de la Terre
+Nombre de planètes : 11
+ 
+4.5 masse de la Terre
+Nombre de planètes : 24
+ 
+4.5 masse de la Terre
+Nombre de planètes : 27
+ 
+4.55 masse de la Terre
+Nombre de planètes : 25
+ 
+4.55 masse de la Terre
+Nombre de planètes : 16
+ 
+4.55 masse de la Terre
+Nombre de planètes : 17
+ 
+4.55 masse de la Terre
+Nombre de planètes : 17
+ 
+4.55 masse de la Terre
+Nbr orbites : 0
+ 
+4.6 masse de la Terre
+Nombre de planètes : 26
+ 
+4.6 masse de la Terre
+Nombre de planètes : 19
+ 
+4.6 masse de la Terre
+Nombre de planètes : 23
+ 
+4.6 masse de la Terre
+Nombre de planètes : 24
+ 
+4.6 masse de la Terre
+Nombre de planètes : 16
+ 
+4.65 masse de la Terre
+Nombre de planètes : 33
+ 
+4.65 masse de la Terre
+Nombre de planètes : 24
+ 
+4.65 masse de la Terre
+Nombre de planètes : 19
+ 
+4.65 masse de la Terre
+Nombre de planètes : 27
+ 
+4.65 masse de la Terre
+Nombre de planètes : 15
+ 
+4.7 masse de la Terre
+Nombre de planètes : 14
+ 
+4.7 masse de la Terre
+Nombre de planètes : 26
+ 
+4.7 masse de la Terre
+Nombre de planètes : 21
+ 
+4.7 masse de la Terre
+Nombre de planètes : 18
+ 
+4.7 masse de la Terre
+Nombre de planètes : 23
+ 
+4.75 masse de la Terre
+Nombre de planètes : 16
+ 
+4.75 masse de la Terre
+Nombre de planètes : 15
+ 
+4.75 masse de la Terre
+Nombre de planètes : 16
+ 
+4.75 masse de la Terre
+Nombre de planètes : 20
+ 
+4.75 masse de la Terre
+Nombre de planètes : 20
+ 
+4.8 masse de la Terre
+Nombre de planètes : 21
+ 
+4.8 masse de la Terre
+Nombre de planètes : 22
+ 
+4.8 masse de la Terre
+Nombre de planètes : 25
+ 
+4.8 masse de la Terre
+Nombre de planètes : 23
+ 
+4.8 masse de la Terre
+Nombre de planètes : 22
+ 
+4.85 masse de la Terre
+Nombre de planètes : 13
+ 
+4.85 masse de la Terre
+Nombre de planètes : 25
+ 
+4.85 masse de la Terre
+Nombre de planètes : 20
+ 
+4.85 masse de la Terre
+Nombre de planètes : 26
+ 
+4.85 masse de la Terre
+Nombre de planètes : 23
+ 
+4.9 masse de la Terre
+Nombre de planètes : 30
+ 
+4.9 masse de la Terre
+Nombre de planètes : 16
+ 
+4.9 masse de la Terre
+Nombre de planètes : 20
+ 
+4.9 masse de la Terre
+Nombre de planètes : 22
+ 
+4.9 masse de la Terre
+Nombre de planètes : 27
+ 
+4.95 masse de la Terre
+Nombre de planètes : 36
+ 
+4.95 masse de la Terre
+Nombre de planètes : 17
+ 
+4.95 masse de la Terre
+Nombre de planètes : 29
+ 
+4.95 masse de la Terre
+Nombre de planètes : 20
+ 
+4.95 masse de la Terre
+Nombre de planètes : 21
+ 
+5.0 masse de la Terre
+Nombre de planètes : 21
+ 
+5.0 masse de la Terre
+Nombre de planètes : 21
+ 
+5.0 masse de la Terre
+Nombre de planètes : 20
+ 
+5.0 masse de la Terre
+Nombre de planètes : 16
+ 
+5.0 masse de la Terre
+Nombre de planètes : 15
+ 
+5.05 masse de la Terre
+Nombre de planètes : 9
+ 
+5.05 masse de la Terre
+Nombre de planètes : 23
+ 
+5.05 masse de la Terre
+Nombre de planètes : 15
+ 
+5.05 masse de la Terre
+Nombre de planètes : 21
+ 
+5.05 masse de la Terre
+Nombre de planètes : 21
+ 
+5.1 masse de la Terre
+Nombre de planètes : 21
+ 
+5.1 masse de la Terre
+Nombre de planètes : 15
+ 
+5.1 masse de la Terre
+Nombre de planètes : 19
+ 
+5.1 masse de la Terre
+Nombre de planètes : 26
+ 
+5.1 masse de la Terre
+Nombre de planètes : 15
+ 
+5.15 masse de la Terre
+Nombre de planètes : 21
+ 
+5.15 masse de la Terre
+Nombre de planètes : 21
+ 
+5.15 masse de la Terre
+Nombre de planètes : 18
+ 
+5.15 masse de la Terre
+Nombre de planètes : 22
+ 
+5.15 masse de la Terre
+Nombre de planètes : 20
+ 
+5.2 masse de la Terre
+Nombre de planètes : 15
+ 
+5.2 masse de la Terre
+Nombre de planètes : 19
+ 
+5.2 masse de la Terre
+Nombre de planètes : 18
+ 
+5.2 masse de la Terre
+Nombre de planètes : 29
+ 
+5.2 masse de la Terre
+Nombre de planètes : 22
+ 
+5.25 masse de la Terre
+Nombre de planètes : 20
+ 
+5.25 masse de la Terre
+Nombre de planètes : 12
+ 
+5.25 masse de la Terre
+Nombre de planètes : 11
+ 
+5.25 masse de la Terre
+Nombre de planètes : 22
+ 
+5.25 masse de la Terre
+Nombre de planètes : 20
+ 
+5.3 masse de la Terre
+Nombre de planètes : 22
+ 
+5.3 masse de la Terre
+Nombre de planètes : 23
+ 
+5.3 masse de la Terre
+Nombre de planètes : 24
+ 
+5.3 masse de la Terre
+Nombre de planètes : 18
+ 
+5.3 masse de la Terre
+Nombre de planètes : 18
+ 
+5.35 masse de la Terre
+Nombre de planètes : 25
+ 
+5.35 masse de la Terre
+Nombre de planètes : 22
+ 
+5.35 masse de la Terre
+
+ 
+5.35 masse de la Terre
+Nombre de planètes : 19
+ 
+5.35 masse de la Terre
+Nombre de planètes : 16
+ 
+5.4 masse de la Terre
+Nombre de planètes : 16
+ 
+5.4 masse de la Terre
+Nombre de planètes : 19
+ 
+5.4 masse de la Terre
+Nombre de planètes : 13
+ 
+5.4 masse de la Terre
+Nombre de planètes : 20
+ 
+5.4 masse de la Terre
+Nombre de planètes : 21
+ 
+5.45 masse de la Terre
+Nombre de planètes : 22
+ 
+5.45 masse de la Terre
+Nombre de planètes : 20
+ 
+5.45 masse de la Terre
+Nombre de planètes : 20
+ 
+5.45 masse de la Terre
+Nombre de planètes : 12
+ 
+5.45 masse de la Terre
+Nombre de planètes : 23
+ 
+5.5 masse de la Terre
+Nombre de planètes : 18
+ 
+5.5 masse de la Terre
+Nombre de planètes : 16
+ 
+5.5 masse de la Terre
+Nombre de planètes : 23
+ 
+5.5 masse de la Terre
+Nombre de planètes : 22
+ 
+5.5 masse de la Terre
+Nombre de planètes : 20
+ 
+5.55 masse de la Terre
+Nombre de planètes : 19
+ 
+5.55 masse de la Terre
+Nombre de planètes : 22
+ 
+5.55 masse de la Terre
+Nombre de planètes : 25
+ 
+5.55 masse de la Terre
+Nombre de planètes : 21
+ 
+5.55 masse de la Terre
+Nombre de planètes : 25
+ 
+5.6 masse de la Terre
+Nombre de planètes : 25
+ 
+5.6 masse de la Terre
+Nombre de planètes : 25
+ 
+5.6 masse de la Terre
+Nbr orbites : 0
+ 
+5.6 masse de la Terre
+Nombre de planètes : 26
+ 
+5.6 masse de la Terre
+Nombre de planètes : 26
+ 
+5.65 masse de la Terre
+Nombre de planètes : 17
+ 
+5.65 masse de la Terre
+Nombre de planètes : 21
+ 
+5.65 masse de la Terre
+
+ 
+5.65 masse de la Terre
+Nombre de planètes : 20
+ 
+5.65 masse de la Terre
+Nombre de planètes : 20
+ 
+5.7 masse de la Terre
+Nombre de planètes : 25
+ 
+5.7 masse de la Terre
+Nombre de planètes : 27
+ 
+5.7 masse de la Terre
+Nombre de planètes : 19
+ 
+5.7 masse de la Terre
+Nombre de planètes : 20
+ 
+5.7 masse de la Terre
+Nombre de planètes : 24
+ 
+5.75 masse de la Terre
+Nombre de planètes : 26
+ 
+5.75 masse de la Terre
+Nombre de planètes : 27
+ 
+5.75 masse de la Terre
+Nombre de planètes : 24
+ 
+5.75 masse de la Terre
+Nombre de planètes : 21
+ 
+5.75 masse de la Terre
+Nombre de planètes : 21
+ 
+5.8 masse de la Terre
+Nombre de planètes : 20
+ 
+5.8 masse de la Terre
+Nombre de planètes : 36
+ 
+5.8 masse de la Terre
+Nombre de planètes : 22
+ 
+5.8 masse de la Terre
+Nombre de planètes : 19
+ 
+5.8 masse de la Terre
+Nombre de planètes : 20
+ 
+5.85 masse de la Terre
+Nombre de planètes : 18
+ 
+5.85 masse de la Terre
+Nombre de planètes : 19
+ 
+5.85 masse de la Terre
+Nombre de planètes : 19
+ 
+5.85 masse de la Terre
+Nombre de planètes : 31
+ 
+5.85 masse de la Terre
+Nombre de planètes : 19
+ 
+5.9 masse de la Terre
+Nombre de planètes : 26
+ 
+5.9 masse de la Terre
+
+ 
+5.9 masse de la Terre
+Nombre de planètes : 21
+ 
+5.9 masse de la Terre
+Nombre de planètes : 17
+ 
+5.9 masse de la Terre
+Nombre de planètes : 29
+ 
+5.95 masse de la Terre
+Nombre de planètes : 21
+ 
+5.95 masse de la Terre
+
+ 
+5.95 masse de la Terre
+Nombre de planètes : 17
+ 
+5.95 masse de la Terre
+Nombre de planètes : 18
+ 
+5.95 masse de la Terre
+Nombre de planètes : 16
+ 
+6.0 masse de la Terre
+Nombre de planètes : 26
+ 
+6.0 masse de la Terre
+Nombre de planètes : 11
+ 
+6.0 masse de la Terre
+Nombre de planètes : 28
+ 
+6.0 masse de la Terre
+Nombre de planètes : 29
+ 
+6.0 masse de la Terre
+Nombre de planètes : 21
+ 
+6.05 masse de la Terre
+Nombre de planètes : 26
+ 
+6.05 masse de la Terre
+Nombre de planètes : 26
+ 
+6.05 masse de la Terre
+Nombre de planètes : 21
+ 
+6.05 masse de la Terre
+Nombre de planètes : 27
+ 
+6.05 masse de la Terre
+Nombre de planètes : 26
+ 
+6.1 masse de la Terre
+Nombre de planètes : 24
+ 
+6.1 masse de la Terre
+Nombre de planètes : 25
+ 
+6.1 masse de la Terre
+Nombre de planètes : 24
+ 
+6.1 masse de la Terre
+Nombre de planètes : 24
+ 
+6.1 masse de la Terre
+Nombre de planètes : 21
+ 
+6.15 masse de la Terre
+Nombre de planètes : 23
+ 
+6.15 masse de la Terre
+Nombre de planètes : 14
+ 
+6.15 masse de la Terre
+Nombre de planètes : 25
+ 
+6.15 masse de la Terre
+
+ 
+6.15 masse de la Terre
+Nombre de planètes : 22
+ 
+6.2 masse de la Terre
+Nombre de planètes : 17
+ 
+6.2 masse de la Terre
+Nombre de planètes : 23
+ 
+6.2 masse de la Terre
+Nombre de planètes : 18
+ 
+6.2 masse de la Terre
+Nombre de planètes : 23
+ 
+6.2 masse de la Terre
+Nbr orbites : 0
+ 
+6.25 masse de la Terre
+Nombre de planètes : 26
+ 
+6.25 masse de la Terre
+Nombre de planètes : 20
+ 
+6.25 masse de la Terre
+Nombre de planètes : 25
+ 
+6.25 masse de la Terre
+Nombre de planètes : 26
+ 
+6.25 masse de la Terre
+Nombre de planètes : 24
+ 
+6.3 masse de la Terre
+Nombre de planètes : 21
+ 
+6.3 masse de la Terre
+Nombre de planètes : 22
+ 
+6.3 masse de la Terre
+Nombre de planètes : 18
+ 
+6.3 masse de la Terre
+Nombre de planètes : 19
+ 
+6.3 masse de la Terre
+Nombre de planètes : 24
+ 
+6.35 masse de la Terre
+Nombre de planètes : 25
+ 
+6.35 masse de la Terre
+Nombre de planètes : 18
+ 
+6.35 masse de la Terre
+Nombre de planètes : 19
+ 
+6.35 masse de la Terre
+Nombre de planètes : 27
+ 
+6.35 masse de la Terre
+Nombre de planètes : 17
+ 
+6.4 masse de la Terre
+Nombre de planètes : 20
+ 
+6.4 masse de la Terre
+Nombre de planètes : 20
+ 
+6.4 masse de la Terre
+Nombre de planètes : 15
+ 
+6.4 masse de la Terre
+Nombre de planètes : 17
+ 
+6.4 masse de la Terre
+Nombre de planètes : 27
+ 
+6.45 masse de la Terre
+Nombre de planètes : 24
+ 
+6.45 masse de la Terre
+Nombre de planètes : 28
+ 
+6.45 masse de la Terre
+Nombre de planètes : 23
+ 
+6.45 masse de la Terre
+Nombre de planètes : 30
+ 
+6.45 masse de la Terre
+Nombre de planètes : 26
+ 
+6.5 masse de la Terre
+Nombre de planètes : 26
+ 
+6.5 masse de la Terre
+Nombre de planètes : 24
+ 
+6.5 masse de la Terre
+Nombre de planètes : 18
+ 
+6.5 masse de la Terre
+Nombre de planètes : 36
+ 
+6.5 masse de la Terre
+Nombre de planètes : 29
+ 
+6.55 masse de la Terre
+Nombre de planètes : 11
+ 
+6.55 masse de la Terre
+Nombre de planètes : 24
+ 
+6.55 masse de la Terre
+Nombre de planètes : 24
+ 
+6.55 masse de la Terre
+Nombre de planètes : 12
+ 
+6.55 masse de la Terre
+Nombre de planètes : 25
+ 
+6.6 masse de la Terre
+Nombre de planètes : 23
+ 
+6.6 masse de la Terre
+Nombre de planètes : 18
+ 
+6.6 masse de la Terre
+Nombre de planètes : 28
+ 
+6.6 masse de la Terre
+Nombre de planètes : 19
+ 
+6.6 masse de la Terre
+Nombre de planètes : 20
+ 
+6.65 masse de la Terre
+Nombre de planètes : 13
+ 
+6.65 masse de la Terre
+Nombre de planètes : 25
+ 
+6.65 masse de la Terre
+
+ 
+6.65 masse de la Terre
+Nombre de planètes : 21
+ 
+6.65 masse de la Terre
+Nombre de planètes : 25
+ 
+6.7 masse de la Terre
+Nombre de planètes : 18
+ 
+6.7 masse de la Terre
+Nombre de planètes : 22
+ 
+6.7 masse de la Terre
+Nombre de planètes : 15
+ 
+6.7 masse de la Terre
+Nombre de planètes : 20
+ 
+6.7 masse de la Terre
+Nombre de planètes : 21
+ 
+6.75 masse de la Terre
+Nombre de planètes : 23
+ 
+6.75 masse de la Terre
+Nombre de planètes : 15
+ 
+6.75 masse de la Terre
+Nombre de planètes : 15
+ 
+6.75 masse de la Terre
+Nombre de planètes : 18
+ 
+6.75 masse de la Terre
+Nombre de planètes : 23
+ 
+6.8 masse de la Terre
+Nombre de planètes : 22
+ 
+6.8 masse de la Terre
+Nombre de planètes : 23
+ 
+6.8 masse de la Terre
+Nombre de planètes : 16
+ 
+6.8 masse de la Terre
+Nombre de planètes : 24
+ 
+6.8 masse de la Terre
+Nombre de planètes : 23
+ 
+6.85 masse de la Terre
+Nombre de planètes : 16
+ 
+6.85 masse de la Terre
+Nombre de planètes : 27
+ 
+6.85 masse de la Terre
+Nombre de planètes : 20
+ 
+6.85 masse de la Terre
+Nombre de planètes : 21
+ 
+6.85 masse de la Terre
+Nombre de planètes : 17
+ 
+6.9 masse de la Terre
+Nombre de planètes : 14
+ 
+6.9 masse de la Terre
+Nombre de planètes : 23
+ 
+6.9 masse de la Terre
+Nbr orbites : 0
+ 
+6.9 masse de la Terre
+Nombre de planètes : 16
+ 
+6.9 masse de la Terre
+Nombre de planètes : 24
+ 
+6.95 masse de la Terre
+Nombre de planètes : 27
+ 
+6.95 masse de la Terre
+Nombre de planètes : 16
+ 
+6.95 masse de la Terre
+Nombre de planètes : 29
+ 
+6.95 masse de la Terre
+Nombre de planètes : 20
+ 
+6.95 masse de la Terre
+Nombre de planètes : 35
+ 
+7.0 masse de la Terre
+Nombre de planètes : 24
+ 
+7.0 masse de la Terre
+Nombre de planètes : 28
+ 
+7.0 masse de la Terre
+Nombre de planètes : 19
+ 
+7.0 masse de la Terre
+
+ 
+7.0 masse de la Terre
+Nombre de planètes : 16
+ 
+7.05 masse de la Terre
+Nombre de planètes : 16
+ 
+7.05 masse de la Terre
+Nombre de planètes : 26
+ 
+7.05 masse de la Terre
+Nombre de planètes : 15
+ 
+7.05 masse de la Terre
+Nombre de planètes : 23
+ 
+7.05 masse de la Terre
+Nombre de planètes : 15
+ 
+7.1 masse de la Terre
+Nombre de planètes : 19
+ 
+7.1 masse de la Terre
+
+ 
+7.1 masse de la Terre
+Nombre de planètes : 27
+ 
+7.1 masse de la Terre
+
+ 
+7.1 masse de la Terre
+Nombre de planètes : 17
+ 
+7.15 masse de la Terre
+Nombre de planètes : 23
+ 
+7.15 masse de la Terre
+Nombre de planètes : 28
+ 
+7.15 masse de la Terre
+Nombre de planètes : 14
+ 
+7.15 masse de la Terre
+Nombre de planètes : 19
+ 
+7.15 masse de la Terre
+Nombre de planètes : 13
+ 
+7.2 masse de la Terre
+Nombre de planètes : 29
+ 
+7.2 masse de la Terre
+Nombre de planètes : 19
+ 
+7.2 masse de la Terre
+Nombre de planètes : 32
+ 
+7.2 masse de la Terre
+Nombre de planètes : 22
+ 
+7.2 masse de la Terre
+Nombre de planètes : 14
+ 
+7.25 masse de la Terre
+Nombre de planètes : 18
+ 
+7.25 masse de la Terre
+Nombre de planètes : 16
+ 
+7.25 masse de la Terre
+Nombre de planètes : 20
+ 
+7.25 masse de la Terre
+Nombre de planètes : 17
+ 
+7.25 masse de la Terre
+Nombre de planètes : 26
+ 
+7.3 masse de la Terre
+Nombre de planètes : 22
+ 
+7.3 masse de la Terre
+Nombre de planètes : 18
+ 
+7.3 masse de la Terre
+Nombre de planètes : 19
+ 
+7.3 masse de la Terre
+Nombre de planètes : 21
+ 
+7.3 masse de la Terre
+Nombre de planètes : 24
+ 
+7.35 masse de la Terre
+Nombre de planètes : 18
+ 
+7.35 masse de la Terre
+Nombre de planètes : 28
+ 
+7.35 masse de la Terre
+Nombre de planètes : 28
+ 
+7.35 masse de la Terre
+Nombre de planètes : 15
+ 
+7.35 masse de la Terre
+Nombre de planètes : 24
+ 
+7.4 masse de la Terre
+Nombre de planètes : 22
+ 
+7.4 masse de la Terre
+Nombre de planètes : 30
+ 
+7.4 masse de la Terre
+Nombre de planètes : 29
+ 
+7.4 masse de la Terre
+Nombre de planètes : 20
+ 
+7.4 masse de la Terre
+Nombre de planètes : 21
+ 
+7.45 masse de la Terre
+Nombre de planètes : 12
+ 
+7.45 masse de la Terre
+Nombre de planètes : 30
+ 
+7.45 masse de la Terre
+Nombre de planètes : 36
+ 
+7.45 masse de la Terre
+Nombre de planètes : 20
+ 
+7.45 masse de la Terre
+Nombre de planètes : 20
+ 
+7.5 masse de la Terre
+Nombre de planètes : 13
+ 
+7.5 masse de la Terre
+Nombre de planètes : 20
+ 
+7.5 masse de la Terre
+Nombre de planètes : 22
+ 
+7.5 masse de la Terre
+Nombre de planètes : 24
+ 
+7.5 masse de la Terre
+Nombre de planètes : 19
+ 
+7.55 masse de la Terre
+Nombre de planètes : 20
+ 
+7.55 masse de la Terre
+Nombre de planètes : 14
+ 
+7.55 masse de la Terre
+Nombre de planètes : 25
+ 
+7.55 masse de la Terre
+Nombre de planètes : 17
+ 
+7.55 masse de la Terre
+Nombre de planètes : 28
+ 
+7.6 masse de la Terre
+Nombre de planètes : 19
+ 
+7.6 masse de la Terre
+Nombre de planètes : 19
+ 
+7.6 masse de la Terre
+Nombre de planètes : 25
+ 
+7.6 masse de la Terre
+Nombre de planètes : 25
+ 
+7.6 masse de la Terre
+Nombre de planètes : 22
+ 
+7.65 masse de la Terre
+Nombre de planètes : 9
+ 
+7.65 masse de la Terre
+Nombre de planètes : 19
+ 
+7.65 masse de la Terre
+Nombre de planètes : 11
+ 
+7.65 masse de la Terre
+Nombre de planètes : 19
+ 
+7.65 masse de la Terre
+Nombre de planètes : 23
+ 
+7.7 masse de la Terre
+Nombre de planètes : 21
+ 
+7.7 masse de la Terre
+Nombre de planètes : 16
+ 
+7.7 masse de la Terre
+Nombre de planètes : 25
+ 
+7.7 masse de la Terre
+Nombre de planètes : 15
+ 
+7.7 masse de la Terre
+Nombre de planètes : 22
+ 
+7.75 masse de la Terre
+Nombre de planètes : 28
+ 
+7.75 masse de la Terre
+Nombre de planètes : 21
+ 
+7.75 masse de la Terre
+Nombre de planètes : 23
+ 
+7.75 masse de la Terre
+Nombre de planètes : 22
+ 
+7.75 masse de la Terre
+Nombre de planètes : 18
+ 
+7.8 masse de la Terre
+Nombre de planètes : 22
+ 
+7.8 masse de la Terre
+Nombre de planètes : 26
+ 
+7.8 masse de la Terre
+Nombre de planètes : 19
+ 
+7.8 masse de la Terre
+Nombre de planètes : 20
+ 
+7.8 masse de la Terre
+Nombre de planètes : 29
+ 
+7.85 masse de la Terre
+Nombre de planètes : 17
+ 
+7.85 masse de la Terre
+Nombre de planètes : 18
+ 
+7.85 masse de la Terre
+Nombre de planètes : 20
+ 
+7.85 masse de la Terre
+Nombre de planètes : 21
+ 
+7.85 masse de la Terre
+Nbr orbites : 0
+ 
+7.9 masse de la Terre
+Nombre de planètes : 13
+ 
+7.9 masse de la Terre
+Nombre de planètes : 16
+ 
+7.9 masse de la Terre
+Nombre de planètes : 23
+ 
+7.9 masse de la Terre
+Nombre de planètes : 20
+ 
+7.9 masse de la Terre
+Nombre de planètes : 29
+ 
+7.95 masse de la Terre
+Nombre de planètes : 17
+ 
+7.95 masse de la Terre
+Nombre de planètes : 30
+ 
+7.95 masse de la Terre
+Nombre de planètes : 17
+ 
+7.95 masse de la Terre
+Nombre de planètes : 18
+ 
+7.95 masse de la Terre
+Nombre de planètes : 17
+ 
+8.0 masse de la Terre
+Nombre de planètes : 25
+ 
+8.0 masse de la Terre
+Nombre de planètes : 21
+ 
+8.0 masse de la Terre
+Nombre de planètes : 16
+ 
+8.0 masse de la Terre
+Nombre de planètes : 15
+ 
+8.0 masse de la Terre
+Nombre de planètes : 11
+ 

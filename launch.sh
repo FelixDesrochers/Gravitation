@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-for i in `seq 0.3 0.05 8`
+for i in `seq 0.5 59.5`
 do
     for j in 1 2 3 4 5
     do

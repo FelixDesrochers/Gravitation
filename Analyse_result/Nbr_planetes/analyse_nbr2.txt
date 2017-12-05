@@ -1,0 +1,4560 @@
+50 planetes
+Nombre de planètes : 5
+Masse planète mère : 7.618006028890397e+26
+Nbr orbites : 1
+stabilité : True
+ 
+50 planetes
+Nombre de planètes : 8
+Masse planète mère : 6.515888615643015e+26
+Nbr orbites : 2
+stabilité : True
+ 
+50 planetes
+Nombre de planètes : 9
+Masse planète mère : 6.624121844422142e+26
+Nbr orbites : 3
+stabilité : True
+ 
+50 planetes
+Nombre de planètes : 12
+Masse planète mère : 4.836073264113189e+26
+Nbr orbites : 0
+stabilité : False
+ 
+50 planetes
+Nombre de planètes : 7
+Masse planète mère : 7.388049253403158e+26
+Nbr orbites : 0
+stabilité : False
+ 
+51 planetes
+Nombre de planètes : 12
+Masse planète mère : 5.241299804524845e+26
+Nbr orbites : 3
+stabilité : True
+ 
+51 planetes
+Nombre de planètes : 9
+Masse planète mère : 6.481110520832176e+26
+Nbr orbites : 2
+stabilité : True
+ 
+51 planetes
+Nombre de planètes : 13
+Masse planète mère : 6.40827029437338e+26
+Nbr orbites : 4
+stabilité : True
+ 
+51 planetes
+Nombre de planètes : 8
+Masse planète mère : 7.143422903758121e+26
+Nbr orbites : 1
+stabilité : True
+ 
+51 planetes
+Nombre de planètes : 11
+Masse planète mère : 6.0247683639300667e+26
+Nbr orbites : 3
+stabilité : True
+ 
+52 planetes
+Nombre de planètes : 13
+Masse planète mère : 5.871181350636895e+26
+Nbr orbites : 0
+stabilité : False
+ 
+52 planetes
+Nombre de planètes : 10
+Masse planète mère : 4.0897459924622885e+26
+Nbr orbites : 2
+stabilité : True
+ 
+52 planetes
+Nombre de planètes : 14
+Masse planète mère : 5.926584155848188e+26
+Nbr orbites : 3
+stabilité : True
+ 
+52 planetes
+Nombre de planètes : 18
+Masse planète mère : 5.60237053898822e+26
+Nbr orbites : 2
+stabilité : True
+ 
+52 planetes
+Nombre de planètes : 12
+Masse planète mère : 2.438307070939191e+26
+Nbr orbites : 2
+stabilité : True
+ 
+53 planetes
+
+# Essai 53 - 2
+lz_max: 2.498834547058924e+36
+nombre de planètes : 53
+ 
+53 planetes
+Nombre de planètes : 12
+Masse planète mère : 4.650385952466242e+26
+Nbr orbites : 3
+stabilité : True
+ 
+53 planetes
+Nombre de planètes : 20
+Masse planète mère : 2.5011867625135333e+26
+Nbr orbites : 0
+stabilité : False
+ 
+53 planetes
+Nombre de planètes : 8
+Masse planète mère : 7.265643247485925e+26
+Nbr orbites : 4
+stabilité : True
+ 
+53 planetes
+Nombre de planètes : 15
+Masse planète mère : 7.226252269900529e+26
+Nbr orbites : 3
+stabilité : True
+ 
+54 planetes
+Nombre de planètes : 17
+Masse planète mère : 4.540160797785246e+26
+Nbr orbites : 4
+stabilité : True
+ 
+54 planetes
+Nombre de planètes : 10
+Masse planète mère : 1.1945526896710222e+26
+Nbr orbites : 0
+stabilité : False
+ 
+54 planetes
+Nombre de planètes : 13
+Masse planète mère : 6.787079209383915e+26
+Nbr orbites : 4
+stabilité : True
+ 
+54 planetes
+Nombre de planètes : 14
+Masse planète mère : 5.237319195515811e+26
+Nbr orbites : 1
+stabilité : True
+ 
+54 planetes
+Nombre de planètes : 9
+Masse planète mère : 7.822318819263741e+26
+Nbr orbites : 0
+stabilité : False
+ 
+55 planetes
+Nombre de planètes : 10
+Masse planète mère : 7.448308958154334e+26
+Nbr orbites : 1
+stabilité : True
+ 
+55 planetes
+Nombre de planètes : 14
+Masse planète mère : 4.208684449693007e+26
+Nbr orbites : 2
+stabilité : True
+ 
+55 planetes
+Nombre de planètes : 10
+Masse planète mère : 5.778659157898628e+26
+Nbr orbites : 1
+stabilité : True
+ 
+55 planetes
+Nombre de planètes : 14
+Masse planète mère : 6.311948456986467e+26
+Nbr orbites : 2
+stabilité : True
+ 
+55 planetes
+Nombre de planètes : 10
+Masse planète mère : 6.174470865325921e+26
+Nbr orbites : 2
+stabilité : True
+ 
+56 planetes
+Nombre de planètes : 17
+Masse planète mère : 2.3604854207013072e+25
+Nbr orbites : 0
+stabilité : False
+ 
+56 planetes
+Nombre de planètes : 12
+Masse planète mère : 4.459789990920495e+26
+Nbr orbites : 4
+stabilité : True
+ 
+56 planetes
+Nombre de planètes : 8
+Masse planète mère : 8.41610286650045e+26
+Nbr orbites : 1
+stabilité : True
+ 
+56 planetes
+Nombre de planètes : 15
+Masse planète mère : 5.4527978371352055e+26
+Nbr orbites : 1
+stabilité : True
+ 
+56 planetes
+Nombre de planètes : 13
+Masse planète mère : 2.1094944850045225e+26
+Nbr orbites : 3
+stabilité : True
+ 
+57 planetes
+Nombre de planètes : 13
+Masse planète mère : 6.336291361231588e+26
+Nbr orbites : 4
+stabilité : True
+ 
+57 planetes
+Nombre de planètes : 11
+Masse planète mère : 6.174723986858084e+26
+Nbr orbites : 1
+stabilité : True
+ 
+57 planetes
+Nombre de planètes : 17
+Masse planète mère : 3.3798538396150046e+26
+Nbr orbites : 0
+stabilité : False
+ 
+57 planetes
+Nombre de planètes : 18
+Masse planète mère : 5.392134515461792e+26
+Nbr orbites : 0
+stabilité : False
+ 
+57 planetes
+Nombre de planètes : 10
+Masse planète mère : 6.703585508256394e+26
+Nbr orbites : 1
+stabilité : True
+ 
+58 planetes
+Nombre de planètes : 12
+Masse planète mère : 6.890348273018127e+26
+Nbr orbites : 1
+stabilité : True
+ 
+58 planetes
+Nombre de planètes : 13
+Masse planète mère : 6.5477889105634e+26
+Nbr orbites : 2
+stabilité : True
+ 
+58 planetes
+Nombre de planètes : 7
+Masse planète mère : 7.621936095313529e+26
+Nbr orbites : 3
+stabilité : True
+ 
+58 planetes
+Nombre de planètes : 14
+Masse planète mère : 2.647802539867409e+25
+Nbr orbites : 0
+stabilité : False
+ 
+58 planetes
+Nombre de planètes : 10
+Masse planète mère : 6.327645530648632e+26
+Nbr orbites : 4
+stabilité : True
+ 
+59 planetes
+Nombre de planètes : 9
+Masse planète mère : 7.21135080283156e+26
+Nbr orbites : 3
+stabilité : True
+ 
+59 planetes
+Nombre de planètes : 17
+Masse planète mère : 2.872417993507053e+26
+Nbr orbites : 0
+stabilité : False
+ 
+59 planetes
+Nombre de planètes : 9
+Masse planète mère : 7.516318588588437e+26
+Nbr orbites : 2
+stabilité : True
+ 
+59 planetes
+Nombre de planètes : 13
+Masse planète mère : 3.893943311558024e+26
+Nbr orbites : 3
+stabilité : True
+ 
+59 planetes
+Nombre de planètes : 9
+Masse planète mère : 4.349922521282929e+26
+Nbr orbites : 4
+stabilité : True
+ 
+60 planetes
+Nombre de planètes : 9
+Masse planète mère : 8.318552660930412e+26
+Nbr orbites : 0
+stabilité : False
+ 
+60 planetes
+Nombre de planètes : 11
+Masse planète mère : 8.136117319929803e+26
+Nbr orbites : 6
+stabilité : True
+ 
+60 planetes
+Nombre de planètes : 10
+Masse planète mère : 6.799348087014604e+26
+Nbr orbites : 3
+stabilité : True
+ 
+60 planetes
+Nombre de planètes : 12
+Masse planète mère : 6.346797487384148e+26
+Nbr orbites : 2
+stabilité : True
+ 
+60 planetes
+Nombre de planètes : 15
+Masse planète mère : 4.322051044190702e+26
+Nbr orbites : 2
+stabilité : True
+ 
+61 planetes
+Nombre de planètes : 13
+Masse planète mère : 8.558522310000351e+26
+Nbr orbites : 2
+stabilité : True
+ 
+61 planetes
+Nombre de planètes : 12
+Masse planète mère : 6.290654408478937e+26
+Nbr orbites : 2
+stabilité : True
+ 
+61 planetes
+Nombre de planètes : 18
+Masse planète mère : 6.0140046296144065e+26
+Nbr orbites : 3
+stabilité : True
+ 
+61 planetes
+Nombre de planètes : 11
+Masse planète mère : 5.969778293500296e+26
+Nbr orbites : 2
+stabilité : True
+ 
+61 planetes
+Nombre de planètes : 12
+Masse planète mère : 7.74338113581347e+26
+Nbr orbites : 1
+stabilité : True
+ 
+62 planetes
+Nombre de planètes : 9
+Masse planète mère : 7.477113048073206e+26
+Nbr orbites : 2
+stabilité : True
+ 
+62 planetes
+Nombre de planètes : 12
+Masse planète mère : 3.7187045552875424e+26
+Nbr orbites : 1
+stabilité : True
+ 
+62 planetes
+Nombre de planètes : 8
+Masse planète mère : 9.054579470278097e+26
+Nbr orbites : 3
+stabilité : True
+ 
+62 planetes
+Nombre de planètes : 13
+Masse planète mère : 6.940507806794535e+26
+Nbr orbites : 1
+stabilité : True
+ 
+62 planetes
+Nombre de planètes : 14
+Masse planète mère : 7.587196720576887e+26
+Nbr orbites : 2
+stabilité : True
+ 
+63 planetes
+Nombre de planètes : 13
+Masse planète mère : 8.799384906770448e+26
+Nbr orbites : 2
+stabilité : True
+ 
+63 planetes
+Nombre de planètes : 8
+Masse planète mère : 9.549964386125907e+26
+Nbr orbites : 1
+stabilité : True
+ 
+63 planetes
+Nombre de planètes : 11
+Masse planète mère : 7.621093821032243e+26
+Nbr orbites : 1
+stabilité : True
+ 
+63 planetes
+Nombre de planètes : 8
+Masse planète mère : 6.245456475376602e+26
+Nbr orbites : 3
+stabilité : True
+ 
+63 planetes
+Nombre de planètes : 11
+Masse planète mère : 5.8815589741921694e+26
+Nbr orbites : 3
+stabilité : True
+ 
+64 planetes
+Nombre de planètes : 14
+Masse planète mère : 6.313790351313946e+26
+Nbr orbites : 2
+stabilité : True
+ 
+64 planetes
+Nombre de planètes : 9
+Masse planète mère : 9.253837443099491e+26
+Nbr orbites : 1
+stabilité : True
+ 
+64 planetes
+Nombre de planètes : 7
+Masse planète mère : 9.785607485875547e+26
+Nbr orbites : 2
+stabilité : True
+ 
+64 planetes
+Nombre de planètes : 8
+Masse planète mère : 9.181335532677246e+26
+Nbr orbites : 1
+stabilité : True
+ 
+64 planetes
+Nombre de planètes : 12
+Masse planète mère : 7.175970903052647e+26
+Nbr orbites : 3
+stabilité : True
+ 
+65 planetes
+Nombre de planètes : 15
+Masse planète mère : 6.996554553572167e+26
+Nbr orbites : 0
+stabilité : False
+ 
+65 planetes
+Nombre de planètes : 15
+Masse planète mère : 5.198586360330172e+26
+Nbr orbites : 1
+stabilité : True
+ 
+65 planetes
+Nombre de planètes : 15
+Masse planète mère : 5.004432090318456e+26
+Nbr orbites : 5
+stabilité : True
+ 
+65 planetes
+Nombre de planètes : 9
+Masse planète mère : 4.275128545559173e+26
+Nbr orbites : 0
+stabilité : False
+ 
+65 planetes
+Nombre de planètes : 13
+Masse planète mère : 8.502548355733935e+26
+Nbr orbites : 2
+stabilité : True
+ 
+66 planetes
+Nombre de planètes : 12
+Masse planète mère : 8.714779289888008e+26
+Nbr orbites : 1
+stabilité : True
+ 
+66 planetes
+Nombre de planètes : 21
+Masse planète mère : 3.022329270745763e+26
+Nbr orbites : 4
+stabilité : True
+ 
+66 planetes
+Nombre de planètes : 13
+Masse planète mère : 8.164106563980934e+26
+Nbr orbites : 2
+stabilité : True
+ 
+66 planetes
+Nombre de planètes : 15
+Masse planète mère : 7.340028825036998e+26
+Nbr orbites : 0
+stabilité : False
+ 
+66 planetes
+Nombre de planètes : 18
+Masse planète mère : 5.8448456319030096e+26
+Nbr orbites : 1
+stabilité : True
+ 
+67 planetes
+Nombre de planètes : 12
+Masse planète mère : 8.109685111362341e+26
+Nbr orbites : 1
+stabilité : True
+ 
+67 planetes
+Nombre de planètes : 7
+Masse planète mère : 8.283907267128545e+26
+Nbr orbites : 1
+stabilité : True
+ 
+67 planetes
+Nombre de planètes : 9
+Masse planète mère : 8.355649563870807e+26
+Nbr orbites : 1
+stabilité : True
+ 
+67 planetes
+Nombre de planètes : 8
+Masse planète mère : 1.0289651957146441e+27
+Nbr orbites : 3
+stabilité : True
+ 
+67 planetes
+Nombre de planètes : 19
+Masse planète mère : 6.342996193419577e+26
+Nbr orbites : 2
+stabilité : True
+ 
+68 planetes
+Nombre de planètes : 14
+Masse planète mère : 8.97766779308859e+26
+Nbr orbites : 1
+stabilité : True
+ 
+68 planetes
+Nombre de planètes : 9
+Masse planète mère : 8.507578182679173e+26
+Nbr orbites : 1
+stabilité : True
+ 
+68 planetes
+Nombre de planètes : 10
+Masse planète mère : 9.84137733909894e+26
+Nbr orbites : 3
+stabilité : True
+ 
+68 planetes
+Nombre de planètes : 12
+Masse planète mère : 8.880326612567074e+26
+Nbr orbites : 1
+stabilité : True
+ 
+68 planetes
+Nombre de planètes : 9
+Masse planète mère : 9.489014282569687e+26
+Nbr orbites : 2
+stabilité : True
+ 
+69 planetes
+Nombre de planètes : 12
+Masse planète mère : 1.0045525668173128e+27
+Nbr orbites : 3
+stabilité : True
+ 
+69 planetes
+Nombre de planètes : 12
+Masse planète mère : 8.26385225066545e+26
+Nbr orbites : 0
+stabilité : False
+ 
+69 planetes
+Nombre de planètes : 7
+Masse planète mère : 1.0922562109163077e+27
+Nbr orbites : 2
+stabilité : True
+ 
+69 planetes
+Nombre de planètes : 13
+Masse planète mère : 8.174199986755313e+26
+Nbr orbites : 2
+stabilité : True
+ 
+69 planetes
+Nombre de planètes : 16
+Masse planète mère : 8.74322917596036e+26
+Nbr orbites : 2
+stabilité : True
+ 
+70 planetes
+Nombre de planètes : 14
+Masse planète mère : 6.554598553746852e+26
+Nbr orbites : 4
+stabilité : True
+ 
+70 planetes
+Nombre de planètes : 15
+Masse planète mère : 4.31506025110144e+26
+Nbr orbites : 3
+stabilité : True
+ 
+70 planetes
+Nombre de planètes : 16
+Masse planète mère : 8.393183594775069e+26
+Nbr orbites : 3
+stabilité : True
+ 
+70 planetes
+Nombre de planètes : 14
+Masse planète mère : 8.912819503313375e+26
+Nbr orbites : 3
+stabilité : True
+ 
+70 planetes
+Nombre de planètes : 11
+Masse planète mère : 9.445565080940352e+26
+Nbr orbites : 4
+stabilité : True
+ 
+71 planetes
+Nombre de planètes : 13
+Masse planète mère : 1.0497337629963697e+27
+Nbr orbites : 3
+stabilité : True
+ 
+71 planetes
+Nombre de planètes : 16
+Masse planète mère : 3.754113052320387e+26
+Nbr orbites : 3
+stabilité : True
+ 
+71 planetes
+Nombre de planètes : 9
+Masse planète mère : 6.89579725015442e+26
+Nbr orbites : 2
+stabilité : True
+ 
+71 planetes
+Nombre de planètes : 21
+Masse planète mère : 5.81847739704724e+26
+Nbr orbites : 2
+stabilité : True
+ 
+71 planetes
+Nombre de planètes : 12
+Masse planète mère : 8.73212456250703e+26
+Nbr orbites : 2
+stabilité : True
+ 
+72 planetes
+Nombre de planètes : 18
+Masse planète mère : 4.380628825107916e+26
+Nbr orbites : 3
+stabilité : True
+ 
+72 planetes
+Nombre de planètes : 17
+Masse planète mère : 8.381707334055702e+26
+Nbr orbites : 2
+stabilité : True
+ 
+72 planetes
+Nombre de planètes : 13
+Masse planète mère : 7.176372159267761e+26
+Nbr orbites : 1
+stabilité : True
+ 
+72 planetes
+Nombre de planètes : 12
+Masse planète mère : 1.05669921424964e+27
+Nbr orbites : 3
+stabilité : True
+ 
+72 planetes
+Nombre de planètes : 16
+Masse planète mère : 1.0162231641762267e+27
+Nbr orbites : 2
+stabilité : True
+ 
+73 planetes
+
+# Essai 73 - 2
+lz_max: 2.451931765754877e+36
+nombre de planètes : 73
+ 
+73 planetes
+Nombre de planètes : 11
+Masse planète mère : 1.0237303524106359e+27
+Nbr orbites : 1
+stabilité : True
+ 
+73 planetes
+Nombre de planètes : 17
+Masse planète mère : 7.029818760486626e+26
+Nbr orbites : 2
+stabilité : True
+ 
+73 planetes
+Nombre de planètes : 10
+Masse planète mère : 9.35629539919795e+26
+Nbr orbites : 2
+stabilité : True
+ 
+73 planetes
+Nombre de planètes : 12
+Masse planète mère : 1.0153443707644747e+27
+Nbr orbites : 3
+stabilité : True
+ 
+74 planetes
+Nombre de planètes : 19
+Masse planète mère : 6.726479303751696e+26
+Nbr orbites : 2
+stabilité : True
+ 
+74 planetes
+Nombre de planètes : 18
+Masse planète mère : 8.421825446126178e+26
+Nbr orbites : 2
+stabilité : True
+ 
+74 planetes
+Nombre de planètes : 15
+Masse planète mère : 7.037470042319917e+26
+Nbr orbites : 1
+stabilité : True
+ 
+74 planetes
+Nombre de planètes : 18
+Masse planète mère : 5.754737672185926e+26
+Nbr orbites : 0
+stabilité : False
+ 
+74 planetes
+Nombre de planètes : 12
+Masse planète mère : 9.282776645966533e+26
+Nbr orbites : 1
+stabilité : True
+ 
+75 planetes
+Nombre de planètes : 16
+Masse planète mère : 7.735956140206687e+26
+Nbr orbites : 4
+stabilité : True
+ 
+75 planetes
+Nombre de planètes : 13
+Masse planète mère : 8.36400457469351e+26
+Nbr orbites : 1
+stabilité : True
+ 
+75 planetes
+Nombre de planètes : 10
+Masse planète mère : 1.0858558558261307e+27
+Nbr orbites : 3
+stabilité : True
+ 
+75 planetes
+Nombre de planètes : 14
+Masse planète mère : 7.720104454366099e+26
+Nbr orbites : 2
+stabilité : True
+ 
+75 planetes
+Nombre de planètes : 17
+Masse planète mère : 8.97022765535502e+26
+Nbr orbites : 3
+stabilité : True
+ 
+76 planetes
+Nombre de planètes : 13
+Masse planète mère : 1.0297659688950221e+27
+Nbr orbites : 3
+stabilité : True
+ 
+76 planetes
+Nombre de planètes : 12
+Masse planète mère : 9.053506565458185e+26
+Nbr orbites : 2
+stabilité : True
+ 
+76 planetes
+Nombre de planètes : 13
+Masse planète mère : 1.0772685098696702e+27
+Nbr orbites : 2
+stabilité : True
+ 
+76 planetes
+Nombre de planètes : 12
+Masse planète mère : 9.479176187783063e+26
+Nbr orbites : 1
+stabilité : True
+ 
+76 planetes
+Nombre de planètes : 20
+Masse planète mère : 1.5917994349507724e+26
+Nbr orbites : 0
+stabilité : False
+ 
+77 planetes
+Nombre de planètes : 14
+Masse planète mère : 3.802999219501359e+26
+Nbr orbites : 0
+stabilité : False
+ 
+77 planetes
+Nombre de planètes : 25
+Masse planète mère : 2.533430932910171e+26
+Nbr orbites : 1
+stabilité : True
+ 
+77 planetes
+Nombre de planètes : 20
+Masse planète mère : 7.532429443095102e+26
+Nbr orbites : 4
+stabilité : True
+ 
+77 planetes
+Nombre de planètes : 17
+Masse planète mère : 7.858838503996124e+26
+Nbr orbites : 3
+stabilité : True
+ 
+77 planetes
+Nombre de planètes : 12
+Masse planète mère : 9.128011544700627e+26
+Nbr orbites : 1
+stabilité : True
+ 
+78 planetes
+Nombre de planètes : 14
+Masse planète mère : 8.399711667058536e+26
+Nbr orbites : 4
+stabilité : True
+ 
+78 planetes
+Nombre de planètes : 10
+Masse planète mère : 7.524590668402965e+26
+Nbr orbites : 2
+stabilité : True
+ 
+78 planetes
+Nombre de planètes : 6
+Masse planète mère : 1.2286359297545e+27
+Nbr orbites : 2
+stabilité : True
+ 
+78 planetes
+Nombre de planètes : 19
+Masse planète mère : 7.65923278479649e+26
+Nbr orbites : 0
+stabilité : False
+ 
+78 planetes
+Nombre de planètes : 10
+Masse planète mère : 9.155232837808566e+26
+Nbr orbites : 3
+stabilité : True
+ 
+79 planetes
+Nombre de planètes : 13
+Masse planète mère : 7.245716638988113e+26
+Nbr orbites : 2
+stabilité : True
+ 
+79 planetes
+Nombre de planètes : 13
+Masse planète mère : 1.0408457272406852e+27
+Nbr orbites : 2
+stabilité : True
+ 
+79 planetes
+Nombre de planètes : 15
+Masse planète mère : 8.901465542484838e+26
+Nbr orbites : 2
+stabilité : True
+ 
+79 planetes
+Nombre de planètes : 7
+Masse planète mère : 1.1299596663794972e+27
+Nbr orbites : 0
+stabilité : False
+ 
+79 planetes
+Nombre de planètes : 9
+Masse planète mère : 5.930346688390641e+26
+Nbr orbites : 2
+stabilité : True
+ 
+80 planetes
+Nombre de planètes : 9
+Masse planète mère : 1.273599850204925e+27
+Nbr orbites : 2
+stabilité : True
+ 
+80 planetes
+Nombre de planètes : 10
+Masse planète mère : 1.149768202477444e+27
+Nbr orbites : 3
+stabilité : True
+ 
+80 planetes
+Nombre de planètes : 13
+Masse planète mère : 9.933877412709609e+26
+Nbr orbites : 5
+stabilité : True
+ 
+80 planetes
+Nombre de planètes : 21
+Masse planète mère : 7.712986503318091e+26
+Nbr orbites : 2
+stabilité : True
+ 
+80 planetes
+Nombre de planètes : 15
+Masse planète mère : 6.767045181398228e+26
+Nbr orbites : 3
+stabilité : True
+ 
+81 planetes
+Nombre de planètes : 20
+Masse planète mère : 7.342373169311159e+26
+Nbr orbites : 3
+stabilité : True
+ 
+81 planetes
+Nombre de planètes : 11
+Masse planète mère : 9.285744325985032e+26
+Nbr orbites : 1
+stabilité : True
+ 
+81 planetes
+Nombre de planètes : 17
+Masse planète mère : 8.745743009963538e+26
+Nbr orbites : 1
+stabilité : True
+ 
+81 planetes
+Nombre de planètes : 19
+Masse planète mère : 7.674070377340313e+26
+Nbr orbites : 4
+stabilité : True
+ 
+81 planetes
+Nombre de planètes : 15
+Masse planète mère : 8.426354799659176e+26
+Nbr orbites : 7
+stabilité : True
+ 
+82 planetes
+Nombre de planètes : 13
+Masse planète mère : 8.679061990773372e+26
+Nbr orbites : 2
+stabilité : True
+ 
+82 planetes
+Nombre de planètes : 20
+Masse planète mère : 7.780017121417316e+26
+Nbr orbites : 3
+stabilité : True
+ 
+82 planetes
+Nombre de planètes : 15
+Masse planète mère : 5.905782813691417e+26
+Nbr orbites : 2
+stabilité : True
+ 
+82 planetes
+Nombre de planètes : 16
+Masse planète mère : 5.995600285841067e+26
+Nbr orbites : 2
+stabilité : True
+ 
+82 planetes
+Nombre de planètes : 21
+Masse planète mère : 6.5040625234681e+26
+Nbr orbites : 1
+stabilité : True
+ 
+83 planetes
+Nombre de planètes : 14
+Masse planète mère : 9.752609412734527e+26
+Nbr orbites : 3
+stabilité : True
+ 
+83 planetes
+Nombre de planètes : 11
+Masse planète mère : 1.1701301378073227e+27
+Nbr orbites : 1
+stabilité : True
+ 
+83 planetes
+Nombre de planètes : 19
+Masse planète mère : 6.615988790890487e+26
+Nbr orbites : 1
+stabilité : True
+ 
+83 planetes
+Nombre de planètes : 13
+Masse planète mère : 6.736081839667627e+26
+Nbr orbites : 2
+stabilité : True
+ 
+83 planetes
+Nombre de planètes : 13
+Masse planète mère : 1.0436504393093998e+27
+Nbr orbites : 5
+stabilité : True
+ 
+84 planetes
+Nombre de planètes : 22
+Masse planète mère : 2.059134861984081e+26
+Nbr orbites : 1
+stabilité : True
+ 
+84 planetes
+Nombre de planètes : 14
+Masse planète mère : 6.643637703816578e+26
+Nbr orbites : 1
+stabilité : True
+ 
+84 planetes
+Nombre de planètes : 13
+Masse planète mère : 9.100571602740152e+26
+Nbr orbites : 1
+stabilité : True
+ 
+84 planetes
+Nombre de planètes : 16
+Masse planète mère : 9.815559675712196e+26
+Nbr orbites : 2
+stabilité : True
+ 
+84 planetes
+Nombre de planètes : 17
+Masse planète mère : 1.451137779710011e+26
+Nbr orbites : 0
+stabilité : False
+ 
+85 planetes
+Nombre de planètes : 13
+Masse planète mère : 9.641979769169049e+26
+Nbr orbites : 3
+stabilité : True
+ 
+85 planetes
+Nombre de planètes : 24
+Masse planète mère : 8.259575361032547e+26
+Nbr orbites : 0
+stabilité : False
+ 
+85 planetes
+Nombre de planètes : 15
+Masse planète mère : 9.411321118145877e+26
+Nbr orbites : 0
+stabilité : False
+ 
+85 planetes
+Nombre de planètes : 15
+Masse planète mère : 9.857884998217399e+26
+Nbr orbites : 1
+stabilité : True
+ 
+85 planetes
+Nombre de planètes : 18
+Masse planète mère : 9.087546928353074e+26
+Nbr orbites : 3
+stabilité : True
+ 
+86 planetes
+Nombre de planètes : 13
+Masse planète mère : 9.179771381774636e+26
+Nbr orbites : 3
+stabilité : True
+ 
+86 planetes
+Nombre de planètes : 14
+Masse planète mère : 1.0480325766820636e+27
+Nbr orbites : 0
+stabilité : False
+ 
+86 planetes
+Nombre de planètes : 17
+Masse planète mère : 9.716341118344499e+26
+Nbr orbites : 1
+stabilité : True
+ 
+86 planetes
+Nombre de planètes : 17
+Masse planète mère : 5.2075090864037554e+26
+Nbr orbites : 1
+stabilité : True
+ 
+86 planetes
+Nombre de planètes : 13
+Masse planète mère : 1.1315918371997564e+27
+Nbr orbites : 2
+stabilité : True
+ 
+87 planetes
+Nombre de planètes : 20
+Masse planète mère : 6.907764866042564e+26
+Nbr orbites : 4
+stabilité : True
+ 
+87 planetes
+Nombre de planètes : 23
+Masse planète mère : 2.3768750385331457e+26
+Nbr orbites : 3
+stabilité : True
+ 
+87 planetes
+Nombre de planètes : 11
+Masse planète mère : 1.2468596688722128e+27
+Nbr orbites : 1
+stabilité : True
+ 
+87 planetes
+Nombre de planètes : 12
+Masse planète mère : 9.700521713828522e+26
+Nbr orbites : 4
+stabilité : True
+ 
+87 planetes
+Nombre de planètes : 27
+Masse planète mère : 1.0142440356004653e+26
+Nbr orbites : 0
+stabilité : False
+ 
+88 planetes
+Nombre de planètes : 13
+Masse planète mère : 7.937780953144135e+26
+Nbr orbites : 0
+stabilité : False
+ 
+88 planetes
+Nombre de planètes : 12
+Masse planète mère : 1.0141548671985145e+27
+Nbr orbites : 1
+stabilité : True
+ 
+88 planetes
+Nombre de planètes : 17
+Masse planète mère : 5.541531624357508e+26
+Nbr orbites : 2
+stabilité : True
+ 
+88 planetes
+Nombre de planètes : 16
+Masse planète mère : 9.619716590821646e+26
+Nbr orbites : 2
+stabilité : True
+ 
+88 planetes
+Nombre de planètes : 12
+Masse planète mère : 1.2903538549013298e+27
+Nbr orbites : 2
+stabilité : True
+ 
+89 planetes
+Nombre de planètes : 9
+Masse planète mère : 1.26670252058359e+27
+Nbr orbites : 2
+stabilité : True
+ 
+89 planetes
+Nombre de planètes : 14
+Masse planète mère : 1.0939320945208301e+27
+Nbr orbites : 3
+stabilité : True
+ 
+89 planetes
+Nombre de planètes : 13
+Masse planète mère : 1.1783106931772297e+27
+Nbr orbites : 2
+stabilité : True
+ 
+89 planetes
+Nombre de planètes : 15
+Masse planète mère : 9.449996805968809e+26
+Nbr orbites : 2
+stabilité : True
+ 
+89 planetes
+Nombre de planètes : 16
+Masse planète mère : 4.321477068449722e+26
+Nbr orbites : 0
+stabilité : False
+ 
+90 planetes
+Nombre de planètes : 16
+Masse planète mère : 5.314869232407812e+26
+Nbr orbites : 2
+stabilité : True
+ 
+90 planetes
+Nombre de planètes : 21
+Masse planète mère : 1.643324337902136e+26
+Nbr orbites : 0
+stabilité : False
+ 
+90 planetes
+Nombre de planètes : 16
+Masse planète mère : 8.813688092871959e+26
+Nbr orbites : 2
+stabilité : True
+ 
+90 planetes
+Nombre de planètes : 15
+Masse planète mère : 1.0010129290432836e+27
+Nbr orbites : 1
+stabilité : True
+ 
+90 planetes
+Nombre de planètes : 17
+Masse planète mère : 1.6831253940126044e+26
+Nbr orbites : 0
+stabilité : False
+ 
+91 planetes
+Nombre de planètes : 17
+Masse planète mère : 1.054950538090401e+27
+Nbr orbites : 2
+stabilité : True
+ 
+91 planetes
+Nombre de planètes : 20
+Masse planète mère : 4.740279457411092e+26
+Nbr orbites : 3
+stabilité : True
+ 
+91 planetes
+Nombre de planètes : 18
+Masse planète mère : 8.68415776504804e+26
+Nbr orbites : 3
+stabilité : True
+ 
+91 planetes
+Nombre de planètes : 31
+Masse planète mère : 5.688983388604032e+26
+Nbr orbites : 3
+stabilité : True
+ 
+91 planetes
+Nombre de planètes : 13
+Masse planète mère : 9.817032263175349e+26
+Nbr orbites : 2
+stabilité : True
+ 
+92 planetes
+Nombre de planètes : 16
+Masse planète mère : 8.68479861412604e+26
+Nbr orbites : 3
+stabilité : True
+ 
+92 planetes
+Nombre de planètes : 9
+Masse planète mère : 1.1998764145272419e+27
+Nbr orbites : 1
+stabilité : True
+ 
+92 planetes
+Nombre de planètes : 7
+Masse planète mère : 1.324380739670406e+27
+Nbr orbites : 3
+stabilité : True
+ 
+92 planetes
+Nombre de planètes : 12
+Masse planète mère : 7.393258409902436e+26
+Nbr orbites : 1
+stabilité : True
+ 
+92 planetes
+Nombre de planètes : 14
+Masse planète mère : 1.0029484842881498e+27
+Nbr orbites : 3
+stabilité : True
+ 
+93 planetes
+Nombre de planètes : 14
+Masse planète mère : 9.543212156051194e+26
+Nbr orbites : 2
+stabilité : True
+ 
+93 planetes
+Nombre de planètes : 18
+Masse planète mère : 5.154012264101092e+26
+Nbr orbites : 1
+stabilité : True
+ 
+93 planetes
+Nombre de planètes : 12
+Masse planète mère : 1.0218256712359619e+27
+Nbr orbites : 2
+stabilité : True
+ 
+93 planetes
+Nombre de planètes : 23
+Masse planète mère : 8.443998583458448e+26
+Nbr orbites : 2
+stabilité : True
+ 
+93 planetes
+Nombre de planètes : 16
+Masse planète mère : 1.1260964280353842e+27
+Nbr orbites : 3
+stabilité : True
+ 
+94 planetes
+Nombre de planètes : 24
+Masse planète mère : 8.58410985434618e+26
+Nbr orbites : 2
+stabilité : True
+ 
+94 planetes
+Nombre de planètes : 12
+Masse planète mère : 1.2419997462955516e+27
+Nbr orbites : 1
+stabilité : True
+ 
+94 planetes
+Nombre de planètes : 17
+Masse planète mère : 8.616107322732593e+26
+Nbr orbites : 4
+stabilité : True
+ 
+94 planetes
+Nombre de planètes : 14
+Masse planète mère : 7.974925197722693e+26
+Nbr orbites : 3
+stabilité : True
+ 
+94 planetes
+Nombre de planètes : 14
+Masse planète mère : 1.0332593464860262e+27
+Nbr orbites : 3
+stabilité : True
+ 
+95 planetes
+Nombre de planètes : 19
+Masse planète mère : 5.7258043597389666e+26
+Nbr orbites : 1
+stabilité : True
+ 
+95 planetes
+Nombre de planètes : 22
+Masse planète mère : 8.723203897338527e+26
+Nbr orbites : 1
+stabilité : True
+ 
+95 planetes
+Nombre de planètes : 10
+Masse planète mère : 1.212302047006691e+27
+Nbr orbites : 1
+stabilité : True
+ 
+95 planetes
+Nombre de planètes : 25
+Masse planète mère : 4.279734274171708e+26
+Nbr orbites : 5
+stabilité : True
+ 
+95 planetes
+Nombre de planètes : 22
+Masse planète mère : 1.5385774785905364e+26
+Nbr orbites : 1
+stabilité : True
+ 
+96 planetes
+Nombre de planètes : 16
+Masse planète mère : 1.1528547525068243e+27
+Nbr orbites : 1
+stabilité : True
+ 
+96 planetes
+Nombre de planètes : 17
+Masse planète mère : 1.0454458171575557e+27
+Nbr orbites : 4
+stabilité : True
+ 
+96 planetes
+Nombre de planètes : 25
+Masse planète mère : 2.665027557256706e+26
+Nbr orbites : 1
+stabilité : True
+ 
+96 planetes
+Nombre de planètes : 22
+Masse planète mère : 6.718272473115166e+26
+Nbr orbites : 2
+stabilité : True
+ 
+96 planetes
+Nombre de planètes : 13
+Masse planète mère : 8.567549620988445e+26
+Nbr orbites : 0
+stabilité : False
+ 
+97 planetes
+Nombre de planètes : 18
+Masse planète mère : 1.2682885081895856e+27
+Nbr orbites : 1
+stabilité : True
+ 
+97 planetes
+Nombre de planètes : 10
+Masse planète mère : 1.2229597594541532e+27
+Nbr orbites : 0
+stabilité : False
+ 
+97 planetes
+Nombre de planètes : 13
+Masse planète mère : 1.2187546279186987e+27
+Nbr orbites : 2
+stabilité : True
+ 
+97 planetes
+Nombre de planètes : 11
+Masse planète mère : 1.347876773983595e+27
+Nbr orbites : 3
+stabilité : True
+ 
+97 planetes
+Nombre de planètes : 10
+Masse planète mère : 1.0782927351885067e+27
+Nbr orbites : 1
+stabilité : True
+ 
+98 planetes
+Nombre de planètes : 15
+Masse planète mère : 1.035173796480671e+27
+Nbr orbites : 3
+stabilité : True
+ 
+98 planetes
+Nombre de planètes : 25
+Masse planète mère : 9.508898044367963e+26
+Nbr orbites : 2
+stabilité : True
+ 
+98 planetes
+Nombre de planètes : 15
+Masse planète mère : 7.227856268732614e+26
+Nbr orbites : 2
+stabilité : True
+ 
+98 planetes
+Nombre de planètes : 17
+Masse planète mère : 1.0757666715643766e+27
+Nbr orbites : 4
+stabilité : True
+ 
+98 planetes
+Nombre de planètes : 12
+Masse planète mère : 1.0362513405913015e+27
+Nbr orbites : 1
+stabilité : True
+ 
+99 planetes
+Nombre de planètes : 13
+Masse planète mère : 1.2361716714913807e+27
+Nbr orbites : 2
+stabilité : True
+ 
+99 planetes
+Nombre de planètes : 21
+Masse planète mère : 1.1304958911137444e+27
+Nbr orbites : 4
+stabilité : True
+ 
+99 planetes
+Nombre de planètes : 26
+Masse planète mère : 9.634894290349885e+25
+Nbr orbites : 0
+stabilité : False
+ 
+99 planetes
+Nombre de planètes : 18
+Masse planète mère : 1.1426338094118574e+27
+Nbr orbites : 2
+stabilité : True
+ 
+99 planetes
+Nombre de planètes : 10
+Masse planète mère : 1.5381598310884184e+27
+Nbr orbites : 2
+stabilité : True
+ 
+100 planetes
+Nombre de planètes : 27
+Masse planète mère : 2.2540267240904275e+26
+Nbr orbites : 1
+stabilité : True
+ 
+100 planetes
+Nombre de planètes : 20
+Masse planète mère : 9.358582585819938e+26
+Nbr orbites : 3
+stabilité : True
+ 
+100 planetes
+Nombre de planètes : 25
+Masse planète mère : 6.615019376393056e+26
+Nbr orbites : 1
+stabilité : True
+ 
+100 planetes
+Nombre de planètes : 12
+Masse planète mère : 1.0070332563961197e+27
+Nbr orbites : 2
+stabilité : True
+ 
+100 planetes
+Nombre de planètes : 16
+Masse planète mère : 1.350572427468747e+27
+Nbr orbites : 3
+stabilité : True
+ 
+101 planetes
+Nombre de planètes : 11
+Masse planète mère : 9.590652054084384e+26
+Nbr orbites : 2
+stabilité : True
+ 
+101 planetes
+Nombre de planètes : 14
+Masse planète mère : 1.040917456192057e+27
+Nbr orbites : 1
+stabilité : True
+ 
+101 planetes
+Nombre de planètes : 21
+Masse planète mère : 6.100648819427382e+26
+Nbr orbites : 0
+stabilité : False
+ 
+101 planetes
+Nombre de planètes : 20
+Masse planète mère : 4.340491344365876e+26
+Nbr orbites : 1
+stabilité : True
+ 
+101 planetes
+Nombre de planètes : 17
+Masse planète mère : 1.2781439888168935e+27
+Nbr orbites : 1
+stabilité : True
+ 
+102 planetes
+Nombre de planètes : 23
+Masse planète mère : 9.730115703255268e+26
+Nbr orbites : 5
+stabilité : True
+ 
+102 planetes
+Nombre de planètes : 12
+Masse planète mère : 1.1139420028006711e+27
+Nbr orbites : 1
+stabilité : True
+ 
+102 planetes
+Nombre de planètes : 25
+Masse planète mère : 9.868984838760178e+26
+Nbr orbites : 4
+stabilité : True
+ 
+102 planetes
+Nombre de planètes : 14
+Masse planète mère : 1.0674751485106726e+27
+Nbr orbites : 3
+stabilité : True
+ 
+102 planetes
+Nombre de planètes : 17
+Masse planète mère : 1.0328900175942141e+27
+Nbr orbites : 2
+stabilité : True
+ 
+103 planetes
+Nombre de planètes : 11
+Masse planète mère : 1.3141236378347637e+27
+Nbr orbites : 1
+stabilité : True
+ 
+103 planetes
+Nombre de planètes : 14
+Masse planète mère : 1.3451283524903663e+27
+Nbr orbites : 1
+stabilité : True
+ 
+103 planetes
+Nombre de planètes : 22
+Masse planète mère : 4.8629994222446346e+26
+Nbr orbites : 0
+stabilité : False
+ 
+103 planetes
+Nombre de planètes : 14
+Masse planète mère : 1.0177410043049966e+27
+Nbr orbites : 1
+stabilité : True
+ 
+103 planetes
+Nombre de planètes : 14
+Masse planète mère : 1.0801395201129186e+27
+Nbr orbites : 1
+stabilité : True
+ 
+104 planetes
+Nombre de planètes : 10
+Masse planète mère : 1.325054981164793e+27
+Nbr orbites : 2
+stabilité : True
+ 
+104 planetes
+Nombre de planètes : 18
+Masse planète mère : 9.631607012775916e+26
+Nbr orbites : 0
+stabilité : False
+ 
+104 planetes
+Nombre de planètes : 14
+Masse planète mère : 1.2735163328230145e+27
+Nbr orbites : 4
+stabilité : True
+ 
+104 planetes
+Nombre de planètes : 14
+Masse planète mère : 1.0606497549874649e+27
+Nbr orbites : 1
+stabilité : True
+ 
+104 planetes
+Nombre de planètes : 16
+Masse planète mère : 1.1559515849788001e+27
+Nbr orbites : 0
+stabilité : False
+ 
+105 planetes
+Nombre de planètes : 25
+Masse planète mère : 5.88500991906423e+26
+Nbr orbites : 3
+stabilité : True
+ 
+105 planetes
+Nombre de planètes : 17
+Masse planète mère : 1.1662993130719268e+27
+Nbr orbites : 3
+stabilité : True
+ 
+105 planetes
+Nombre de planètes : 16
+Masse planète mère : 1.1986317331623132e+27
+Nbr orbites : 1
+stabilité : True
+ 
+105 planetes
+Nombre de planètes : 17
+Masse planète mère : 1.3467318474781228e+27
+Nbr orbites : 4
+stabilité : True
+ 
+105 planetes
+Nombre de planètes : 14
+Masse planète mère : 1.0921323632110515e+27
+Nbr orbites : 3
+stabilité : True
+ 
+106 planetes
+Nombre de planètes : 20
+Masse planète mère : 9.793851635160862e+26
+Nbr orbites : 5
+stabilité : True
+ 
+106 planetes
+Nombre de planètes : 13
+Masse planète mère : 1.292645347430174e+27
+Nbr orbites : 3
+stabilité : True
+ 
+106 planetes
+Nombre de planètes : 14
+Masse planète mère : 1.2381582860638668e+27
+Nbr orbites : 2
+stabilité : True
+ 
+106 planetes
+Nombre de planètes : 20
+Masse planète mère : 1.2725735557907362e+27
+Nbr orbites : 1
+stabilité : True
+ 
+106 planetes
+Nombre de planètes : 15
+Masse planète mère : 5.4479436816372005e+26
+Nbr orbites : 3
+stabilité : True
+ 
+107 planetes
+Nombre de planètes : 12
+Masse planète mère : 6.992143776631709e+26
+Nbr orbites : 0
+stabilité : False
+ 
+107 planetes
+Nombre de planètes : 27
+Masse planète mère : 1.22816219690737e+27
+Nbr orbites : 4
+stabilité : True
+ 
+107 planetes
+Nombre de planètes : 19
+Masse planète mère : 1.2250947754766008e+27
+Nbr orbites : 4
+stabilité : True
+ 
+107 planetes
+Nombre de planètes : 17
+Masse planète mère : 1.3724290787219934e+27
+Nbr orbites : 3
+stabilité : True
+ 
+107 planetes
+Nombre de planètes : 17
+Masse planète mère : 8.100922616298593e+26
+Nbr orbites : 1
+stabilité : True
+ 
+108 planetes
+Nombre de planètes : 16
+Masse planète mère : 1.5323861132960738e+27
+Nbr orbites : 5
+stabilité : True
+ 
+108 planetes
+Nombre de planètes : 15
+Masse planète mère : 1.3796368929960684e+27
+Nbr orbites : 4
+stabilité : True
+ 
+108 planetes
+Nombre de planètes : 11
+Masse planète mère : 9.509816721701545e+26
+Nbr orbites : 1
+stabilité : True
+ 
+108 planetes
+Nombre de planètes : 15
+Masse planète mère : 1.0377174597903758e+27
+Nbr orbites : 5
+stabilité : True
+ 
+108 planetes
+Nombre de planètes : 21
+Masse planète mère : 5.6356851495831576e+26
+Nbr orbites : 0
+stabilité : False
+ 
+109 planetes
+Nombre de planètes : 21
+Masse planète mère : 8.56618184437852e+26
+Nbr orbites : 1
+stabilité : True
+ 
+109 planetes
+Nombre de planètes : 16
+Masse planète mère : 1.4736703254584024e+27
+Nbr orbites : 2
+stabilité : True
+ 
+109 planetes
+Nombre de planètes : 12
+Masse planète mère : 1.3958132044662493e+27
+Nbr orbites : 3
+stabilité : True
+ 
+109 planetes
+Nombre de planètes : 27
+Masse planète mère : 9.071606357776055e+26
+Nbr orbites : 4
+stabilité : True
+ 
+109 planetes
+Nombre de planètes : 17
+Masse planète mère : 1.328475671847509e+27
+Nbr orbites : 0
+stabilité : False
+ 
+110 planetes
+Nombre de planètes : 18
+Masse planète mère : 1.3618514613098104e+27
+Nbr orbites : 2
+stabilité : True
+ 
+110 planetes
+Nombre de planètes : 16
+Masse planète mère : 1.2309705006385079e+27
+Nbr orbites : 1
+stabilité : True
+ 
+110 planetes
+Nombre de planètes : 13
+Masse planète mère : 1.4149664361442e+27
+Nbr orbites : 2
+stabilité : True
+ 
+110 planetes
+Nombre de planètes : 15
+Masse planète mère : 1.0275299466193946e+27
+Nbr orbites : 1
+stabilité : True
+ 
+110 planetes
+Nombre de planètes : 16
+Masse planète mère : 1.2470511817888686e+27
+Nbr orbites : 2
+stabilité : True
+ 
+111 planetes
+Nombre de planètes : 22
+Masse planète mère : 5.471790520795691e+26
+Nbr orbites : 2
+stabilité : True
+ 
+111 planetes
+Nombre de planètes : 23
+Masse planète mère : 7.589179752187729e+26
+Nbr orbites : 2
+stabilité : True
+ 
+111 planetes
+Nombre de planètes : 20
+Masse planète mère : 1.0388814181306652e+27
+Nbr orbites : 2
+stabilité : True
+ 
+111 planetes
+Nombre de planètes : 24
+Masse planète mère : 1.1191207091285236e+27
+Nbr orbites : 5
+stabilité : True
+ 
+111 planetes
+Nombre de planètes : 13
+Masse planète mère : 1.1802616444494531e+27
+Nbr orbites : 2
+stabilité : True
+ 
+112 planetes
+Nombre de planètes : 23
+Masse planète mère : 9.277896708057012e+26
+Nbr orbites : 2
+stabilité : True
+ 
+112 planetes
+Nombre de planètes : 20
+Masse planète mère : 9.666755781507723e+26
+Nbr orbites : 4
+stabilité : True
+ 
+112 planetes
+Nombre de planètes : 22
+Masse planète mère : 1.0082432509187528e+26
+Nbr orbites : 1
+stabilité : True
+ 
+112 planetes
+Nombre de planètes : 19
+Masse planète mère : 1.328779918567057e+27
+Nbr orbites : 3
+stabilité : True
+ 
+112 planetes
+Nombre de planètes : 22
+Masse planète mère : 9.616316914470713e+26
+Nbr orbites : 0
+stabilité : False
+ 
+113 planetes
+Nombre de planètes : 22
+Masse planète mère : 7.741032578265684e+26
+Nbr orbites : 1
+stabilité : True
+ 
+113 planetes
+Nombre de planètes : 23
+Masse planète mère : 1.1426627260588027e+27
+Nbr orbites : 3
+stabilité : True
+ 
+113 planetes
+Nombre de planètes : 22
+Masse planète mère : 1.2595944276390915e+27
+Nbr orbites : 3
+stabilité : True
+ 
+113 planetes
+Nombre de planètes : 30
+Masse planète mère : 9.40935209231103e+26
+Nbr orbites : 3
+stabilité : True
+ 
+113 planetes
+Nombre de planètes : 22
+Masse planète mère : 1.7309314619348344e+26
+Nbr orbites : 2
+stabilité : True
+ 
+114 planetes
+Nombre de planètes : 21
+Masse planète mère : 1.311368260244377e+27
+Nbr orbites : 3
+stabilité : True
+ 
+114 planetes
+Nombre de planètes : 12
+Masse planète mère : 1.3539753964649726e+27
+Nbr orbites : 1
+stabilité : True
+ 
+114 planetes
+Nombre de planètes : 19
+Masse planète mère : 8.048695845493776e+26
+Nbr orbites : 2
+stabilité : True
+ 
+114 planetes
+Nombre de planètes : 18
+Masse planète mère : 1.0599798411151307e+27
+Nbr orbites : 2
+stabilité : True
+ 
+114 planetes
+Nombre de planètes : 19
+Masse planète mère : 1.5513860356840594e+27
+Nbr orbites : 3
+stabilité : True
+ 
+115 planetes
+Nombre de planètes : 20
+Masse planète mère : 5.665677681601267e+26
+Nbr orbites : 0
+stabilité : False
+ 
+115 planetes
+Nombre de planètes : 13
+Masse planète mère : 1.198525522624164e+27
+Nbr orbites : 3
+stabilité : True
+ 
+115 planetes
+Nombre de planètes : 17
+Masse planète mère : 1.233219309222466e+27
+Nbr orbites : 2
+stabilité : True
+ 
+115 planetes
+Nombre de planètes : 27
+Masse planète mère : 7.624865540589345e+26
+Nbr orbites : 2
+stabilité : True
+ 
+115 planetes
+Nombre de planètes : 11
+Masse planète mère : 1.5798530736526108e+27
+Nbr orbites : 2
+stabilité : True
+ 
+116 planetes
+
+# Essai 116 - 2
+lz_max: 2.4595970884093177e+36
+nombre de planètes : 116
+ 
+116 planetes
+Nombre de planètes : 14
+Masse planète mère : 1.047390704141804e+27
+Nbr orbites : 3
+stabilité : True
+ 
+116 planetes
+Nombre de planètes : 18
+Masse planète mère : 1.3404101870388133e+27
+Nbr orbites : 1
+stabilité : True
+ 
+116 planetes
+Nombre de planètes : 26
+Masse planète mère : 9.126776459908255e+26
+Nbr orbites : 2
+stabilité : True
+ 
+116 planetes
+Nombre de planètes : 24
+Masse planète mère : 1.0733179217366169e+27
+Nbr orbites : 1
+stabilité : True
+ 
+117 planetes
+Nombre de planètes : 22
+Masse planète mère : 1.2363657567306153e+27
+Nbr orbites : 2
+stabilité : True
+ 
+117 planetes
+Nombre de planètes : 25
+Masse planète mère : 1.0946201660387709e+27
+Nbr orbites : 3
+stabilité : True
+ 
+117 planetes
+Nombre de planètes : 31
+Masse planète mère : 1.3237782242584712e+27
+Nbr orbites : 7
+stabilité : True
+ 
+117 planetes
+Nombre de planètes : 18
+Masse planète mère : 1.3327765658205672e+27
+Nbr orbites : 2
+stabilité : True
+ 
+117 planetes
+Nombre de planètes : 17
+Masse planète mère : 1.220423074965279e+27
+Nbr orbites : 1
+stabilité : True
+ 
+118 planetes
+Nombre de planètes : 12
+Masse planète mère : 1.3798101478917284e+27
+Nbr orbites : 1
+stabilité : True
+ 
+118 planetes
+Nombre de planètes : 14
+Masse planète mère : 1.4013327393593592e+27
+Nbr orbites : 2
+stabilité : True
+ 
+118 planetes
+Nombre de planètes : 17
+Masse planète mère : 6.380213827601116e+26
+Nbr orbites : 1
+stabilité : True
+ 
+118 planetes
+Nombre de planètes : 11
+Masse planète mère : 1.48776336348213e+27
+Nbr orbites : 2
+stabilité : True
+ 
+118 planetes
+Nombre de planètes : 15
+Masse planète mère : 1.5075263271278032e+27
+Nbr orbites : 2
+stabilité : True
+ 
+119 planetes
+Nombre de planètes : 21
+Masse planète mère : 1.0140847540134871e+27
+Nbr orbites : 3
+stabilité : True
+ 
+119 planetes
+Nombre de planètes : 23
+Masse planète mère : 1.4037224066848813e+27
+Nbr orbites : 4
+stabilité : True
+ 
+119 planetes
+Nombre de planètes : 33
+Masse planète mère : 6.537076023507676e+26
+Nbr orbites : 0
+stabilité : False
+ 
+119 planetes
+Nombre de planètes : 24
+Masse planète mère : 5.888852407136243e+26
+Nbr orbites : 0
+stabilité : False
+ 
+119 planetes
+Nombre de planètes : 22
+Masse planète mère : 1.3393182560784052e+27
+Nbr orbites : 2
+stabilité : True
+ 
+120 planetes
+Nombre de planètes : 12
+Masse planète mère : 1.5196645497578813e+27
+Nbr orbites : 3
+stabilité : True
+ 
+120 planetes
+Nombre de planètes : 18
+Masse planète mère : 1.0311330007587021e+27
+Nbr orbites : 4
+stabilité : True
+ 
+120 planetes
+Nombre de planètes : 27
+Masse planète mère : 3.881817990044933e+26
+Nbr orbites : 1
+stabilité : True
+ 
+120 planetes
+Nombre de planètes : 22
+Masse planète mère : 1.289869930540458e+27
+Nbr orbites : 5
+stabilité : True
+ 
+120 planetes
+Nombre de planètes : 17
+Masse planète mère : 1.572450711783703e+27
+Nbr orbites : 1
+stabilité : True
+ 
+121 planetes
+Nombre de planètes : 14
+Masse planète mère : 1.7201998106667966e+27
+Nbr orbites : 3
+stabilité : True
+ 
+121 planetes
+Nombre de planètes : 18
+Masse planète mère : 1.0034015691508356e+27
+Nbr orbites : 1
+stabilité : True
+ 
+121 planetes
+Nombre de planètes : 25
+Masse planète mère : 1.0471145432896069e+27
+Nbr orbites : 1
+stabilité : True
+ 
+121 planetes
+Nombre de planètes : 19
+Masse planète mère : 1.4818308966889633e+27
+Nbr orbites : 2
+stabilité : True
+ 
+121 planetes
+Nombre de planètes : 15
+Masse planète mère : 1.6253374208880174e+27
+Nbr orbites : 2
+stabilité : True
+ 
+122 planetes
+Nombre de planètes : 19
+Masse planète mère : 1.348406060293926e+27
+Nbr orbites : 3
+stabilité : True
+ 
+122 planetes
+Nombre de planètes : 12
+Masse planète mère : 9.096359534036959e+26
+Nbr orbites : 2
+stabilité : True
+ 
+122 planetes
+Nombre de planètes : 25
+Masse planète mère : 4.3397810241497404e+26
+Nbr orbites : 0
+stabilité : False
+ 
+122 planetes
+Nombre de planètes : 17
+Masse planète mère : 1.0757504034912208e+27
+Nbr orbites : 4
+stabilité : True
+ 
+122 planetes
+Nombre de planètes : 23
+Masse planète mère : 1.311991750456345e+27
+Nbr orbites : 2
+stabilité : True
+ 
+123 planetes
+Nombre de planètes : 16
+Masse planète mère : 1.6004451282825003e+27
+Nbr orbites : 2
+stabilité : True
+ 
+123 planetes
+Nombre de planètes : 11
+Masse planète mère : 1.7173940406735208e+27
+Nbr orbites : 1
+stabilité : True
+ 
+123 planetes
+Nombre de planètes : 12
+Masse planète mère : 1.5140484464791626e+27
+Nbr orbites : 3
+stabilité : True
+ 
+123 planetes
+Nombre de planètes : 22
+Masse planète mère : 1.5503861771151427e+27
+Nbr orbites : 3
+stabilité : True
+ 
+123 planetes
+Nombre de planètes : 16
+Masse planète mère : 1.4115818831061845e+27
+Nbr orbites : 2
+stabilité : True
+ 
+124 planetes
+Nombre de planètes : 18
+Masse planète mère : 1.5764625592406995e+27
+Nbr orbites : 0
+stabilité : False
+ 
+124 planetes
+Nombre de planètes : 17
+Masse planète mère : 1.296550925277614e+27
+Nbr orbites : 1
+stabilité : True
+ 
+124 planetes
+Nombre de planètes : 25
+Masse planète mère : 8.291405693808176e+26
+Nbr orbites : 3
+stabilité : True
+ 
+124 planetes
+Nombre de planètes : 25
+Masse planète mère : 8.553482647639723e+26
+Nbr orbites : 0
+stabilité : False
+ 
+124 planetes
+Nombre de planètes : 22
+Masse planète mère : 1.318179735346754e+27
+Nbr orbites : 1
+stabilité : True
+ 
+125 planetes
+Nombre de planètes : 18
+Masse planète mère : 1.5293927813374862e+27
+Nbr orbites : 2
+stabilité : True
+ 
+125 planetes
+Nombre de planètes : 23
+Masse planète mère : 1.1234100388838489e+27
+Nbr orbites : 2
+stabilité : True
+ 
+125 planetes
+Nombre de planètes : 20
+Masse planète mère : 1.378573604765252e+27
+Nbr orbites : 1
+stabilité : True
+ 
+125 planetes
+Nombre de planètes : 27
+Masse planète mère : 8.947662659672708e+26
+Nbr orbites : 2
+stabilité : True
+ 
+125 planetes
+Nombre de planètes : 23
+Masse planète mère : 2.1001910471811907e+26
+Nbr orbites : 0
+stabilité : False
+ 
+126 planetes
+Nombre de planètes : 12
+Masse planète mère : 1.518633516923589e+27
+Nbr orbites : 1
+stabilité : True
+ 
+126 planetes
+Nombre de planètes : 15
+Masse planète mère : 1.0161483371733309e+27
+Nbr orbites : 1
+stabilité : True
+ 
+126 planetes
+Nombre de planètes : 14
+Masse planète mère : 1.2071547781047687e+27
+Nbr orbites : 3
+stabilité : True
+ 
+126 planetes
+Nombre de planètes : 22
+Masse planète mère : 1.42511217340453e+27
+Nbr orbites : 1
+stabilité : True
+ 
+126 planetes
+Nombre de planètes : 21
+Masse planète mère : 3.342918575113328e+26
+Nbr orbites : 0
+stabilité : False
+ 
+127 planetes
+Nombre de planètes : 20
+Masse planète mère : 1.289522710401951e+27
+Nbr orbites : 1
+stabilité : True
+ 
+127 planetes
+Nombre de planètes : 20
+Masse planète mère : 1.6523404588550345e+27
+Nbr orbites : 3
+stabilité : True
+ 
+127 planetes
+Nombre de planètes : 15
+Masse planète mère : 9.683776880423408e+26
+Nbr orbites : 2
+stabilité : True
+ 
+127 planetes
+Nombre de planètes : 13
+Masse planète mère : 1.5154637696884286e+27
+Nbr orbites : 3
+stabilité : True
+ 
+127 planetes
+Nombre de planètes : 21
+Masse planète mère : 1.1443619913661067e+27
+Nbr orbites : 3
+stabilité : True
+ 
+128 planetes
+Nombre de planètes : 25
+Masse planète mère : 1.0174820575015041e+27
+Nbr orbites : 2
+stabilité : True
+ 
+128 planetes
+Nombre de planètes : 15
+Masse planète mère : 1.5407212253968597e+27
+Nbr orbites : 3
+stabilité : True
+ 
+128 planetes
+Nombre de planètes : 29
+Masse planète mère : 8.289159320530695e+26
+Nbr orbites : 1
+stabilité : True
+ 
+128 planetes
+Nombre de planètes : 23
+Masse planète mère : 1.3091017180878108e+27
+Nbr orbites : 2
+stabilité : True
+ 
+128 planetes
+Nombre de planètes : 15
+Masse planète mère : 1.3591944513203387e+27
+Nbr orbites : 0
+stabilité : False
+ 
+129 planetes
+Nombre de planètes : 28
+Masse planète mère : 7.88879610308939e+26
+Nbr orbites : 1
+stabilité : True
+ 
+129 planetes
+Nombre de planètes : 25
+Masse planète mère : 1.290685132071057e+27
+Nbr orbites : 0
+stabilité : False
+ 
+129 planetes
+Nombre de planètes : 17
+Masse planète mère : 1.559964966710701e+27
+Nbr orbites : 2
+stabilité : True
+ 
+129 planetes
+Nombre de planètes : 18
+Masse planète mère : 1.1518293818591405e+27
+Nbr orbites : 2
+stabilité : True
+ 
+129 planetes
+Nombre de planètes : 18
+Masse planète mère : 1.3922986254000704e+27
+Nbr orbites : 3
+stabilité : True
+ 
+130 planetes
+Nombre de planètes : 12
+Masse planète mère : 1.5130987344215607e+27
+Nbr orbites : 3
+stabilité : True
+ 
+130 planetes
+Nombre de planètes : 20
+Masse planète mère : 7.674132509290315e+26
+Nbr orbites : 2
+stabilité : True
+ 
+130 planetes
+Nombre de planètes : 17
+Masse planète mère : 1.4889078185266965e+27
+Nbr orbites : 1
+stabilité : True
+ 
+130 planetes
+Nombre de planètes : 23
+Masse planète mère : 6.668978404644737e+25
+Nbr orbites : 0
+stabilité : False
+ 
+130 planetes
+Nombre de planètes : 23
+Masse planète mère : 9.728419735067153e+26
+Nbr orbites : 4
+stabilité : True
+ 
+131 planetes
+
+# Essai 131 - 2
+lz_max: 2.302024068635483e+36
+nombre de planètes : 131
+ 
+131 planetes
+Nombre de planètes : 20
+Masse planète mère : 1.4597897387772502e+27
+Nbr orbites : 1
+stabilité : True
+ 
+131 planetes
+Nombre de planètes : 22
+Masse planète mère : 1.4006760936147336e+27
+Nbr orbites : 2
+stabilité : True
+ 
+131 planetes
+Nombre de planètes : 18
+Masse planète mère : 1.243525422420391e+27
+Nbr orbites : 4
+stabilité : True
+ 
+131 planetes
+Nombre de planètes : 15
+Masse planète mère : 1.6257984395112685e+27
+Nbr orbites : 1
+stabilité : True
+ 
+132 planetes
+Nombre de planètes : 23
+Masse planète mère : 1.6281273836157338e+27
+Nbr orbites : 5
+stabilité : True
+ 
+132 planetes
+Nombre de planètes : 24
+Masse planète mère : 9.646865335506922e+26
+Nbr orbites : 1
+stabilité : True
+ 
+132 planetes
+Nombre de planètes : 22
+Masse planète mère : 1.589046456152396e+27
+Nbr orbites : 3
+stabilité : True
+ 
+132 planetes
+Nombre de planètes : 20
+Masse planète mère : 1.2155521809515939e+27
+Nbr orbites : 1
+stabilité : True
+ 
+132 planetes
+Nombre de planètes : 26
+Masse planète mère : 6.093660879315414e+26
+Nbr orbites : 2
+stabilité : True
+ 
+133 planetes
+Nombre de planètes : 18
+Masse planète mère : 1.5089358848182493e+27
+Nbr orbites : 0
+stabilité : False
+ 
+133 planetes
+Nombre de planètes : 14
+Masse planète mère : 1.6037251602000324e+27
+Nbr orbites : 3
+stabilité : True
+ 
+133 planetes
+Nombre de planètes : 26
+Masse planète mère : 1.5886578245073516e+27
+Nbr orbites : 3
+stabilité : True
+ 
+133 planetes
+Nombre de planètes : 35
+Masse planète mère : 9.184238118845966e+26
+Nbr orbites : 1
+stabilité : True
+ 
+133 planetes
+Nombre de planètes : 22
+Masse planète mère : 1.276713907231033e+27
+Nbr orbites : 1
+stabilité : True
+ 
+134 planetes
+Nombre de planètes : 13
+Masse planète mère : 1.6747728000866033e+27
+Nbr orbites : 1
+stabilité : True
+ 
+134 planetes
+Nombre de planètes : 16
+Masse planète mère : 1.354696905236885e+27
+Nbr orbites : 1
+stabilité : True
+ 
+134 planetes
+Nombre de planètes : 23
+Masse planète mère : 1.4463879226159138e+27
+Nbr orbites : 0
+stabilité : False
+ 
+134 planetes
+Nombre de planètes : 20
+Masse planète mère : 1.0416365734306005e+27
+Nbr orbites : 0
+stabilité : False
+ 
+134 planetes
+Nombre de planètes : 22
+Masse planète mère : 1.1307938805962963e+27
+Nbr orbites : 2
+stabilité : True
+ 
+135 planetes
+Nombre de planètes : 22
+Masse planète mère : 1.4519255544078676e+27
+Nbr orbites : 1
+stabilité : True
+ 
+135 planetes
+Nombre de planètes : 24
+Masse planète mère : 1.5815302081978597e+27
+Nbr orbites : 2
+stabilité : True
+ 
+135 planetes
+Nombre de planètes : 27
+Masse planète mère : 1.412734896000578e+27
+Nbr orbites : 3
+stabilité : True
+ 
+135 planetes
+Nombre de planètes : 19
+Masse planète mère : 1.460012645331587e+27
+Nbr orbites : 1
+stabilité : True
+ 
+135 planetes
+Nombre de planètes : 18
+Masse planète mère : 1.273954481159031e+27
+Nbr orbites : 3
+stabilité : True
+ 
+136 planetes
+Nombre de planètes : 16
+Masse planète mère : 7.684172588225888e+26
+Nbr orbites : 1
+stabilité : True
+ 
+136 planetes
+Nombre de planètes : 15
+Masse planète mère : 9.5774145018485e+26
+Nbr orbites : 0
+stabilité : False
+ 
+136 planetes
+Nombre de planètes : 15
+Masse planète mère : 1.9711689107341675e+27
+Nbr orbites : 1
+stabilité : True
+ 
+136 planetes
+Nombre de planètes : 26
+Masse planète mère : 3.4575117353191164e+25
+Nbr orbites : 0
+stabilité : False
+ 
+136 planetes
+Nombre de planètes : 19
+Masse planète mère : 8.72778319261965e+26
+Nbr orbites : 3
+stabilité : True
+ 
+137 planetes
+Nombre de planètes : 21
+Masse planète mère : 1.6336466015918892e+27
+Nbr orbites : 1
+stabilité : True
+ 
+137 planetes
+Nombre de planètes : 22
+Masse planète mère : 1.3755487571239225e+27
+Nbr orbites : 2
+stabilité : True
+ 
+137 planetes
+Nombre de planètes : 22
+Masse planète mère : 7.187257830352384e+26
+Nbr orbites : 0
+stabilité : False
+ 
+137 planetes
+Nombre de planètes : 15
+Masse planète mère : 1.6466024894888785e+27
+Nbr orbites : 2
+stabilité : True
+ 
+137 planetes
+Nombre de planètes : 17
+Masse planète mère : 1.9296940810084695e+27
+Nbr orbites : 1
+stabilité : True
+ 
+138 planetes
+Nombre de planètes : 25
+Masse planète mère : 1.2478057774767653e+27
+Nbr orbites : 1
+stabilité : True
+ 
+138 planetes
+Nombre de planètes : 24
+Masse planète mère : 7.356198804247009e+26
+Nbr orbites : 1
+stabilité : True
+ 
+138 planetes
+Nombre de planètes : 22
+Masse planète mère : 2.3345700191521655e+26
+Nbr orbites : 0
+stabilité : False
+ 
+138 planetes
+
+# Essai 138 - 5
+lz_max: 2.1922878194544164e+36
+nombre de planètes : 138
+ 
+138 planetes
+Nombre de planètes : 21
+Masse planète mère : 1.3420838235023337e+27
+Nbr orbites : 0
+stabilité : False
+ 
+139 planetes
+Nombre de planètes : 25
+Masse planète mère : 6.897714355064764e+26
+Nbr orbites : 3
+stabilité : True
+ 
+139 planetes
+Nombre de planètes : 15
+Masse planète mère : 1.1392940923822373e+27
+Nbr orbites : 1
+stabilité : True
+ 
+139 planetes
+Nombre de planètes : 20
+Masse planète mère : 1.4272286969381572e+27
+Nbr orbites : 2
+stabilité : True
+ 
+139 planetes
+Nombre de planètes : 23
+Masse planète mère : 1.798637192670236e+27
+Nbr orbites : 3
+stabilité : True
+ 
+139 planetes
+Nombre de planètes : 13
+Masse planète mère : 1.7081039142011048e+27
+Nbr orbites : 3
+stabilité : True
+ 
+140 planetes
+Nombre de planètes : 21
+Masse planète mère : 1.233564584756414e+27
+Nbr orbites : 2
+stabilité : True
+ 
+140 planetes
+Nombre de planètes : 30
+Masse planète mère : 1.3439045149320988e+27
+Nbr orbites : 2
+stabilité : True
+ 
+140 planetes
+
+# Essai 140 - 4
+lz_max: 2.4884348464779605e+36
+nombre de planètes : 140
+ 
+140 planetes
+Nombre de planètes : 16
+Masse planète mère : 1.5558776617719098e+27
+Nbr orbites : 0
+stabilité : False
+ 
+140 planetes
+Nombre de planètes : 29
+Masse planète mère : 1.0968623289913232e+27
+Nbr orbites : 2
+stabilité : True
+ 
+141 planetes
+Nombre de planètes : 20
+Masse planète mère : 9.155667202735343e+26
+Nbr orbites : 5
+stabilité : True
+ 
+141 planetes
+Nombre de planètes : 28
+Masse planète mère : 1.1511783306630566e+27
+Nbr orbites : 1
+stabilité : True
+ 
+141 planetes
+Nombre de planètes : 23
+Masse planète mère : 1.1175051728641076e+27
+Nbr orbites : 4
+stabilité : True
+ 
+141 planetes
+
+# Essai 141 - 5
+lz_max: 2.3012377636374698e+36
+nombre de planètes : 141
+ 
+141 planetes
+Nombre de planètes : 14
+Masse planète mère : 2.0224819888970217e+27
+Nbr orbites : 4
+stabilité : True
+ 
+142 planetes
+Nombre de planètes : 23
+Masse planète mère : 4.2861138555645475e+26
+Nbr orbites : 2
+stabilité : True
+ 
+142 planetes
+Nombre de planètes : 18
+Masse planète mère : 1.4372946351948167e+27
+Nbr orbites : 2
+stabilité : True
+ 
+142 planetes
+Nombre de planètes : 23
+Masse planète mère : 7.314494448189978e+26
+Nbr orbites : 2
+stabilité : True
+ 
+142 planetes
+Nombre de planètes : 22
+Masse planète mère : 1.647747297042178e+27
+Nbr orbites : 1
+stabilité : True
+ 
+142 planetes
+Nombre de planètes : 25
+Masse planète mère : 1.2363532160282404e+27
+Nbr orbites : 2
+stabilité : True
+ 
+143 planetes
+Nombre de planètes : 27
+Masse planète mère : 1.0102242102651822e+27
+Nbr orbites : 1
+stabilité : True
+ 
+143 planetes
+Nombre de planètes : 22
+Masse planète mère : 1.5241394538756926e+27
+Nbr orbites : 2
+stabilité : True
+ 
+143 planetes
+Nombre de planètes : 21
+Masse planète mère : 1.403178407261113e+27
+Nbr orbites : 5
+stabilité : True
+ 
+143 planetes
+Nombre de planètes : 22
+Masse planète mère : 1.3377527561704297e+27
+Nbr orbites : 1
+stabilité : True
+ 
+143 planetes
+Nombre de planètes : 19
+Masse planète mère : 1.8012994536283505e+27
+Nbr orbites : 1
+stabilité : True
+ 
+144 planetes
+Nombre de planètes : 29
+Masse planète mère : 3.9127401773819654e+26
+Nbr orbites : 4
+stabilité : True
+ 
+144 planetes
+Nombre de planètes : 17
+Masse planète mère : 1.5020549299788194e+27
+Nbr orbites : 2
+stabilité : True
+ 
+144 planetes
+Nombre de planètes : 16
+Masse planète mère : 1.7741623263333596e+27
+Nbr orbites : 0
+stabilité : False
+ 
+144 planetes
+Nombre de planètes : 16
+Masse planète mère : 1.6494771562766736e+27
+Nbr orbites : 2
+stabilité : True
+ 
+144 planetes
+Nombre de planètes : 35
+Masse planète mère : 4.4680698079903576e+26
+Nbr orbites : 1
+stabilité : True
+ 
+145 planetes
+Nombre de planètes : 25
+Masse planète mère : 1.2961710512633138e+27
+Nbr orbites : 2
+stabilité : True
+ 
+145 planetes
+Nombre de planètes : 24
+Masse planète mère : 1.5041905154339519e+27
+Nbr orbites : 2
+stabilité : True
+ 
+145 planetes
+Nombre de planètes : 25
+Masse planète mère : 1.0714196903838773e+27
+Nbr orbites : 3
+stabilité : True
+ 
+145 planetes
+Nombre de planètes : 22
+Masse planète mère : 1.4021994280151372e+27
+Nbr orbites : 1
+stabilité : True
+ 
+145 planetes
+Nombre de planètes : 15
+Masse planète mère : 1.6217190713823277e+27
+Nbr orbites : 3
+stabilité : True
+ 
+146 planetes
+Nombre de planètes : 22
+Masse planète mère : 1.4081244743410287e+27
+Nbr orbites : 6
+stabilité : True
+ 
+146 planetes
+Nombre de planètes : 22
+Masse planète mère : 1.2044778097494899e+27
+Nbr orbites : 0
+stabilité : False
+ 
+146 planetes
+Nombre de planètes : 14
+Masse planète mère : 1.6431914906454954e+27
+Nbr orbites : 1
+stabilité : True
+ 
+146 planetes
+Nombre de planètes : 17
+Masse planète mère : 1.4187214893324968e+27
+Nbr orbites : 2
+stabilité : True
+ 
+146 planetes
+Nombre de planètes : 28
+Masse planète mère : 3.7738517572709e+25
+Nbr orbites : 0
+stabilité : False
+ 
+147 planetes
+Nombre de planètes : 20
+Masse planète mère : 1.0177815849465191e+27
+Nbr orbites : 0
+stabilité : False
+ 
+147 planetes
+Nombre de planètes : 21
+Masse planète mère : 1.571837580797922e+27
+Nbr orbites : 3
+stabilité : True
+ 
+147 planetes
+Nombre de planètes : 35
+Masse planète mère : 2.7480916631013323e+26
+Nbr orbites : 1
+stabilité : True
+ 
+147 planetes
+Nombre de planètes : 20
+Masse planète mère : 1.5864516041668617e+27
+Nbr orbites : 4
+stabilité : True
+ 
+147 planetes
+Nombre de planètes : 16
+Masse planète mère : 1.9846511709573015e+27
+Nbr orbites : 4
+stabilité : True
+ 
+148 planetes
+Nombre de planètes : 25
+Masse planète mère : 1.330433617279571e+27
+Nbr orbites : 4
+stabilité : True
+ 
+148 planetes
+Nombre de planètes : 28
+Masse planète mère : 1.4142522696960364e+27
+Nbr orbites : 3
+stabilité : True
+ 
+148 planetes
+Nombre de planètes : 25
+Masse planète mère : 1.3122288734565156e+27
+Nbr orbites : 3
+stabilité : True
+ 
+148 planetes
+Nombre de planètes : 17
+Masse planète mère : 9.085120290587763e+26
+Nbr orbites : 2
+stabilité : True
+ 
+148 planetes
+Nombre de planètes : 11
+Masse planète mère : 1.1709487431639187e+27
+Nbr orbites : 3
+stabilité : True
+ 
+149 planetes
+Nombre de planètes : 27
+Masse planète mère : 1.2621420190731881e+27
+Nbr orbites : 2
+stabilité : True
+ 
+149 planetes
+Nombre de planètes : 16
+Masse planète mère : 1.1605282221754552e+27
+Nbr orbites : 2
+stabilité : True
+ 
+149 planetes
+Nombre de planètes : 26
+Masse planète mère : 1.908985815127699e+26
+Nbr orbites : 0
+stabilité : False
+ 
+149 planetes
+Nombre de planètes : 19
+Masse planète mère : 9.434095971088912e+26
+Nbr orbites : 1
+stabilité : True
+ 
+149 planetes
+Nombre de planètes : 26
+Masse planète mère : 1.3244493399297548e+27
+Nbr orbites : 2
+stabilité : True
+ 
+150 planetes
+Nombre de planètes : 29
+Masse planète mère : 4.866262520641211e+26
+Nbr orbites : 1
+stabilité : True
+ 
+150 planetes
+Nombre de planètes : 25
+Masse planète mère : 6.608234023807914e+26
+Nbr orbites : 0
+stabilité : False
+ 
+150 planetes
+Nombre de planètes : 20
+Masse planète mère : 9.77993515404045e+25
+Nbr orbites : 0
+stabilité : False
+ 
+150 planetes
+Nombre de planètes : 25
+Masse planète mère : 4.487895080577811e+26
+Nbr orbites : 2
+stabilité : True
+ 
+150 planetes
+Nombre de planètes : 14
+Masse planète mère : 1.324740781948741e+27
+Nbr orbites : 0
+stabilité : False
+ 
+151 planetes
+Nombre de planètes : 31
+Masse planète mère : 6.236698755889513e+26
+Nbr orbites : 4
+stabilité : True
+ 
+151 planetes
+Nombre de planètes : 23
+Masse planète mère : 1.988620288694431e+27
+Nbr orbites : 3
+stabilité : True
+ 
+151 planetes
+Nombre de planètes : 29
+Masse planète mère : 1.7609986819209422e+27
+Nbr orbites : 2
+stabilité : True
+ 
+151 planetes
+Nombre de planètes : 25
+Masse planète mère : 1.323147578529535e+27
+Nbr orbites : 2
+stabilité : True
+ 
+151 planetes
+Nombre de planètes : 14
+Masse planète mère : 1.056258508158537e+27
+Nbr orbites : 0
+stabilité : False
+ 
+152 planetes
+Nombre de planètes : 23
+Masse planète mère : 1.3942546493584592e+27
+Nbr orbites : 0
+stabilité : False
+ 
+152 planetes
+Nombre de planètes : 28
+Masse planète mère : 1.2863988971576545e+27
+Nbr orbites : 2
+stabilité : True
+ 
+152 planetes
+Nombre de planètes : 25
+Masse planète mère : 1.3594574282471646e+27
+Nbr orbites : 2
+stabilité : True
+ 
+152 planetes
+Nombre de planètes : 20
+Masse planète mère : 1.6139304699945776e+27
+Nbr orbites : 2
+stabilité : True
+ 
+152 planetes
+Nombre de planètes : 24
+Masse planète mère : 4.71574870531053e+26
+Nbr orbites : 0
+stabilité : False
+ 
+153 planetes
+Nombre de planètes : 22
+Masse planète mère : 1.6419167516800347e+27
+Nbr orbites : 1
+stabilité : True
+ 
+153 planetes
+Nombre de planètes : 15
+Masse planète mère : 2.2379448557692187e+27
+Nbr orbites : 2
+stabilité : True
+ 
+153 planetes
+Nombre de planètes : 25
+Masse planète mère : 1.7950616580513644e+27
+Nbr orbites : 1
+stabilité : True
+ 
+153 planetes
+Nombre de planètes : 27
+Masse planète mère : 1.5923930036223223e+27
+Nbr orbites : 1
+stabilité : True
+ 
+153 planetes
+Nombre de planètes : 24
+Masse planète mère : 1.1921171220290366e+27
+Nbr orbites : 2
+stabilité : True
+ 
+154 planetes
+Nombre de planètes : 29
+Masse planète mère : 1.1871934394151379e+27
+Nbr orbites : 2
+stabilité : True
+ 
+154 planetes
+Nombre de planètes : 30
+Masse planète mère : 1.4066282749027372e+27
+Nbr orbites : 0
+stabilité : False
+ 
+154 planetes
+Nombre de planètes : 24
+Masse planète mère : 1.6651170293649105e+27
+Nbr orbites : 1
+stabilité : True
+ 
+154 planetes
+Nombre de planètes : 22
+Masse planète mère : 8.693568184547268e+26
+Nbr orbites : 2
+stabilité : True
+ 
+154 planetes
+Nombre de planètes : 20
+Masse planète mère : 1.9763147719384753e+27
+Nbr orbites : 4
+stabilité : True
+ 
+155 planetes
+
+# Essai 155 - 2
+lz_max: 2.233619740077085e+36
+nombre de planètes : 155
+ 
+155 planetes
+Nombre de planètes : 26
+Masse planète mère : 1.4141865036937618e+27
+Nbr orbites : 1
+stabilité : True
+ 
+155 planetes
+
+# Essai 155 - 4
+lz_max: 2.160572955924626e+36
+nombre de planètes : 155
+ 
+155 planetes
+Nombre de planètes : 20
+Masse planète mère : 1.4530617519054812e+27
+Nbr orbites : 1
+stabilité : True
+ 
+155 planetes
+Nombre de planètes : 17
+Masse planète mère : 1.379670372172459e+27
+Nbr orbites : 3
+stabilité : True
+ 
+156 planetes
+Nombre de planètes : 17
+Masse planète mère : 1.3045316808100827e+27
+Nbr orbites : 4
+stabilité : True
+ 
+156 planetes
+Nombre de planètes : 19
+Masse planète mère : 1.5335047586964562e+27
+Nbr orbites : 1
+stabilité : True
+ 
+156 planetes
+Nombre de planètes : 22
+Masse planète mère : 1.4160952226460133e+27
+Nbr orbites : 1
+stabilité : True
+ 
+156 planetes
+Nombre de planètes : 32
+Masse planète mère : 6.240308887980007e+26
+Nbr orbites : 3
+stabilité : True
+ 
+156 planetes
+Nombre de planètes : 27
+Masse planète mère : 1.0194365397985462e+27
+Nbr orbites : 0
+stabilité : False
+ 
+157 planetes
+Nombre de planètes : 25
+Masse planète mère : 1.1112249234881587e+27
+Nbr orbites : 4
+stabilité : True
+ 
+157 planetes
+Nombre de planètes : 25
+Masse planète mère : 1.8976068743952017e+27
+Nbr orbites : 2
+stabilité : True
+ 
+157 planetes
+Nombre de planètes : 24
+Masse planète mère : 1.6779086365781542e+27
+Nbr orbites : 4
+stabilité : True
+ 
+157 planetes
+Nombre de planètes : 28
+Masse planète mère : 2.8791142149748116e+26
+Nbr orbites : 2
+stabilité : True
+ 
+157 planetes
+Nombre de planètes : 29
+Masse planète mère : 4.38140465940605e+26
+Nbr orbites : 2
+stabilité : True
+ 
+158 planetes
+Nombre de planètes : 22
+Masse planète mère : 1.0549951656122208e+27
+Nbr orbites : 2
+stabilité : True
+ 
+158 planetes
+Nombre de planètes : 25
+Masse planète mère : 1.38904004028212e+27
+Nbr orbites : 2
+stabilité : True
+ 
+158 planetes
+Nombre de planètes : 22
+Masse planète mère : 9.333774022329041e+26
+Nbr orbites : 1
+stabilité : True
+ 
+158 planetes
+Nombre de planètes : 18
+Masse planète mère : 1.5108675407891616e+27
+Nbr orbites : 5
+stabilité : True
+ 
+158 planetes
+Nombre de planètes : 22
+Masse planète mère : 1.849312349729547e+27
+Nbr orbites : 2
+stabilité : True
+ 
+159 planetes
+Nombre de planètes : 13
+Masse planète mère : 1.9598146285028927e+27
+Nbr orbites : 1
+stabilité : True
+ 
+159 planetes
+Nombre de planètes : 24
+Masse planète mère : 1.3579545606642287e+27
+Nbr orbites : 5
+stabilité : True
+ 
+159 planetes
+Nombre de planètes : 22
+Masse planète mère : 1.3892295499139623e+27
+Nbr orbites : 4
+stabilité : True
+ 
+159 planetes
+Nombre de planètes : 24
+Masse planète mère : 2.0892621911798112e+27
+Nbr orbites : 2
+stabilité : True
+ 
+159 planetes
+Nombre de planètes : 17
+Masse planète mère : 1.5916650187526806e+27
+Nbr orbites : 0
+stabilité : False
+ 
+160 planetes
+Nombre de planètes : 22
+Masse planète mère : 1.5210527482892881e+27
+Nbr orbites : 1
+stabilité : True
+ 
+160 planetes
+Nombre de planètes : 29
+Masse planète mère : 8.654567067945144e+26
+Nbr orbites : 2
+stabilité : True
+ 
+160 planetes
+Nombre de planètes : 26
+Masse planète mère : 1.7212286186329224e+27
+Nbr orbites : 3
+stabilité : True
+ 
+160 planetes
+Nombre de planètes : 20
+Masse planète mère : 1.98470720791618e+27
+Nbr orbites : 2
+stabilité : True
+ 
+160 planetes
+Nombre de planètes : 22
+Masse planète mère : 1.813979756900596e+27
+Nbr orbites : 2
+stabilité : True
+ 
+161 planetes
+Nombre de planètes : 27
+Masse planète mère : 9.033934301848854e+26
+Nbr orbites : 0
+stabilité : False
+ 
+161 planetes
+Nombre de planètes : 19
+Masse planète mère : 1.4872258536505172e+27
+Nbr orbites : 2
+stabilité : True
+ 
+161 planetes
+Nombre de planètes : 25
+Masse planète mère : 1.4811405136747918e+27
+Nbr orbites : 3
+stabilité : True
+ 
+161 planetes
+Nombre de planètes : 18
+Masse planète mère : 1.3125093415690535e+27
+Nbr orbites : 1
+stabilité : True
+ 
+161 planetes
+Nombre de planètes : 29
+Masse planète mère : 1.8326706526497504e+27
+Nbr orbites : 4
+stabilité : True
+ 
+162 planetes
+Nombre de planètes : 28
+Masse planète mère : 5.699960791966459e+26
+Nbr orbites : 1
+stabilité : True
+ 
+162 planetes
+Nombre de planètes : 30
+Masse planète mère : 1.8500140703281496e+27
+Nbr orbites : 2
+stabilité : True
+ 
+162 planetes
+Nombre de planètes : 22
+Masse planète mère : 1.5206107853532175e+27
+Nbr orbites : 1
+stabilité : True
+ 
+162 planetes
+Nombre de planètes : 30
+Masse planète mère : 1.7339544224417218e+27
+Nbr orbites : 5
+stabilité : True
+ 
+162 planetes
+Nombre de planètes : 20
+Masse planète mère : 1.8763789073913975e+27
+Nbr orbites : 3
+stabilité : True
+ 
+163 planetes
+Nombre de planètes : 38
+Masse planète mère : 2.2631986957237112e+26
+Nbr orbites : 1
+stabilité : True
+ 
+163 planetes
+Nombre de planètes : 21
+Masse planète mère : 1.739258690873126e+27
+Nbr orbites : 4
+stabilité : True
+ 
+163 planetes
+Nombre de planètes : 25
+Masse planète mère : 1.4413981658650166e+27
+Nbr orbites : 5
+stabilité : True
+ 
+163 planetes
+Nombre de planètes : 30
+Masse planète mère : 3.1157907971849186e+26
+Nbr orbites : 0
+stabilité : False
+ 
+163 planetes
+Nombre de planètes : 29
+Masse planète mère : 1.0907885334819345e+27
+Nbr orbites : 2
+stabilité : True
+ 
+164 planetes
+Nombre de planètes : 28
+Masse planète mère : 6.037193664471997e+26
+Nbr orbites : 1
+stabilité : True
+ 
+164 planetes
+Nombre de planètes : 22
+Masse planète mère : 1.5045453094731975e+27
+Nbr orbites : 2
+stabilité : True
+ 
+164 planetes
+Nombre de planètes : 20
+Masse planète mère : 1.48920185291572e+27
+Nbr orbites : 0
+stabilité : False
+ 
+164 planetes
+Nombre de planètes : 31
+Masse planète mère : 6.229961790864327e+26
+Nbr orbites : 2
+stabilité : True
+ 
+164 planetes
+Nombre de planètes : 16
+Masse planète mère : 1.8519864012645648e+27
+Nbr orbites : 3
+stabilité : True
+ 
+165 planetes
+Nombre de planètes : 23
+Masse planète mère : 2.1095349577751428e+27
+Nbr orbites : 3
+stabilité : True
+ 
+165 planetes
+Nombre de planètes : 18
+Masse planète mère : 1.9182285751238365e+27
+Nbr orbites : 1
+stabilité : True
+ 
+165 planetes
+Nombre de planètes : 25
+Masse planète mère : 1.5849914316184706e+27
+Nbr orbites : 4
+stabilité : True
+ 
+165 planetes
+Nombre de planètes : 20
+Masse planète mère : 2.3053274961610293e+27
+Nbr orbites : 3
+stabilité : True
+ 
+165 planetes
+Nombre de planètes : 26
+Masse planète mère : 2.0579971684273234e+27
+Nbr orbites : 2
+stabilité : True
+ 
+166 planetes
+Nombre de planètes : 23
+Masse planète mère : 1.972265077427687e+27
+Nbr orbites : 3
+stabilité : True
+ 
+166 planetes
+Nombre de planètes : 27
+Masse planète mère : 2.097547146891691e+27
+Nbr orbites : 3
+stabilité : True
+ 
+166 planetes
+Nombre de planètes : 23
+Masse planète mère : 1.6905773687151834e+27
+Nbr orbites : 2
+stabilité : True
+ 
+166 planetes
+Nombre de planètes : 25
+Masse planète mère : 1.607358745311645e+27
+Nbr orbites : 2
+stabilité : True
+ 
+166 planetes
+Nombre de planètes : 24
+Masse planète mère : 1.4949855587555388e+27
+Nbr orbites : 1
+stabilité : True
+ 
+167 planetes
+Nombre de planètes : 25
+Masse planète mère : 1.6952190044727524e+27
+Nbr orbites : 1
+stabilité : True
+ 
+167 planetes
+Nombre de planètes : 13
+Masse planète mère : 1.7478945043536675e+27
+Nbr orbites : 1
+stabilité : True
+ 
+167 planetes
+Nombre de planètes : 23
+Masse planète mère : 1.4586556338932736e+27
+Nbr orbites : 2
+stabilité : True
+ 
+167 planetes
+Nombre de planètes : 24
+Masse planète mère : 1.8283543998575216e+27
+Nbr orbites : 1
+stabilité : True
+ 
+167 planetes
+Nombre de planètes : 28
+Masse planète mère : 1.3502802897548352e+27
+Nbr orbites : 3
+stabilité : True
+ 
+168 planetes
+Nombre de planètes : 27
+Masse planète mère : 1.7293321182355661e+27
+Nbr orbites : 5
+stabilité : True
+ 
+168 planetes
+Nombre de planètes : 28
+Masse planète mère : 2.6607615821643254e+26
+Nbr orbites : 4
+stabilité : True
+ 
+168 planetes
+Nombre de planètes : 25
+Masse planète mère : 1.6182540135630606e+27
+Nbr orbites : 0
+stabilité : False
+ 
+168 planetes
+Nombre de planètes : 25
+Masse planète mère : 9.900053955150739e+26
+Nbr orbites : 1
+stabilité : True
+ 
+168 planetes
+Nombre de planètes : 24
+Masse planète mère : 1.5751673812166872e+27
+Nbr orbites : 5
+stabilité : True
+ 
+169 planetes
+Nombre de planètes : 20
+Masse planète mère : 2.0178323504336675e+27
+Nbr orbites : 0
+stabilité : False
+ 
+169 planetes
+Nombre de planètes : 26
+Masse planète mère : 1.8482553677298715e+27
+Nbr orbites : 3
+stabilité : True
+ 
+169 planetes
+Nombre de planètes : 20
+Masse planète mère : 1.2331032250642306e+27
+Nbr orbites : 2
+stabilité : True
+ 
+169 planetes
+Nombre de planètes : 38
+Masse planète mère : 4.4994424339402915e+26
+Nbr orbites : 0
+stabilité : False
+ 
+169 planetes
+Nombre de planètes : 23
+Masse planète mère : 1.5543003348467037e+27
+Nbr orbites : 1
+stabilité : True
+ 
+170 planetes
+Nombre de planètes : 24
+Masse planète mère : 1.478349799138476e+27
+Nbr orbites : 2
+stabilité : True
+ 
+170 planetes
+Nombre de planètes : 25
+Masse planète mère : 1.270624265811642e+27
+Nbr orbites : 2
+stabilité : True
+ 
+170 planetes
+Nombre de planètes : 34
+Masse planète mère : 1.0531061208628987e+27
+Nbr orbites : 1
+stabilité : True
+ 
+170 planetes
+Nombre de planètes : 27
+Masse planète mère : 1.6424502506078505e+27
+Nbr orbites : 2
+stabilité : True
+ 
+170 planetes
+Nombre de planètes : 27
+Masse planète mère : 6.624165714619939e+25
+Nbr orbites : 0
+stabilité : False
+ 
+170 planetes
+Nombre de planètes : 30
+Masse planète mère : 1.0939425151732994e+27
+Nbr orbites : 2
+stabilité : True
+ 
+170 planetes
+Nombre de planètes : 21
+Masse planète mère : 2.0293012332952103e+27
+Nbr orbites : 1
+stabilité : True
+ 
+170 planetes
+Nombre de planètes : 20
+Masse planète mère : 1.6850604795811124e+27
+Nbr orbites : 0
+stabilité : False
+ 
+170 planetes
+Nombre de planètes : 30
+Masse planète mère : 9.628701792371507e+26
+Nbr orbites : 2
+stabilité : True
+ 
+170 planetes
+Nombre de planètes : 32
+Masse planète mère : 1.2237681992114518e+27
+Nbr orbites : 2
+stabilité : True
+ 
+171 planetes
+Nombre de planètes : 26
+Masse planète mère : 1.67980685675847e+27
+Nbr orbites : 3
+stabilité : True
+ 
+171 planetes
+Nombre de planètes : 34
+Masse planète mère : 3.6578693955707205e+26
+Nbr orbites : 0
+stabilité : False
+ 
+171 planetes
+Nombre de planètes : 27
+Masse planète mère : 1.1605579797796565e+27
+Nbr orbites : 2
+stabilité : True
+ 
+171 planetes
+Nombre de planètes : 28
+Masse planète mère : 1.5140784409935548e+27
+Nbr orbites : 5
+stabilité : True
+ 
+171 planetes
+Nombre de planètes : 26
+Masse planète mère : 3.256591781237228e+26
+Nbr orbites : 0
+stabilité : False
+ 
+172 planetes
+Nombre de planètes : 21
+Masse planète mère : 1.4080087588949122e+27
+Nbr orbites : 2
+stabilité : True
+ 
+172 planetes
+Nombre de planètes : 23
+Masse planète mère : 1.7368060115677022e+27
+Nbr orbites : 3
+stabilité : True
+ 
+172 planetes
+Nombre de planètes : 26
+Masse planète mère : 1.3758813868387966e+27
+Nbr orbites : 2
+stabilité : True
+ 
+172 planetes
+Nombre de planètes : 18
+Masse planète mère : 1.4343088943440432e+27
+Nbr orbites : 1
+stabilité : True
+ 
+172 planetes
+Nombre de planètes : 36
+Masse planète mère : 1.2720080237755747e+26
+Nbr orbites : 0
+stabilité : False
+ 
+173 planetes
+Nombre de planètes : 22
+Masse planète mère : 1.1628519898199251e+27
+Nbr orbites : 0
+stabilité : False
+ 
+173 planetes
+Nombre de planètes : 34
+Masse planète mère : 5.3676101136858844e+26
+Nbr orbites : 3
+stabilité : True
+ 
+173 planetes
+Nombre de planètes : 18
+Masse planète mère : 1.7879403791613679e+27
+Nbr orbites : 2
+stabilité : True
+ 
+173 planetes
+Nombre de planètes : 27
+Masse planète mère : 3.8841592256414916e+26
+Nbr orbites : 0
+stabilité : False
+ 
+173 planetes
+Nombre de planètes : 25
+Masse planète mère : 1.5206702813368288e+27
+Nbr orbites : 2
+stabilité : True
+ 
+174 planetes
+Nombre de planètes : 23
+Masse planète mère : 1.6383230256239672e+27
+Nbr orbites : 3
+stabilité : True
+ 
+174 planetes
+Nombre de planètes : 28
+Masse planète mère : 1.141858599505896e+27
+Nbr orbites : 1
+stabilité : True
+ 
+174 planetes
+Nombre de planètes : 32
+Masse planète mère : 8.679147193362597e+25
+Nbr orbites : 0
+stabilité : False
+ 
+174 planetes
+Nombre de planètes : 23
+Masse planète mère : 1.609061238387183e+27
+Nbr orbites : 2
+stabilité : True
+ 
+174 planetes
+Nombre de planètes : 19
+Masse planète mère : 2.0590288516823892e+27
+Nbr orbites : 0
+stabilité : False
+ 
+175 planetes
+Nombre de planètes : 22
+Masse planète mère : 1.5699124855721125e+27
+Nbr orbites : 1
+stabilité : True
+ 
+175 planetes
+Nombre de planètes : 16
+Masse planète mère : 1.9920470768351162e+27
+Nbr orbites : 0
+stabilité : False
+ 
+175 planetes
+Nombre de planètes : 17
+Masse planète mère : 2.0404971005885948e+27
+Nbr orbites : 3
+stabilité : True
+ 
+175 planetes
+Nombre de planètes : 32
+Masse planète mère : 3.331855651066282e+26
+Nbr orbites : 1
+stabilité : True
+ 
+175 planetes
+Nombre de planètes : 22
+Masse planète mère : 1.3639287688047508e+27
+Nbr orbites : 1
+stabilité : True
+ 
+176 planetes
+Nombre de planètes : 16
+Masse planète mère : 1.9806893950551002e+27
+Nbr orbites : 2
+stabilité : True
+ 
+176 planetes
+Nombre de planètes : 23
+Masse planète mère : 1.372174338028179e+27
+Nbr orbites : 2
+stabilité : True
+ 
+176 planetes
+Nombre de planètes : 23
+Masse planète mère : 9.025132612246322e+26
+Nbr orbites : 2
+stabilité : True
+ 
+176 planetes
+Nombre de planètes : 31
+Masse planète mère : 1.0009169764194616e+27
+Nbr orbites : 2
+stabilité : True
+ 
+176 planetes
+Nombre de planètes : 18
+Masse planète mère : 1.486731381403728e+27
+Nbr orbites : 1
+stabilité : True
+ 
+177 planetes
+Nombre de planètes : 16
+Masse planète mère : 1.8354410795403793e+27
+Nbr orbites : 3
+stabilité : True
+ 
+177 planetes
+Nombre de planètes : 21
+Masse planète mère : 1.0906856156861776e+27
+Nbr orbites : 2
+stabilité : True
+ 
+177 planetes
+Nombre de planètes : 29
+Masse planète mère : 1.6305471590722916e+27
+Nbr orbites : 5
+stabilité : True
+ 
+177 planetes
+Nombre de planètes : 28
+Masse planète mère : 2.1553787939267935e+26
+Nbr orbites : 0
+stabilité : False
+ 
+177 planetes
+Nombre de planètes : 28
+Masse planète mère : 1.582318115562528e+27
+Nbr orbites : 4
+stabilité : True
+ 
+178 planetes
+Nombre de planètes : 20
+Masse planète mère : 2.4942631546283694e+27
+Nbr orbites : 1
+stabilité : True
+ 
+178 planetes
+Nombre de planètes : 36
+Masse planète mère : 9.419305690941659e+25
+Nbr orbites : 0
+stabilité : False
+ 
+178 planetes
+
+# Essai 178 - 4
+lz_max: 2.2198719611041187e+36
+nombre de planètes : 178
+ 
+178 planetes
+Nombre de planètes : 22
+Masse planète mère : 1.635942888996881e+27
+Nbr orbites : 2
+stabilité : True
+ 
+178 planetes
+Nombre de planètes : 23
+Masse planète mère : 3.355897492949635e+26
+Nbr orbites : 0
+stabilité : False
+ 
+179 planetes
+Nombre de planètes : 20
+Masse planète mère : 1.3108755775393652e+27
+Nbr orbites : 2
+stabilité : True
+ 
+179 planetes
+Nombre de planètes : 22
+Masse planète mère : 9.899654444974999e+26
+Nbr orbites : 1
+stabilité : True
+ 
+179 planetes
+Nombre de planètes : 26
+Masse planète mère : 1.0080598289890024e+27
+Nbr orbites : 1
+stabilité : True
+ 
+179 planetes
+Nombre de planètes : 25
+Masse planète mère : 1.9720057894669675e+27
+Nbr orbites : 5
+stabilité : True
+ 
+179 planetes
+Nombre de planètes : 23
+Masse planète mère : 2.0581596529024654e+27
+Nbr orbites : 2
+stabilité : True
+ 
+180 planetes
+Nombre de planètes : 28
+Masse planète mère : 8.070109671013999e+26
+Nbr orbites : 3
+stabilité : True
+ 
+180 planetes
+Nombre de planètes : 21
+Masse planète mère : 1.752713549443912e+27
+Nbr orbites : 4
+stabilité : True
+ 
+180 planetes
+Nombre de planètes : 26
+Masse planète mère : 1.9493415171800923e+27
+Nbr orbites : 4
+stabilité : True
+ 
+180 planetes
+Nombre de planètes : 21
+Masse planète mère : 1.8779057014356265e+27
+Nbr orbites : 3
+stabilité : True
+ 
+180 planetes
+Nombre de planètes : 24
+Masse planète mère : 2.130615286012128e+27
+Nbr orbites : 4
+stabilité : True
+ 
+181 planetes
+Nombre de planètes : 26
+Masse planète mère : 1.9212132140429896e+27
+Nbr orbites : 4
+stabilité : True
+ 
+181 planetes
+Nombre de planètes : 34
+Masse planète mère : 5.766592331092208e+26
+Nbr orbites : 1
+stabilité : True
+ 
+181 planetes
+Nombre de planètes : 28
+Masse planète mère : 1.8159061715947352e+27
+Nbr orbites : 3
+stabilité : True
+ 
+181 planetes
+Nombre de planètes : 19
+Masse planète mère : 9.871090620530871e+26
+Nbr orbites : 2
+stabilité : True
+ 
+181 planetes
+Nombre de planètes : 16
+Masse planète mère : 1.3375146372788583e+27
+Nbr orbites : 0
+stabilité : False
+ 
+182 planetes
+Nombre de planètes : 22
+Masse planète mère : 2.0409004227921185e+27
+Nbr orbites : 3
+stabilité : True
+ 
+182 planetes
+Nombre de planètes : 30
+Masse planète mère : 1.1835372754048595e+27
+Nbr orbites : 0
+stabilité : False
+ 
+182 planetes
+Nombre de planètes : 21
+Masse planète mère : 1.543048725862845e+27
+Nbr orbites : 4
+stabilité : True
+ 
+182 planetes
+Nombre de planètes : 27
+Masse planète mère : 1.342248295846268e+27
+Nbr orbites : 3
+stabilité : True
+ 
+182 planetes
+Nombre de planètes : 35
+Masse planète mère : 1.3044464270200462e+27
+Nbr orbites : 4
+stabilité : True
+ 
+183 planetes
+Nombre de planètes : 35
+Masse planète mère : 1.2304075674086313e+27
+Nbr orbites : 1
+stabilité : True
+ 
+183 planetes
+Nombre de planètes : 26
+Masse planète mère : 4.4595794043054774e+26
+Nbr orbites : 1
+stabilité : True
+ 
+183 planetes
+
+# Essai 183 - 4
+lz_max: 2.2129574961361903e+36
+nombre de planètes : 183
+ 
+183 planetes
+Nombre de planètes : 29
+Masse planète mère : 1.2407027722629483e+27
+Nbr orbites : 3
+stabilité : True
+ 
+183 planetes
+Nombre de planètes : 25
+Masse planète mère : 9.664762407354562e+26
+Nbr orbites : 1
+stabilité : True
+ 
+184 planetes
+Nombre de planètes : 22
+Masse planète mère : 1.280969735147717e+27
+Nbr orbites : 2
+stabilité : True
+ 
+184 planetes
+Nombre de planètes : 28
+Masse planète mère : 1.0758244447293888e+27
+Nbr orbites : 5
+stabilité : True
+ 
+184 planetes
+Nombre de planètes : 22
+Masse planète mère : 1.7015307199742743e+27
+Nbr orbites : 2
+stabilité : True
+ 
+184 planetes
+Nombre de planètes : 26
+Masse planète mère : 1.4671560250606962e+27
+Nbr orbites : 4
+stabilité : True
+ 
+184 planetes
+Nombre de planètes : 37
+Masse planète mère : 2.0279864414042765e+27
+Nbr orbites : 6
+stabilité : True
+ 
+185 planetes
+
+# Essai 185 - 2
+lz_max: 2.2092808885853978e+36
+nombre de planètes : 185
+ 
+185 planetes
+Nombre de planètes : 19
+Masse planète mère : 2.4751066773335367e+27
+Nbr orbites : 1
+stabilité : True
+ 
+185 planetes
+Nombre de planètes : 24
+Masse planète mère : 1.8753125314168334e+27
+Nbr orbites : 3
+stabilité : True
+ 
+185 planetes
+Nombre de planètes : 24
+Masse planète mère : 3.46446933541774e+26
+Nbr orbites : 0
+stabilité : False
+ 
+185 planetes
+Nombre de planètes : 34
+Masse planète mère : 3.999439402766493e+26
+Nbr orbites : 1
+stabilité : True
+ 
+186 planetes
+Nombre de planètes : 22
+Masse planète mère : 1.9037785483362473e+27
+Nbr orbites : 1
+stabilité : True
+ 
+186 planetes
+Nombre de planètes : 22
+Masse planète mère : 7.725415598996267e+26
+Nbr orbites : 1
+stabilité : True
+ 
+186 planetes
+Nombre de planètes : 32
+Masse planète mère : 1.4858330070392606e+27
+Nbr orbites : 1
+stabilité : True
+ 
+186 planetes
+Nombre de planètes : 22
+Masse planète mère : 2.0237615408370643e+27
+Nbr orbites : 1
+stabilité : True
+ 
+186 planetes
+Nombre de planètes : 21
+Masse planète mère : 1.4675274148042965e+27
+Nbr orbites : 2
+stabilité : True
+ 
+187 planetes
+Nombre de planètes : 37
+Masse planète mère : 4.096618019927307e+26
+Nbr orbites : 0
+stabilité : False
+ 
+187 planetes
+Nombre de planètes : 30
+Masse planète mère : 2.0824278755421583e+27
+Nbr orbites : 4
+stabilité : True
+ 
+187 planetes
+Nombre de planètes : 27
+Masse planète mère : 2.0267772517173983e+27
+Nbr orbites : 1
+stabilité : True
+ 
+187 planetes
+Nombre de planètes : 33
+Masse planète mère : 9.937378477183265e+25
+Nbr orbites : 0
+stabilité : False
+ 
+187 planetes
+Nombre de planètes : 27
+Masse planète mère : 1.9344654369092122e+27
+Nbr orbites : 5
+stabilité : True
+ 
+188 planetes
+Nombre de planètes : 37
+Masse planète mère : 1.8628865165458404e+27
+Nbr orbites : 3
+stabilité : True
+ 
+188 planetes
+Nombre de planètes : 30
+Masse planète mère : 1.7878532950342302e+27
+Nbr orbites : 4
+stabilité : True
+ 
+188 planetes
+
+# Essai 188 - 4
+lz_max: 2.3346186111329462e+36
+nombre de planètes : 188
+ 
+188 planetes
+Nombre de planètes : 28
+Masse planète mère : 1.6850543520640363e+27
+Nbr orbites : 4
+stabilité : True
+ 
+188 planetes
+Nombre de planètes : 26
+Masse planète mère : 7.294672142266964e+26
+Nbr orbites : 2
+stabilité : True
+ 
+189 planetes
+Nombre de planètes : 24
+Masse planète mère : 1.44844556280032e+27
+Nbr orbites : 2
+stabilité : True
+ 
+189 planetes
+Nombre de planètes : 25
+Masse planète mère : 2.3828343907732578e+27
+Nbr orbites : 3
+stabilité : True
+ 
+189 planetes
+Nombre de planètes : 32
+Masse planète mère : 1.2918959573985362e+27
+Nbr orbites : 1
+stabilité : True
+ 
+189 planetes
+Nombre de planètes : 28
+Masse planète mère : 6.1651150599800825e+26
+Nbr orbites : 3
+stabilité : True
+ 
+189 planetes
+Nombre de planètes : 22
+Masse planète mère : 2.093599575443856e+27
+Nbr orbites : 2
+stabilité : True
+ 
+190 planetes
+Nombre de planètes : 28
+Masse planète mère : 1.0770030420327223e+27
+Nbr orbites : 1
+stabilité : True
+ 
+190 planetes
+Nombre de planètes : 26
+Masse planète mère : 4.044735796353294e+25
+Nbr orbites : 0
+stabilité : False
+ 
+190 planetes
+Nombre de planètes : 22
+Masse planète mère : 2.0453343276060004e+27
+Nbr orbites : 3
+stabilité : True
+ 
+190 planetes
+Nombre de planètes : 34
+Masse planète mère : 1.033427051181165e+27
+Nbr orbites : 1
+stabilité : True
+ 
+190 planetes
+Nombre de planètes : 22
+Masse planète mère : 1.2125621513916584e+27
+Nbr orbites : 2
+stabilité : True
+ 
+191 planetes
+Nombre de planètes : 19
+Masse planète mère : 1.3320087378652452e+27
+Nbr orbites : 0
+stabilité : False
+ 
+191 planetes
+Nombre de planètes : 22
+Masse planète mère : 1.958746265867346e+27
+Nbr orbites : 0
+stabilité : False
+ 
+191 planetes
+Nombre de planètes : 37
+Masse planète mère : 3.8857557497604956e+26
+Nbr orbites : 0
+stabilité : False
+ 
+191 planetes
+Nombre de planètes : 27
+Masse planète mère : 1.313474223763779e+27
+Nbr orbites : 2
+stabilité : True
+ 
+191 planetes
+Nombre de planètes : 39
+Masse planète mère : 8.185300191336099e+26
+Nbr orbites : 4
+stabilité : True
+ 
+192 planetes
+Nombre de planètes : 21
+Masse planète mère : 1.2323191621649211e+27
+Nbr orbites : 3
+stabilité : True
+ 
+192 planetes
+Nombre de planètes : 28
+Masse planète mère : 1.4966641655953004e+27
+Nbr orbites : 3
+stabilité : True
+ 
+192 planetes
+Nombre de planètes : 20
+Masse planète mère : 1.799388019718977e+27
+Nbr orbites : 2
+stabilité : True
+ 
+192 planetes
+Nombre de planètes : 30
+Masse planète mère : 1.8289090763992395e+27
+Nbr orbites : 2
+stabilité : True
+ 
+192 planetes
+Nombre de planètes : 21
+Masse planète mère : 1.7833756863653286e+27
+Nbr orbites : 3
+stabilité : True
+ 
+193 planetes
+Nombre de planètes : 23
+Masse planète mère : 1.9307009353548377e+27
+Nbr orbites : 3
+stabilité : True
+ 
+193 planetes
+Nombre de planètes : 26
+Masse planète mère : 4.397128365082226e+26
+Nbr orbites : 1
+stabilité : True
+ 
+193 planetes
+Nombre de planètes : 29
+Masse planète mère : 2.0804146958826907e+27
+Nbr orbites : 2
+stabilité : True
+ 
+193 planetes
+Nombre de planètes : 26
+Masse planète mère : 1.9975747284852513e+27
+Nbr orbites : 2
+stabilité : True
+ 
+193 planetes
+Nombre de planètes : 35
+Masse planète mère : 3.69386277413311e+26
+Nbr orbites : 1
+stabilité : True
+ 
+194 planetes
+Nombre de planètes : 27
+Masse planète mère : 1.44131118719371e+27
+Nbr orbites : 2
+stabilité : True
+ 
+194 planetes
+Nombre de planètes : 21
+Masse planète mère : 2.0970671557348107e+27
+Nbr orbites : 2
+stabilité : True
+ 
+194 planetes
+Nombre de planètes : 28
+Masse planète mère : 1.0055821734842508e+27
+Nbr orbites : 3
+stabilité : True
+ 
+194 planetes
+Nombre de planètes : 32
+Masse planète mère : 2.5049362890571753e+26
+Nbr orbites : 0
+stabilité : False
+ 
+194 planetes
+Nombre de planètes : 26
+Masse planète mère : 5.799217789343831e+26
+Nbr orbites : 2
+stabilité : True
+ 
+195 planetes
+Nombre de planètes : 22
+Masse planète mère : 2.1489193163961236e+27
+Nbr orbites : 1
+stabilité : True
+ 
+195 planetes
+Nombre de planètes : 26
+Masse planète mère : 1.1829766665947535e+27
+Nbr orbites : 1
+stabilité : True
+ 
+195 planetes
+Nombre de planètes : 33
+Masse planète mère : 1.4721698409451078e+27
+Nbr orbites : 2
+stabilité : True
+ 
+195 planetes
+Nombre de planètes : 34
+Masse planète mère : 9.874788322878341e+25
+Nbr orbites : 0
+stabilité : False
+ 
+195 planetes
+Nombre de planètes : 30
+Masse planète mère : 1.2022812956984876e+27
+Nbr orbites : 2
+stabilité : True
+ 
+196 planetes
+
+# Essai 196 - 2
+lz_max: 2.4883888062168925e+36
+nombre de planètes : 196
+ 
+196 planetes
+Nombre de planètes : 22
+Masse planète mère : 2.4112694549689097e+27
+Nbr orbites : 6
+stabilité : True
+ 
+196 planetes
+Nombre de planètes : 24
+Masse planète mère : 2.1353168470818694e+27
+Nbr orbites : 4
+stabilité : True
+ 
+196 planetes
+Nombre de planètes : 30
+Masse planète mère : 1.885693643737192e+27
+Nbr orbites : 1
+stabilité : True
+ 
+196 planetes
+Nombre de planètes : 20
+Masse planète mère : 1.7696897088558915e+27
+Nbr orbites : 2
+stabilité : True
+ 
+197 planetes
+Nombre de planètes : 13
+Masse planète mère : 2.18887326897783e+27
+Nbr orbites : 2
+stabilité : True
+ 
+197 planetes
+Nombre de planètes : 24
+Masse planète mère : 1.7319664463633648e+27
+Nbr orbites : 2
+stabilité : True
+ 
+197 planetes
+Nombre de planètes : 27
+Masse planète mère : 6.836144005251528e+26
+Nbr orbites : 1
+stabilité : True
+ 
+197 planetes
+Nombre de planètes : 29
+Masse planète mère : 1.1719638483577888e+27
+Nbr orbites : 1
+stabilité : True
+ 
+197 planetes
+Nombre de planètes : 27
+Masse planète mère : 2.0006346567501364e+27
+Nbr orbites : 1
+stabilité : True
+ 
+198 planetes
+Nombre de planètes : 35
+Masse planète mère : 1.65131910364062e+27
+Nbr orbites : 6
+stabilité : True
+ 
+198 planetes
+Nombre de planètes : 23
+Masse planète mère : 1.813618324118218e+27
+Nbr orbites : 1
+stabilité : True
+ 
+198 planetes
+Nombre de planètes : 26
+Masse planète mère : 2.2225344773620375e+27
+Nbr orbites : 4
+stabilité : True
+ 
+198 planetes
+Nombre de planètes : 23
+Masse planète mère : 1.5039484097734194e+27
+Nbr orbites : 3
+stabilité : True
+ 
+198 planetes
+Nombre de planètes : 20
+Masse planète mère : 2.2221208730106453e+27
+Nbr orbites : 1
+stabilité : True
+ 
+199 planetes
+Nombre de planètes : 22
+Masse planète mère : 2.0901782213861472e+27
+Nbr orbites : 3
+stabilité : True
+ 
+199 planetes
+Nombre de planètes : 25
+Masse planète mère : 1.8370858425762752e+27
+Nbr orbites : 1
+stabilité : True
+ 
+199 planetes
+Nombre de planètes : 25
+Masse planète mère : 1.661942519225341e+27
+Nbr orbites : 0
+stabilité : False
+ 
+199 planetes
+Nombre de planètes : 29
+Masse planète mère : 4.0789205345545695e+26
+Nbr orbites : 1
+stabilité : True
+ 
+199 planetes
+Nombre de planètes : 30
+Masse planète mère : 1.6069090002643217e+27
+Nbr orbites : 2
+stabilité : True
+ 
+200 planetes
+Nombre de planètes : 23
+Masse planète mère : 2.240002583979771e+27
+Nbr orbites : 0
+stabilité : False
+ 
+200 planetes
+Nombre de planètes : 25
+Masse planète mère : 1.9294789595418687e+27
+Nbr orbites : 1
+stabilité : True
+ 
+200 planetes
+Nombre de planètes : 21
+Masse planète mère : 1.5712022150035833e+27
+Nbr orbites : 2
+stabilité : True
+ 
+200 planetes
+Nombre de planètes : 29
+Masse planète mère : 2.099084647161926e+27
+Nbr orbites : 3
+stabilité : True
+ 
+200 planetes
+Nombre de planètes : 42
+Masse planète mère : 1.3994491173415883e+27
+Nbr orbites : 3
+stabilité : True
+ 

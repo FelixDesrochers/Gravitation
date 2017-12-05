@@ -208,7 +208,7 @@ def trouver_massive(liste_planete, init):
 #Fonction pour trouver toutes les planètes à l'intérieur d'un certain rayon autour de la planète
 def get_other_planets(liste_planete, planete_mere):
     nbr_stable=0
-    if planete_mere.mass < 15*masse_terre:
+    if planete_mere.mass < 18*masse_terre:
         pass
     else:
         for planete in liste_planete:
@@ -346,8 +346,13 @@ def main(liste_planetes):
 
     #Animation
     #anim = animation.FuncAnimation(fig, run, actualiser_systeme(liste_planetes), frames=650, blit=False, repeat=False)
-    anim = animation.FuncAnimation(fig, run, actualiser_systeme(liste_planetes), interval=5, blit=False, repeat=False)
+    anim = animation.FuncAnimation(fig, run, actualiser_systeme(liste_planetes), interval=5, blit=False, repeat=False, save_count=300, )
+
+    #fig = plt.gcf()
+    #fig.set_size_inches(18.5, 10.5, forward=True)
 
     #Traçage de l'animation
     plt.show()
+
+    anim.save('planet.gif', writer='imagemagick', dpi=100, fps=25)
 

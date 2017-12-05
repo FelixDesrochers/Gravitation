@@ -1,0 +1,4005 @@
+
+# Essai 0 - 1
+lz_max: 8.125460454240964e+30
+Attention!!! Moment angulaire demandé supérieur au moment angulaire maximal
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60552.65181568676
+vitesse moyenne : 0.09999999999999996
+quantité de mouvement moyenne : 1.7687458142369877e+24
+lz : 8.125460454240964e+30
+Nombre de planètes : 24
+Masse planète mère : 1.1583197363824283e+27
+Nbr orbites : 1
+stabilité : True
+
+# Essai 0 - 2
+lz_max: 9.088580170134432e+30
+Attention!!! Moment angulaire demandé supérieur au moment angulaire maximal
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60321.36207358601
+vitesse moyenne : 0.10000718862635537
+quantité de mouvement moyenne : 1.7928850613079148e+24
+lz : 9.088580170134432e+30
+Nombre de planètes : 15
+Masse planète mère : 1.4668380352623275e+27
+Nbr orbites : 1
+stabilité : True
+
+# Essai 0 - 3
+lz_max: 8.85107066916645e+30
+Attention!!! Moment angulaire demandé supérieur au moment angulaire maximal
+Incapable de définir le système
+
+# Essai 0 - 4
+lz_max: 9.293489681945253e+30
+Attention!!! Moment angulaire demandé supérieur au moment angulaire maximal
+Incapable de définir le système
+
+# Essai 0 - 5
+lz_max: 9.294419233167822e+30
+Attention!!! Moment angulaire demandé supérieur au moment angulaire maximal
+nombre de planètes : 150
+masse moyenne : 1.7916600000000008e+25
+rayon moyen : 60581.83266839517
+vitesse moyenne : 0.10000000000000003
+quantité de mouvement moyenne : 1.787269207804388e+24
+lz : 9.29441923316782e+30
+Nombre de planètes : 21
+Masse planète mère : 1.5905872647231258e+27
+Nbr orbites : 4
+stabilité : True
+
+# Essai 1 - 1
+lz_max: 4.4000410095810756e+35
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60564.323268993074
+vitesse moyenne : 5000.099999999999
+quantité de mouvement moyenne : 8.997978958378961e+28
+lz : 2.0000000000000336e+33
+Nombre de planètes : 22
+Masse planète mère : 1.557555435349595e+27
+Nbr orbites : 3
+stabilité : True
+
+# Essai 1 - 2
+lz_max: 4.8872610234503256e+35
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60486.06555113024
+vitesse moyenne : 5000.100000000001
+quantité de mouvement moyenne : 9.130966367815793e+28
+lz : 2.0000000000000183e+33
+Nombre de planètes : 12
+Masse planète mère : 1.1859756887449922e+27
+Nbr orbites : 1
+stabilité : True
+
+# Essai 1 - 3
+lz_max: 4.371027807287056e+35
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60327.532359429104
+vitesse moyenne : 5000.1
+quantité de mouvement moyenne : 8.96799174965629e+28
+lz : 2.0000000000000278e+33
+Nombre de planètes : 13
+Masse planète mère : 1.4797027130084417e+27
+Nbr orbites : 1
+stabilité : True
+
+# Essai 1 - 4
+lz_max: 4.9030855251268984e+35
+nombre de planètes : 150
+masse moyenne : 1.7916600000000015e+25
+rayon moyen : 60496.43398419681
+vitesse moyenne : 5004.238136289032
+quantité de mouvement moyenne : 8.998990655963546e+28
+lz : 2.0000000000000025e+33
+Nombre de planètes : 16
+Masse planète mère : 1.1727065739408515e+27
+Nbr orbites : 3
+stabilité : True
+
+# Essai 1 - 5
+lz_max: 4.124732455854385e+35
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60692.6168670626
+vitesse moyenne : 5000.100000000001
+quantité de mouvement moyenne : 8.817827856876422e+28
+lz : 2.000000000000024e+33
+Nombre de planètes : 22
+Masse planète mère : 8.52143681994359e+26
+Nbr orbites : 0
+stabilité : False
+
+# Essai 2 - 1
+lz_max: 8.55186712816431e+35
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60558.53310296476
+vitesse moyenne : 10000.099999999999
+quantité de mouvement moyenne : 1.7799351108094142e+29
+lz : 1.9999999999999823e+33
+Nombre de planètes : 17
+Masse planète mère : 1.3092885426496283e+27
+Nbr orbites : 3
+stabilité : True
+
+# Essai 2 - 2
+lz_max: 7.967284526755856e+35
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60327.18696168652
+vitesse moyenne : 10000.099999999995
+quantité de mouvement moyenne : 1.79778040361819e+29
+lz : 2.000000000000083e+33
+Nombre de planètes : 23
+Masse planète mère : 1.4456721544719453e+27
+Nbr orbites : 1
+stabilité : True
+
+# Essai 2 - 3
+lz_max: 9.537963027462089e+35
+nombre de planètes : 150
+masse moyenne : 1.7916599999999993e+25
+rayon moyen : 60483.61594385012
+vitesse moyenne : 10024.78410876076
+quantité de mouvement moyenne : 1.7824402645505387e+29
+lz : 2.0000000000000604e+33
+Nombre de planètes : 23
+Masse planète mère : 1.6933647924910258e+27
+Nbr orbites : 5
+stabilité : True
+
+# Essai 2 - 4
+lz_max: 8.6481466888909e+35
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60392.01922929751
+vitesse moyenne : 10000.1
+quantité de mouvement moyenne : 1.7835876840339732e+29
+lz : 2.000000000000038e+33
+Nombre de planètes : 14
+Masse planète mère : 2.2155211506553576e+27
+Nbr orbites : 3
+stabilité : True
+
+# Essai 2 - 5
+lz_max: 9.150571996064027e+35
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60520.400255015156
+vitesse moyenne : 10000.099999999995
+quantité de mouvement moyenne : 1.7966469515168758e+29
+lz : 2.000000000000132e+33
+Nombre de planètes : 25
+Masse planète mère : 1.7221128450527584e+27
+Nbr orbites : 2
+stabilité : True
+
+# Essai 3 - 1
+lz_max: 1.4045142906343908e+36
+nombre de planètes : 150
+masse moyenne : 1.7916599999999989e+25
+rayon moyen : 60621.131916462306
+vitesse moyenne : 15000.100000000015
+quantité de mouvement moyenne : 2.6876057786304903e+29
+lz : 2.0000000000000598e+33
+Nombre de planètes : 23
+Masse planète mère : 1.1503295100082123e+27
+Nbr orbites : 1
+stabilité : True
+
+# Essai 3 - 2
+lz_max: 1.376114225859198e+36
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60352.6555936135
+vitesse moyenne : 15000.099999999993
+quantité de mouvement moyenne : 2.67946266741105e+29
+lz : 2.000000000000154e+33
+Nombre de planètes : 20
+Masse planète mère : 9.573363849410121e+26
+Nbr orbites : 3
+stabilité : True
+
+# Essai 3 - 3
+lz_max: 1.200591111637339e+36
+nombre de planètes : 150
+masse moyenne : 1.7916599999999989e+25
+rayon moyen : 60229.44497369019
+vitesse moyenne : 15000.10000000001
+quantité de mouvement moyenne : 2.675243770020076e+29
+lz : 2.0000000000000866e+33
+Nombre de planètes : 29
+Masse planète mère : 1.0197453391647632e+27
+Nbr orbites : 4
+stabilité : True
+
+# Essai 3 - 4
+lz_max: 1.2051319241330523e+36
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60570.70772232925
+vitesse moyenne : 15000.1
+quantité de mouvement moyenne : 2.698641037061823e+29
+lz : 2.000000000000059e+33
+Nombre de planètes : 19
+Masse planète mère : 1.756299671673674e+27
+Nbr orbites : 4
+stabilité : True
+
+# Essai 3 - 5
+lz_max: 1.3162320130362168e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60407.36253721313
+vitesse moyenne : 15000.100000000006
+quantité de mouvement moyenne : 2.6712724252378445e+29
+lz : 2.0000000000000696e+33
+Nombre de planètes : 21
+Masse planète mère : 1.449879470959517e+27
+Nbr orbites : 1
+stabilité : True
+
+# Essai 4 - 1
+lz_max: 1.659500009130623e+36
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60503.320812263635
+vitesse moyenne : 20000.100000000006
+quantité de mouvement moyenne : 3.5182780210804544e+29
+lz : 2.0000000000000428e+33
+Nombre de planètes : 30
+Masse planète mère : 1.3272655450666138e+27
+Nbr orbites : 1
+stabilité : True
+
+# Essai 4 - 2
+lz_max: 2.0022728283572104e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60420.49813556682
+vitesse moyenne : 20054.363471465047
+quantité de mouvement moyenne : 3.652453487405709e+29
+lz : 2.000000000000196e+33
+Nombre de planètes : 21
+Masse planète mère : 1.6521988502198614e+27
+Nbr orbites : 2
+stabilité : True
+
+# Essai 4 - 3
+lz_max: 1.8038836697674087e+36
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60459.28719242632
+vitesse moyenne : 20000.100000000006
+quantité de mouvement moyenne : 3.6244406149199844e+29
+lz : 2.0000000000001086e+33
+Nombre de planètes : 31
+Masse planète mère : 1.1016783818070249e+27
+Nbr orbites : 2
+stabilité : True
+
+# Essai 4 - 4
+lz_max: 1.5350208120195585e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60458.534092495196
+vitesse moyenne : 20000.1
+quantité de mouvement moyenne : 3.5667305068194934e+29
+lz : 2.0000000000000892e+33
+Nombre de planètes : 29
+Masse planète mère : 1.4880081655298745e+27
+Nbr orbites : 3
+stabilité : True
+
+# Essai 4 - 5
+lz_max: 1.8502318015000875e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60542.336839720694
+vitesse moyenne : 20000.099999999995
+quantité de mouvement moyenne : 3.6514323332194876e+29
+lz : 2.000000000000121e+33
+Nombre de planètes : 14
+Masse planète mère : 1.2685902985360172e+27
+Nbr orbites : 3
+stabilité : True
+
+# Essai 5 - 1
+lz_max: 2.2058846484476716e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000012e+25
+rayon moyen : 60533.373845405615
+vitesse moyenne : 25000.10000000001
+quantité de mouvement moyenne : 4.48230234752425e+29
+lz : 2.0000000000002005e+33
+Nombre de planètes : 34
+Masse planète mère : 1.2962925622682607e+27
+Nbr orbites : 6
+stabilité : True
+
+# Essai 5 - 2
+lz_max: 2.1918938473733256e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60507.336289562125
+vitesse moyenne : 25000.1
+quantité de mouvement moyenne : 4.4615771268703576e+29
+lz : 2.0000000000001233e+33
+Nombre de planètes : 14
+Masse planète mère : 1.570069055232221e+27
+Nbr orbites : 3
+stabilité : True
+
+# Essai 5 - 3
+lz_max: 2.125537155449724e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000008e+25
+rayon moyen : 60647.97408216366
+vitesse moyenne : 25000.10000000001
+quantité de mouvement moyenne : 4.5226800618664746e+29
+lz : 2.0000000000001247e+33
+Nombre de planètes : 14
+Masse planète mère : 1.5707945945573228e+27
+Nbr orbites : 4
+stabilité : True
+
+# Essai 5 - 4
+lz_max: 2.200120898733466e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60395.72944351564
+vitesse moyenne : 25027.508378804097
+quantité de mouvement moyenne : 4.5079701680566694e+29
+lz : 2.0000000000001535e+33
+Nombre de planètes : 21
+Masse planète mère : 1.7674483344146691e+27
+Nbr orbites : 3
+stabilité : True
+
+# Essai 5 - 5
+lz_max: 2.370168579052413e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60484.8808291831
+vitesse moyenne : 25000.099999999988
+quantité de mouvement moyenne : 4.5012159328546184e+29
+lz : 2.000000000000127e+33
+Nombre de planètes : 18
+Masse planète mère : 1.9558842982211966e+27
+Nbr orbites : 4
+stabilité : True
+
+# Essai 6 - 1
+lz_max: 2.783719799815806e+36
+nombre de planètes : 150
+masse moyenne : 1.7916599999999989e+25
+rayon moyen : 60255.78092570953
+vitesse moyenne : 30097.37354643974
+quantité de mouvement moyenne : 5.457862884989124e+29
+lz : 2.000000000000064e+33
+Nombre de planètes : 23
+Masse planète mère : 1.6966769849157012e+27
+Nbr orbites : 3
+stabilité : True
+
+# Essai 6 - 2
+lz_max: 2.777164432807853e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60567.44936195919
+vitesse moyenne : 30025.834689684845
+quantité de mouvement moyenne : 5.290319752250607e+29
+lz : 2.0000000000001558e+33
+Nombre de planètes : 32
+Masse planète mère : 9.27009103566256e+26
+Nbr orbites : 1
+stabilité : True
+
+# Essai 6 - 3
+lz_max: 2.579486312599095e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60432.29454684327
+vitesse moyenne : 30000.09999999998
+quantité de mouvement moyenne : 5.345153877789742e+29
+lz : 2.0000000000001734e+33
+Nombre de planètes : 23
+Masse planète mère : 1.705987083618123e+27
+Nbr orbites : 3
+stabilité : True
+
+# Essai 6 - 4
+lz_max: 2.7383376200240093e+36
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60417.091393977666
+vitesse moyenne : 30000.100000000006
+quantité de mouvement moyenne : 5.488785815173009e+29
+lz : 2.0000000000003071e+33
+Nombre de planètes : 16
+Masse planète mère : 1.6211164683873326e+27
+Nbr orbites : 3
+stabilité : True
+
+# Essai 6 - 5
+lz_max: 2.9981776081043326e+36
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60507.34355666613
+vitesse moyenne : 30000.100000000013
+quantité de mouvement moyenne : 5.3664322926818734e+29
+lz : 2.0000000000000296e+33
+Nombre de planètes : 19
+Masse planète mère : 1.1807895143964818e+27
+Nbr orbites : 1
+stabilité : True
+
+# Essai 7 - 1
+lz_max: 3.2793080288173e+36
+nombre de planètes : 150
+masse moyenne : 1.7916599999999993e+25
+rayon moyen : 60369.237741022436
+vitesse moyenne : 35000.10000000001
+quantité de mouvement moyenne : 6.353409058109884e+29
+lz : 2.0000000000000993e+33
+Nombre de planètes : 22
+Masse planète mère : 1.248389149018387e+27
+Nbr orbites : 0
+stabilité : False
+
+# Essai 7 - 2
+lz_max: 3.2534407639241587e+36
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60565.193916176075
+vitesse moyenne : 35047.666341582975
+quantité de mouvement moyenne : 6.176712038483704e+29
+lz : 2.0000000000001114e+33
+Nombre de planètes : 20
+Masse planète mère : 1.5087078266786525e+27
+Nbr orbites : 2
+stabilité : True
+
+# Essai 7 - 3
+lz_max: 3.108209459970035e+36
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60463.82026814599
+vitesse moyenne : 35000.09999999999
+quantité de mouvement moyenne : 6.256676783864816e+29
+lz : 2.0000000000000538e+33
+Nombre de planètes : 26
+Masse planète mère : 1.627311622818842e+27
+Nbr orbites : 3
+stabilité : True
+
+# Essai 7 - 4
+lz_max: 3.126138630645243e+36
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60233.77635806928
+vitesse moyenne : 35004.09462095119
+quantité de mouvement moyenne : 6.2113251767354135e+29
+lz : 2.0000000000001492e+33
+Nombre de planètes : 23
+Masse planète mère : 1.2649746507335034e+27
+Nbr orbites : 2
+stabilité : True
+
+# Essai 7 - 5
+lz_max: 2.8515998618275874e+36
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60525.668458551554
+vitesse moyenne : 35000.099999999984
+quantité de mouvement moyenne : 6.290665532390273e+29
+lz : 2.0000000000001627e+33
+Nombre de planètes : 23
+Masse planète mère : 1.2944230247725782e+27
+Nbr orbites : 2
+stabilité : True
+
+# Essai 8 - 1
+lz_max: 3.4672917862366835e+36
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60274.43156346711
+vitesse moyenne : 40000.09999999999
+quantité de mouvement moyenne : 7.2100247056431e+29
+lz : 2.0000000000002558e+33
+Nombre de planètes : 21
+Masse planète mère : 9.686468212078476e+25
+Nbr orbites : 0
+stabilité : False
+
+# Essai 8 - 2
+lz_max: 3.407973006737561e+36
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60516.9378314194
+vitesse moyenne : 40000.099999999984
+quantité de mouvement moyenne : 7.075978812519363e+29
+lz : 2.0000000000003697e+33
+Nombre de planètes : 26
+Masse planète mère : 1.476122841812086e+27
+Nbr orbites : 0
+stabilité : False
+
+# Essai 8 - 3
+lz_max: 3.6828476257908627e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000008e+25
+rayon moyen : 60610.39424121568
+vitesse moyenne : 40000.09999999999
+quantité de mouvement moyenne : 7.163528539076714e+29
+lz : 2.0000000000001146e+33
+Nombre de planètes : 21
+Masse planète mère : 1.9415715514614695e+27
+Nbr orbites : 3
+stabilité : True
+
+# Essai 8 - 4
+lz_max: 3.301902269629546e+36
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60640.05845295128
+vitesse moyenne : 40000.1
+quantité de mouvement moyenne : 7.238722710471032e+29
+lz : 2.000000000000263e+33
+Nombre de planètes : 24
+Masse planète mère : 1.3351966926945996e+27
+Nbr orbites : 3
+stabilité : True
+
+# Essai 8 - 5
+lz_max: 3.5953831453902906e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60345.25432942932
+vitesse moyenne : 40059.03581876659
+quantité de mouvement moyenne : 7.140247970639307e+29
+lz : 2.000000000000125e+33
+Nombre de planètes : 31
+Masse planète mère : 1.2135659585319236e+27
+Nbr orbites : 3
+stabilité : True
+
+# Essai 9 - 1
+lz_max: 4.0397815672277234e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000008e+25
+rayon moyen : 60380.03883532538
+vitesse moyenne : 45000.09999999999
+quantité de mouvement moyenne : 8.042424953469701e+29
+lz : 2.0000000000000544e+33
+Nombre de planètes : 26
+Masse planète mère : 1.3347343073178938e+27
+Nbr orbites : 3
+stabilité : True
+
+# Essai 9 - 2
+lz_max: 4.2891891588407903e+36
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60291.643771282535
+vitesse moyenne : 45000.099999999984
+quantité de mouvement moyenne : 8.14955687479638e+29
+lz : 2.0000000000001838e+33
+Nombre de planètes : 25
+Masse planète mère : 1.8623770193274138e+27
+Nbr orbites : 7
+stabilité : True
+
+# Essai 9 - 3
+lz_max: 4.032342310159915e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 59978.789661339855
+vitesse moyenne : 45195.2283588237
+quantité de mouvement moyenne : 7.978223223602316e+29
+lz : 2.0000000000002117e+33
+Nombre de planètes : 23
+Masse planète mère : 1.098730360482077e+27
+Nbr orbites : 2
+stabilité : True
+
+# Essai 9 - 4
+lz_max: 4.002145471918783e+36
+nombre de planètes : 150
+masse moyenne : 1.7916599999999993e+25
+rayon moyen : 60512.330402452586
+vitesse moyenne : 45000.10000000002
+quantité de mouvement moyenne : 7.905974821311553e+29
+lz : 2.0000000000000927e+33
+Nombre de planètes : 20
+Masse planète mère : 1.281493574907463e+27
+Nbr orbites : 2
+stabilité : True
+
+# Essai 9 - 5
+lz_max: 4.3385666972344896e+36
+nombre de planètes : 150
+masse moyenne : 1.7916599999999993e+25
+rayon moyen : 60507.31199501964
+vitesse moyenne : 45000.09999999999
+quantité de mouvement moyenne : 8.03705778620268e+29
+lz : 2.0000000000000745e+33
+Nombre de planètes : 23
+Masse planète mère : 3.600425998507363e+26
+Nbr orbites : 1
+stabilité : True
+
+# Essai 10 - 1
+lz_max: 3.953414278915461e+36
+nombre de planètes : 150
+masse moyenne : 1.7916599999999989e+25
+rayon moyen : 60051.25373186586
+vitesse moyenne : 50000.10000000002
+quantité de mouvement moyenne : 8.990310693005477e+29
+lz : 2.0000000000002878e+33
+Nombre de planètes : 33
+Masse planète mère : 3.117789112153547e+26
+Nbr orbites : 2
+stabilité : True
+
+# Essai 10 - 2
+lz_max: 4.178002795697917e+36
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60497.101238535106
+vitesse moyenne : 50000.099999999984
+quantité de mouvement moyenne : 9.000238971507405e+29
+lz : 2.0000000000002815e+33
+Nombre de planètes : 20
+Masse planète mère : 1.076846965570102e+27
+Nbr orbites : 1
+stabilité : True
+
+# Essai 10 - 3
+lz_max: 4.077125647928694e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60500.40638494324
+vitesse moyenne : 50000.10000000002
+quantité de mouvement moyenne : 9.015965044027227e+29
+lz : 2.000000000000155e+33
+Nombre de planètes : 20
+Masse planète mère : 1.5984098949186688e+27
+Nbr orbites : 4
+stabilité : True
+
+# Essai 10 - 4
+lz_max: 4.484935589151692e+36
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60494.01833960602
+vitesse moyenne : 50000.100000000006
+quantité de mouvement moyenne : 8.865263454228434e+29
+lz : 2.0000000000001642e+33
+Nombre de planètes : 22
+Masse planète mère : 8.992369674594092e+26
+Nbr orbites : 1
+stabilité : True
+
+# Essai 10 - 5
+lz_max: 4.3418015766954906e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60498.76135975695
+vitesse moyenne : 50000.099999999984
+quantité de mouvement moyenne : 9.098412780023788e+29
+lz : 2.000000000000471e+33
+Nombre de planètes : 27
+Masse planète mère : 7.859537908151174e+26
+Nbr orbites : 1
+stabilité : True
+
+# Essai 11 - 1
+lz_max: 5.0146204855052537e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000012e+25
+rayon moyen : 60508.24164888632
+vitesse moyenne : 55000.1
+quantité de mouvement moyenne : 9.698645576702697e+29
+lz : 2.0000000000006732e+33
+Nombre de planètes : 32
+Masse planète mère : 1.3247187373543598e+27
+Nbr orbites : 4
+stabilité : True
+
+# Essai 11 - 2
+lz_max: 4.77903541252329e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60416.77895584448
+vitesse moyenne : 55000.1
+quantité de mouvement moyenne : 9.868928626056902e+29
+lz : 2.000000000000159e+33
+Nombre de planètes : 28
+Masse planète mère : 1.436722054754013e+27
+Nbr orbites : 2
+stabilité : True
+
+# Essai 11 - 3
+lz_max: 4.6221484838257857e+36
+nombre de planètes : 150
+masse moyenne : 1.7916599999999993e+25
+rayon moyen : 60617.04041269125
+vitesse moyenne : 55000.09999999999
+quantité de mouvement moyenne : 9.73215746877511e+29
+lz : 2.0000000000006072e+33
+Nombre de planètes : 29
+Masse planète mère : 1.2188584091207124e+27
+Nbr orbites : 3
+stabilité : True
+
+# Essai 11 - 4
+lz_max: 4.6642870799907193e+36
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60565.26764858045
+vitesse moyenne : 55000.099999999984
+quantité de mouvement moyenne : 9.731789116028481e+29
+lz : 2.0000000000001625e+33
+Nombre de planètes : 26
+Masse planète mère : 1.7321553585913223e+27
+Nbr orbites : 3
+stabilité : True
+
+# Essai 11 - 5
+lz_max: 4.4708423897776296e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000008e+25
+rayon moyen : 60306.1128911753
+vitesse moyenne : 55000.099999999984
+quantité de mouvement moyenne : 9.874286260847535e+29
+lz : 2.000000000000168e+33
+Nombre de planètes : 21
+Masse planète mère : 1.4136141242620533e+27
+Nbr orbites : 3
+stabilité : True
+
+# Essai 12 - 1
+lz_max: 5.422366570460867e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000008e+25
+rayon moyen : 60470.995015414606
+vitesse moyenne : 60000.09999999998
+quantité de mouvement moyenne : 1.063295331928528e+30
+lz : 2.0000000000004221e+33
+Nombre de planètes : 16
+Masse planète mère : 1.7876874082039852e+27
+Nbr orbites : 2
+stabilité : True
+
+# Essai 12 - 2
+lz_max: 5.210547492519742e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60226.34941744523
+vitesse moyenne : 60000.099999999984
+quantité de mouvement moyenne : 1.064893926492303e+30
+lz : 2.000000000000162e+33
+Nombre de planètes : 29
+Masse planète mère : 1.8606112844436262e+27
+Nbr orbites : 3
+stabilité : True
+
+# Essai 12 - 3
+lz_max: 5.387045653319285e+36
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60483.455629836346
+vitesse moyenne : 60000.10000000001
+quantité de mouvement moyenne : 1.063460045250152e+30
+lz : 2.0000000000002123e+33
+Nombre de planètes : 26
+Masse planète mère : 1.420487380833566e+27
+Nbr orbites : 3
+stabilité : True
+
+# Essai 12 - 4
+lz_max: 5.462409565210126e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60595.63943345553
+vitesse moyenne : 60000.099999999984
+quantité de mouvement moyenne : 1.0812910884708255e+30
+lz : 2.000000000000127e+33
+Nombre de planètes : 20
+Masse planète mère : 1.3643263389815334e+27
+Nbr orbites : 2
+stabilité : True
+
+# Essai 12 - 5
+lz_max: 5.419850024614058e+36
+nombre de planètes : 150
+masse moyenne : 1.7916599999999993e+25
+rayon moyen : 60269.23687917639
+vitesse moyenne : 60000.10000000003
+quantité de mouvement moyenne : 1.0719079510257516e+30
+lz : 2.0000000000001968e+33
+Nombre de planètes : 40
+Masse planète mère : 3.7404658971266544e+26
+Nbr orbites : 0
+stabilité : False
+
+# Essai 13 - 1
+lz_max: 6.199079452943106e+36
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60523.305515261454
+vitesse moyenne : 65000.099999999984
+quantité de mouvement moyenne : 1.1545942427950592e+30
+lz : 2.0000000000005908e+33
+Nombre de planètes : 25
+Masse planète mère : 1.5371002373830527e+27
+Nbr orbites : 2
+stabilité : True
+
+# Essai 13 - 2
+lz_max: 5.748680505602931e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60396.96757044274
+vitesse moyenne : 65000.10000000005
+quantité de mouvement moyenne : 1.1550398386060195e+30
+lz : 2.0000000000006282e+33
+Nombre de planètes : 26
+Masse planète mère : 9.02192044210285e+26
+Nbr orbites : 4
+stabilité : True
+
+# Essai 13 - 3
+lz_max: 5.98274332705861e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60174.788889990254
+vitesse moyenne : 65021.63177185887
+quantité de mouvement moyenne : 1.1664981306311107e+30
+lz : 2.0000000000004325e+33
+Nombre de planètes : 37
+Masse planète mère : 4.670487129352732e+26
+Nbr orbites : 4
+stabilité : True
+
+# Essai 13 - 4
+lz_max: 6.154218256957438e+36
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60189.08099410894
+vitesse moyenne : 65000.09999999995
+quantité de mouvement moyenne : 1.1595895642693769e+30
+lz : 2.000000000000211e+33
+Nombre de planètes : 25
+Masse planète mère : 1.1056651476800133e+27
+Nbr orbites : 1
+stabilité : True
+
+# Essai 13 - 5
+lz_max: 5.975379517016538e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60459.49839712898
+vitesse moyenne : 65000.10000000001
+quantité de mouvement moyenne : 1.1608854330880489e+30
+lz : 2.000000000000561e+33
+Nombre de planètes : 27
+Masse planète mère : 9.346661033260557e+26
+Nbr orbites : 6
+stabilité : True
+
+# Essai 14 - 1
+lz_max: 5.91741408620477e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000008e+25
+rayon moyen : 60401.87606461356
+vitesse moyenne : 70000.10000000002
+quantité de mouvement moyenne : 1.2375357827014223e+30
+lz : 2.0000000000007118e+33
+Nombre de planètes : 24
+Masse planète mère : 1.531690638499293e+27
+Nbr orbites : 3
+stabilité : True
+
+# Essai 14 - 2
+lz_max: 6.384335600670914e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000012e+25
+rayon moyen : 60475.348086757076
+vitesse moyenne : 70000.1
+quantité de mouvement moyenne : 1.2455128046157008e+30
+lz : 2.0000000000004083e+33
+Nombre de planètes : 31
+Masse planète mère : 1.4068493231088794e+27
+Nbr orbites : 3
+stabilité : True
+
+# Essai 14 - 3
+lz_max: 6.210729983434642e+36
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60427.10493194927
+vitesse moyenne : 70000.1
+quantité de mouvement moyenne : 1.2489651032991692e+30
+lz : 2.000000000000727e+33
+Nombre de planètes : 24
+Masse planète mère : 1.008890111320884e+27
+Nbr orbites : 0
+stabilité : False
+
+# Essai 14 - 4
+lz_max: 6.085880476269704e+36
+nombre de planètes : 150
+masse moyenne : 1.791660000000002e+25
+rayon moyen : 60245.15455934363
+vitesse moyenne : 70000.1
+quantité de mouvement moyenne : 1.2580053801995882e+30
+lz : 2.0000000000005057e+33
+Nombre de planètes : 21
+Masse planète mère : 6.963241821611858e+26
+Nbr orbites : 2
+stabilité : True
+
+# Essai 14 - 5
+lz_max: 6.305430893588007e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000012e+25
+rayon moyen : 60553.33298863924
+vitesse moyenne : 70000.1
+quantité de mouvement moyenne : 1.2623626847485131e+30
+lz : 2.0000000000002875e+33
+Nombre de planètes : 29
+Masse planète mère : 1.166295802684974e+27
+Nbr orbites : 4
+stabilité : True
+
+# Essai 15 - 1
+lz_max: 7.071236808925302e+36
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60417.5686681488
+vitesse moyenne : 75000.10000000002
+quantité de mouvement moyenne : 1.3281199648266003e+30
+lz : 2.0000000000001172e+33
+Nombre de planètes : 22
+Masse planète mère : 1.3080545597442175e+27
+Nbr orbites : 6
+stabilité : True
+
+# Essai 15 - 2
+lz_max: 6.900915182834775e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000008e+25
+rayon moyen : 60453.4300171538
+vitesse moyenne : 75158.20583501474
+quantité de mouvement moyenne : 1.3508560146900117e+30
+lz : 2.0000000000004242e+33
+Nombre de planètes : 20
+Masse planète mère : 1.5748971880998227e+27
+Nbr orbites : 4
+stabilité : True
+
+# Essai 15 - 3
+lz_max: 6.213828195063374e+36
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60568.39094893991
+vitesse moyenne : 75000.09999999998
+quantité de mouvement moyenne : 1.342605748873518e+30
+lz : 2.0000000000004198e+33
+Nombre de planètes : 36
+Masse planète mère : 9.202935338949698e+26
+Nbr orbites : 3
+stabilité : True
+
+# Essai 15 - 4
+lz_max: 7.425274718756901e+36
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60395.93964130073
+vitesse moyenne : 75000.1
+quantité de mouvement moyenne : 1.3529645916702088e+30
+lz : 1.9999999999999172e+33
+Nombre de planètes : 20
+Masse planète mère : 2.0137117951516477e+27
+Nbr orbites : 3
+stabilité : True
+
+# Essai 15 - 5
+lz_max: 6.797978310085104e+36
+nombre de planètes : 150
+masse moyenne : 1.7916599999999993e+25
+rayon moyen : 60433.08717974968
+vitesse moyenne : 75000.1
+quantité de mouvement moyenne : 1.3528502955671085e+30
+lz : 2.0000000000007268e+33
+Nombre de planètes : 31
+Masse planète mère : 1.287144257647921e+27
+Nbr orbites : 6
+stabilité : True
+
+# Essai 16 - 1
+lz_max: 7.365764482931531e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000008e+25
+rayon moyen : 60571.202488988936
+vitesse moyenne : 80358.85417980245
+quantité de mouvement moyenne : 1.4456646166572282e+30
+lz : 2.000000000000379e+33
+Nombre de planètes : 29
+Masse planète mère : 8.194971818739669e+26
+Nbr orbites : 5
+stabilité : True
+
+# Essai 16 - 2
+lz_max: 6.99336288780697e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000008e+25
+rayon moyen : 60516.49280020883
+vitesse moyenne : 80000.09999999998
+quantité de mouvement moyenne : 1.4318377974393405e+30
+lz : 2.000000000000392e+33
+Nombre de planètes : 26
+Masse planète mère : 1.2140517333008622e+27
+Nbr orbites : 0
+stabilité : False
+
+# Essai 16 - 3
+lz_max: 7.32449396188637e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000012e+25
+rayon moyen : 60343.60935927003
+vitesse moyenne : 80000.09999999998
+quantité de mouvement moyenne : 1.4318679046144367e+30
+lz : 2.000000000000086e+33
+Nombre de planètes : 27
+Masse planète mère : 1.649850027948079e+27
+Nbr orbites : 6
+stabilité : True
+
+# Essai 16 - 4
+lz_max: 7.150655536014478e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000008e+25
+rayon moyen : 60530.02943622572
+vitesse moyenne : 80000.1
+quantité de mouvement moyenne : 1.4303675303957167e+30
+lz : 2.0000000000005896e+33
+Nombre de planètes : 40
+Masse planète mère : 1.2026683027180552e+27
+Nbr orbites : 2
+stabilité : True
+
+# Essai 16 - 5
+lz_max: 6.761988376256582e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60457.03209469609
+vitesse moyenne : 80000.1
+quantité de mouvement moyenne : 1.430178224936346e+30
+lz : 2.0000000000005778e+33
+Nombre de planètes : 34
+Masse planète mère : 7.145410077678513e+26
+Nbr orbites : 1
+stabilité : True
+
+# Essai 17 - 1
+lz_max: 7.597198659824473e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000012e+25
+rayon moyen : 60060.644445694226
+vitesse moyenne : 85061.51967237671
+quantité de mouvement moyenne : 1.5073611009877763e+30
+lz : 2.0000000000004758e+33
+Nombre de planètes : 32
+Masse planète mère : 1.45235394673492e+27
+Nbr orbites : 2
+stabilité : True
+
+# Essai 17 - 2
+lz_max: 8.373560625572857e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000008e+25
+rayon moyen : 60635.35886169621
+vitesse moyenne : 85000.10000000006
+quantité de mouvement moyenne : 1.5131591008958622e+30
+lz : 2.0000000000009358e+33
+Nombre de planètes : 21
+Masse planète mère : 1.43990423778789e+27
+Nbr orbites : 4
+stabilité : True
+
+# Essai 17 - 3
+lz_max: 8.219447925595296e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000012e+25
+rayon moyen : 60023.66144627992
+vitesse moyenne : 85000.1
+quantité de mouvement moyenne : 1.5472028711144897e+30
+lz : 2.0000000000003605e+33
+Nombre de planètes : 34
+Masse planète mère : 8.833212382863364e+26
+Nbr orbites : 0
+stabilité : False
+
+# Essai 17 - 4
+lz_max: 7.644862070381906e+36
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60282.881249482816
+vitesse moyenne : 85229.02650264512
+quantité de mouvement moyenne : 1.5154541409933738e+30
+lz : 2.0000000000006893e+33
+Nombre de planètes : 34
+Masse planète mère : 1.1510095551558355e+27
+Nbr orbites : 4
+stabilité : True
+
+# Essai 17 - 5
+lz_max: 7.396102383434362e+36
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60641.76247898138
+vitesse moyenne : 85000.09999999999
+quantité de mouvement moyenne : 1.5175367589836018e+30
+lz : 2.0000000000005683e+33
+Nombre de planètes : 23
+Masse planète mère : 1.6412692311324994e+27
+Nbr orbites : 2
+stabilité : True
+
+# Essai 18 - 1
+lz_max: 8.700191020867601e+36
+nombre de planètes : 150
+masse moyenne : 1.7916599999999993e+25
+rayon moyen : 60434.188405062596
+vitesse moyenne : 90000.1
+quantité de mouvement moyenne : 1.5929060061951087e+30
+lz : 2.000000000000858e+33
+Nombre de planètes : 26
+Masse planète mère : 1.5609479800779548e+27
+Nbr orbites : 5
+stabilité : True
+
+# Essai 18 - 2
+lz_max: 8.1341005373929e+36
+nombre de planètes : 150
+masse moyenne : 1.7916599999999993e+25
+rayon moyen : 60403.519169191866
+vitesse moyenne : 90000.1
+quantité de mouvement moyenne : 1.6330738346663356e+30
+lz : 2.00000000000068e+33
+Nombre de planètes : 37
+Masse planète mère : 3.2939435079633485e+26
+Nbr orbites : 2
+stabilité : True
+
+# Essai 18 - 3
+lz_max: 8.32513777625708e+36
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60407.041015238945
+vitesse moyenne : 90000.09999999999
+quantité de mouvement moyenne : 1.6089839998239827e+30
+lz : 2.000000000000681e+33
+Nombre de planètes : 26
+Masse planète mère : 1.3214006231257478e+27
+Nbr orbites : 3
+stabilité : True
+
+# Essai 18 - 4
+lz_max: 7.343772501128344e+36
+nombre de planètes : 150
+masse moyenne : 1.7916599999999993e+25
+rayon moyen : 60211.8063579751
+vitesse moyenne : 90000.09999999999
+quantité de mouvement moyenne : 1.611452510215261e+30
+lz : 2.0000000000004213e+33
+Nombre de planètes : 42
+Masse planète mère : 1.0465987345524771e+27
+Nbr orbites : 1
+stabilité : True
+
+# Essai 18 - 5
+lz_max: 7.688357801276127e+36
+nombre de planètes : 150
+masse moyenne : 1.791660000000002e+25
+rayon moyen : 60242.75425978951
+vitesse moyenne : 90000.1
+quantité de mouvement moyenne : 1.5878710913295062e+30
+lz : 2.0000000000006882e+33
+Nombre de planètes : 28
+Masse planète mère : 1.536528542928741e+27
+Nbr orbites : 7
+stabilité : True
+
+# Essai 19 - 1
+lz_max: 8.383006762126052e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000008e+25
+rayon moyen : 60432.79728441664
+vitesse moyenne : 95000.09999999998
+quantité de mouvement moyenne : 1.6899364166774152e+30
+lz : 2.000000000000236e+33
+Nombre de planètes : 28
+Masse planète mère : 1.7629804342953842e+27
+Nbr orbites : 5
+stabilité : True
+
+# Essai 19 - 2
+lz_max: 8.512689894877956e+36
+nombre de planètes : 150
+masse moyenne : 1.791660000000002e+25
+rayon moyen : 60369.001091475155
+vitesse moyenne : 95000.09999999999
+quantité de mouvement moyenne : 1.697635617632496e+30
+lz : 2.000000000000927e+33
+Nombre de planètes : 51
+Masse planète mère : 2.3484000504805666e+26
+Nbr orbites : 0
+stabilité : False
+
+# Essai 19 - 3
+lz_max: 8.907731756294907e+36
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60285.5893452524
+vitesse moyenne : 95000.1
+quantité de mouvement moyenne : 1.7142153376826766e+30
+lz : 2.0000000000002956e+33
+Nombre de planètes : 31
+Masse planète mère : 1.658743396408581e+27
+Nbr orbites : 9
+stabilité : True
+
+# Essai 19 - 4
+lz_max: 8.522018111349543e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000012e+25
+rayon moyen : 60497.18378282556
+vitesse moyenne : 95000.10000000006
+quantité de mouvement moyenne : 1.6961124474163126e+30
+lz : 2.0000000000005743e+33
+Nombre de planètes : 28
+Masse planète mère : 1.535315001781493e+27
+Nbr orbites : 4
+stabilité : True
+
+# Essai 19 - 5
+lz_max: 8.762435008656478e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000008e+25
+rayon moyen : 60355.7820260658
+vitesse moyenne : 95000.1
+quantité de mouvement moyenne : 1.7135815001346516e+30
+lz : 2.0000000000001429e+33
+Nombre de planètes : 36
+Masse planète mère : 1.588772291724012e+27
+Nbr orbites : 4
+stabilité : True
+
+# Essai 20 - 1
+lz_max: 9.115454305672319e+36
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60171.190317470864
+vitesse moyenne : 100000.10000000006
+quantité de mouvement moyenne : 1.7965580114232148e+30
+lz : 2.0000000000004657e+33
+Nombre de planètes : 36
+Masse planète mère : 2.647227150720969e+26
+Nbr orbites : 1
+stabilité : True
+
+# Essai 20 - 2
+lz_max: 9.186729700734939e+36
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60608.70870652529
+vitesse moyenne : 100000.10000000006
+quantité de mouvement moyenne : 1.7745021147284916e+30
+lz : 2.0000000000004204e+33
+Nombre de planètes : 31
+Masse planète mère : 5.7400020746217015e+26
+Nbr orbites : 2
+stabilité : True
+
+# Essai 20 - 3
+lz_max: 9.008035289381045e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000008e+25
+rayon moyen : 60336.76928152267
+vitesse moyenne : 100000.10000000002
+quantité de mouvement moyenne : 1.8079896888944566e+30
+lz : 2.0000000000008294e+33
+Nombre de planètes : 31
+Masse planète mère : 1.3925177690413478e+27
+Nbr orbites : 7
+stabilité : True
+
+# Essai 20 - 4
+lz_max: 8.280099170631536e+36
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60273.63782713791
+vitesse moyenne : 100000.09999999999
+quantité de mouvement moyenne : 1.8053748591545515e+30
+lz : 2.000000000000499e+33
+Nombre de planètes : 31
+Masse planète mère : 1.1337943131006266e+27
+Nbr orbites : 4
+stabilité : True
+
+# Essai 20 - 5
+lz_max: 8.68729930021408e+36
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60351.94462437132
+vitesse moyenne : 100000.09999999996
+quantité de mouvement moyenne : 1.826358289714072e+30
+lz : 2.0000000000005565e+33
+Nombre de planètes : 21
+Masse planète mère : 1.6425548816939184e+27
+Nbr orbites : 5
+stabilité : True
+
+# Essai 21 - 1
+lz_max: 9.347265019618842e+36
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60277.0683730076
+vitesse moyenne : 105000.10000000006
+quantité de mouvement moyenne : 1.8580604054491767e+30
+lz : 2.000000000000633e+33
+Nombre de planètes : 36
+Masse planète mère : 8.768916908701126e+26
+Nbr orbites : 4
+stabilité : True
+
+# Essai 21 - 2
+lz_max: 9.418878636695315e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000008e+25
+rayon moyen : 60234.982513201314
+vitesse moyenne : 105116.8425559268
+quantité de mouvement moyenne : 1.892813030586321e+30
+lz : 2.0000000000002483e+33
+Nombre de planètes : 33
+Masse planète mère : 1.506792386404167e+27
+Nbr orbites : 6
+stabilité : True
+
+# Essai 21 - 3
+lz_max: 9.868752250887738e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60248.074940159444
+vitesse moyenne : 105000.10000000003
+quantité de mouvement moyenne : 1.8923428861366845e+30
+lz : 2.0000000000007948e+33
+Nombre de planètes : 31
+Masse planète mère : 1.3670881692815354e+27
+Nbr orbites : 4
+stabilité : True
+
+# Essai 21 - 4
+lz_max: 1.039560404668287e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60342.369766703036
+vitesse moyenne : 105000.1
+quantité de mouvement moyenne : 1.9104650237040124e+30
+lz : 2.0000000000003077e+33
+Nombre de planètes : 32
+Masse planète mère : 1.260006434944224e+27
+Nbr orbites : 3
+stabilité : True
+
+# Essai 21 - 5
+lz_max: 8.605837867144586e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60683.52574968112
+vitesse moyenne : 105000.10000000003
+quantité de mouvement moyenne : 1.8804517955135499e+30
+lz : 2.0000000000006928e+33
+Nombre de planètes : 35
+Masse planète mère : 1.263582958055705e+27
+Nbr orbites : 3
+stabilité : True
+
+# Essai 22 - 1
+lz_max: 1.0002252004954346e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999993e+25
+rayon moyen : 60408.00857709322
+vitesse moyenne : 110000.1
+quantité de mouvement moyenne : 1.9489267916979814e+30
+lz : 2.0000000000005262e+33
+Nombre de planètes : 37
+Masse planète mère : 5.424252860782956e+26
+Nbr orbites : 3
+stabilité : True
+
+# Essai 22 - 2
+lz_max: 1.0129498578871021e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000008e+25
+rayon moyen : 60356.34949817399
+vitesse moyenne : 110000.09999999998
+quantité de mouvement moyenne : 1.996953947931316e+30
+lz : 2.000000000000093e+33
+Nombre de planètes : 35
+Masse planète mère : 3.418373132599112e+26
+Nbr orbites : 1
+stabilité : True
+
+# Essai 22 - 3
+lz_max: 1.0062305556037851e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000012e+25
+rayon moyen : 60405.850546288355
+vitesse moyenne : 110141.75852182692
+quantité de mouvement moyenne : 1.9728303440170786e+30
+lz : 2.000000000000807e+33
+Nombre de planètes : 38
+Masse planète mère : 7.589937566289563e+26
+Nbr orbites : 8
+stabilité : True
+
+# Essai 22 - 4
+lz_max: 9.62526822920625e+36
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60417.74628202339
+vitesse moyenne : 110000.1
+quantité de mouvement moyenne : 1.948769944125153e+30
+lz : 1.9999999999998788e+33
+Nombre de planètes : 30
+Masse planète mère : 1.6026915373155851e+27
+Nbr orbites : 1
+stabilité : True
+
+# Essai 22 - 5
+lz_max: 9.314500023690687e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60364.97831200722
+vitesse moyenne : 110000.09999999998
+quantité de mouvement moyenne : 1.9385137606004902e+30
+lz : 2.000000000000167e+33
+Nombre de planètes : 33
+Masse planète mère : 1.577838477930434e+27
+Nbr orbites : 5
+stabilité : True
+
+# Essai 23 - 1
+lz_max: 1.093076118639405e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60448.497559546566
+vitesse moyenne : 115000.10000000005
+quantité de mouvement moyenne : 2.0491131915458812e+30
+lz : 2.0000000000001567e+33
+Nombre de planètes : 38
+Masse planète mère : 8.983977707083462e+26
+Nbr orbites : 7
+stabilité : True
+
+# Essai 23 - 2
+lz_max: 1.122813659398009e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000012e+25
+rayon moyen : 60376.575860204335
+vitesse moyenne : 115000.1
+quantité de mouvement moyenne : 2.0325707763094834e+30
+lz : 2.00000000000038e+33
+Nombre de planètes : 38
+Masse planète mère : 5.295329438066373e+26
+Nbr orbites : 0
+stabilité : False
+
+# Essai 23 - 3
+lz_max: 9.992935566675185e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000012e+25
+rayon moyen : 60570.40216479475
+vitesse moyenne : 115000.10000000002
+quantité de mouvement moyenne : 2.0822684834535583e+30
+lz : 2.000000000000451e+33
+Nombre de planètes : 48
+Masse planète mère : 3.289205727545798e+26
+Nbr orbites : 4
+stabilité : True
+
+# Essai 23 - 4
+lz_max: 9.897326814976598e+36
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60337.544658118124
+vitesse moyenne : 115000.10000000005
+quantité de mouvement moyenne : 2.0598121263698497e+30
+lz : 2.000000000000636e+33
+Nombre de planètes : 41
+Masse planète mère : 6.024379146413079e+26
+Nbr orbites : 3
+stabilité : True
+
+# Essai 23 - 5
+lz_max: 8.888216524911717e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000012e+25
+rayon moyen : 60286.545599011384
+vitesse moyenne : 115000.10000000008
+quantité de mouvement moyenne : 2.0526014391985448e+30
+lz : 2.000000000000613e+33
+Nombre de planètes : 34
+Masse planète mère : 1.2836317122764908e+27
+Nbr orbites : 5
+stabilité : True
+
+# Essai 24 - 1
+lz_max: 1.0076602341982895e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000008e+25
+rayon moyen : 60482.38904335417
+vitesse moyenne : 120000.09999999992
+quantité de mouvement moyenne : 2.151701933452296e+30
+lz : 2.000000000001035e+33
+Nombre de planètes : 36
+Masse planète mère : 1.0548217668933095e+27
+Nbr orbites : 3
+stabilité : True
+
+# Essai 24 - 2
+lz_max: 1.0956902269629068e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60220.4667072261
+vitesse moyenne : 120000.09999999998
+quantité de mouvement moyenne : 2.126198052048554e+30
+lz : 2.0000000000003538e+33
+Nombre de planètes : 31
+Masse planète mère : 1.480978434666658e+27
+Nbr orbites : 9
+stabilité : True
+
+# Essai 24 - 3
+lz_max: 1.0712107689191256e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60448.84933738001
+vitesse moyenne : 120000.09999999998
+quantité de mouvement moyenne : 2.1688124466082453e+30
+lz : 2.0000000000009372e+33
+Nombre de planètes : 32
+Masse planète mère : 1.6423945537624646e+27
+Nbr orbites : 4
+stabilité : True
+
+# Essai 24 - 4
+lz_max: 1.0920308688062055e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60560.440123033215
+vitesse moyenne : 120309.02265434722
+quantité de mouvement moyenne : 2.1321383965627272e+30
+lz : 2.000000000001142e+33
+Nombre de planètes : 37
+Masse planète mère : 1.1093055167850646e+27
+Nbr orbites : 6
+stabilité : True
+
+# Essai 24 - 5
+lz_max: 1.1172338034853542e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60377.288575504
+vitesse moyenne : 120000.10000000002
+quantité de mouvement moyenne : 2.16309067522522e+30
+lz : 2.0000000000007458e+33
+Nombre de planètes : 42
+Masse planète mère : 1.0151667236040864e+27
+Nbr orbites : 10
+stabilité : True
+
+# Essai 25 - 1
+lz_max: 1.2031622572844032e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60420.53032704339
+vitesse moyenne : 125124.59431644122
+quantité de mouvement moyenne : 2.237269564704996e+30
+lz : 2.0000000000010332e+33
+Nombre de planètes : 45
+Masse planète mère : 1.120292049131251e+27
+Nbr orbites : 9
+stabilité : True
+
+# Essai 25 - 2
+lz_max: 1.163461291807287e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60363.98718429409
+vitesse moyenne : 125324.69958432378
+quantité de mouvement moyenne : 2.2242269809030764e+30
+lz : 2.0000000000009822e+33
+Nombre de planètes : 45
+Masse planète mère : 1.281460955573771e+27
+Nbr orbites : 7
+stabilité : True
+
+# Essai 25 - 3
+lz_max: 9.970506866263016e+36
+nombre de planètes : 150
+masse moyenne : 1.7916600000000012e+25
+rayon moyen : 60594.27852188186
+vitesse moyenne : 125000.09999999992
+quantité de mouvement moyenne : 2.2341853101905277e+30
+lz : 2.0000000000012822e+33
+Nombre de planètes : 35
+Masse planète mère : 1.0954097720272083e+27
+Nbr orbites : 3
+stabilité : True
+
+# Essai 25 - 4
+lz_max: 1.1317447425464737e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000008e+25
+rayon moyen : 60498.06780573677
+vitesse moyenne : 125000.1000000001
+quantité de mouvement moyenne : 2.2275102809471453e+30
+lz : 2.0000000000009156e+33
+Nombre de planètes : 22
+Masse planète mère : 1.7947399677070926e+27
+Nbr orbites : 7
+stabilité : True
+
+# Essai 25 - 5
+lz_max: 1.0383134235097245e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999993e+25
+rayon moyen : 60585.223059190634
+vitesse moyenne : 125000.09999999998
+quantité de mouvement moyenne : 2.2349601840949228e+30
+lz : 2.0000000000003648e+33
+
+# Essai 26 - 1
+lz_max: 1.2416310709863932e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000008e+25
+rayon moyen : 60468.59505365826
+vitesse moyenne : 130000.1
+quantité de mouvement moyenne : 2.339226742100184e+30
+lz : 2.0000000000005467e+33
+Nombre de planètes : 40
+Masse planète mère : 1.2741686461826162e+27
+Nbr orbites : 8
+stabilité : True
+
+# Essai 26 - 2
+lz_max: 1.157101702483833e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60501.436194221686
+vitesse moyenne : 130000.10000000008
+quantité de mouvement moyenne : 2.3317997876499836e+30
+lz : 2.000000000001008e+33
+Nombre de planètes : 45
+Masse planète mère : 5.310082195292352e+26
+Nbr orbites : 4
+stabilité : True
+
+# Essai 26 - 3
+lz_max: 1.1933842643305703e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999993e+25
+rayon moyen : 60499.190858615475
+vitesse moyenne : 130000.09999999998
+quantité de mouvement moyenne : 2.3488074650217305e+30
+lz : 2.0000000000006795e+33
+Nombre de planètes : 33
+Masse planète mère : 9.951428745739336e+26
+Nbr orbites : 2
+stabilité : True
+
+# Essai 26 - 4
+lz_max: 1.2342900166364542e+37
+nombre de planètes : 150
+masse moyenne : 1.791660000000002e+25
+rayon moyen : 60395.2182237534
+vitesse moyenne : 130000.10000000002
+quantité de mouvement moyenne : 2.3262119905986204e+30
+lz : 2.00000000000111e+33
+Nombre de planètes : 38
+Masse planète mère : 2.3934946225576395e+26
+Nbr orbites : 3
+stabilité : True
+
+# Essai 26 - 5
+lz_max: 1.134562356562222e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60362.08026668788
+vitesse moyenne : 130000.1
+quantité de mouvement moyenne : 2.3574657244614078e+30
+lz : 2.0000000000000564e+33
+Nombre de planètes : 45
+Masse planète mère : 9.840510962642515e+26
+Nbr orbites : 7
+stabilité : True
+
+# Essai 27 - 1
+lz_max: 1.1712593201592315e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60474.146013197846
+vitesse moyenne : 135000.1
+quantité de mouvement moyenne : 2.4312568759361225e+30
+lz : 2.0000000000001503e+33
+Nombre de planètes : 34
+Masse planète mère : 1.3930841788225486e+27
+Nbr orbites : 8
+stabilité : True
+
+# Essai 27 - 2
+lz_max: 1.257287540728956e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60556.67394393085
+vitesse moyenne : 135000.1
+quantité de mouvement moyenne : 2.411120467972085e+30
+lz : 2.000000000000927e+33
+Nombre de planètes : 46
+Masse planète mère : 1.0063568475800775e+27
+Nbr orbites : 9
+stabilité : True
+
+# Essai 27 - 3
+lz_max: 1.1361824984825534e+37
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60439.53918355477
+vitesse moyenne : 135000.09999999995
+quantité de mouvement moyenne : 2.4193777253893475e+30
+lz : 2.0000000000012874e+33
+Nombre de planètes : 37
+Masse planète mère : 1.0596675706481076e+27
+Nbr orbites : 8
+stabilité : True
+
+# Essai 27 - 4
+lz_max: 1.359608056320172e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60369.29813282156
+vitesse moyenne : 135000.09999999995
+quantité de mouvement moyenne : 2.3776977041087455e+30
+lz : 2.000000000000464e+33
+Nombre de planètes : 53
+Masse planète mère : 7.299169359510001e+26
+Nbr orbites : 9
+stabilité : True
+
+# Essai 27 - 5
+lz_max: 1.2189527683766725e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000008e+25
+rayon moyen : 60629.53268032792
+vitesse moyenne : 135000.10000000003
+quantité de mouvement moyenne : 2.4150739746642603e+30
+lz : 2.000000000001153e+33
+Nombre de planètes : 36
+Masse planète mère : 1.4276810048473073e+27
+Nbr orbites : 8
+stabilité : True
+
+# Essai 28 - 1
+lz_max: 1.2200695547041455e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60512.71780872437
+vitesse moyenne : 140607.69739645417
+quantité de mouvement moyenne : 2.5298961214185504e+30
+lz : 2.0000000000012765e+33
+Nombre de planètes : 30
+Masse planète mère : 2.0369013997402112e+27
+Nbr orbites : 3
+stabilité : True
+
+# Essai 28 - 2
+lz_max: 1.156579096507642e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000008e+25
+rayon moyen : 60282.222850154045
+vitesse moyenne : 140104.76186225118
+quantité de mouvement moyenne : 2.5003653140899204e+30
+lz : 2.0000000000001307e+33
+Nombre de planètes : 50
+Masse planète mère : 8.458243122304214e+26
+Nbr orbites : 6
+stabilité : True
+
+# Essai 28 - 3
+lz_max: 1.230900344887441e+37
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60442.36622508347
+vitesse moyenne : 140000.09999999998
+quantité de mouvement moyenne : 2.5174877231800138e+30
+lz : 2.0000000000006585e+33
+Nombre de planètes : 47
+Masse planète mère : 2.2079924782678282e+26
+Nbr orbites : 1
+stabilité : True
+
+# Essai 28 - 4
+lz_max: 1.3214190828968927e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999993e+25
+rayon moyen : 60255.29010693852
+vitesse moyenne : 140000.09999999998
+quantité de mouvement moyenne : 2.544445315563469e+30
+lz : 2.0000000000013886e+33
+Nombre de planètes : 35
+Masse planète mère : 1.4423970675350926e+27
+Nbr orbites : 7
+stabilité : True
+
+# Essai 28 - 5
+lz_max: 1.3031514190638593e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999989e+25
+rayon moyen : 60605.14820515728
+vitesse moyenne : 140000.09999999995
+quantité de mouvement moyenne : 2.5147665461814953e+30
+lz : 2.0000000000006654e+33
+Nombre de planètes : 36
+Masse planète mère : 1.6248570589566432e+27
+Nbr orbites : 6
+stabilité : True
+
+# Essai 29 - 1
+lz_max: 1.300773534111755e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60206.63389762177
+vitesse moyenne : 145000.09999999995
+quantité de mouvement moyenne : 2.6019874017659406e+30
+lz : 2.0000000000001604e+33
+Nombre de planètes : 42
+Masse planète mère : 8.204846098714762e+26
+Nbr orbites : 2
+stabilité : True
+
+# Essai 29 - 2
+lz_max: 1.3332699107748736e+37
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60434.15498368465
+vitesse moyenne : 145000.09999999995
+quantité de mouvement moyenne : 2.6134031084380013e+30
+lz : 2.000000000000399e+33
+Nombre de planètes : 40
+Masse planète mère : 1.406554201451661e+27
+Nbr orbites : 8
+stabilité : True
+
+# Essai 29 - 3
+lz_max: 1.2509906403301468e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60337.55159955205
+vitesse moyenne : 145000.09999999992
+quantité de mouvement moyenne : 2.5297716321488307e+30
+lz : 2.000000000000649e+33
+Nombre de planètes : 35
+Masse planète mère : 1.6868839977959033e+27
+Nbr orbites : 9
+stabilité : True
+
+# Essai 29 - 4
+lz_max: 1.280713183653529e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60601.620581596406
+vitesse moyenne : 145000.1000000001
+quantité de mouvement moyenne : 2.589892138558238e+30
+lz : 2.000000000000795e+33
+Nombre de planètes : 62
+Masse planète mère : 1.0033128275234853e+26
+Nbr orbites : 1
+stabilité : True
+
+# Essai 29 - 5
+lz_max: 1.3315052665214596e+37
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60390.64878840794
+vitesse moyenne : 145088.57675130622
+quantité de mouvement moyenne : 2.573192609596409e+30
+lz : 2.0000000000017434e+33
+Nombre de planètes : 40
+Masse planète mère : 5.9978250267711116e+26
+Nbr orbites : 4
+stabilité : True
+
+# Essai 30 - 1
+lz_max: 1.361000168772698e+37
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60421.54362635168
+vitesse moyenne : 150000.09999999992
+quantité de mouvement moyenne : 2.612801181243921e+30
+lz : 2.0000000000011548e+33
+Nombre de planètes : 54
+Masse planète mère : 5.928919379210849e+26
+Nbr orbites : 7
+stabilité : True
+
+# Essai 30 - 2
+lz_max: 1.1827787571390528e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000008e+25
+rayon moyen : 60520.83203022469
+vitesse moyenne : 150000.1
+quantité de mouvement moyenne : 2.698064779141464e+30
+lz : 2.000000000000433e+33
+
+# Essai 30 - 3
+lz_max: 1.2616388710954397e+37
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60289.75879495816
+vitesse moyenne : 150000.09999999998
+quantité de mouvement moyenne : 2.6925292843224806e+30
+lz : 2.0000000000009822e+33
+Nombre de planètes : 57
+Masse planète mère : 9.113365190378627e+26
+Nbr orbites : 2
+stabilité : True
+
+# Essai 30 - 4
+lz_max: 1.3403180853806187e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000015e+25
+rayon moyen : 60642.74667321158
+vitesse moyenne : 150000.1
+quantité de mouvement moyenne : 2.667348238890213e+30
+lz : 2.000000000001091e+33
+Nombre de planètes : 46
+Masse planète mère : 1.0214718990434937e+27
+Nbr orbites : 3
+stabilité : True
+
+# Essai 30 - 5
+lz_max: 1.3510481433549149e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000012e+25
+rayon moyen : 60177.97425160382
+vitesse moyenne : 150000.10000000012
+quantité de mouvement moyenne : 2.691818660923034e+30
+lz : 2.00000000000061e+33
+Nombre de planètes : 47
+Masse planète mère : 1.3617040567541998e+27
+Nbr orbites : 8
+stabilité : True
+
+# Essai 31 - 1
+lz_max: 1.2829280818246143e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60568.46173375681
+vitesse moyenne : 155000.09999999992
+quantité de mouvement moyenne : 2.764248435448006e+30
+lz : 2.000000000001178e+33
+Nombre de planètes : 41
+Masse planète mère : 1.541466111209941e+27
+Nbr orbites : 6
+stabilité : True
+
+# Essai 31 - 2
+lz_max: 1.3814096289487885e+37
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60414.574802245734
+vitesse moyenne : 155000.10000000006
+quantité de mouvement moyenne : 2.803542109343376e+30
+lz : 2.0000000000006323e+33
+Nombre de planètes : 56
+Masse planète mère : 3.401205938625736e+26
+Nbr orbites : 5
+stabilité : True
+
+# Essai 31 - 3
+lz_max: 1.4338512340621368e+37
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60059.15273823642
+vitesse moyenne : 155000.1
+quantité de mouvement moyenne : 2.752400660926045e+30
+lz : 2.000000000001105e+33
+Nombre de planètes : 53
+Masse planète mère : 8.336379083898967e+26
+Nbr orbites : 4
+stabilité : True
+
+# Essai 31 - 4
+lz_max: 1.2763470751582856e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60483.85584215289
+vitesse moyenne : 155000.10000000006
+quantité de mouvement moyenne : 2.775558870129082e+30
+lz : 2.000000000000318e+33
+Nombre de planètes : 46
+Masse planète mère : 7.996545592548699e+26
+Nbr orbites : 6
+stabilité : True
+
+# Essai 31 - 5
+lz_max: 1.4258303934928433e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60505.06710600925
+vitesse moyenne : 155000.10000000003
+quantité de mouvement moyenne : 2.7447908136494405e+30
+lz : 2.0000000000010133e+33
+Nombre de planètes : 57
+Masse planète mère : 9.299567481719923e+25
+Nbr orbites : 0
+stabilité : False
+
+# Essai 32 - 1
+lz_max: 1.4218892820492408e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000008e+25
+rayon moyen : 60446.00281427803
+vitesse moyenne : 160000.1
+quantité de mouvement moyenne : 2.8711993488189037e+30
+lz : 2.0000000000008032e+33
+Nombre de planètes : 52
+Masse planète mère : 1.0148210521052886e+27
+Nbr orbites : 6
+stabilité : True
+
+# Essai 32 - 2
+lz_max: 1.6416476293055057e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60236.4547644089
+vitesse moyenne : 160000.1
+quantité de mouvement moyenne : 2.8701898456788694e+30
+lz : 2.0000000000020403e+33
+Nombre de planètes : 47
+Masse planète mère : 9.970653049068868e+26
+Nbr orbites : 2
+stabilité : True
+
+# Essai 32 - 3
+lz_max: 1.4476291763122926e+37
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60745.751145200345
+vitesse moyenne : 160000.10000000003
+quantité de mouvement moyenne : 2.836301556341622e+30
+lz : 2.0000000000013347e+33
+Nombre de planètes : 39
+Masse planète mère : 1.5191219747349473e+27
+Nbr orbites : 5
+stabilité : True
+
+# Essai 32 - 4
+lz_max: 1.3864261927902544e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60462.30285869293
+vitesse moyenne : 160000.10000000006
+quantité de mouvement moyenne : 2.85176958484324e+30
+lz : 2.000000000001388e+33
+Nombre de planètes : 52
+Masse planète mère : 1.066627834996545e+27
+Nbr orbites : 8
+stabilité : True
+
+# Essai 32 - 5
+lz_max: 1.4977913984509863e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000012e+25
+rayon moyen : 60200.58969702508
+vitesse moyenne : 160000.09999999992
+quantité de mouvement moyenne : 2.899514418710767e+30
+lz : 2.000000000000749e+33
+Nombre de planètes : 44
+Masse planète mère : 1.280598215962277e+27
+Nbr orbites : 4
+stabilité : True
+
+# Essai 33 - 1
+lz_max: 1.5632903318738447e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60421.23303986204
+vitesse moyenne : 165024.9945944824
+quantité de mouvement moyenne : 2.936588751496345e+30
+lz : 2.0000000000003314e+33
+Nombre de planètes : 52
+Masse planète mère : 5.00657566019253e+26
+Nbr orbites : 7
+stabilité : True
+
+# Essai 33 - 2
+lz_max: 1.3506022102349962e+37
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60386.13730591266
+vitesse moyenne : 165000.1000000002
+quantité de mouvement moyenne : 2.974340492015649e+30
+lz : 2.0000000000005876e+33
+Nombre de planètes : 50
+Masse planète mère : 5.7866312455268444e+26
+Nbr orbites : 3
+stabilité : True
+
+# Essai 33 - 3
+lz_max: 1.3471180526262328e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60257.97838940517
+vitesse moyenne : 165000.09999999995
+quantité de mouvement moyenne : 2.933476919849033e+30
+lz : 2.0000000000007908e+33
+Nombre de planètes : 51
+Masse planète mère : 1.0958212924063848e+27
+Nbr orbites : 2
+stabilité : True
+
+# Essai 33 - 4
+lz_max: 1.4392079596331758e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60245.18763365294
+vitesse moyenne : 165000.09999999998
+quantité de mouvement moyenne : 2.9808287274356377e+30
+lz : 2.0000000000002397e+33
+Nombre de planètes : 38
+Masse planète mère : 9.064886483015851e+26
+Nbr orbites : 2
+stabilité : True
+
+# Essai 33 - 5
+lz_max: 1.4519897436873505e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60469.54376572377
+vitesse moyenne : 165000.09999999998
+quantité de mouvement moyenne : 2.921350764509111e+30
+lz : 2.0000000000007568e+33
+Nombre de planètes : 60
+Masse planète mère : 3.7457064973828276e+26
+Nbr orbites : 2
+stabilité : True
+
+# Essai 34 - 1
+lz_max: 1.4808313432795092e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60521.028600127574
+vitesse moyenne : 170000.10000000006
+quantité de mouvement moyenne : 3.044708633901516e+30
+lz : 2.000000000001162e+33
+Nombre de planètes : 35
+Masse planète mère : 1.2555220072098865e+27
+Nbr orbites : 4
+stabilité : True
+
+# Essai 34 - 2
+lz_max: 1.523493228772204e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60471.04924367038
+vitesse moyenne : 170000.10000000006
+quantité de mouvement moyenne : 3.071254551610476e+30
+lz : 2.000000000000788e+33
+Nombre de planètes : 50
+Masse planète mère : 1.0374854447065298e+27
+Nbr orbites : 8
+stabilité : True
+
+# Essai 34 - 3
+lz_max: 1.5254199268977246e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000008e+25
+rayon moyen : 60235.78584408036
+vitesse moyenne : 170000.09999999992
+quantité de mouvement moyenne : 3.0868281813323464e+30
+lz : 2.0000000000004585e+33
+Nombre de planètes : 56
+Masse planète mère : 4.178553638759007e+26
+Nbr orbites : 0
+stabilité : False
+
+# Essai 34 - 4
+lz_max: 1.4635497699614591e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999993e+25
+rayon moyen : 60716.467197552534
+vitesse moyenne : 170000.09999999995
+quantité de mouvement moyenne : 3.067279991302727e+30
+lz : 2.0000000000018402e+33
+Nombre de planètes : 56
+Masse planète mère : 8.987687034769516e+26
+Nbr orbites : 5
+stabilité : True
+
+# Essai 34 - 5
+lz_max: 1.6441487118126533e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999993e+25
+rayon moyen : 60349.44649615527
+vitesse moyenne : 170000.1
+quantité de mouvement moyenne : 3.024133144655967e+30
+lz : 2.0000000000011966e+33
+Nombre de planètes : 48
+Masse planète mère : 4.4284384957061536e+26
+Nbr orbites : 6
+stabilité : True
+
+# Essai 35 - 1
+lz_max: 1.4223967856357505e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60228.58600028479
+vitesse moyenne : 175000.10000000006
+quantité de mouvement moyenne : 3.1476224087387363e+30
+lz : 2.000000000000489e+33
+Nombre de planètes : 52
+Masse planète mère : 7.346585808821017e+26
+Nbr orbites : 10
+stabilité : True
+
+# Essai 35 - 2
+lz_max: 1.5730826573608846e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60394.454738107444
+vitesse moyenne : 175000.10000000006
+quantité de mouvement moyenne : 3.1487068312419223e+30
+lz : 2.000000000001151e+33
+Nombre de planètes : 60
+Masse planète mère : 3.723674700583324e+26
+Nbr orbites : 2
+stabilité : True
+
+# Essai 35 - 3
+lz_max: 1.6614303687194769e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60444.54327441042
+vitesse moyenne : 175000.1
+quantité de mouvement moyenne : 3.1330125179923004e+30
+lz : 2.0000000000007842e+33
+Nombre de planètes : 57
+Masse planète mère : 6.175306372108344e+26
+Nbr orbites : 2
+stabilité : True
+
+# Essai 35 - 4
+lz_max: 1.6653784963830295e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60353.311361770284
+vitesse moyenne : 175454.3860921394
+quantité de mouvement moyenne : 3.1001401936556507e+30
+lz : 2.0000000000010346e+33
+Nombre de planètes : 47
+Masse planète mère : 1.1903671710381684e+27
+Nbr orbites : 3
+stabilité : True
+
+# Essai 35 - 5
+lz_max: 1.629911422521896e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60556.56607343886
+vitesse moyenne : 175000.10000000006
+quantité de mouvement moyenne : 3.1035441300133396e+30
+lz : 2.0000000000026254e+33
+Nombre de planètes : 52
+Masse planète mère : 1.2374091439555192e+27
+Nbr orbites : 6
+stabilité : True
+
+# Essai 36 - 1
+lz_max: 1.6014569067248188e+37
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60459.81744883182
+vitesse moyenne : 180000.10000000003
+quantité de mouvement moyenne : 3.2999186199175024e+30
+lz : 2.000000000000319e+33
+Nombre de planètes : 60
+Masse planète mère : 4.636484044398591e+26
+Nbr orbites : 4
+stabilité : True
+
+# Essai 36 - 2
+lz_max: 1.5697362577457053e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999993e+25
+rayon moyen : 60415.38710687612
+vitesse moyenne : 180000.1
+quantité de mouvement moyenne : 3.296964655018496e+30
+lz : 2.0000000000002717e+33
+Nombre de planètes : 62
+Masse planète mère : 8.825925139939543e+26
+Nbr orbites : 10
+stabilité : True
+
+# Essai 36 - 3
+lz_max: 1.4921504506158555e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000008e+25
+rayon moyen : 60402.72179126098
+vitesse moyenne : 180000.0999999999
+quantité de mouvement moyenne : 3.2242967673880595e+30
+lz : 2.000000000000664e+33
+Nombre de planètes : 54
+Masse planète mère : 6.847959143101206e+26
+Nbr orbites : 4
+stabilité : True
+
+# Essai 36 - 4
+lz_max: 1.6267380988463512e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000012e+25
+rayon moyen : 60596.320086015214
+vitesse moyenne : 180000.0999999999
+quantité de mouvement moyenne : 3.194356867570244e+30
+lz : 2.0000000000016223e+33
+Nombre de planètes : 57
+Masse planète mère : 9.983209609298734e+26
+Nbr orbites : 8
+stabilité : True
+
+# Essai 36 - 5
+lz_max: 1.525923290170085e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60236.94848109383
+vitesse moyenne : 180000.09999999992
+quantité de mouvement moyenne : 3.2286932641813856e+30
+lz : 2.0000000000010375e+33
+Nombre de planètes : 57
+Masse planète mère : 6.857482469613972e+26
+Nbr orbites : 3
+stabilité : True
+
+# Essai 37 - 1
+lz_max: 1.652329231222485e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000008e+25
+rayon moyen : 60401.597293757026
+vitesse moyenne : 185000.10000000003
+quantité de mouvement moyenne : 3.330935822094772e+30
+lz : 2.0000000000005706e+33
+Nombre de planètes : 50
+Masse planète mère : 1.2483838873796136e+27
+Nbr orbites : 3
+stabilité : True
+
+# Essai 37 - 2
+lz_max: 1.6082560400754973e+37
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60582.11923150606
+vitesse moyenne : 185000.10000000003
+quantité de mouvement moyenne : 3.341939774519061e+30
+lz : 2.0000000000014664e+33
+Nombre de planètes : 54
+Masse planète mère : 1.001842352499585e+27
+Nbr orbites : 7
+stabilité : True
+
+# Essai 37 - 3
+lz_max: 1.5669243504432073e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000012e+25
+rayon moyen : 60594.65348707163
+vitesse moyenne : 185000.1
+quantité de mouvement moyenne : 3.296679563630841e+30
+lz : 2.000000000001182e+33
+Nombre de planètes : 40
+Masse planète mère : 1.336324270695575e+27
+Nbr orbites : 3
+stabilité : True
+
+# Essai 37 - 4
+lz_max: 1.8667068893481734e+37
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60164.3272644115
+vitesse moyenne : 185000.09999999992
+quantité de mouvement moyenne : 3.360997506077431e+30
+lz : 2.0000000000002864e+33
+Nombre de planètes : 55
+Masse planète mère : 1.0130439013238086e+27
+Nbr orbites : 2
+stabilité : True
+
+# Essai 37 - 5
+lz_max: 1.6936717427999134e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60579.83932971274
+vitesse moyenne : 185000.1000000001
+quantité de mouvement moyenne : 3.2720298662163923e+30
+lz : 2.0000000000008848e+33
+Nombre de planètes : 54
+Masse planète mère : 7.076921448191735e+26
+Nbr orbites : 5
+stabilité : True
+
+# Essai 38 - 1
+lz_max: 1.9241830670708824e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60236.29275121375
+vitesse moyenne : 190000.10000000003
+quantité de mouvement moyenne : 3.383901717002161e+30
+lz : 2.0000000000021224e+33
+Nombre de planètes : 50
+Masse planète mère : 9.436829351338624e+26
+Nbr orbites : 6
+stabilité : True
+
+# Essai 38 - 2
+lz_max: 1.6561860010743754e+37
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60351.53159446078
+vitesse moyenne : 190000.09999999998
+quantité de mouvement moyenne : 3.368640795467375e+30
+lz : 2.0000000000011906e+33
+Nombre de planètes : 59
+Masse planète mère : 3.4680908208723146e+26
+Nbr orbites : 3
+stabilité : True
+
+# Essai 38 - 3
+lz_max: 1.726571876414572e+37
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60157.68308236338
+vitesse moyenne : 190000.10000000003
+quantité de mouvement moyenne : 3.4690288593073886e+30
+lz : 2.0000000000016503e+33
+Nombre de planètes : 55
+Masse planète mère : 1.3161034553529548e+27
+Nbr orbites : 4
+stabilité : True
+
+# Essai 38 - 4
+lz_max: 1.6397733725712403e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000008e+25
+rayon moyen : 60395.802792510876
+vitesse moyenne : 190285.33975315932
+quantité de mouvement moyenne : 3.34185931108113e+30
+lz : 2.000000000000731e+33
+Nombre de planètes : 53
+Masse planète mère : 1.1424495416120855e+27
+Nbr orbites : 9
+stabilité : True
+
+# Essai 38 - 5
+lz_max: 1.5903305630505313e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60444.3421415086
+vitesse moyenne : 190000.10000000003
+quantité de mouvement moyenne : 3.420757684705173e+30
+lz : 2.0000000000009058e+33
+Nombre de planètes : 68
+Masse planète mère : 2.422356412246178e+26
+Nbr orbites : 1
+stabilité : True
+
+# Essai 39 - 1
+lz_max: 1.7411887751693511e+37
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60569.33915915685
+vitesse moyenne : 195019.93034857773
+quantité de mouvement moyenne : 3.5014931931260905e+30
+lz : 2.0000000000003936e+33
+Nombre de planètes : 67
+Masse planète mère : 5.4373134672231484e+26
+Nbr orbites : 3
+stabilité : True
+
+# Essai 39 - 2
+lz_max: 1.7241500824153775e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999989e+25
+rayon moyen : 60160.90840770366
+vitesse moyenne : 195000.09999999995
+quantité de mouvement moyenne : 3.530014423228057e+30
+lz : 2.0000000000013938e+33
+Nombre de planètes : 56
+Masse planète mère : 8.571873891368405e+26
+Nbr orbites : 3
+stabilité : True
+
+# Essai 39 - 3
+lz_max: 1.762755261193356e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999993e+25
+rayon moyen : 60285.78983697356
+vitesse moyenne : 195000.10000000006
+quantité de mouvement moyenne : 3.4361548143295394e+30
+lz : 2.0000000000008787e+33
+Nombre de planètes : 54
+Masse planète mère : 2.4749768774535697e+26
+Nbr orbites : 0
+stabilité : False
+
+# Essai 39 - 4
+lz_max: 1.784181930780881e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60582.62360136156
+vitesse moyenne : 195000.09999999998
+quantité de mouvement moyenne : 3.528996940821424e+30
+lz : 2.0000000000011764e+33
+Nombre de planètes : 57
+Masse planète mère : 6.628125518885009e+26
+Nbr orbites : 7
+stabilité : True
+
+# Essai 39 - 5
+lz_max: 1.9425438347065105e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999993e+25
+rayon moyen : 60571.24592056823
+vitesse moyenne : 195000.09999999998
+quantité de mouvement moyenne : 3.499986277491047e+30
+lz : 2.0000000000005285e+33
+Nombre de planètes : 56
+Masse planète mère : 9.436950569727519e+26
+Nbr orbites : 6
+stabilité : True
+
+# Essai 40 - 1
+lz_max: 1.826173931973158e+37
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60658.621079818484
+vitesse moyenne : 200000.10000000003
+quantité de mouvement moyenne : 3.5843113819056615e+30
+lz : 2.000000000002115e+33
+Nombre de planètes : 61
+Masse planète mère : 8.162612437074995e+26
+Nbr orbites : 4
+stabilité : True
+
+# Essai 40 - 2
+lz_max: 1.6776836044893324e+37
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60372.802573087014
+vitesse moyenne : 200000.0999999999
+quantité de mouvement moyenne : 3.5529145404008503e+30
+lz : 2.000000000000687e+33
+Nombre de planètes : 67
+Masse planète mère : 1.9927472784807266e+26
+Nbr orbites : 2
+stabilité : True
+
+# Essai 40 - 3
+lz_max: 1.7257687639932004e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60531.392242679336
+vitesse moyenne : 200155.02451420276
+quantité de mouvement moyenne : 3.567199117795532e+30
+lz : 2.0000000000006513e+33
+Nombre de planètes : 61
+Masse planète mère : 5.2080142516328594e+26
+Nbr orbites : 1
+stabilité : True
+
+# Essai 40 - 4
+lz_max: 1.7987390198479137e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60327.06032057688
+vitesse moyenne : 200073.6139943219
+quantité de mouvement moyenne : 3.574400798462285e+30
+lz : 2.0000000000006075e+33
+Nombre de planètes : 62
+Masse planète mère : 1.0521213177230141e+27
+Nbr orbites : 3
+stabilité : True
+
+# Essai 40 - 5
+lz_max: 1.871264460226052e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999989e+25
+rayon moyen : 60396.08365352601
+vitesse moyenne : 200000.1000000001
+quantité de mouvement moyenne : 3.55290346186911e+30
+lz : 2.00000000000149e+33
+Nombre de planètes : 58
+Masse planète mère : 9.089160601373722e+26
+Nbr orbites : 8
+stabilité : True
+
+# Essai 41 - 1
+lz_max: 1.9833708096011294e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000008e+25
+rayon moyen : 60573.136480946916
+vitesse moyenne : 205427.133329763
+quantité de mouvement moyenne : 3.6981050366163016e+30
+lz : 2.0000000000018388e+33
+Nombre de planètes : 64
+Masse planète mère : 4.254221485757002e+26
+Nbr orbites : 1
+stabilité : True
+
+# Essai 41 - 2
+lz_max: 1.93001181155615e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000012e+25
+rayon moyen : 60604.88396545481
+vitesse moyenne : 205000.09999999995
+quantité de mouvement moyenne : 3.7227115414353974e+30
+lz : 2.0000000000012378e+33
+Nombre de planètes : 53
+Masse planète mère : 3.9210703384394227e+26
+Nbr orbites : 0
+stabilité : False
+
+# Essai 41 - 3
+lz_max: 1.8829509136694889e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000015e+25
+rayon moyen : 60551.459963895366
+vitesse moyenne : 205648.36885264143
+quantité de mouvement moyenne : 3.707601604141781e+30
+lz : 2.000000000000745e+33
+Nombre de planètes : 60
+Masse planète mère : 9.687460818731453e+26
+Nbr orbites : 7
+stabilité : True
+
+# Essai 41 - 4
+lz_max: 1.9238446406826558e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60698.07780049395
+vitesse moyenne : 205000.10000000006
+quantité de mouvement moyenne : 3.697443810467101e+30
+lz : 2.0000000000021743e+33
+Nombre de planètes : 57
+Masse planète mère : 9.15070076715531e+26
+Nbr orbites : 8
+stabilité : True
+
+# Essai 41 - 5
+lz_max: 1.821535232091514e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60555.25515261354
+vitesse moyenne : 205000.1
+quantité de mouvement moyenne : 3.646739807214745e+30
+lz : 1.9999999999999238e+33
+Nombre de planètes : 64
+Masse planète mère : 5.304832045832419e+26
+Nbr orbites : 2
+stabilité : True
+
+# Essai 42 - 1
+lz_max: 1.7990629644243433e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60366.39725975497
+vitesse moyenne : 210000.1000000001
+quantité de mouvement moyenne : 3.6678470894414236e+30
+lz : 2.0000000000012102e+33
+Nombre de planètes : 59
+Masse planète mère : 8.914625570653185e+26
+Nbr orbites : 6
+stabilité : True
+
+# Essai 42 - 2
+lz_max: 1.8004257117127898e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60389.8539193669
+vitesse moyenne : 210000.09999999995
+quantité de mouvement moyenne : 3.719395141668654e+30
+lz : 2.000000000002666e+33
+Nombre de planètes : 52
+Masse planète mère : 9.316815238721551e+26
+Nbr orbites : 2
+stabilité : True
+
+# Essai 42 - 3
+lz_max: 1.6705513251259692e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000008e+25
+rayon moyen : 60520.764089287644
+vitesse moyenne : 210000.1000000001
+quantité de mouvement moyenne : 3.730677566104571e+30
+lz : 2.000000000001336e+33
+Nombre de planètes : 51
+Masse planète mère : 6.601370262119356e+26
+Nbr orbites : 4
+stabilité : True
+
+# Essai 42 - 4
+lz_max: 1.872646537322769e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000015e+25
+rayon moyen : 60121.50344186861
+vitesse moyenne : 210000.10000000003
+quantité de mouvement moyenne : 3.74046858271149e+30
+lz : 2.0000000000012252e+33
+Nombre de planètes : 60
+Masse planète mère : 8.986943045313774e+26
+Nbr orbites : 6
+stabilité : True
+
+# Essai 42 - 5
+lz_max: 1.8258150424504342e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60577.46910774072
+vitesse moyenne : 210000.10000000006
+quantité de mouvement moyenne : 3.768591840985364e+30
+lz : 2.0000000000012136e+33
+Nombre de planètes : 61
+Masse planète mère : 8.663320784333906e+26
+Nbr orbites : 5
+stabilité : True
+
+# Essai 43 - 1
+lz_max: 1.7267018045295725e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60367.76146514935
+vitesse moyenne : 215000.09999999998
+quantité de mouvement moyenne : 3.8853969176857737e+30
+lz : 2.0000000000004683e+33
+Nombre de planètes : 68
+Masse planète mère : 9.479360825809269e+26
+Nbr orbites : 2
+stabilité : True
+
+# Essai 43 - 2
+lz_max: 1.7759204659858959e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000008e+25
+rayon moyen : 60728.26777971135
+vitesse moyenne : 215000.09999999995
+quantité de mouvement moyenne : 3.829323149481295e+30
+lz : 2.000000000000679e+33
+Nombre de planètes : 51
+Masse planète mère : 1.26259777675333e+27
+Nbr orbites : 5
+stabilité : True
+
+# Essai 43 - 3
+lz_max: 2.0160287068111508e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000012e+25
+rayon moyen : 60718.15198464008
+vitesse moyenne : 215000.1
+quantité de mouvement moyenne : 3.909463842793623e+30
+lz : 2.0000000000006726e+33
+Nombre de planètes : 67
+Masse planète mère : 7.209958281853479e+26
+Nbr orbites : 4
+stabilité : True
+
+# Essai 43 - 4
+lz_max: 1.668025966246869e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60495.5296061039
+vitesse moyenne : 215000.0999999999
+quantité de mouvement moyenne : 3.8194784230503655e+30
+lz : 2.0000000000010127e+33
+Nombre de planètes : 59
+Masse planète mère : 1.1285117001402324e+27
+Nbr orbites : 5
+stabilité : True
+
+# Essai 43 - 5
+lz_max: 2.087832573757003e+37
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60496.92861805127
+vitesse moyenne : 215000.10000000006
+quantité de mouvement moyenne : 3.931627397480526e+30
+lz : 2.000000000000699e+33
+Nombre de planètes : 74
+Masse planète mère : 4.2673055919142894e+26
+Nbr orbites : 2
+stabilité : True
+
+# Essai 44 - 1
+lz_max: 2.096654954394377e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60431.225427553465
+vitesse moyenne : 220000.10000000006
+quantité de mouvement moyenne : 3.958975720059246e+30
+lz : 1.9999999999997742e+33
+Nombre de planètes : 63
+Masse planète mère : 8.189234160575821e+26
+Nbr orbites : 5
+stabilité : True
+
+# Essai 44 - 2
+lz_max: 1.997871333135299e+37
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60478.845867744545
+vitesse moyenne : 220000.0999999999
+quantité de mouvement moyenne : 3.87632261645707e+30
+lz : 2.000000000001425e+33
+Nombre de planètes : 53
+Masse planète mère : 2.578876295517358e+26
+Nbr orbites : 1
+stabilité : True
+
+# Essai 44 - 3
+lz_max: 1.952013711420706e+37
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60389.25734656942
+vitesse moyenne : 220556.57768257786
+quantité de mouvement moyenne : 3.9102776690283255e+30
+lz : 2.0000000000011372e+33
+Nombre de planètes : 62
+Masse planète mère : 8.543577165663587e+26
+Nbr orbites : 4
+stabilité : True
+
+# Essai 44 - 4
+lz_max: 1.9362343860909107e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60632.62455794208
+vitesse moyenne : 220243.2345705831
+quantité de mouvement moyenne : 3.9424105386176073e+30
+lz : 2.000000000001822e+33
+Nombre de planètes : 66
+Masse planète mère : 4.084322191202915e+26
+Nbr orbites : 0
+stabilité : False
+
+# Essai 44 - 5
+lz_max: 2.1085835129682783e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60300.95167395114
+vitesse moyenne : 220000.09999999998
+quantité de mouvement moyenne : 3.9942314810677113e+30
+lz : 2.0000000000004296e+33
+Nombre de planètes : 63
+Masse planète mère : 5.039691194982287e+26
+Nbr orbites : 4
+stabilité : True
+
+# Essai 45 - 1
+lz_max: 2.0022330353209544e+37
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60274.66233114968
+vitesse moyenne : 225000.09999999995
+quantité de mouvement moyenne : 3.992290061256362e+30
+lz : 2.000000000002022e+33
+Nombre de planètes : 64
+Masse planète mère : 8.227566941123018e+26
+Nbr orbites : 2
+stabilité : True
+
+# Essai 45 - 2
+lz_max: 2.1013887015200153e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999993e+25
+rayon moyen : 60607.58746855146
+vitesse moyenne : 225000.1
+quantité de mouvement moyenne : 4.059474325332927e+30
+lz : 2.000000000002118e+33
+Nombre de planètes : 60
+Masse planète mère : 8.572837777325185e+26
+Nbr orbites : 2
+stabilité : True
+
+# Essai 45 - 3
+lz_max: 1.888834625595151e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60461.60734284746
+vitesse moyenne : 225000.09999999995
+quantité de mouvement moyenne : 4.0129339677565225e+30
+lz : 2.000000000001045e+33
+Nombre de planètes : 57
+Masse planète mère : 6.452906886244519e+26
+Nbr orbites : 2
+stabilité : True
+
+# Essai 45 - 4
+lz_max: 2.1170202003336572e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60441.455411805706
+vitesse moyenne : 225270.52730228528
+quantité de mouvement moyenne : 4.059669146500575e+30
+lz : 2.0000000000008254e+33
+Nombre de planètes : 63
+Masse planète mère : 1.2050407200425855e+27
+Nbr orbites : 5
+stabilité : True
+
+# Essai 45 - 5
+lz_max: 1.882013286149577e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000008e+25
+rayon moyen : 60389.56534975284
+vitesse moyenne : 225000.09999999986
+quantité de mouvement moyenne : 4.006784007943445e+30
+lz : 2.000000000001948e+33
+Nombre de planètes : 58
+Masse planète mère : 1.1763451185065743e+27
+Nbr orbites : 8
+stabilité : True
+
+# Essai 46 - 1
+lz_max: 2.166037290879019e+37
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60495.311327533185
+vitesse moyenne : 230000.09999999995
+quantité de mouvement moyenne : 4.1221780386953504e+30
+lz : 2.0000000000016777e+33
+Nombre de planètes : 58
+Masse planète mère : 6.276795770535443e+26
+Nbr orbites : 1
+stabilité : True
+
+# Essai 46 - 2
+lz_max: 2.219143281499878e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999993e+25
+rayon moyen : 60219.91247902724
+vitesse moyenne : 230000.10000000006
+quantité de mouvement moyenne : 4.140291622300152e+30
+lz : 1.999999999999699e+33
+Nombre de planètes : 78
+Masse planète mère : 5.0593639473140424e+26
+Nbr orbites : 0
+stabilité : False
+
+# Essai 46 - 3
+lz_max: 1.9022504176806958e+37
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60537.42975921036
+vitesse moyenne : 230000.09999999995
+quantité de mouvement moyenne : 4.076164876341643e+30
+lz : 2.0000000000001175e+33
+Nombre de planètes : 64
+Masse planète mère : 8.437665715828577e+26
+Nbr orbites : 5
+stabilité : True
+
+# Essai 46 - 4
+lz_max: 2.2280473205331353e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60253.1607244884
+vitesse moyenne : 230000.1
+quantité de mouvement moyenne : 4.131511272796217e+30
+lz : 2.000000000001222e+33
+Nombre de planètes : 62
+Masse planète mère : 8.784131006337332e+26
+Nbr orbites : 4
+stabilité : True
+
+# Essai 46 - 5
+lz_max: 1.9127178452400917e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000012e+25
+rayon moyen : 60441.67824476761
+vitesse moyenne : 230000.10000000006
+quantité de mouvement moyenne : 4.054733519104245e+30
+lz : 2.0000000000001518e+33
+Nombre de planètes : 76
+Masse planète mère : 1.6306493967107914e+26
+Nbr orbites : 2
+stabilité : True
+
+# Essai 47 - 1
+lz_max: 2.0110815452936398e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60526.177994572754
+vitesse moyenne : 235000.1
+quantité de mouvement moyenne : 4.171917052589843e+30
+lz : 2.0000000000009776e+33
+Nombre de planètes : 74
+Masse planète mère : 2.8121212665227607e+26
+Nbr orbites : 3
+stabilité : True
+
+# Essai 47 - 2
+lz_max: 2.242546470281305e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000012e+25
+rayon moyen : 60535.2486517151
+vitesse moyenne : 235000.1000000001
+quantité de mouvement moyenne : 4.217874282757515e+30
+lz : 2.000000000001396e+33
+Nombre de planètes : 53
+Masse planète mère : 1.1931353764191057e+27
+Nbr orbites : 2
+stabilité : True
+
+# Essai 47 - 3
+lz_max: 2.1569192430677735e+37
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60464.515878490194
+vitesse moyenne : 235008.5160264274
+quantité de mouvement moyenne : 4.202547237481943e+30
+lz : 2.0000000000016783e+33
+Nombre de planètes : 73
+Masse planète mère : 3.181678766107798e+26
+Nbr orbites : 2
+stabilité : True
+
+# Essai 47 - 4
+lz_max: 2.2559394012146385e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999989e+25
+rayon moyen : 60621.71328142897
+vitesse moyenne : 235000.0999999999
+quantité de mouvement moyenne : 4.198755533393027e+30
+lz : 2.0000000000021472e+33
+Nombre de planètes : 66
+Masse planète mère : 3.749304415342759e+26
+Nbr orbites : 1
+stabilité : True
+
+# Essai 47 - 5
+lz_max: 2.307465292085064e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60596.240291974274
+vitesse moyenne : 235000.1
+quantité de mouvement moyenne : 4.2379131161292983e+30
+lz : 2.000000000001994e+33
+Nombre de planètes : 69
+Masse planète mère : 8.37342410356423e+26
+Nbr orbites : 2
+stabilité : True
+
+# Essai 48 - 1
+lz_max: 2.159409281002026e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000008e+25
+rayon moyen : 60614.90178529393
+vitesse moyenne : 240419.37473009113
+quantité de mouvement moyenne : 4.3098393913966735e+30
+lz : 2.000000000001502e+33
+Nombre de planètes : 78
+Masse planète mère : 3.7388493232086836e+26
+Nbr orbites : 1
+stabilité : True
+
+# Essai 48 - 2
+lz_max: 2.38363501255338e+37
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60476.89181985235
+vitesse moyenne : 240000.0999999999
+quantité de mouvement moyenne : 4.3401566179527014e+30
+lz : 2.000000000002831e+33
+Nombre de planètes : 72
+Masse planète mère : 6.84389902190236e+26
+Nbr orbites : 4
+stabilité : True
+
+# Essai 48 - 3
+lz_max: 2.0605123899121678e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000012e+25
+rayon moyen : 60497.93394746292
+vitesse moyenne : 240000.1
+quantité de mouvement moyenne : 4.3288099303245905e+30
+lz : 2.0000000000029015e+33
+Nombre de planètes : 74
+Masse planète mère : 7.482936784125706e+26
+Nbr orbites : 6
+stabilité : True
+
+# Essai 48 - 4
+lz_max: 2.1855842255693225e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60608.55845683144
+vitesse moyenne : 240000.1000000001
+quantité de mouvement moyenne : 4.356017499477164e+30
+lz : 2.0000000000009934e+33
+Nombre de planètes : 54
+Masse planète mère : 1.0627753346103741e+27
+Nbr orbites : 6
+stabilité : True
+
+# Essai 48 - 5
+lz_max: 2.0966706270222754e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000012e+25
+rayon moyen : 60473.4628732726
+vitesse moyenne : 240360.37968282247
+quantité de mouvement moyenne : 4.306587577226793e+30
+lz : 2.0000000000007398e+33
+Nombre de planètes : 72
+Masse planète mère : 4.598462409709321e+25
+Nbr orbites : 0
+stabilité : False
+
+# Essai 49 - 1
+lz_max: 2.151453651637245e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000008e+25
+rayon moyen : 60594.3279196362
+vitesse moyenne : 245000.1
+quantité de mouvement moyenne : 4.4039960530292616e+30
+lz : 2.0000000000013462e+33
+Nombre de planètes : 69
+Masse planète mère : 6.0939843636918355e+26
+Nbr orbites : 1
+stabilité : True
+
+# Essai 49 - 2
+lz_max: 2.1958609616595873e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60399.29079378946
+vitesse moyenne : 245000.0999999999
+quantité de mouvement moyenne : 4.3875053454867094e+30
+lz : 1.9999999999997102e+33
+Nombre de planètes : 69
+Masse planète mère : 1.0769961672953895e+27
+Nbr orbites : 1
+stabilité : True
+
+# Essai 49 - 3
+lz_max: 2.0850081966942957e+37
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60780.980349309
+vitesse moyenne : 245163.6316879303
+quantité de mouvement moyenne : 4.308962739474514e+30
+lz : 2.0000000000013113e+33
+Nombre de planètes : 68
+Masse planète mère : 1.9764761147703056e+26
+Nbr orbites : 3
+stabilité : True
+
+# Essai 49 - 4
+lz_max: 2.187897252090889e+37
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60449.311454287024
+vitesse moyenne : 245000.1000000001
+quantité de mouvement moyenne : 4.3873233502432924e+30
+lz : 2.0000000000020022e+33
+Nombre de planètes : 70
+Masse planète mère : 2.9985616236602947e+26
+Nbr orbites : 0
+stabilité : False
+
+# Essai 49 - 5
+lz_max: 2.3511515422867906e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999989e+25
+rayon moyen : 60594.732792463255
+vitesse moyenne : 245000.09999999995
+quantité de mouvement moyenne : 4.411311360419722e+30
+lz : 2.000000000000963e+33
+Nombre de planètes : 66
+Masse planète mère : 7.792399979163496e+26
+Nbr orbites : 1
+stabilité : True
+
+# Essai 50 - 1
+lz_max: 2.2566323516809676e+37
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60505.29352615022
+vitesse moyenne : 250000.10000000006
+quantité de mouvement moyenne : 4.4890749048453286e+30
+lz : 2.000000000001837e+33
+Nombre de planètes : 57
+Masse planète mère : 3.816901713298707e+26
+Nbr orbites : 0
+stabilité : False
+
+# Essai 50 - 2
+lz_max: 2.0187767203929915e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000008e+25
+rayon moyen : 60415.6522874713
+vitesse moyenne : 250000.10000000006
+quantité de mouvement moyenne : 4.465398503890659e+30
+lz : 2.000000000001284e+33
+Nombre de planètes : 66
+Masse planète mère : 5.228105956825837e+26
+Nbr orbites : 3
+stabilité : True
+
+# Essai 50 - 3
+lz_max: 2.2958382440048774e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999989e+25
+rayon moyen : 60449.7725016827
+vitesse moyenne : 250156.14949365324
+quantité de mouvement moyenne : 4.44344178659013e+30
+lz : 2.0000000000017376e+33
+Nombre de planètes : 62
+Masse planète mère : 7.318534227320719e+26
+Nbr orbites : 5
+stabilité : True
+
+# Essai 50 - 4
+lz_max: 2.3366134194914536e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000008e+25
+rayon moyen : 60178.583445565666
+vitesse moyenne : 250000.10000000015
+quantité de mouvement moyenne : 4.523928136277652e+30
+lz : 2.0000000000017417e+33
+Nombre de planètes : 55
+Masse planète mère : 8.561063434935813e+26
+Nbr orbites : 6
+stabilité : True
+
+# Essai 50 - 5
+lz_max: 2.299613281269659e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60549.859158016145
+vitesse moyenne : 250000.10000000006
+quantité de mouvement moyenne : 4.459599666415082e+30
+lz : 2.0000000000020806e+33
+Nombre de planètes : 75
+Masse planète mère : 4.190060755406108e+26
+Nbr orbites : 1
+stabilité : True
+
+# Essai 50 - 1
+lz_max: 2.2634066029649354e+37
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60471.567764815176
+vitesse moyenne : 250000.10000000006
+quantité de mouvement moyenne : 4.516167127461209e+30
+lz : 2.0000000000003314e+33
+Nombre de planètes : 58
+Masse planète mère : 7.15225999291701e+26
+Nbr orbites : 2
+stabilité : True
+
+# Essai 50 - 2
+lz_max: 2.215686996967223e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60346.343695652606
+vitesse moyenne : 250000.1000000001
+quantité de mouvement moyenne : 4.412482197561804e+30
+lz : 2.0000000000010528e+33
+Nombre de planètes : 60
+Masse planète mère : 4.5952978940531364e+26
+Nbr orbites : 4
+stabilité : True
+
+# Essai 50 - 3
+lz_max: 2.336421761180578e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60460.89965654983
+vitesse moyenne : 250000.0999999999
+quantité de mouvement moyenne : 4.4647702921954335e+30
+lz : 2.0000000000027023e+33
+Nombre de planètes : 58
+Masse planète mère : 7.615038821074047e+26
+Nbr orbites : 3
+stabilité : True
+
+# Essai 50 - 4
+lz_max: 2.3029660153653973e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60278.50259391886
+vitesse moyenne : 250000.1
+quantité de mouvement moyenne : 4.486880051561149e+30
+lz : 2.000000000001151e+33
+Nombre de planètes : 73
+Masse planète mère : 5.288525240243636e+26
+Nbr orbites : 1
+stabilité : True
+
+# Essai 50 - 5
+lz_max: 2.213870378687663e+37
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60401.30593162672
+vitesse moyenne : 250000.1000000001
+quantité de mouvement moyenne : 4.413915995037514e+30
+lz : 2.0000000000010375e+33
+Nombre de planètes : 71
+Masse planète mère : 5.633744048438941e+26
+Nbr orbites : 2
+stabilité : True
+
+# Essai 51 - 1
+lz_max: 2.239269177619721e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000008e+25
+rayon moyen : 60598.67062850999
+vitesse moyenne : 255000.09999999995
+quantité de mouvement moyenne : 4.5599395545236945e+30
+lz : 2.0000000000012197e+33
+Nombre de planètes : 74
+Masse planète mère : 4.493042502447099e+26
+Nbr orbites : 3
+stabilité : True
+
+# Essai 51 - 2
+lz_max: 2.3858294736201254e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60572.85682591471
+vitesse moyenne : 255000.1
+quantité de mouvement moyenne : 4.508903701170201e+30
+lz : 2.0000000000035437e+33
+Nombre de planètes : 58
+Masse planète mère : 2.3813548653666237e+26
+Nbr orbites : 0
+stabilité : False
+
+# Essai 51 - 3
+lz_max: 2.3592072329518153e+37
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60606.58675564697
+vitesse moyenne : 255000.1
+quantité de mouvement moyenne : 4.6042004171522125e+30
+lz : 2.0000000000006608e+33
+Nombre de planètes : 75
+Masse planète mère : 2.9399669887569347e+26
+Nbr orbites : 1
+stabilité : True
+
+# Essai 51 - 4
+lz_max: 2.417382742106374e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999989e+25
+rayon moyen : 60159.879466248094
+vitesse moyenne : 255126.52905797763
+quantité de mouvement moyenne : 4.6197270321492534e+30
+lz : 2.0000000000029825e+33
+Nombre de planètes : 61
+Masse planète mère : 9.390052354109831e+26
+Nbr orbites : 4
+stabilité : True
+
+# Essai 51 - 5
+lz_max: 2.1580706187548805e+37
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60470.25601214169
+vitesse moyenne : 255000.09999999995
+quantité de mouvement moyenne : 4.541443989537784e+30
+lz : 2.0000000000014082e+33
+Nombre de planètes : 56
+Masse planète mère : 7.737329189121137e+26
+Nbr orbites : 4
+stabilité : True
+
+# Essai 52 - 1
+lz_max: 2.721831734111248e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60327.510935819424
+vitesse moyenne : 260000.10000000006
+quantité de mouvement moyenne : 4.6702992930149844e+30
+lz : 2.000000000001826e+33
+Nombre de planètes : 73
+Masse planète mère : 2.5292450120432932e+26
+Nbr orbites : 0
+stabilité : False
+
+# Essai 52 - 2
+lz_max: 2.14681228629654e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999989e+25
+rayon moyen : 60104.74333567768
+vitesse moyenne : 260000.0999999999
+quantité de mouvement moyenne : 4.602510177322344e+30
+lz : 2.0000000000005507e+33
+Nombre de planètes : 53
+Masse planète mère : 1.238602941182345e+27
+Nbr orbites : 4
+stabilité : True
+
+# Essai 52 - 3
+lz_max: 2.3170257862419365e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60387.47293437452
+vitesse moyenne : 260000.1000000001
+quantité de mouvement moyenne : 4.6913450690261356e+30
+lz : 2.0000000000008006e+33
+Nombre de planètes : 76
+Masse planète mère : 3.831615715855049e+26
+Nbr orbites : 1
+stabilité : True
+
+# Essai 52 - 4
+lz_max: 2.5340726332359023e+37
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60463.337810459016
+vitesse moyenne : 260000.09999999986
+quantité de mouvement moyenne : 4.6333555124409473e+30
+lz : 2.0000000000021608e+33
+Nombre de planètes : 71
+Masse planète mère : 4.638202371409941e+26
+Nbr orbites : 1
+stabilité : True
+
+# Essai 52 - 5
+lz_max: 2.318740708689433e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60617.4018908624
+vitesse moyenne : 260000.10000000015
+quantité de mouvement moyenne : 4.653799460745291e+30
+lz : 2.0000000000003495e+33
+Nombre de planètes : 68
+Masse planète mère : 7.745508322286096e+26
+Nbr orbites : 1
+stabilité : True
+
+# Essai 53 - 1
+lz_max: 2.45133307799849e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000015e+25
+rayon moyen : 60573.40115817705
+vitesse moyenne : 265000.0999999999
+quantité de mouvement moyenne : 4.7681496547546486e+30
+lz : 2.000000000001341e+33
+Nombre de planètes : 83
+Masse planète mère : 5.209710931266751e+26
+Nbr orbites : 0
+stabilité : False
+
+# Essai 53 - 2
+lz_max: 2.5903442163165563e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999989e+25
+rayon moyen : 60596.224262973345
+vitesse moyenne : 265000.09999999986
+quantité de mouvement moyenne : 4.796914526365146e+30
+lz : 2.000000000000996e+33
+Nombre de planètes : 76
+Masse planète mère : 5.854862941661182e+26
+Nbr orbites : 2
+stabilité : True
+
+# Essai 53 - 3
+lz_max: 2.169802434876071e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999989e+25
+rayon moyen : 60425.89151441696
+vitesse moyenne : 265000.1
+quantité de mouvement moyenne : 4.755734023993439e+30
+lz : 2.0000000000012335e+33
+Nombre de planètes : 65
+Masse planète mère : 8.404037786094596e+26
+Nbr orbites : 1
+stabilité : True
+
+# Essai 53 - 4
+lz_max: 2.4110105931222966e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60545.731244233626
+vitesse moyenne : 265000.0999999999
+quantité de mouvement moyenne : 4.7143948831546955e+30
+lz : 2.0000000000003674e+33
+Nombre de planètes : 67
+Masse planète mère : 1.1225933877490498e+27
+Nbr orbites : 5
+stabilité : True
+
+# Essai 53 - 5
+lz_max: 2.4233681820108566e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999993e+25
+rayon moyen : 60709.30280903555
+vitesse moyenne : 265000.1
+quantité de mouvement moyenne : 4.79761100963836e+30
+lz : 2.0000000000024435e+33
+
+# Essai 54 - 1
+lz_max: 2.4595809304809974e+37
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60556.30495436126
+vitesse moyenne : 270000.1000000001
+quantité de mouvement moyenne : 4.852296879848645e+30
+lz : 2.0000000000000293e+33
+Nombre de planètes : 64
+Masse planète mère : 7.577688982902623e+26
+Nbr orbites : 0
+stabilité : False
+
+# Essai 54 - 2
+lz_max: 2.259719073250314e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999987e+25
+rayon moyen : 60622.08647801768
+vitesse moyenne : 270000.0999999998
+quantité de mouvement moyenne : 4.789121681009517e+30
+lz : 2.0000000000004948e+33
+Nombre de planètes : 66
+Masse planète mère : 8.423642832176506e+26
+Nbr orbites : 4
+stabilité : True
+
+# Essai 54 - 3
+lz_max: 2.129888752277156e+37
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60320.41039011083
+vitesse moyenne : 270000.10000000003
+quantité de mouvement moyenne : 4.860320073586634e+30
+lz : 2.0000000000015993e+33
+Nombre de planètes : 69
+Masse planète mère : 6.829010143223141e+26
+Nbr orbites : 4
+stabilité : True
+
+# Essai 54 - 4
+lz_max: 2.4341780671532425e+37
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60370.9097413183
+vitesse moyenne : 270095.10980128316
+quantité de mouvement moyenne : 4.7780754902708515e+30
+lz : 1.9999999999999872e+33
+Nombre de planètes : 72
+Masse planète mère : 6.989428817261935e+26
+Nbr orbites : 2
+stabilité : True
+
+# Essai 54 - 5
+lz_max: 2.4849779362453783e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999993e+25
+rayon moyen : 60400.939344690196
+vitesse moyenne : 270000.0999999999
+quantité de mouvement moyenne : 4.7576150176821406e+30
+lz : 2.0000000000013546e+33
+Nombre de planètes : 72
+Masse planète mère : 6.1682665900289465e+26
+Nbr orbites : 2
+stabilité : True
+
+# Essai 55 - 1
+lz_max: 2.4849626106922053e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000012e+25
+rayon moyen : 60284.902444370746
+vitesse moyenne : 275000.1000000001
+quantité de mouvement moyenne : 4.909239414578924e+30
+lz : 2.0000000000012303e+33
+Nombre de planètes : 60
+Masse planète mère : 9.383115791124263e+26
+Nbr orbites : 1
+stabilité : True
+
+# Essai 55 - 2
+lz_max: 2.4444977324736264e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999993e+25
+rayon moyen : 60409.988244639026
+vitesse moyenne : 275000.0999999999
+quantité de mouvement moyenne : 4.9158841937131214e+30
+lz : 2.0000000000002922e+33
+Nombre de planètes : 58
+Masse planète mère : 8.530319454304095e+26
+Nbr orbites : 2
+stabilité : True
+
+# Essai 55 - 3
+lz_max: 2.554005858119932e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999989e+25
+rayon moyen : 60311.6330031101
+vitesse moyenne : 275000.10000000015
+quantité de mouvement moyenne : 4.884030568035467e+30
+lz : 2.0000000000015094e+33
+Nombre de planètes : 74
+Masse planète mère : 3.740183464358498e+26
+Nbr orbites : 2
+stabilité : True
+
+# Essai 55 - 4
+lz_max: 2.517207522720944e+37
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60684.540297416934
+vitesse moyenne : 275000.10000000003
+quantité de mouvement moyenne : 4.911747807811588e+30
+lz : 2.0000000000006671e+33
+Nombre de planètes : 70
+Masse planète mère : 7.166533983055427e+26
+Nbr orbites : 5
+stabilité : True
+
+# Essai 55 - 5
+lz_max: 2.4892265556560534e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999993e+25
+rayon moyen : 60461.72633712092
+vitesse moyenne : 275000.10000000003
+quantité de mouvement moyenne : 4.9819720761596923e+30
+lz : 2.0000000000021092e+33
+Nombre de planètes : 70
+Masse planète mère : 7.300402871950871e+25
+Nbr orbites : 0
+stabilité : False
+
+# Essai 56 - 1
+lz_max: 2.476285198731488e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60673.693376483236
+vitesse moyenne : 280000.0999999996
+quantité de mouvement moyenne : 4.9937056897866825e+30
+lz : 1.999999999999658e+33
+Nombre de planètes : 66
+Masse planète mère : 8.261502185642315e+26
+Nbr orbites : 3
+stabilité : True
+
+# Essai 56 - 2
+lz_max: 2.404857705249728e+37
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60387.55674435778
+vitesse moyenne : 280000.0999999999
+quantité de mouvement moyenne : 5.118973994376401e+30
+lz : 2.000000000000103e+33
+Nombre de planètes : 65
+Masse planète mère : 2.730718160930926e+26
+Nbr orbites : 2
+stabilité : True
+
+# Essai 56 - 3
+lz_max: 2.5597714161939484e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000008e+25
+rayon moyen : 60481.458692600514
+vitesse moyenne : 280000.0999999999
+quantité de mouvement moyenne : 5.0694495221150993e+30
+lz : 2.0000000000011862e+33
+Nombre de planètes : 71
+Masse planète mère : 3.172830310100491e+26
+Nbr orbites : 2
+stabilité : True
+
+# Essai 56 - 4
+lz_max: 2.41274925898619e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999993e+25
+rayon moyen : 60244.96983204351
+vitesse moyenne : 280000.09999999974
+quantité de mouvement moyenne : 5.041813648173445e+30
+lz : 2.0000000000015728e+33
+Nombre de planètes : 80
+Masse planète mère : 5.8666802573707865e+26
+Nbr orbites : 3
+stabilité : True
+
+# Essai 56 - 5
+lz_max: 2.523777196088347e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999989e+25
+rayon moyen : 60492.074307093
+vitesse moyenne : 280000.09999999986
+quantité de mouvement moyenne : 5.088615105448598e+30
+lz : 2.000000000001348e+33
+Nombre de planètes : 69
+Masse planète mère : 7.36947047942676e+26
+Nbr orbites : 2
+stabilité : True
+
+# Essai 57 - 1
+lz_max: 2.6636987774053654e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60464.333419833914
+vitesse moyenne : 285206.43716099166
+quantité de mouvement moyenne : 5.149678275860907e+30
+lz : 2.0000000000019218e+33
+Nombre de planètes : 71
+Masse planète mère : 7.672762999621437e+26
+Nbr orbites : 2
+stabilité : True
+
+# Essai 57 - 2
+lz_max: 2.6919108712367097e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60571.521979107274
+vitesse moyenne : 285000.10000000003
+quantité de mouvement moyenne : 5.150464400327079e+30
+lz : 2.0000000000020904e+33
+Nombre de planètes : 81
+Masse planète mère : 4.4789710893832195e+26
+Nbr orbites : 4
+stabilité : True
+
+# Essai 57 - 3
+lz_max: 2.6250094133227255e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000008e+25
+rayon moyen : 60200.498520801004
+vitesse moyenne : 285000.1000000001
+quantité de mouvement moyenne : 5.102398954219453e+30
+lz : 2.0000000000026216e+33
+Nombre de planètes : 80
+Masse planète mère : 1.8052371007326288e+26
+Nbr orbites : 2
+stabilité : True
+
+# Essai 57 - 4
+lz_max: 2.551516396942121e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000008e+25
+rayon moyen : 60484.83407521297
+vitesse moyenne : 285000.0999999999
+quantité de mouvement moyenne : 5.153570021520406e+30
+lz : 2.0000000000008822e+33
+Nombre de planètes : 79
+Masse planète mère : 4.761289004280263e+26
+Nbr orbites : 2
+stabilité : True
+
+# Essai 57 - 5
+lz_max: 2.6386882176381324e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60477.52006489298
+vitesse moyenne : 285000.1000000001
+quantité de mouvement moyenne : 5.085119753365076e+30
+lz : 2.0000000000009975e+33
+Nombre de planètes : 93
+Masse planète mère : 3.494621789218161e+26
+Nbr orbites : 3
+stabilité : True
+
+# Essai 58 - 1
+lz_max: 2.6154760147283527e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000012e+25
+rayon moyen : 60485.201066892616
+vitesse moyenne : 290000.1000000001
+quantité de mouvement moyenne : 5.240103195554366e+30
+lz : 2.0000000000016863e+33
+Nombre de planètes : 80
+Masse planète mère : 3.4758662800498484e+26
+Nbr orbites : 4
+stabilité : True
+
+# Essai 58 - 2
+lz_max: 2.5711494711415104e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000012e+25
+rayon moyen : 60524.60164726626
+vitesse moyenne : 290000.1
+quantité de mouvement moyenne : 5.109581413596137e+30
+lz : 2.000000000002778e+33
+Nombre de planètes : 78
+Masse planète mère : 5.450977119286204e+26
+Nbr orbites : 1
+stabilité : True
+
+# Essai 58 - 3
+lz_max: 2.763630739916463e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60544.320640684775
+vitesse moyenne : 290186.02853048843
+quantité de mouvement moyenne : 5.125252722036264e+30
+lz : 2.000000000001435e+33
+Nombre de planètes : 77
+Masse planète mère : 7.447433202120598e+26
+Nbr orbites : 2
+stabilité : True
+
+# Essai 58 - 4
+lz_max: 2.719510586349633e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999993e+25
+rayon moyen : 60548.22982052501
+vitesse moyenne : 290000.10000000015
+quantité de mouvement moyenne : 5.237815814112349e+30
+lz : 2.0000000000006723e+33
+Nombre de planètes : 68
+Masse planète mère : 9.951677901242777e+26
+Nbr orbites : 2
+stabilité : True
+
+# Essai 58 - 5
+lz_max: 2.57241289398867e+37
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60405.20754773031
+vitesse moyenne : 290000.1
+quantité de mouvement moyenne : 5.25256246796806e+30
+lz : 2.0000000000009144e+33
+Nombre de planètes : 65
+Masse planète mère : 8.587834354985772e+26
+Nbr orbites : 3
+stabilité : True
+
+# Essai 59 - 1
+lz_max: 2.4048835605775756e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000012e+25
+rayon moyen : 60235.64258428062
+vitesse moyenne : 295000.1
+quantité de mouvement moyenne : 5.216396686256726e+30
+lz : 2.0000000000008868e+33
+Nombre de planètes : 74
+Masse planète mère : 7.686046516563776e+26
+Nbr orbites : 2
+stabilité : True
+
+# Essai 59 - 2
+lz_max: 2.799146820000817e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60551.80911886102
+vitesse moyenne : 295000.1
+quantité de mouvement moyenne : 5.240141679345643e+30
+lz : 2.000000000002005e+33
+Nombre de planètes : 65
+Masse planète mère : 8.089015281439819e+26
+Nbr orbites : 4
+stabilité : True
+
+# Essai 59 - 3
+lz_max: 2.5649660341663407e+37
+nombre de planètes : 150
+masse moyenne : 1.79166e+25
+rayon moyen : 60316.270153566424
+vitesse moyenne : 295489.83436877927
+quantité de mouvement moyenne : 5.279636717421015e+30
+lz : 2.0000000000007804e+33
+Nombre de planètes : 66
+Masse planète mère : 6.254332807701391e+26
+Nbr orbites : 2
+stabilité : True
+
+# Essai 59 - 4
+lz_max: 2.641995713828045e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60427.73267484472
+vitesse moyenne : 295000.0999999998
+quantité de mouvement moyenne : 5.279285440528092e+30
+lz : 2.0000000000015137e+33
+Nombre de planètes : 73
+Masse planète mère : 4.837238146485237e+26
+Nbr orbites : 1
+stabilité : True
+
+# Essai 59 - 5
+lz_max: 2.4944281326061897e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000015e+25
+rayon moyen : 60165.847645654954
+vitesse moyenne : 295000.09999999974
+quantité de mouvement moyenne : 5.239698905418104e+30
+lz : 2.0000000000020824e+33
+Nombre de planètes : 53
+Masse planète mère : 7.145859404153001e+26
+Nbr orbites : 4
+stabilité : True
+
+# Essai 60 - 1
+lz_max: 2.6384979171904895e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60448.90879553934
+vitesse moyenne : 300000.3283135765
+quantité de mouvement moyenne : 5.401048026817461e+30
+lz : 2.00000000000118e+33
+Nombre de planètes : 75
+Masse planète mère : 6.42402012892729e+26
+Nbr orbites : 2
+stabilité : True
+
+# Essai 60 - 2
+lz_max: 2.781949095712896e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60443.29136978507
+vitesse moyenne : 300088.6211705689
+quantité de mouvement moyenne : 5.423910002790884e+30
+lz : 2.0000000000027888e+33
+Nombre de planètes : 61
+Masse planète mère : 7.068479984642747e+26
+Nbr orbites : 1
+stabilité : True
+
+# Essai 60 - 3
+lz_max: 2.5911240450049845e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999997e+25
+rayon moyen : 60369.160557187424
+vitesse moyenne : 300057.38750787074
+quantité de mouvement moyenne : 5.379892639744373e+30
+lz : 2.0000000000016915e+33
+Nombre de planètes : 70
+Masse planète mère : 7.069907733868188e+26
+Nbr orbites : 1
+stabilité : True
+
+# Essai 60 - 4
+lz_max: 2.5454553700209674e+37
+nombre de planètes : 150
+masse moyenne : 1.7916600000000012e+25
+rayon moyen : 60544.08385679471
+vitesse moyenne : 300000.09999999974
+quantité de mouvement moyenne : 5.305545838707876e+30
+lz : 2.0000000000018394e+33
+Nombre de planètes : 74
+Masse planète mère : 4.5786478962967186e+26
+Nbr orbites : 3
+stabilité : True
+
+# Essai 60 - 5
+lz_max: 2.7228507734242684e+37
+nombre de planètes : 150
+masse moyenne : 1.7916599999999982e+25
+rayon moyen : 60496.38215260123
+vitesse moyenne : 300000.10000000003
+quantité de mouvement moyenne : 5.294194888762439e+30
+lz : 2.0000000000025147e+33
+Nombre de planètes : 79
+Masse planète mère : 9.315504663225829e+26
+Nbr orbites : 0
+stabilité : False

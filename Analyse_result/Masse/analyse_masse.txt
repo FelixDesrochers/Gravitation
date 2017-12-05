@@ -1,0 +1,3875 @@
+0.3 masse de la Terre
+Masse planète mère : 1.2562661491386386e+25
+Nbr orbites : 0
+stabilité : False
+
+0.3 masse de la Terre
+Masse planète mère : 1.9181562937596142e+26
+Nbr orbites : 14
+stabilité : True
+
+0.3 masse de la Terre
+Masse planète mère : 1.3030473729150807e+26
+Nbr orbites : 12
+stabilité : True
+
+0.3 masse de la Terre
+Masse planète mère : 8.605464850842017e+25
+Nbr orbites : 0
+stabilité : False
+
+0.3 masse de la Terre
+Masse planète mère : 1.5405783362619028e+26
+Nbr orbites : 14
+stabilité : True
+
+0.35 masse de la Terre
+Masse planète mère : 1.8293674904895837e+26
+Nbr orbites : 8
+stabilité : True
+
+0.35 masse de la Terre
+Masse planète mère : 1.4896392300124586e+26
+Nbr orbites : 11
+stabilité : True
+
+0.35 masse de la Terre
+Masse planète mère : 1.705452858690045e+26
+Nbr orbites : 11
+stabilité : True
+
+0.35 masse de la Terre
+Masse planète mère : 1.958589442713717e+26
+Nbr orbites : 9
+stabilité : True
+
+0.35 masse de la Terre
+Masse planète mère : 1.764121184278327e+26
+Nbr orbites : 10
+stabilité : True
+
+0.4 masse de la Terre
+Masse planète mère : 2.0417917972191024e+26
+Nbr orbites : 8
+stabilité : True
+
+0.4 masse de la Terre
+Masse planète mère : 2.3517880175748865e+26
+Nbr orbites : 7
+stabilité : True
+
+0.4 masse de la Terre
+Masse planète mère : 2.0255331193072368e+26
+Nbr orbites : 5
+stabilité : True
+
+0.4 masse de la Terre
+Masse planète mère : 1.612459615245962e+26
+Nbr orbites : 6
+stabilité : True
+
+0.4 masse de la Terre
+Masse planète mère : 1.8856701374958476e+26
+Nbr orbites : 13
+stabilité : True
+
+0.45 masse de la Terre
+Masse planète mère : 2.30176222035699e+26
+Nbr orbites : 14
+stabilité : True
+
+0.45 masse de la Terre
+Masse planète mère : 1.6979192763879624e+26
+Nbr orbites : 6
+stabilité : True
+
+0.45 masse de la Terre
+Masse planète mère : 1.4825075889824708e+26
+Nbr orbites : 15
+stabilité : True
+
+0.45 masse de la Terre
+Masse planète mère : 1.232893283485834e+26
+Nbr orbites : 12
+stabilité : True
+
+0.45 masse de la Terre
+Masse planète mère : 8.541599502003564e+25
+Nbr orbites : 0
+stabilité : False
+
+0.5 masse de la Terre
+Masse planète mère : 2.333712239382131e+26
+Nbr orbites : 6
+stabilité : True
+
+0.5 masse de la Terre
+Masse planète mère : 1.2439443982416083e+26
+Nbr orbites : 10
+stabilité : True
+
+0.5 masse de la Terre
+Masse planète mère : 1.9189035788255505e+26
+Nbr orbites : 10
+stabilité : True
+
+0.5 masse de la Terre
+Masse planète mère : 2.422816063037918e+26
+Nbr orbites : 8
+stabilité : True
+
+0.5 masse de la Terre
+Masse planète mère : 1.0144453226711266e+26
+Nbr orbites : 3
+stabilité : True
+
+0.55 masse de la Terre
+Masse planète mère : 2.3912999013679285e+26
+Nbr orbites : 9
+stabilité : True
+
+0.55 masse de la Terre
+Masse planète mère : 2.146999753444053e+26
+Nbr orbites : 6
+stabilité : True
+
+0.55 masse de la Terre
+Masse planète mère : 2.4705151490561952e+26
+Nbr orbites : 7
+stabilité : True
+
+0.55 masse de la Terre
+Masse planète mère : 3.550226836403628e+26
+Nbr orbites : 6
+stabilité : True
+
+0.55 masse de la Terre
+Masse planète mère : 2.2953493378197975e+26
+Nbr orbites : 12
+stabilité : True
+
+0.6 masse de la Terre
+Masse planète mère : 2.971616012793987e+26
+Nbr orbites : 9
+stabilité : True
+
+0.6 masse de la Terre
+Masse planète mère : 2.669641958804508e+26
+Nbr orbites : 3
+stabilité : True
+
+0.6 masse de la Terre
+Masse planète mère : 8.468558864379664e+25
+Nbr orbites : 0
+stabilité : False
+
+0.6 masse de la Terre
+Masse planète mère : 1.580556513690075e+26
+Nbr orbites : 13
+stabilité : True
+
+0.6 masse de la Terre
+Masse planète mère : 3.0527458245233027e+26
+Nbr orbites : 7
+stabilité : True
+
+0.65 masse de la Terre
+Masse planète mère : 3.906576306255603e+26
+Nbr orbites : 4
+stabilité : True
+
+0.65 masse de la Terre
+Masse planète mère : 3.271499259189954e+26
+Nbr orbites : 2
+stabilité : True
+
+0.65 masse de la Terre
+Masse planète mère : 3.310247608527325e+26
+Nbr orbites : 2
+stabilité : True
+
+0.65 masse de la Terre
+Masse planète mère : 3.7695027203908064e+26
+Nbr orbites : 6
+stabilité : True
+
+0.65 masse de la Terre
+Masse planète mère : 1.5524392356499893e+26
+Nbr orbites : 3
+stabilité : True
+
+0.7 masse de la Terre
+Masse planète mère : 3.790908729364418e+26
+Nbr orbites : 6
+stabilité : True
+
+0.7 masse de la Terre
+Masse planète mère : 4.550114005590117e+26
+Nbr orbites : 4
+stabilité : True
+
+0.7 masse de la Terre
+Masse planète mère : 3.5114947274319706e+26
+Nbr orbites : 9
+stabilité : True
+
+0.7 masse de la Terre
+Masse planète mère : 4.2556271143651755e+26
+Nbr orbites : 4
+stabilité : True
+
+0.7 masse de la Terre
+Masse planète mère : 4.14889127894129e+26
+Nbr orbites : 7
+stabilité : True
+
+0.75 masse de la Terre
+Masse planète mère : 3.927608440770192e+26
+Nbr orbites : 9
+stabilité : True
+
+0.75 masse de la Terre
+Masse planète mère : 1.4077497557962109e+26
+Nbr orbites : 4
+stabilité : True
+
+0.75 masse de la Terre
+Masse planète mère : 2.7320396962729374e+25
+Nbr orbites : 0
+stabilité : False
+
+0.75 masse de la Terre
+Masse planète mère : 3.6697797490387157e+26
+Nbr orbites : 9
+stabilité : True
+
+0.75 masse de la Terre
+Masse planète mère : 4.4605891074939304e+26
+Nbr orbites : 3
+stabilité : True
+
+0.8 masse de la Terre
+Masse planète mère : 1.4169256131288207e+26
+Nbr orbites : 2
+stabilité : True
+
+0.8 masse de la Terre
+Masse planète mère : 4.954572762269613e+26
+Nbr orbites : 7
+stabilité : True
+
+0.8 masse de la Terre
+Masse planète mère : 4.08874950687829e+26
+Nbr orbites : 3
+stabilité : True
+
+0.8 masse de la Terre
+Masse planète mère : 4.443954847766612e+26
+Nbr orbites : 7
+stabilité : True
+
+0.8 masse de la Terre
+Masse planète mère : 9.766543788486979e+25
+Nbr orbites : 0
+stabilité : False
+
+0.85 masse de la Terre
+Masse planète mère : 4.051617950233805e+26
+Nbr orbites : 9
+stabilité : True
+
+0.85 masse de la Terre
+Masse planète mère : 4.934385273528018e+26
+Nbr orbites : 2
+stabilité : True
+
+0.85 masse de la Terre
+Masse planète mère : 4.7258448120236284e+26
+Nbr orbites : 5
+stabilité : True
+
+0.85 masse de la Terre
+Masse planète mère : 4.588667675723196e+26
+Nbr orbites : 8
+stabilité : True
+
+0.85 masse de la Terre
+Masse planète mère : 4.887851412565709e+26
+Nbr orbites : 5
+stabilité : True
+
+0.9 masse de la Terre
+Masse planète mère : 4.79374295913532e+26
+Nbr orbites : 4
+stabilité : True
+
+0.9 masse de la Terre
+Masse planète mère : 4.969950461315437e+26
+Nbr orbites : 6
+stabilité : True
+
+0.9 masse de la Terre
+Masse planète mère : 4.595493668077052e+26
+Nbr orbites : 4
+stabilité : True
+
+0.9 masse de la Terre
+Masse planète mère : 5.225753249870958e+26
+Nbr orbites : 8
+stabilité : True
+
+0.9 masse de la Terre
+Masse planète mère : 4.66211603844399e+26
+Nbr orbites : 8
+stabilité : True
+
+0.95 masse de la Terre
+Masse planète mère : 3.463197555287212e+26
+Nbr orbites : 11
+stabilité : True
+
+0.95 masse de la Terre
+Masse planète mère : 4.094842068940128e+26
+Nbr orbites : 6
+stabilité : True
+
+0.95 masse de la Terre
+Masse planète mère : 4.5262475487160595e+26
+Nbr orbites : 6
+stabilité : True
+
+0.95 masse de la Terre
+Masse planète mère : 4.5137061486433254e+26
+Nbr orbites : 3
+stabilité : True
+
+0.95 masse de la Terre
+Masse planète mère : 4.2031630048524766e+26
+Nbr orbites : 7
+stabilité : True
+
+1.0 masse de la Terre
+Masse planète mère : 6.249136235371813e+26
+Nbr orbites : 5
+stabilité : True
+
+1.0 masse de la Terre
+Masse planète mère : 4.868530848957673e+26
+Nbr orbites : 6
+stabilité : True
+
+1.0 masse de la Terre
+Masse planète mère : 2.171281339604472e+26
+Nbr orbites : 5
+stabilité : True
+
+1.0 masse de la Terre
+Masse planète mère : 5.9614546446000324e+26
+Nbr orbites : 6
+stabilité : True
+
+1.0 masse de la Terre
+Masse planète mère : 6.465249708741948e+26
+Nbr orbites : 3
+stabilité : True
+
+1.05 masse de la Terre
+Masse planète mère : 4.7993046005727045e+26
+Nbr orbites : 2
+stabilité : True
+
+1.05 masse de la Terre
+Masse planète mère : 5.4434227756644234e+26
+Nbr orbites : 7
+stabilité : True
+
+1.05 masse de la Terre
+Masse planète mère : 1.0634056385342068e+26
+Nbr orbites : 0
+stabilité : False
+
+1.05 masse de la Terre
+Masse planète mère : 5.072708332347949e+26
+Nbr orbites : 5
+stabilité : True
+
+1.05 masse de la Terre
+Masse planète mère : 3.392701463708714e+26
+Nbr orbites : 1
+stabilité : True
+
+1.1 masse de la Terre
+Masse planète mère : 2.779979930745494e+26
+Nbr orbites : 2
+stabilité : True
+
+1.1 masse de la Terre
+Masse planète mère : 5.385969884155463e+26
+Nbr orbites : 4
+stabilité : True
+
+1.1 masse de la Terre
+Masse planète mère : 6.432587859364903e+26
+Nbr orbites : 2
+stabilité : True
+
+1.1 masse de la Terre
+Masse planète mère : 4.869863866948984e+26
+Nbr orbites : 6
+stabilité : True
+
+1.1 masse de la Terre
+Masse planète mère : 4.429560293985279e+26
+Nbr orbites : 6
+stabilité : True
+
+1.15 masse de la Terre
+Masse planète mère : 7.551969511076967e+26
+Nbr orbites : 1
+stabilité : True
+
+1.15 masse de la Terre
+Masse planète mère : 5.7302790740513835e+26
+Nbr orbites : 3
+stabilité : True
+
+1.15 masse de la Terre
+Masse planète mère : 1.4786671880431977e+26
+Nbr orbites : 3
+stabilité : True
+
+1.15 masse de la Terre
+Masse planète mère : 2.060877076296565e+26
+Nbr orbites : 0
+stabilité : False
+
+1.15 masse de la Terre
+Masse planète mère : 4.642484713842131e+26
+Nbr orbites : 0
+stabilité : False
+
+1.2 masse de la Terre
+Masse planète mère : 6.935558216984764e+26
+Nbr orbites : 3
+stabilité : True
+
+1.2 masse de la Terre
+Masse planète mère : 6.427075661201354e+26
+Nbr orbites : 5
+stabilité : True
+
+1.2 masse de la Terre
+Masse planète mère : 7.037487745319634e+26
+Nbr orbites : 5
+stabilité : True
+
+1.2 masse de la Terre
+Masse planète mère : 8.156502431825135e+26
+Nbr orbites : 6
+stabilité : True
+
+1.2 masse de la Terre
+Masse planète mère : 6.343327589599648e+26
+Nbr orbites : 3
+stabilité : True
+
+1.25 masse de la Terre
+Masse planète mère : 8.063205003245031e+26
+Nbr orbites : 4
+stabilité : True
+
+1.25 masse de la Terre
+Masse planète mère : 5.6324192198896856e+26
+Nbr orbites : 5
+stabilité : True
+
+1.25 masse de la Terre
+Masse planète mère : 8.069337940731854e+26
+Nbr orbites : 6
+stabilité : True
+
+1.25 masse de la Terre
+Masse planète mère : 6.37707939262161e+26
+Nbr orbites : 3
+stabilité : True
+
+1.25 masse de la Terre
+Masse planète mère : 5.304116340628196e+26
+Nbr orbites : 3
+stabilité : True
+
+1.3 masse de la Terre
+Masse planète mère : 7.684531744596493e+26
+Nbr orbites : 2
+stabilité : True
+
+1.3 masse de la Terre
+Masse planète mère : 2.6467045791884517e+26
+Nbr orbites : 1
+stabilité : True
+
+1.3 masse de la Terre
+Masse planète mère : 7.912068014618586e+26
+Nbr orbites : 4
+stabilité : True
+
+1.3 masse de la Terre
+Masse planète mère : 7.23402672993687e+26
+Nbr orbites : 6
+stabilité : True
+
+1.3 masse de la Terre
+Masse planète mère : 6.398782050460058e+26
+Nbr orbites : 4
+stabilité : True
+
+1.35 masse de la Terre
+Masse planète mère : 4.327300396585006e+26
+Nbr orbites : 1
+stabilité : True
+
+1.35 masse de la Terre
+Masse planète mère : 2.0373309371023073e+26
+Nbr orbites : 0
+stabilité : False
+
+1.35 masse de la Terre
+Masse planète mère : 8.275815856805347e+26
+Nbr orbites : 3
+stabilité : True
+
+1.35 masse de la Terre
+Masse planète mère : 6.57279166639037e+26
+Nbr orbites : 2
+stabilité : True
+
+1.35 masse de la Terre
+Masse planète mère : 3.0272208735171494e+26
+Nbr orbites : 1
+stabilité : True
+
+1.4 masse de la Terre
+Masse planète mère : 5.455074861061877e+26
+Nbr orbites : 5
+stabilité : True
+
+1.4 masse de la Terre
+Masse planète mère : 6.360011201416639e+26
+Nbr orbites : 2
+stabilité : True
+
+1.4 masse de la Terre
+Masse planète mère : 8.991297328217836e+26
+Nbr orbites : 2
+stabilité : True
+
+1.4 masse de la Terre
+Masse planète mère : 9.247496041608565e+26
+Nbr orbites : 3
+stabilité : True
+
+1.4 masse de la Terre
+Masse planète mère : 6.107183576033338e+26
+Nbr orbites : 3
+stabilité : True
+
+1.45 masse de la Terre
+Masse planète mère : 5.346729262467979e+26
+Nbr orbites : 3
+stabilité : True
+
+1.45 masse de la Terre
+Masse planète mère : 8.325819213180059e+26
+Nbr orbites : 2
+stabilité : True
+
+1.45 masse de la Terre
+Masse planète mère : 2.231561868959194e+26
+Nbr orbites : 2
+stabilité : True
+
+1.45 masse de la Terre
+Masse planète mère : 2.60117470792979e+26
+Nbr orbites : 1
+stabilité : True
+
+1.45 masse de la Terre
+Masse planète mère : 1.5101460478410521e+26
+Nbr orbites : 0
+stabilité : False
+
+1.5 masse de la Terre
+Masse planète mère : 6.0059701199277966e+26
+Nbr orbites : 4
+stabilité : True
+
+1.5 masse de la Terre
+Masse planète mère : 8.86383575369417e+26
+Nbr orbites : 3
+stabilité : True
+
+1.5 masse de la Terre
+Masse planète mère : 5.5272676132937504e+26
+Nbr orbites : 5
+stabilité : True
+
+1.5 masse de la Terre
+Masse planète mère : 6.664340025194183e+26
+Nbr orbites : 5
+stabilité : True
+
+1.5 masse de la Terre
+Masse planète mère : 8.6602053696436e+26
+Nbr orbites : 8
+stabilité : True
+
+1.55 masse de la Terre
+Masse planète mère : 8.065270317087416e+26
+Nbr orbites : 4
+stabilité : True
+
+1.55 masse de la Terre
+Masse planète mère : 1.0484008308412257e+26
+Nbr orbites : 0
+stabilité : False
+
+1.55 masse de la Terre
+Masse planète mère : 7.329882228811833e+26
+Nbr orbites : 7
+stabilité : True
+
+1.55 masse de la Terre
+Masse planète mère : 7.766068887191849e+26
+Nbr orbites : 6
+stabilité : True
+
+1.55 masse de la Terre
+Masse planète mère : 9.34893686276085e+26
+Nbr orbites : 5
+stabilité : True
+
+1.6 masse de la Terre
+Masse planète mère : 8.526852288255796e+26
+Nbr orbites : 6
+stabilité : True
+
+1.6 masse de la Terre
+Masse planète mère : 1.0674094052053673e+27
+Nbr orbites : 1
+stabilité : True
+
+1.6 masse de la Terre
+Masse planète mère : 8.262418262417804e+26
+Nbr orbites : 3
+stabilité : True
+
+1.6 masse de la Terre
+Masse planète mère : 6.058983849055482e+26
+Nbr orbites : 0
+stabilité : False
+
+1.6 masse de la Terre
+Masse planète mère : 8.733348439411241e+26
+Nbr orbites : 6
+stabilité : True
+
+1.65 masse de la Terre
+Masse planète mère : 6.337186889948034e+26
+Nbr orbites : 4
+stabilité : True
+
+1.65 masse de la Terre
+Masse planète mère : 9.346509485638923e+26
+Nbr orbites : 4
+stabilité : True
+
+1.65 masse de la Terre
+Masse planète mère : 9.249839110065831e+26
+Nbr orbites : 1
+stabilité : True
+
+1.65 masse de la Terre
+Masse planète mère : 8.981917911810982e+26
+Nbr orbites : 3
+stabilité : True
+
+1.65 masse de la Terre
+Masse planète mère : 8.05802735599839e+26
+Nbr orbites : 3
+stabilité : True
+
+1.7 masse de la Terre
+Masse planète mère : 5.953291943966791e+26
+Nbr orbites : 2
+stabilité : True
+
+1.7 masse de la Terre
+Masse planète mère : 3.9551365924089254e+26
+Nbr orbites : 0
+stabilité : False
+
+1.7 masse de la Terre
+Masse planète mère : 7.911756058446747e+26
+Nbr orbites : 3
+stabilité : True
+
+1.7 masse de la Terre
+Masse planète mère : 8.424497660582532e+26
+Nbr orbites : 2
+stabilité : True
+
+1.7 masse de la Terre
+Masse planète mère : 1.0481760590922857e+27
+Nbr orbites : 3
+stabilité : True
+
+1.75 masse de la Terre
+Masse planète mère : 9.848511127835803e+26
+Nbr orbites : 6
+stabilité : True
+
+1.75 masse de la Terre
+Masse planète mère : 8.078389288999317e+26
+Nbr orbites : 2
+stabilité : True
+
+1.75 masse de la Terre
+Masse planète mère : 3.8824023386983796e+26
+Nbr orbites : 1
+stabilité : True
+
+1.75 masse de la Terre
+Masse planète mère : 4.747812616191425e+25
+Nbr orbites : 0
+stabilité : False
+
+1.75 masse de la Terre
+Masse planète mère : 9.343316845781292e+26
+Nbr orbites : 4
+stabilité : True
+
+1.8 masse de la Terre
+Masse planète mère : 1.1409420139310381e+27
+Nbr orbites : 3
+stabilité : True
+
+1.8 masse de la Terre
+Masse planète mère : 9.148889290835181e+26
+Nbr orbites : 2
+stabilité : True
+
+1.8 masse de la Terre
+Masse planète mère : 1.0770762872977461e+27
+Nbr orbites : 1
+stabilité : True
+
+1.8 masse de la Terre
+Masse planète mère : 5.0426246968987314e+26
+Nbr orbites : 6
+stabilité : True
+
+1.8 masse de la Terre
+Masse planète mère : 2.3762611066856862e+26
+Nbr orbites : 7
+stabilité : True
+
+1.85 masse de la Terre
+Masse planète mère : 6.100934191538432e+26
+Nbr orbites : 2
+stabilité : True
+
+1.85 masse de la Terre
+Masse planète mère : 1.0732682414563805e+26
+Nbr orbites : 0
+stabilité : False
+
+1.85 masse de la Terre
+Masse planète mère : 5.5733862666731914e+26
+Nbr orbites : 4
+stabilité : True
+
+1.85 masse de la Terre
+Masse planète mère : 1.0648790370895384e+27
+Nbr orbites : 5
+stabilité : True
+
+1.85 masse de la Terre
+Masse planète mère : 6.465350591233158e+26
+Nbr orbites : 3
+stabilité : True
+
+1.9 masse de la Terre
+Masse planète mère : 1.1304713910023016e+27
+Nbr orbites : 4
+stabilité : True
+
+1.9 masse de la Terre
+Masse planète mère : 8.242462021432479e+26
+Nbr orbites : 1
+stabilité : True
+
+1.9 masse de la Terre
+Masse planète mère : 5.606284746513365e+26
+Nbr orbites : 3
+stabilité : True
+
+1.9 masse de la Terre
+Masse planète mère : 1.0690711057998696e+27
+Nbr orbites : 2
+stabilité : True
+
+1.9 masse de la Terre
+Masse planète mère : 8.888574800106185e+26
+Nbr orbites : 3
+stabilité : True
+
+1.95 masse de la Terre
+Masse planète mère : 1.0988337586188653e+27
+Nbr orbites : 3
+stabilité : True
+
+1.95 masse de la Terre
+Masse planète mère : 1.1574355433816232e+27
+Nbr orbites : 1
+stabilité : True
+
+1.95 masse de la Terre
+Masse planète mère : 1.0400391530955948e+27
+Nbr orbites : 3
+stabilité : True
+
+1.95 masse de la Terre
+Masse planète mère : 1.0778700835956497e+27
+Nbr orbites : 0
+stabilité : False
+
+1.95 masse de la Terre
+Masse planète mère : 8.002876855639377e+26
+Nbr orbites : 3
+stabilité : True
+
+2.0 masse de la Terre
+Masse planète mère : 1.2301321024351561e+26
+Nbr orbites : 1
+stabilité : True
+
+2.0 masse de la Terre
+Masse planète mère : 1.0529344638326687e+27
+Nbr orbites : 1
+stabilité : True
+
+2.0 masse de la Terre
+Masse planète mère : 1.755929520916656e+26
+Nbr orbites : 2
+stabilité : True
+
+2.0 masse de la Terre
+Masse planète mère : 1.0597555662569117e+27
+Nbr orbites : 1
+stabilité : True
+
+2.0 masse de la Terre
+# Essai 2.05 - 1.0
+lz_max: 1.487688690217764e+36
+nombre de planètes : 150
+
+2.05 masse de la Terre
+Masse planète mère : 7.425779466047294e+26
+Nbr orbites : 5
+stabilité : True
+
+2.05 masse de la Terre
+Masse planète mère : 1.2620687729019434e+27
+Nbr orbites : 2
+stabilité : True
+
+2.05 masse de la Terre
+Masse planète mère : 1.1422283614024786e+27
+Nbr orbites : 1
+stabilité : True
+
+2.05 masse de la Terre
+Masse planète mère : 9.108659010574285e+26
+Nbr orbites : 4
+stabilité : True
+
+2.05 masse de la Terre
+Masse planète mère : 1.0552855979576776e+27
+Nbr orbites : 2
+stabilité : True
+
+2.1 masse de la Terre
+Masse planète mère : 1.1664426688527635e+27
+Nbr orbites : 2
+stabilité : True
+
+2.1 masse de la Terre
+Masse planète mère : 8.233283305213437e+26
+Nbr orbites : 1
+stabilité : True
+
+2.1 masse de la Terre
+Masse planète mère : 7.920782257588972e+26
+Nbr orbites : 2
+stabilité : True
+
+2.1 masse de la Terre
+Masse planète mère : 9.149269394710766e+26
+Nbr orbites : 3
+stabilité : True
+
+2.1 masse de la Terre
+Masse planète mère : 1.2936425150136435e+27
+Nbr orbites : 3
+stabilité : True
+
+2.15 masse de la Terre
+Masse planète mère : 5.7178454934670355e+26
+Nbr orbites : 0
+stabilité : False
+
+2.15 masse de la Terre
+Masse planète mère : 1.45601742524012e+27
+Nbr orbites : 3
+stabilité : True
+
+2.15 masse de la Terre
+Masse planète mère : 1.1530961718624491e+27
+Nbr orbites : 5
+stabilité : True
+
+2.15 masse de la Terre
+Masse planète mère : 1.967627270030414e+25
+Nbr orbites : 0
+stabilité : False
+
+2.15 masse de la Terre
+Masse planète mère : 3.226356498981961e+26
+Nbr orbites : 4
+stabilité : True
+
+2.2 masse de la Terre
+Masse planète mère : 8.869314721256475e+26
+Nbr orbites : 3
+stabilité : True
+
+2.2 masse de la Terre
+Masse planète mère : 1.250382690315807e+27
+Nbr orbites : 1
+stabilité : True
+
+2.2 masse de la Terre
+Masse planète mère : 9.937788621234926e+26
+Nbr orbites : 6
+stabilité : True
+
+2.2 masse de la Terre
+Masse planète mère : 1.3874954077258963e+27
+Nbr orbites : 4
+stabilité : True
+
+2.2 masse de la Terre
+Masse planète mère : 7.069567869768721e+26
+Nbr orbites : 1
+stabilité : True
+
+2.25 masse de la Terre
+Masse planète mère : 1.2017138801718556e+27
+Nbr orbites : 2
+stabilité : True
+
+2.25 masse de la Terre
+Masse planète mère : 1.0147656005111191e+26
+Nbr orbites : 0
+stabilité : False
+
+2.25 masse de la Terre
+Masse planète mère : 9.33194291024017e+26
+Nbr orbites : 0
+stabilité : False
+
+2.25 masse de la Terre
+Masse planète mère : 1.4862810504498854e+27
+Nbr orbites : 1
+stabilité : True
+
+2.25 masse de la Terre
+Masse planète mère : 9.283850444667405e+26
+Nbr orbites : 1
+stabilité : True
+
+2.3 masse de la Terre
+Masse planète mère : 1.0841474502833597e+27
+Nbr orbites : 4
+stabilité : True
+
+2.3 masse de la Terre
+Masse planète mère : 1.0349807735068018e+27
+Nbr orbites : 3
+stabilité : True
+
+2.3 masse de la Terre
+Masse planète mère : 1.4973877504319166e+26
+Nbr orbites : 0
+stabilité : False
+
+2.3 masse de la Terre
+Masse planète mère : 1.644368379857182e+26
+Nbr orbites : 0
+stabilité : False
+
+2.3 masse de la Terre
+Masse planète mère : 9.722250698945741e+26
+Nbr orbites : 6
+stabilité : True
+
+2.35 masse de la Terre
+Masse planète mère : 1.3322921040585896e+27
+Nbr orbites : 3
+stabilité : True
+
+2.35 masse de la Terre
+Masse planète mère : 1.1215193515817612e+27
+Nbr orbites : 2
+stabilité : True
+
+2.35 masse de la Terre
+Masse planète mère : 1.0788690365630268e+27
+Nbr orbites : 2
+stabilité : True
+
+2.35 masse de la Terre
+Masse planète mère : 1.3174994168156052e+27
+Nbr orbites : 2
+stabilité : True
+
+2.35 masse de la Terre
+Masse planète mère : 7.808803098562937e+26
+Nbr orbites : 4
+stabilité : True
+
+2.4 masse de la Terre
+Masse planète mère : 1.0192637533162281e+27
+Nbr orbites : 4
+stabilité : True
+
+2.4 masse de la Terre
+Masse planète mère : 5.6374778526336837e+26
+Nbr orbites : 1
+stabilité : True
+
+2.4 masse de la Terre
+Masse planète mère : 1.7720317749327155e+27
+Nbr orbites : 2
+stabilité : True
+
+2.4 masse de la Terre
+Masse planète mère : 3.921139255349047e+26
+Nbr orbites : 1
+stabilité : True
+
+2.4 masse de la Terre
+Masse planète mère : 6.273472842517751e+26
+Nbr orbites : 2
+stabilité : True
+
+2.45 masse de la Terre
+Masse planète mère : 8.87747426285831e+26
+Nbr orbites : 1
+stabilité : True
+
+2.45 masse de la Terre
+# Essai 2.45 - 3.0
+lz_max: 1.727798884492441e+36
+nombre de planètes : 150
+
+2.45 masse de la Terre
+Masse planète mère : 1.1064616402486123e+27
+Nbr orbites : 1
+stabilité : True
+
+2.45 masse de la Terre
+# Essai 2.45 - 5.0
+lz_max: 1.7947757407620316e+36
+nombre de planètes : 150
+
+2.45 masse de la Terre
+Masse planète mère : 1.4724043973354047e+27
+Nbr orbites : 2
+stabilité : True
+
+2.5 masse de la Terre
+Masse planète mère : 1.1742953172295475e+27
+Nbr orbites : 3
+stabilité : True
+
+2.5 masse de la Terre
+Masse planète mère : 8.925220324161364e+26
+Nbr orbites : 1
+stabilité : True
+
+2.5 masse de la Terre
+Masse planète mère : 9.782957454305e+26
+Nbr orbites : 1
+stabilité : True
+
+2.5 masse de la Terre
+Masse planète mère : 8.98020399866526e+26
+Nbr orbites : 1
+stabilité : True
+
+2.5 masse de la Terre
+Masse planète mère : 3.3831880778771866e+26
+Nbr orbites : 0
+stabilité : False
+
+2.55 masse de la Terre
+Masse planète mère : 7.835727755453492e+25
+Nbr orbites : 0
+stabilité : False
+
+2.55 masse de la Terre
+Masse planète mère : 1.2795380149823632e+27
+Nbr orbites : 5
+stabilité : True
+
+2.55 masse de la Terre
+Masse planète mère : 1.164710833299576e+27
+Nbr orbites : 2
+stabilité : True
+
+2.55 masse de la Terre
+Masse planète mère : 1.4888590257303443e+27
+Nbr orbites : 0
+stabilité : False
+
+2.55 masse de la Terre
+Masse planète mère : 1.388564589246421e+27
+Nbr orbites : 3
+stabilité : True
+
+2.6 masse de la Terre
+Masse planète mère : 1.3825296544438323e+27
+Nbr orbites : 2
+stabilité : True
+
+2.6 masse de la Terre
+Masse planète mère : 9.718500027101716e+26
+Nbr orbites : 1
+stabilité : True
+
+2.6 masse de la Terre
+Masse planète mère : 5.5443230909998e+26
+Nbr orbites : 3
+stabilité : True
+
+2.6 masse de la Terre
+Masse planète mère : 1.5317942090198948e+27
+Nbr orbites : 2
+stabilité : True
+
+2.6 masse de la Terre
+Masse planète mère : 1.4580390615890666e+27
+Nbr orbites : 2
+stabilité : True
+
+2.65 masse de la Terre
+Masse planète mère : 9.879860278797373e+26
+Nbr orbites : 3
+stabilité : True
+
+2.65 masse de la Terre
+Masse planète mère : 1.2293792126018152e+27
+Nbr orbites : 3
+stabilité : True
+
+2.65 masse de la Terre
+Masse planète mère : 1.4143258299204867e+27
+Nbr orbites : 2
+stabilité : True
+
+2.65 masse de la Terre
+Masse planète mère : 1.1243369307171573e+27
+Nbr orbites : 0
+stabilité : False
+
+2.65 masse de la Terre
+Masse planète mère : 8.37057456102497e+26
+Nbr orbites : 1
+stabilité : True
+
+2.7 masse de la Terre
+Masse planète mère : 1.4017214681784593e+27
+Nbr orbites : 1
+stabilité : True
+
+2.7 masse de la Terre
+Masse planète mère : 8.008272458651114e+26
+Nbr orbites : 4
+stabilité : True
+
+2.7 masse de la Terre
+Masse planète mère : 9.289499574662953e+26
+Nbr orbites : 1
+stabilité : True
+
+2.7 masse de la Terre
+Masse planète mère : 1.4774949423894136e+27
+Nbr orbites : 5
+stabilité : True
+
+2.7 masse de la Terre
+Masse planète mère : 6.330104570954498e+26
+Nbr orbites : 0
+stabilité : False
+
+2.75 masse de la Terre
+Masse planète mère : 1.2126599596626637e+27
+Nbr orbites : 4
+stabilité : True
+
+2.75 masse de la Terre
+Masse planète mère : 9.625812424666542e+26
+Nbr orbites : 1
+stabilité : True
+
+2.75 masse de la Terre
+Masse planète mère : 9.753524919682238e+26
+Nbr orbites : 1
+stabilité : True
+
+2.75 masse de la Terre
+Masse planète mère : 8.188873770003173e+25
+Nbr orbites : 0
+stabilité : False
+
+2.75 masse de la Terre
+Masse planète mère : 1.3807129782429455e+27
+Nbr orbites : 2
+stabilité : True
+
+2.8 masse de la Terre
+Masse planète mère : 1.3280378910299847e+27
+Nbr orbites : 3
+stabilité : True
+
+2.8 masse de la Terre
+Masse planète mère : 1.575699311033303e+27
+Nbr orbites : 0
+stabilité : False
+
+2.8 masse de la Terre
+Masse planète mère : 1.5153631833816055e+27
+Nbr orbites : 3
+stabilité : True
+
+2.8 masse de la Terre
+Masse planète mère : 1.381332461928112e+27
+Nbr orbites : 3
+stabilité : True
+
+2.8 masse de la Terre
+Masse planète mère : 5.924012120302251e+26
+Nbr orbites : 3
+stabilité : True
+
+2.85 masse de la Terre
+Masse planète mère : 3.9133474396080396e+26
+Nbr orbites : 0
+stabilité : False
+
+2.85 masse de la Terre
+Masse planète mère : 9.208624577493994e+26
+Nbr orbites : 1
+stabilité : True
+
+2.85 masse de la Terre
+Masse planète mère : 1.6640913373893957e+27
+Nbr orbites : 1
+stabilité : True
+
+2.85 masse de la Terre
+Masse planète mère : 1.5916332479416194e+26
+Nbr orbites : 0
+stabilité : False
+
+2.85 masse de la Terre
+Masse planète mère : 1.4207306739693175e+27
+Nbr orbites : 2
+stabilité : True
+
+2.9 masse de la Terre
+Masse planète mère : 1.5151471840785136e+27
+Nbr orbites : 1
+stabilité : True
+
+2.9 masse de la Terre
+Masse planète mère : 2.7298162803955084e+26
+Nbr orbites : 1
+stabilité : True
+
+2.9 masse de la Terre
+Masse planète mère : 1.851824838453768e+27
+Nbr orbites : 2
+stabilité : True
+
+2.9 masse de la Terre
+Masse planète mère : 5.773637236546407e+26
+Nbr orbites : 3
+stabilité : True
+
+2.9 masse de la Terre
+Masse planète mère : 1.6709817266734065e+27
+Nbr orbites : 4
+stabilité : True
+
+2.95 masse de la Terre
+Masse planète mère : 1.9601984965532064e+27
+Nbr orbites : 3
+stabilité : True
+
+2.95 masse de la Terre
+Masse planète mère : 1.0103367762139826e+27
+Nbr orbites : 1
+stabilité : True
+
+2.95 masse de la Terre
+Masse planète mère : 1.4334512499369024e+27
+Nbr orbites : 1
+stabilité : True
+
+2.95 masse de la Terre
+Masse planète mère : 1.336420421922688e+27
+Nbr orbites : 3
+stabilité : True
+
+2.95 masse de la Terre
+Masse planète mère : 2.4104804381287484e+26
+Nbr orbites : 0
+stabilité : False
+
+3.0 masse de la Terre
+Masse planète mère : 1.3371628652475698e+27
+Nbr orbites : 2
+stabilité : True
+
+3.0 masse de la Terre
+Masse planète mère : 1.1060308395871865e+27
+Nbr orbites : 2
+stabilité : True
+
+3.0 masse de la Terre
+Masse planète mère : 7.685874917000624e+26
+Nbr orbites : 1
+stabilité : True
+
+3.0 masse de la Terre
+Masse planète mère : 1.4891072298888669e+27
+Nbr orbites : 2
+stabilité : True
+
+3.0 masse de la Terre
+Masse planète mère : 2.7478749402043817e+26
+Nbr orbites : 0
+stabilité : False
+
+3.05 masse de la Terre
+Masse planète mère : 1.288833375752425e+27
+Nbr orbites : 1
+stabilité : True
+
+3.05 masse de la Terre
+Masse planète mère : 1.8495264885363505e+27
+Nbr orbites : 5
+stabilité : True
+
+3.05 masse de la Terre
+Masse planète mère : 1.928759911833445e+27
+Nbr orbites : 0
+stabilité : False
+
+3.05 masse de la Terre
+Masse planète mère : 1.6345595167087992e+27
+Nbr orbites : 3
+stabilité : True
+
+3.05 masse de la Terre
+Masse planète mère : 1.946635596516535e+27
+Nbr orbites : 2
+stabilité : True
+
+3.1 masse de la Terre
+Masse planète mère : 5.846586970276057e+26
+Nbr orbites : 1
+stabilité : True
+
+3.1 masse de la Terre
+Masse planète mère : 1.493094714435606e+27
+Nbr orbites : 0
+stabilité : False
+
+3.1 masse de la Terre
+Masse planète mère : 1.7453048304782703e+27
+Nbr orbites : 1
+stabilité : True
+
+3.1 masse de la Terre
+Masse planète mère : 2.079841367722535e+27
+Nbr orbites : 3
+stabilité : True
+
+3.1 masse de la Terre
+Masse planète mère : 1.5061780333851315e+27
+Nbr orbites : 3
+stabilité : True
+
+3.15 masse de la Terre
+Masse planète mère : 1.829104302567331e+27
+Nbr orbites : 5
+stabilité : True
+
+3.15 masse de la Terre
+Masse planète mère : 1.2715038646571788e+27
+Nbr orbites : 2
+stabilité : True
+
+3.15 masse de la Terre
+Masse planète mère : 3.600679250138099e+26
+Nbr orbites : 1
+stabilité : True
+
+3.15 masse de la Terre
+Masse planète mère : 1.421959300385873e+27
+Nbr orbites : 4
+stabilité : True
+
+3.15 masse de la Terre
+Masse planète mère : 1.4361458949544493e+27
+Nbr orbites : 2
+stabilité : True
+
+3.2 masse de la Terre
+Masse planète mère : 1.661518709732572e+27
+Nbr orbites : 2
+stabilité : True
+
+3.2 masse de la Terre
+Masse planète mère : 1.273225346954671e+27
+Nbr orbites : 3
+stabilité : True
+
+3.2 masse de la Terre
+Masse planète mère : 1.6959159051481428e+27
+Nbr orbites : 1
+stabilité : True
+
+3.2 masse de la Terre
+Masse planète mère : 2.2182585543955627e+27
+Nbr orbites : 5
+stabilité : True
+
+3.2 masse de la Terre
+Masse planète mère : 5.482625014595906e+26
+Nbr orbites : 5
+stabilité : True
+
+3.25 masse de la Terre
+Masse planète mère : 7.322892231643317e+26
+Nbr orbites : 1
+stabilité : True
+
+3.25 masse de la Terre
+Masse planète mère : 2.203314135984401e+27
+Nbr orbites : 2
+stabilité : True
+
+3.25 masse de la Terre
+Masse planète mère : 2.0678897567615263e+27
+Nbr orbites : 5
+stabilité : True
+
+3.25 masse de la Terre
+Masse planète mère : 1.2812668116888027e+27
+Nbr orbites : 0
+stabilité : False
+
+3.25 masse de la Terre
+Masse planète mère : 1.6118570695274902e+27
+Nbr orbites : 1
+stabilité : True
+
+3.3 masse de la Terre
+Masse planète mère : 1.5578987985378518e+27
+Nbr orbites : 4
+stabilité : True
+
+3.3 masse de la Terre
+Masse planète mère : 1.2738636541727862e+27
+Nbr orbites : 2
+stabilité : True
+
+3.3 masse de la Terre
+Masse planète mère : 3.600704536489887e+26
+Nbr orbites : 0
+stabilité : False
+
+3.3 masse de la Terre
+Masse planète mère : 1.9472962523412264e+27
+Nbr orbites : 2
+stabilité : True
+
+3.3 masse de la Terre
+Masse planète mère : 1.8439327973274696e+27
+Nbr orbites : 1
+stabilité : True
+
+3.35 masse de la Terre
+Masse planète mère : 1.401621423062729e+27
+Nbr orbites : 2
+stabilité : True
+
+3.35 masse de la Terre
+Masse planète mère : 1.033191139932623e+27
+Nbr orbites : 2
+stabilité : True
+
+3.35 masse de la Terre
+Masse planète mère : 1.5076366242765875e+27
+Nbr orbites : 2
+stabilité : True
+
+3.35 masse de la Terre
+Masse planète mère : 2.090500199111709e+27
+Nbr orbites : 1
+stabilité : True
+
+3.35 masse de la Terre
+Masse planète mère : 7.754119106164516e+25
+Nbr orbites : 0
+stabilité : False
+
+3.4 masse de la Terre
+Masse planète mère : 1.3392332887314684e+27
+Nbr orbites : 1
+stabilité : True
+
+3.4 masse de la Terre
+Masse planète mère : 1.5497877727608465e+27
+Nbr orbites : 2
+stabilité : True
+
+3.4 masse de la Terre
+Masse planète mère : 5.203701195254644e+26
+Nbr orbites : 2
+stabilité : True
+
+3.4 masse de la Terre
+Masse planète mère : 2.2162130475149938e+27
+Nbr orbites : 3
+stabilité : True
+
+3.4 masse de la Terre
+Masse planète mère : 1.4975659426708184e+26
+Nbr orbites : 0
+stabilité : False
+
+3.45 masse de la Terre
+Masse planète mère : 1.0729936213711617e+27
+Nbr orbites : 3
+stabilité : True
+
+3.45 masse de la Terre
+Masse planète mère : 1.2478396245585237e+27
+Nbr orbites : 2
+stabilité : True
+
+3.45 masse de la Terre
+Masse planète mère : 1.1168956639960827e+27
+Nbr orbites : 2
+stabilité : True
+
+3.45 masse de la Terre
+Masse planète mère : 1.0086991701198193e+27
+Nbr orbites : 2
+stabilité : True
+
+3.45 masse de la Terre
+Masse planète mère : 2.1387690743620448e+27
+Nbr orbites : 0
+stabilité : False
+
+3.5 masse de la Terre
+# Essai 3.5 - 2.0
+lz_max: 2.6617732484238634e+36
+nombre de planètes : 150
+
+3.5 masse de la Terre
+Masse planète mère : 1.4090224138509137e+27
+Nbr orbites : 1
+stabilité : True
+
+3.5 masse de la Terre
+Masse planète mère : 1.3978514418276563e+27
+Nbr orbites : 2
+stabilité : True
+
+3.5 masse de la Terre
+Masse planète mère : 1.7353629571476395e+27
+Nbr orbites : 3
+stabilité : True
+
+3.5 masse de la Terre
+Masse planète mère : 1.4615746345791804e+27
+Nbr orbites : 1
+stabilité : True
+
+3.55 masse de la Terre
+Masse planète mère : 1.9257776003514652e+27
+Nbr orbites : 2
+stabilité : True
+
+3.55 masse de la Terre
+Masse planète mère : 2.0675166441497445e+27
+Nbr orbites : 3
+stabilité : True
+
+3.55 masse de la Terre
+Masse planète mère : 1.5567306121435904e+27
+Nbr orbites : 2
+stabilité : True
+
+3.55 masse de la Terre
+Masse planète mère : 1.745277981397404e+26
+Nbr orbites : 0
+stabilité : False
+
+3.55 masse de la Terre
+Masse planète mère : 2.0858773662345403e+27
+Nbr orbites : 4
+stabilité : True
+
+3.6 masse de la Terre
+Masse planète mère : 9.206556540430744e+26
+Nbr orbites : 3
+stabilité : True
+
+3.6 masse de la Terre
+Masse planète mère : 1.4573455066985616e+27
+Nbr orbites : 4
+stabilité : True
+
+3.6 masse de la Terre
+Masse planète mère : 1.2839753049500117e+27
+Nbr orbites : 2
+stabilité : True
+
+3.6 masse de la Terre
+Masse planète mère : 1.9654234087847352e+27
+Nbr orbites : 3
+stabilité : True
+
+3.6 masse de la Terre
+Masse planète mère : 1.4235055305664413e+27
+Nbr orbites : 0
+stabilité : False
+
+3.65 masse de la Terre
+Masse planète mère : 2.4539640915979117e+27
+Nbr orbites : 3
+stabilité : True
+
+3.65 masse de la Terre
+Masse planète mère : 9.93759645125408e+26
+Nbr orbites : 1
+stabilité : True
+
+3.65 masse de la Terre
+Masse planète mère : 2.0579461344999552e+27
+Nbr orbites : 2
+stabilité : True
+
+3.65 masse de la Terre
+Masse planète mère : 2.0796183515055315e+27
+Nbr orbites : 3
+stabilité : True
+
+3.65 masse de la Terre
+Masse planète mère : 2.033009052885725e+27
+Nbr orbites : 2
+stabilité : True
+
+3.7 masse de la Terre
+Masse planète mère : 3.935125692843047e+26
+Nbr orbites : 1
+stabilité : True
+
+3.7 masse de la Terre
+Masse planète mère : 2.4690337351771213e+27
+Nbr orbites : 2
+stabilité : True
+
+3.7 masse de la Terre
+Masse planète mère : 1.35132363144364e+27
+Nbr orbites : 0
+stabilité : False
+
+3.7 masse de la Terre
+Masse planète mère : 1.1986560792638053e+27
+Nbr orbites : 2
+stabilité : True
+
+3.7 masse de la Terre
+Masse planète mère : 7.810171301801462e+26
+Nbr orbites : 1
+stabilité : True
+
+3.75 masse de la Terre
+Masse planète mère : 1.3855751107335277e+27
+Nbr orbites : 1
+stabilité : True
+
+3.75 masse de la Terre
+Masse planète mère : 3.550599824939454e+26
+Nbr orbites : 0
+stabilité : False
+
+3.75 masse de la Terre
+Masse planète mère : 1.3782318540097673e+27
+Nbr orbites : 2
+stabilité : True
+
+3.75 masse de la Terre
+# Essai 3.75 - 5.0
+lz_max: 2.821533870785024e+36
+nombre de planètes : 150
+
+3.75 masse de la Terre
+Masse planète mère : 2.3540199784152794e+27
+Nbr orbites : 2
+stabilité : True
+
+3.8 masse de la Terre
+Masse planète mère : 8.070840731006844e+25
+Nbr orbites : 0
+stabilité : False
+
+3.8 masse de la Terre
+Masse planète mère : 1.921943258478361e+27
+Nbr orbites : 3
+stabilité : True
+
+3.8 masse de la Terre
+Masse planète mère : 1.0823502180518882e+27
+Nbr orbites : 4
+stabilité : True
+
+3.8 masse de la Terre
+Masse planète mère : 1.7579263660277682e+27
+Nbr orbites : 1
+stabilité : True
+
+3.8 masse de la Terre
+Masse planète mère : 1.2236903558588308e+27
+Nbr orbites : 3
+stabilité : True
+
+3.85 masse de la Terre
+Masse planète mère : 2.1351012999193394e+27
+Nbr orbites : 1
+stabilité : True
+
+3.85 masse de la Terre
+Masse planète mère : 1.0331144301075956e+27
+Nbr orbites : 2
+stabilité : True
+
+3.85 masse de la Terre
+Masse planète mère : 2.48385772276666e+27
+Nbr orbites : 1
+stabilité : True
+
+3.85 masse de la Terre
+Masse planète mère : 1.6313084974542258e+27
+Nbr orbites : 2
+stabilité : True
+
+3.85 masse de la Terre
+Masse planète mère : 1.0232994587600594e+27
+Nbr orbites : 2
+stabilité : True
+
+3.9 masse de la Terre
+Masse planète mère : 1.9151615200045114e+27
+Nbr orbites : 1
+stabilité : True
+
+3.9 masse de la Terre
+Masse planète mère : 1.6682125648722998e+27
+Nbr orbites : 2
+stabilité : True
+
+3.9 masse de la Terre
+Masse planète mère : 1.4637188885557686e+27
+Nbr orbites : 1
+stabilité : True
+
+3.9 masse de la Terre
+Masse planète mère : 1.8301393431711856e+27
+Nbr orbites : 0
+stabilité : False
+
+3.9 masse de la Terre
+Masse planète mère : 1.6292113148000434e+27
+Nbr orbites : 0
+stabilité : False
+
+3.95 masse de la Terre
+Masse planète mère : 1.9712651863503075e+27
+Nbr orbites : 2
+stabilité : True
+
+3.95 masse de la Terre
+Masse planète mère : 1.6992914315419925e+27
+Nbr orbites : 1
+stabilité : True
+
+3.95 masse de la Terre
+Masse planète mère : 9.090499684778288e+26
+Nbr orbites : 1
+stabilité : True
+
+3.95 masse de la Terre
+Masse planète mère : 1.9545768035822365e+27
+Nbr orbites : 2
+stabilité : True
+
+3.95 masse de la Terre
+Masse planète mère : 9.776091782953397e+26
+Nbr orbites : 3
+stabilité : True
+
+4.0 masse de la Terre
+Masse planète mère : 1.6303605573961607e+26
+Nbr orbites : 0
+stabilité : False
+
+4.0 masse de la Terre
+Masse planète mère : 1.934811766341523e+27
+Nbr orbites : 2
+stabilité : True
+
+4.0 masse de la Terre
+Masse planète mère : 2.1779328454154737e+27
+Nbr orbites : 1
+stabilité : True
+
+4.0 masse de la Terre
+Masse planète mère : 1.8456883146612592e+27
+Nbr orbites : 2
+stabilité : True
+
+4.0 masse de la Terre
+Masse planète mère : 1.948250747102109e+27
+Nbr orbites : 2
+stabilité : True
+
+4.05 masse de la Terre
+Masse planète mère : 1.9676774066797095e+27
+Nbr orbites : 1
+stabilité : True
+
+4.05 masse de la Terre
+Masse planète mère : 1.2044804019989665e+27
+Nbr orbites : 3
+stabilité : True
+
+4.05 masse de la Terre
+Masse planète mère : 4.445590400142936e+26
+Nbr orbites : 1
+stabilité : True
+
+4.05 masse de la Terre
+Masse planète mère : 2.2590719569649447e+27
+Nbr orbites : 3
+stabilité : True
+
+4.05 masse de la Terre
+Masse planète mère : 1.8029448315813791e+27
+Nbr orbites : 0
+stabilité : False
+
+4.1 masse de la Terre
+Masse planète mère : 1.7431909319283184e+27
+Nbr orbites : 4
+stabilité : True
+
+4.1 masse de la Terre
+Masse planète mère : 1.816143338288186e+27
+Nbr orbites : 3
+stabilité : True
+
+4.1 masse de la Terre
+Masse planète mère : 2.0166893048696453e+27
+Nbr orbites : 0
+stabilité : False
+
+4.1 masse de la Terre
+Masse planète mère : 1.454111027233399e+27
+Nbr orbites : 2
+stabilité : True
+
+4.1 masse de la Terre
+Masse planète mère : 2.129440780447087e+27
+Nbr orbites : 2
+stabilité : True
+
+4.15 masse de la Terre
+Masse planète mère : 2.1454193383686493e+27
+Nbr orbites : 4
+stabilité : True
+
+4.15 masse de la Terre
+Masse planète mère : 4.729003088290262e+26
+Nbr orbites : 0
+stabilité : False
+
+4.15 masse de la Terre
+Masse planète mère : 1.2152445542278137e+27
+Nbr orbites : 2
+stabilité : True
+
+4.15 masse de la Terre
+Masse planète mère : 2.4390776058229124e+27
+Nbr orbites : 3
+stabilité : True
+
+4.15 masse de la Terre
+Masse planète mère : 2.4684928632280818e+27
+Nbr orbites : 1
+stabilité : True
+
+4.2 masse de la Terre
+Masse planète mère : 1.6982310309913634e+27
+Nbr orbites : 0
+stabilité : False
+
+4.2 masse de la Terre
+Masse planète mère : 1.725817427121682e+27
+Nbr orbites : 2
+stabilité : True
+
+4.2 masse de la Terre
+Masse planète mère : 1.5622902713314778e+27
+Nbr orbites : 2
+stabilité : True
+
+4.2 masse de la Terre
+Masse planète mère : 6.331314249225677e+25
+Nbr orbites : 0
+stabilité : False
+
+4.2 masse de la Terre
+Masse planète mère : 1.6941639077499333e+27
+Nbr orbites : 1
+stabilité : True
+
+4.25 masse de la Terre
+Masse planète mère : 1.7324238796023042e+27
+Nbr orbites : 3
+stabilité : True
+
+4.25 masse de la Terre
+Masse planète mère : 1.963566905147959e+27
+Nbr orbites : 3
+stabilité : True
+
+4.25 masse de la Terre
+Masse planète mère : 1.774009657073315e+27
+Nbr orbites : 2
+stabilité : True
+
+4.25 masse de la Terre
+Masse planète mère : 2.360296153973646e+27
+Nbr orbites : 1
+stabilité : True
+
+4.25 masse de la Terre
+Masse planète mère : 1.486803599741016e+27
+Nbr orbites : 4
+stabilité : True
+
+4.3 masse de la Terre
+Masse planète mère : 8.04250372400301e+26
+Nbr orbites : 0
+stabilité : False
+
+4.3 masse de la Terre
+Masse planète mère : 1.6274694802520365e+27
+Nbr orbites : 1
+stabilité : True
+
+4.3 masse de la Terre
+Masse planète mère : 2.1011441871165675e+27
+Nbr orbites : 1
+stabilité : True
+
+4.3 masse de la Terre
+Masse planète mère : 2.4439137273225395e+27
+Nbr orbites : 2
+stabilité : True
+
+4.3 masse de la Terre
+Masse planète mère : 1.4646220296233211e+26
+Nbr orbites : 0
+stabilité : False
+
+4.35 masse de la Terre
+Masse planète mère : 2.0429789192146963e+27
+Nbr orbites : 1
+stabilité : True
+
+4.35 masse de la Terre
+Masse planète mère : 2.1739670637280145e+27
+Nbr orbites : 2
+stabilité : True
+
+4.35 masse de la Terre
+Masse planète mère : 2.038852440793893e+27
+Nbr orbites : 1
+stabilité : True
+
+4.35 masse de la Terre
+Masse planète mère : 7.940245214656076e+26
+Nbr orbites : 0
+stabilité : False
+
+4.35 masse de la Terre
+Masse planète mère : 1.8463453141356714e+27
+Nbr orbites : 0
+stabilité : False
+
+4.4 masse de la Terre
+# Essai 4.4 - 2.0
+lz_max: 3.3536928305994304e+36
+nombre de planètes : 150
+
+4.4 masse de la Terre
+Masse planète mère : 1.7917397567591963e+27
+Nbr orbites : 0
+stabilité : False
+
+4.4 masse de la Terre
+Masse planète mère : 1.5248319816468285e+27
+Nbr orbites : 3
+stabilité : True
+
+4.4 masse de la Terre
+Masse planète mère : 8.681666502917162e+26
+Nbr orbites : 1
+stabilité : True
+
+4.4 masse de la Terre
+# Essai 4.45 - 1.0
+lz_max: 3.275253792967352e+36
+nombre de planètes : 150
+
+4.45 masse de la Terre
+Masse planète mère : 2.2257404233913817e+27
+Nbr orbites : 1
+stabilité : True
+
+4.45 masse de la Terre
+Masse planète mère : 1.4838310276957667e+27
+Nbr orbites : 4
+stabilité : True
+
+4.45 masse de la Terre
+Masse planète mère : 1.2623006933678093e+27
+Nbr orbites : 2
+stabilité : True
+
+4.45 masse de la Terre
+Masse planète mère : 1.2201642788220229e+27
+Nbr orbites : 1
+stabilité : True
+
+4.45 masse de la Terre
+Masse planète mère : 2.392931450862362e+26
+Nbr orbites : 0
+stabilité : False
+
+4.5 masse de la Terre
+Masse planète mère : 2.2687749849129074e+27
+Nbr orbites : 1
+stabilité : True
+
+4.5 masse de la Terre
+Masse planète mère : 2.2855853800500436e+27
+Nbr orbites : 1
+stabilité : True
+
+4.5 masse de la Terre
+Masse planète mère : 2.7390755827523866e+27
+Nbr orbites : 0
+stabilité : False
+
+4.5 masse de la Terre
+Masse planète mère : 1.6902319017082995e+27
+Nbr orbites : 6
+stabilité : True
+
+4.5 masse de la Terre
+Masse planète mère : 1.3082210360471254e+27
+Nbr orbites : 2
+stabilité : True
+
+4.55 masse de la Terre
+Masse planète mère : 5.2101412073943206e+26
+Nbr orbites : 1
+stabilité : True
+
+4.55 masse de la Terre
+Masse planète mère : 1.641723052798781e+27
+Nbr orbites : 0
+stabilité : False
+
+4.55 masse de la Terre
+Masse planète mère : 9.322664183378561e+26
+Nbr orbites : 2
+stabilité : True
+
+4.55 masse de la Terre
+Masse planète mère : 3.2173616675304355e+27
+Nbr orbites : 3
+stabilité : True
+
+4.55 masse de la Terre
+stabilité : False
+
+# Essai 4.6 - 1.0
+
+4.6 masse de la Terre
+Masse planète mère : 2.4026509737757336e+27
+Nbr orbites : 4
+stabilité : True
+
+4.6 masse de la Terre
+Masse planète mère : 1.907060652299386e+27
+Nbr orbites : 1
+stabilité : True
+
+4.6 masse de la Terre
+Masse planète mère : 1.2837223391096e+27
+Nbr orbites : 1
+stabilité : True
+
+4.6 masse de la Terre
+Masse planète mère : 2.147775299699406e+27
+Nbr orbites : 3
+stabilité : True
+
+4.6 masse de la Terre
+Masse planète mère : 2.0983507601918752e+27
+Nbr orbites : 3
+stabilité : True
+
+4.65 masse de la Terre
+Masse planète mère : 5.320745385048306e+26
+Nbr orbites : 0
+stabilité : False
+
+4.65 masse de la Terre
+Masse planète mère : 2.543445127526405e+27
+Nbr orbites : 1
+stabilité : True
+
+4.65 masse de la Terre
+Masse planète mère : 1.1641145876440477e+27
+Nbr orbites : 1
+stabilité : True
+
+4.65 masse de la Terre
+Masse planète mère : 2.2138448008185865e+27
+Nbr orbites : 4
+stabilité : True
+
+4.65 masse de la Terre
+Masse planète mère : 2.2039920969545273e+27
+Nbr orbites : 2
+stabilité : True
+
+4.7 masse de la Terre
+Masse planète mère : 3.026392555299271e+27
+Nbr orbites : 0
+stabilité : False
+
+4.7 masse de la Terre
+Masse planète mère : 1.3238162450583324e+27
+Nbr orbites : 3
+stabilité : True
+
+4.7 masse de la Terre
+Masse planète mère : 2.2756097394142382e+27
+Nbr orbites : 3
+stabilité : True
+
+4.7 masse de la Terre
+Masse planète mère : 2.075192861405302e+27
+Nbr orbites : 1
+stabilité : True
+
+4.7 masse de la Terre
+Masse planète mère : 1.738880999323838e+27
+Nbr orbites : 1
+stabilité : True
+
+4.75 masse de la Terre
+Masse planète mère : 2.3824708997239886e+27
+Nbr orbites : 1
+stabilité : True
+
+4.75 masse de la Terre
+Masse planète mère : 2.1048039442208115e+27
+Nbr orbites : 3
+stabilité : True
+
+4.75 masse de la Terre
+Masse planète mère : 1.4463432338052528e+27
+Nbr orbites : 2
+stabilité : True
+
+4.75 masse de la Terre
+Masse planète mère : 1.9197465372839283e+27
+Nbr orbites : 1
+stabilité : True
+
+4.75 masse de la Terre
+Masse planète mère : 2.0104802170498378e+27
+Nbr orbites : 1
+stabilité : True
+
+4.8 masse de la Terre
+Masse planète mère : 2.3149600052614284e+27
+Nbr orbites : 4
+stabilité : True
+
+4.8 masse de la Terre
+Masse planète mère : 1.8565399561576276e+27
+Nbr orbites : 1
+stabilité : True
+
+4.8 masse de la Terre
+Masse planète mère : 1.8037164252339535e+27
+Nbr orbites : 1
+stabilité : True
+
+4.8 masse de la Terre
+Masse planète mère : 1.7691108855568162e+27
+Nbr orbites : 0
+stabilité : False
+
+4.8 masse de la Terre
+Masse planète mère : 2.068603524534823e+27
+Nbr orbites : 1
+stabilité : True
+
+4.85 masse de la Terre
+Masse planète mère : 2.143078859603902e+26
+Nbr orbites : 1
+stabilité : True
+
+4.85 masse de la Terre
+Masse planète mère : 2.76436417175555e+27
+Nbr orbites : 4
+stabilité : True
+
+4.85 masse de la Terre
+Masse planète mère : 2.0093383813121552e+27
+Nbr orbites : 2
+stabilité : True
+
+4.85 masse de la Terre
+Masse planète mère : 2.444438768139171e+27
+Nbr orbites : 1
+stabilité : True
+
+4.85 masse de la Terre
+Masse planète mère : 2.528864490615679e+27
+Nbr orbites : 2
+stabilité : True
+
+4.9 masse de la Terre
+Masse planète mère : 1.0861372398240109e+27
+Nbr orbites : 2
+stabilité : True
+
+4.9 masse de la Terre
+Masse planète mère : 1.7953757282239148e+27
+Nbr orbites : 2
+stabilité : True
+
+4.9 masse de la Terre
+Masse planète mère : 2.932663237096702e+27
+Nbr orbites : 1
+stabilité : True
+
+4.9 masse de la Terre
+Masse planète mère : 2.626637236490402e+27
+Nbr orbites : 2
+stabilité : True
+
+4.9 masse de la Terre
+Masse planète mère : 2.3251578785302866e+26
+Nbr orbites : 0
+stabilité : False
+
+4.95 masse de la Terre
+Masse planète mère : 1.9198904517967658e+27
+Nbr orbites : 3
+stabilité : True
+
+4.95 masse de la Terre
+Masse planète mère : 2.805646786449406e+27
+Nbr orbites : 1
+stabilité : True
+
+4.95 masse de la Terre
+Masse planète mère : 1.9379374121798497e+27
+Nbr orbites : 2
+stabilité : True
+
+4.95 masse de la Terre
+Masse planète mère : 2.3738615345135017e+27
+Nbr orbites : 3
+stabilité : True
+
+4.95 masse de la Terre
+Masse planète mère : 2.3784961767884606e+27
+Nbr orbites : 4
+stabilité : True
+
+5.0 masse de la Terre
+Masse planète mère : 2.3539050814216954e+27
+Nbr orbites : 1
+stabilité : True
+
+5.0 masse de la Terre
+Masse planète mère : 6.571263795831766e+25
+Nbr orbites : 0
+stabilité : False
+
+5.0 masse de la Terre
+Masse planète mère : 8.921960552130807e+26
+Nbr orbites : 1
+stabilité : True
+
+5.0 masse de la Terre
+Masse planète mère : 2.9015590639806944e+27
+Nbr orbites : 5
+stabilité : True
+
+5.0 masse de la Terre
+Masse planète mère : 2.9085203846284234e+27
+Nbr orbites : 2
+stabilité : True
+
+5.05 masse de la Terre
+Masse planète mère : 3.2192509210277725e+27
+Nbr orbites : 0
+stabilité : False
+
+5.05 masse de la Terre
+Masse planète mère : 2.7753547320296203e+26
+Nbr orbites : 0
+stabilité : False
+
+5.05 masse de la Terre
+Masse planète mère : 3.2728620969403014e+27
+Nbr orbites : 2
+stabilité : True
+
+5.05 masse de la Terre
+Masse planète mère : 6.544859362161403e+26
+Nbr orbites : 0
+stabilité : False
+
+5.05 masse de la Terre
+Masse planète mère : 2.8271359307563776e+27
+Nbr orbites : 1
+stabilité : True
+
+5.1 masse de la Terre
+Masse planète mère : 1.9576783164116546e+27
+Nbr orbites : 2
+stabilité : True
+
+5.1 masse de la Terre
+Masse planète mère : 2.0976427451384977e+27
+Nbr orbites : 2
+stabilité : True
+
+5.1 masse de la Terre
+Masse planète mère : 2.336410840919247e+27
+Nbr orbites : 2
+stabilité : True
+
+5.1 masse de la Terre
+Masse planète mère : 3.031479304995431e+26
+Nbr orbites : 1
+stabilité : True
+
+5.1 masse de la Terre
+Masse planète mère : 3.2019319185743397e+27
+Nbr orbites : 1
+stabilité : True
+
+5.15 masse de la Terre
+Masse planète mère : 2.4762051260839123e+27
+Nbr orbites : 3
+stabilité : True
+
+5.15 masse de la Terre
+Masse planète mère : 9.208295401140061e+25
+Nbr orbites : 0
+stabilité : False
+
+5.15 masse de la Terre
+Masse planète mère : 1.7499268763096687e+27
+Nbr orbites : 2
+stabilité : True
+
+5.15 masse de la Terre
+Masse planète mère : 2.4785251357765936e+27
+Nbr orbites : 1
+stabilité : True
+
+5.15 masse de la Terre
+Masse planète mère : 6.319630973396085e+26
+Nbr orbites : 1
+stabilité : True
+
+5.2 masse de la Terre
+Masse planète mère : 3.4593739967370537e+27
+Nbr orbites : 3
+stabilité : True
+
+5.2 masse de la Terre
+Masse planète mère : 1.974122658700082e+27
+Nbr orbites : 1
+stabilité : True
+
+5.2 masse de la Terre
+Masse planète mère : 3.276620712089914e+27
+Nbr orbites : 3
+stabilité : True
+
+5.2 masse de la Terre
+Masse planète mère : 1.2277984140618013e+27
+Nbr orbites : 1
+stabilité : True
+
+5.2 masse de la Terre
+Masse planète mère : 2.868588334874921e+27
+Nbr orbites : 1
+stabilité : True
+
+5.25 masse de la Terre
+Masse planète mère : 2.6614651250479825e+27
+Nbr orbites : 1
+stabilité : True
+
+5.25 masse de la Terre
+Masse planète mère : 2.7311495835020696e+27
+Nbr orbites : 0
+stabilité : False
+
+5.25 masse de la Terre
+Masse planète mère : 2.656958371234127e+27
+Nbr orbites : 2
+stabilité : True
+
+5.25 masse de la Terre
+Masse planète mère : 1.8697219358854226e+27
+Nbr orbites : 2
+stabilité : True
+
+5.25 masse de la Terre
+Masse planète mère : 2.484455039847066e+27
+Nbr orbites : 1
+stabilité : True
+
+5.3 masse de la Terre
+Masse planète mère : 2.0138961838747203e+27
+Nbr orbites : 2
+stabilité : True
+
+5.3 masse de la Terre
+Masse planète mère : 3.643501014857407e+26
+Nbr orbites : 0
+stabilité : False
+
+5.3 masse de la Terre
+Masse planète mère : 2.6025964575505226e+27
+Nbr orbites : 2
+stabilité : True
+
+5.3 masse de la Terre
+Masse planète mère : 2.703659086454804e+27
+Nbr orbites : 1
+stabilité : True
+
+5.3 masse de la Terre
+Masse planète mère : 1.66823000552141e+27
+Nbr orbites : 0
+stabilité : False
+
+5.35 masse de la Terre
+Masse planète mère : 2.529855111353232e+27
+Nbr orbites : 3
+stabilité : True
+
+5.35 masse de la Terre
+Masse planète mère : 2.477433442250947e+27
+Nbr orbites : 3
+stabilité : True
+
+5.35 masse de la Terre
+# Essai 5.35 - 4.0
+lz_max: 4.396863545078289e+36
+nombre de planètes : 150
+
+5.35 masse de la Terre
+Masse planète mère : 3.129589519302404e+27
+Nbr orbites : 1
+stabilité : True
+
+5.35 masse de la Terre
+Masse planète mère : 1.5525290673848213e+27
+Nbr orbites : 2
+stabilité : True
+
+5.4 masse de la Terre
+Masse planète mère : 7.196877394346739e+26
+Nbr orbites : 1
+stabilité : True
+
+5.4 masse de la Terre
+Masse planète mère : 1.3493035413684842e+27
+Nbr orbites : 1
+stabilité : True
+
+5.4 masse de la Terre
+Masse planète mère : 3.370972823101319e+27
+Nbr orbites : 2
+stabilité : True
+
+5.4 masse de la Terre
+Masse planète mère : 1.9971530609460008e+27
+Nbr orbites : 1
+stabilité : True
+
+5.4 masse de la Terre
+Masse planète mère : 3.3175043585902665e+27
+Nbr orbites : 2
+stabilité : True
+
+5.45 masse de la Terre
+Masse planète mère : 2.2021038784617798e+26
+Nbr orbites : 0
+stabilité : False
+
+5.45 masse de la Terre
+Masse planète mère : 1.4761114104153173e+27
+Nbr orbites : 1
+stabilité : True
+
+5.45 masse de la Terre
+Masse planète mère : 2.733202397423879e+27
+Nbr orbites : 1
+stabilité : True
+
+5.45 masse de la Terre
+Masse planète mère : 4.0068247948267243e+27
+Nbr orbites : 1
+stabilité : True
+
+5.45 masse de la Terre
+Masse planète mère : 2.5905056584483927e+27
+Nbr orbites : 1
+stabilité : True
+
+5.5 masse de la Terre
+Masse planète mère : 2.9370286694379736e+27
+Nbr orbites : 6
+stabilité : True
+
+5.5 masse de la Terre
+Masse planète mère : 1.7010550853771536e+27
+Nbr orbites : 1
+stabilité : True
+
+5.5 masse de la Terre
+Masse planète mère : 3.3858757384601073e+27
+Nbr orbites : 0
+stabilité : False
+
+5.5 masse de la Terre
+Masse planète mère : 1.822164537903136e+27
+Nbr orbites : 3
+stabilité : True
+
+5.5 masse de la Terre
+Masse planète mère : 2.1948558006249428e+27
+Nbr orbites : 2
+stabilité : True
+
+5.55 masse de la Terre
+Masse planète mère : 4.241238892232531e+25
+Nbr orbites : 0
+stabilité : False
+
+5.55 masse de la Terre
+Masse planète mère : 3.572261724431554e+27
+Nbr orbites : 1
+stabilité : True
+
+5.55 masse de la Terre
+Masse planète mère : 2.739446740985373e+27
+Nbr orbites : 2
+stabilité : True
+
+5.55 masse de la Terre
+Masse planète mère : 2.714464090939997e+27
+Nbr orbites : 3
+stabilité : True
+
+5.55 masse de la Terre
+Masse planète mère : 1.266324795486542e+27
+Nbr orbites : 1
+stabilité : True
+
+5.6 masse de la Terre
+Masse planète mère : 2.864517725722015e+27
+Nbr orbites : 2
+stabilité : True
+
+5.6 masse de la Terre
+Masse planète mère : 2.996795486838904e+27
+Nbr orbites : 3
+stabilité : True
+
+5.6 masse de la Terre
+stabilité : False
+
+# Essai 5.6 - 4.0
+
+5.6 masse de la Terre
+Masse planète mère : 1.7558327017390477e+27
+Nbr orbites : 1
+stabilité : True
+
+5.6 masse de la Terre
+Masse planète mère : 3.2090387650016257e+27
+Nbr orbites : 3
+stabilité : True
+
+5.65 masse de la Terre
+Masse planète mère : 2.648118988242754e+27
+Nbr orbites : 1
+stabilité : True
+
+5.65 masse de la Terre
+Masse planète mère : 2.1639531901431345e+27
+Nbr orbites : 2
+stabilité : True
+
+5.65 masse de la Terre
+# Essai 5.65 - 4.0
+lz_max: 4.267648024517783e+36
+nombre de planètes : 150
+
+5.65 masse de la Terre
+Masse planète mère : 2.3156146764956213e+27
+Nbr orbites : 1
+stabilité : True
+
+5.65 masse de la Terre
+Masse planète mère : 2.1646080685066716e+27
+Nbr orbites : 1
+stabilité : True
+
+5.7 masse de la Terre
+Masse planète mère : 2.536178793019251e+27
+Nbr orbites : 2
+stabilité : True
+
+5.7 masse de la Terre
+Masse planète mère : 2.060406415267613e+27
+Nbr orbites : 2
+stabilité : True
+
+5.7 masse de la Terre
+Masse planète mère : 2.7431083418170774e+27
+Nbr orbites : 0
+stabilité : False
+
+5.7 masse de la Terre
+Masse planète mère : 7.560085675640855e+26
+Nbr orbites : 1
+stabilité : True
+
+5.7 masse de la Terre
+Masse planète mère : 3.1423535421149427e+27
+Nbr orbites : 3
+stabilité : True
+
+5.75 masse de la Terre
+Masse planète mère : 2.163002667514118e+27
+Nbr orbites : 4
+stabilité : True
+
+5.75 masse de la Terre
+Masse planète mère : 9.897359653643097e+26
+Nbr orbites : 4
+stabilité : True
+
+5.75 masse de la Terre
+Masse planète mère : 3.613408134880847e+26
+Nbr orbites : 0
+stabilité : False
+
+5.75 masse de la Terre
+Masse planète mère : 3.0532315553829473e+27
+Nbr orbites : 1
+stabilité : True
+
+5.75 masse de la Terre
+Masse planète mère : 3.111042684327384e+27
+Nbr orbites : 4
+stabilité : True
+
+5.8 masse de la Terre
+Masse planète mère : 2.2960381879989678e+27
+Nbr orbites : 3
+stabilité : True
+
+5.8 masse de la Terre
+Masse planète mère : 5.8936078369702766e+26
+Nbr orbites : 0
+stabilité : False
+
+5.8 masse de la Terre
+Masse planète mère : 1.9183924731338781e+27
+Nbr orbites : 2
+stabilité : True
+
+5.8 masse de la Terre
+Masse planète mère : 3.005103528039754e+27
+Nbr orbites : 1
+stabilité : True
+
+5.8 masse de la Terre
+Masse planète mère : 2.1167376585032986e+27
+Nbr orbites : 1
+stabilité : True
+
+5.85 masse de la Terre
+Masse planète mère : 3.421065088753557e+27
+Nbr orbites : 2
+stabilité : True
+
+5.85 masse de la Terre
+Masse planète mère : 3.640270204723704e+27
+Nbr orbites : 5
+stabilité : True
+
+5.85 masse de la Terre
+Masse planète mère : 1.7854938466703097e+27
+Nbr orbites : 0
+stabilité : False
+
+5.85 masse de la Terre
+Masse planète mère : 3.0798280419877233e+26
+Nbr orbites : 0
+stabilité : False
+
+5.85 masse de la Terre
+Masse planète mère : 3.523583349906569e+27
+Nbr orbites : 1
+stabilité : True
+
+5.9 masse de la Terre
+Masse planète mère : 2.1528762902454564e+27
+Nbr orbites : 2
+stabilité : True
+
+5.9 masse de la Terre
+# Essai 5.9 - 3.0
+lz_max: 4.64123880445891e+36
+nombre de planètes : 150
+
+5.9 masse de la Terre
+Masse planète mère : 1.0348353368245652e+27
+Nbr orbites : 1
+stabilité : True
+
+5.9 masse de la Terre
+Masse planète mère : 2.109598188887261e+27
+Nbr orbites : 1
+stabilité : True
+
+5.9 masse de la Terre
+Masse planète mère : 4.626966667221511e+25
+Nbr orbites : 0
+stabilité : False
+
+5.95 masse de la Terre
+Masse planète mère : 3.4554968782973826e+27
+Nbr orbites : 3
+stabilité : True
+
+5.95 masse de la Terre
+# Essai 5.95 - 3.0
+lz_max: 4.9823974377872885e+36
+nombre de planètes : 150
+
+5.95 masse de la Terre
+Masse planète mère : 3.312996407608663e+27
+Nbr orbites : 1
+stabilité : True
+
+5.95 masse de la Terre
+Masse planète mère : 2.713852465462878e+27
+Nbr orbites : 4
+stabilité : True
+
+5.95 masse de la Terre
+Masse planète mère : 1.865778126979774e+27
+Nbr orbites : 0
+stabilité : False
+
+6.0 masse de la Terre
+Masse planète mère : 2.3976674326131468e+27
+Nbr orbites : 1
+stabilité : True
+
+6.0 masse de la Terre
+Masse planète mère : 4.1394331539741354e+27
+Nbr orbites : 2
+stabilité : True
+
+6.0 masse de la Terre
+Masse planète mère : 1.7651286654230784e+27
+Nbr orbites : 0
+stabilité : False
+
+6.0 masse de la Terre
+Masse planète mère : 2.051820195855352e+27
+Nbr orbites : 2
+stabilité : True
+
+6.0 masse de la Terre
+Masse planète mère : 1.879685797187474e+27
+Nbr orbites : 1
+stabilité : True
+
+6.05 masse de la Terre
+Masse planète mère : 1.059895061131493e+26
+Nbr orbites : 0
+stabilité : False
+
+6.05 masse de la Terre
+Masse planète mère : 3.1483645653275457e+27
+Nbr orbites : 2
+stabilité : True
+
+6.05 masse de la Terre
+Masse planète mère : 5.1552911094914305e+26
+Nbr orbites : 1
+stabilité : True
+
+6.05 masse de la Terre
+Masse planète mère : 3.0217799869824766e+27
+Nbr orbites : 3
+stabilité : True
+
+6.05 masse de la Terre
+Masse planète mère : 3.301708429233414e+27
+Nbr orbites : 3
+stabilité : True
+
+6.1 masse de la Terre
+Masse planète mère : 2.4883873653459693e+27
+Nbr orbites : 2
+stabilité : True
+
+6.1 masse de la Terre
+Masse planète mère : 3.0485104878176983e+27
+Nbr orbites : 1
+stabilité : True
+
+6.1 masse de la Terre
+Masse planète mère : 1.669553066391133e+27
+Nbr orbites : 3
+stabilité : True
+
+6.1 masse de la Terre
+Masse planète mère : 9.345740875673443e+25
+Nbr orbites : 0
+stabilité : False
+
+6.1 masse de la Terre
+Masse planète mère : 8.475467161282746e+26
+Nbr orbites : 0
+stabilité : False
+
+6.15 masse de la Terre
+Masse planète mère : 3.5737574094719497e+27
+Nbr orbites : 2
+stabilité : True
+
+6.15 masse de la Terre
+Masse planète mère : 4.158500054253926e+27
+Nbr orbites : 1
+stabilité : True
+
+6.15 masse de la Terre
+Masse planète mère : 1.500112811685002e+27
+Nbr orbites : 1
+stabilité : True
+
+6.15 masse de la Terre
+# Essai 6.15 - 5.0
+lz_max: 4.511519529029175e+36
+nombre de planètes : 150
+
+6.15 masse de la Terre
+Masse planète mère : 1.6095070538905908e+27
+Nbr orbites : 2
+stabilité : True
+
+6.2 masse de la Terre
+Masse planète mère : 3.2018107451499935e+27
+Nbr orbites : 2
+stabilité : True
+
+6.2 masse de la Terre
+Masse planète mère : 2.872303490688931e+27
+Nbr orbites : 0
+stabilité : False
+
+6.2 masse de la Terre
+Masse planète mère : 2.574816084877341e+27
+Nbr orbites : 1
+stabilité : True
+
+6.2 masse de la Terre
+Masse planète mère : 3.4772709197660665e+27
+Nbr orbites : 4
+stabilité : True
+
+6.2 masse de la Terre
+stabilité : False
+
+# Essai 6.25 - 1.0
+
+6.25 masse de la Terre
+Masse planète mère : 1.063999493292367e+27
+Nbr orbites : 1
+stabilité : True
+
+6.25 masse de la Terre
+Masse planète mère : 2.864714884336578e+27
+Nbr orbites : 1
+stabilité : True
+
+6.25 masse de la Terre
+Masse planète mère : 3.036406992473441e+27
+Nbr orbites : 4
+stabilité : True
+
+6.25 masse de la Terre
+Masse planète mère : 2.1566724455133326e+27
+Nbr orbites : 3
+stabilité : True
+
+6.25 masse de la Terre
+Masse planète mère : 2.6830981882039774e+27
+Nbr orbites : 0
+stabilité : False
+
+6.3 masse de la Terre
+Masse planète mère : 1.6634384253916483e+27
+Nbr orbites : 0
+stabilité : False
+
+6.3 masse de la Terre
+Masse planète mère : 1.0620943537838051e+27
+Nbr orbites : 1
+stabilité : True
+
+6.3 masse de la Terre
+Masse planète mère : 2.3299106265858456e+27
+Nbr orbites : 2
+stabilité : True
+
+6.3 masse de la Terre
+Masse planète mère : 1.257665025424552e+27
+Nbr orbites : 0
+stabilité : False
+
+6.3 masse de la Terre
+Masse planète mère : 1.750254902431132e+26
+Nbr orbites : 0
+stabilité : False
+
+6.35 masse de la Terre
+Masse planète mère : 2.5238943168375863e+27
+Nbr orbites : 1
+stabilité : True
+
+6.35 masse de la Terre
+Masse planète mère : 2.0654290710491116e+27
+Nbr orbites : 1
+stabilité : True
+
+6.35 masse de la Terre
+Masse planète mère : 2.0836212363479104e+27
+Nbr orbites : 2
+stabilité : True
+
+6.35 masse de la Terre
+Masse planète mère : 2.8549835482922617e+27
+Nbr orbites : 0
+stabilité : False
+
+6.35 masse de la Terre
+Masse planète mère : 2.9049578532490065e+27
+Nbr orbites : 1
+stabilité : True
+
+6.4 masse de la Terre
+Masse planète mère : 3.0340487613927436e+26
+Nbr orbites : 0
+stabilité : False
+
+6.4 masse de la Terre
+Masse planète mère : 3.158690675437328e+27
+Nbr orbites : 1
+stabilité : True
+
+6.4 masse de la Terre
+Masse planète mère : 2.525989179476041e+27
+Nbr orbites : 2
+stabilité : True
+
+6.4 masse de la Terre
+Masse planète mère : 3.8263787175160055e+27
+Nbr orbites : 1
+stabilité : True
+
+6.4 masse de la Terre
+Masse planète mère : 1.1382693279261148e+27
+Nbr orbites : 3
+stabilité : True
+
+6.45 masse de la Terre
+Masse planète mère : 2.9117276085793215e+27
+Nbr orbites : 1
+stabilité : True
+
+6.45 masse de la Terre
+Masse planète mère : 2.967570792732649e+27
+Nbr orbites : 4
+stabilité : True
+
+6.45 masse de la Terre
+Masse planète mère : 3.9534265999130164e+27
+Nbr orbites : 3
+stabilité : True
+
+6.45 masse de la Terre
+Masse planète mère : 3.354140295973673e+27
+Nbr orbites : 0
+stabilité : False
+
+6.45 masse de la Terre
+Masse planète mère : 4.659680788231365e+25
+Nbr orbites : 0
+stabilité : False
+
+6.5 masse de la Terre
+Masse planète mère : 2.588757482187181e+27
+Nbr orbites : 2
+stabilité : True
+
+6.5 masse de la Terre
+Masse planète mère : 2.0396804806277262e+27
+Nbr orbites : 0
+stabilité : False
+
+6.5 masse de la Terre
+Masse planète mère : 2.6760259336438784e+27
+Nbr orbites : 3
+stabilité : True
+
+6.5 masse de la Terre
+Masse planète mère : 4.0288238471761134e+26
+Nbr orbites : 0
+stabilité : False
+
+6.5 masse de la Terre
+Masse planète mère : 3.2124926361463575e+27
+Nbr orbites : 2
+stabilité : True
+
+6.55 masse de la Terre
+Masse planète mère : 2.935755108212409e+27
+Nbr orbites : 0
+stabilité : False
+
+6.55 masse de la Terre
+Masse planète mère : 3.3473179391025297e+27
+Nbr orbites : 2
+stabilité : True
+
+6.55 masse de la Terre
+Masse planète mère : 2.8259567355345523e+27
+Nbr orbites : 2
+stabilité : True
+
+6.55 masse de la Terre
+Masse planète mère : 3.589723245347548e+27
+Nbr orbites : 2
+stabilité : True
+
+6.55 masse de la Terre
+Masse planète mère : 2.843188417715031e+27
+Nbr orbites : 2
+stabilité : True
+
+6.6 masse de la Terre
+Masse planète mère : 3.597062679311338e+27
+Nbr orbites : 3
+stabilité : True
+
+6.6 masse de la Terre
+Masse planète mère : 3.026688018832395e+27
+Nbr orbites : 1
+stabilité : True
+
+6.6 masse de la Terre
+Masse planète mère : 2.2954165015432974e+27
+Nbr orbites : 3
+stabilité : True
+
+6.6 masse de la Terre
+Masse planète mère : 3.40095752515662e+27
+Nbr orbites : 2
+stabilité : True
+
+6.6 masse de la Terre
+Masse planète mère : 2.8445110641003356e+27
+Nbr orbites : 1
+stabilité : True
+
+6.65 masse de la Terre
+Masse planète mère : 3.5616574121978127e+27
+Nbr orbites : 2
+stabilité : True
+
+6.65 masse de la Terre
+Masse planète mère : 3.688011772861929e+27
+Nbr orbites : 2
+stabilité : True
+
+6.65 masse de la Terre
+# Essai 6.65 - 4.0
+lz_max: 5.084853672234461e+36
+nombre de planètes : 150
+
+6.65 masse de la Terre
+Masse planète mère : 3.1360883943015433e+27
+Nbr orbites : 2
+stabilité : True
+
+6.65 masse de la Terre
+Masse planète mère : 1.2827867484204156e+27
+Nbr orbites : 0
+stabilité : False
+
+6.7 masse de la Terre
+Masse planète mère : 3.584802505763213e+27
+Nbr orbites : 3
+stabilité : True
+
+6.7 masse de la Terre
+Masse planète mère : 3.042767415624233e+27
+Nbr orbites : 2
+stabilité : True
+
+6.7 masse de la Terre
+Masse planète mère : 3.5569729350771266e+27
+Nbr orbites : 1
+stabilité : True
+
+6.7 masse de la Terre
+Masse planète mère : 2.6680201504443514e+27
+Nbr orbites : 1
+stabilité : True
+
+6.7 masse de la Terre
+Masse planète mère : 2.0864851019504615e+27
+Nbr orbites : 1
+stabilité : True
+
+6.75 masse de la Terre
+Masse planète mère : 1.8044472999524675e+27
+Nbr orbites : 2
+stabilité : True
+
+6.75 masse de la Terre
+Masse planète mère : 3.4736481671494277e+27
+Nbr orbites : 2
+stabilité : True
+
+6.75 masse de la Terre
+Masse planète mère : 3.015234255020392e+27
+Nbr orbites : 1
+stabilité : True
+
+6.75 masse de la Terre
+Masse planète mère : 3.4671624905339143e+27
+Nbr orbites : 4
+stabilité : True
+
+6.75 masse de la Terre
+Masse planète mère : 3.788841674415038e+27
+Nbr orbites : 2
+stabilité : True
+
+6.8 masse de la Terre
+Masse planète mère : 2.8464061507247537e+27
+Nbr orbites : 2
+stabilité : True
+
+6.8 masse de la Terre
+Masse planète mère : 3.148559983374548e+27
+Nbr orbites : 1
+stabilité : True
+
+6.8 masse de la Terre
+Masse planète mère : 3.6153909051563757e+27
+Nbr orbites : 1
+stabilité : True
+
+6.8 masse de la Terre
+Masse planète mère : 3.311448654445633e+27
+Nbr orbites : 3
+stabilité : True
+
+6.8 masse de la Terre
+Masse planète mère : 1.3143840619012363e+26
+Nbr orbites : 0
+stabilité : False
+
+6.85 masse de la Terre
+Masse planète mère : 1.8966470597765052e+27
+Nbr orbites : 0
+stabilité : False
+
+6.85 masse de la Terre
+Masse planète mère : 2.5656181315317727e+27
+Nbr orbites : 2
+stabilité : True
+
+6.85 masse de la Terre
+Masse planète mère : 1.2215028184350477e+27
+Nbr orbites : 2
+stabilité : True
+
+6.85 masse de la Terre
+Masse planète mère : 2.607718639608976e+27
+Nbr orbites : 3
+stabilité : True
+
+6.85 masse de la Terre
+Masse planète mère : 3.69320788380258e+27
+Nbr orbites : 2
+stabilité : True
+
+6.9 masse de la Terre
+Masse planète mère : 2.93124536964198e+26
+Nbr orbites : 0
+stabilité : False
+
+6.9 masse de la Terre
+Masse planète mère : 3.5034827542443645e+27
+Nbr orbites : 0
+stabilité : False
+
+6.9 masse de la Terre
+stabilité : False
+
+# Essai 6.9 - 4.0
+
+6.9 masse de la Terre
+Masse planète mère : 3.0380999466418527e+27
+Nbr orbites : 1
+stabilité : True
+
+6.9 masse de la Terre
+Masse planète mère : 3.4963278251458383e+27
+Nbr orbites : 3
+stabilité : True
+
+6.95 masse de la Terre
+Masse planète mère : 3.026487619691381e+27
+Nbr orbites : 3
+stabilité : True
+
+6.95 masse de la Terre
+Masse planète mère : 3.461719134838001e+27
+Nbr orbites : 2
+stabilité : True
+
+6.95 masse de la Terre
+Masse planète mère : 1.7954242814723185e+27
+Nbr orbites : 2
+stabilité : True
+
+6.95 masse de la Terre
+Masse planète mère : 1.6614289780535468e+27
+Nbr orbites : 0
+stabilité : False
+
+6.95 masse de la Terre
+Masse planète mère : 1.446807199234181e+26
+Nbr orbites : 0
+stabilité : False
+
+7.0 masse de la Terre
+Masse planète mère : 2.196048007977803e+27
+Nbr orbites : 1
+stabilité : True
+
+7.0 masse de la Terre
+Masse planète mère : 1.7672458072544304e+27
+Nbr orbites : 0
+stabilité : False
+
+7.0 masse de la Terre
+Masse planète mère : 3.102564552955154e+27
+Nbr orbites : 1
+stabilité : True
+
+7.0 masse de la Terre
+# Essai 7.0 - 5.0
+lz_max: 4.972454160033805e+36
+nombre de planètes : 150
+
+7.0 masse de la Terre
+Masse planète mère : 2.688967016075051e+27
+Nbr orbites : 1
+stabilité : True
+
+7.05 masse de la Terre
+Masse planète mère : 1.2113649153475457e+27
+Nbr orbites : 0
+stabilité : False
+
+7.05 masse de la Terre
+Masse planète mère : 2.984292144591509e+27
+Nbr orbites : 2
+stabilité : True
+
+7.05 masse de la Terre
+Masse planète mère : 4.328821556364001e+27
+Nbr orbites : 3
+stabilité : True
+
+7.05 masse de la Terre
+Masse planète mère : 1.7684485085903922e+27
+Nbr orbites : 1
+stabilité : True
+
+7.05 masse de la Terre
+Masse planète mère : 3.346998436702692e+27
+Nbr orbites : 3
+stabilité : True
+
+7.1 masse de la Terre
+Masse planète mère : 8.23950520607682e+26
+Nbr orbites : 0
+stabilité : False
+
+7.1 masse de la Terre
+# Essai 7.1 - 3.0
+lz_max: 5.289280329713918e+36
+nombre de planètes : 150
+
+7.1 masse de la Terre
+Masse planète mère : 2.9099364087573274e+26
+Nbr orbites : 0
+stabilité : False
+
+7.1 masse de la Terre
+# Essai 7.1 - 5.0
+lz_max: 4.726978608188458e+36
+nombre de planètes : 150
+
+7.1 masse de la Terre
+Masse planète mère : 3.292355821859973e+27
+Nbr orbites : 1
+stabilité : True
+
+7.15 masse de la Terre
+Masse planète mère : 3.273171671375773e+27
+Nbr orbites : 3
+stabilité : True
+
+7.15 masse de la Terre
+Masse planète mère : 1.431839651191824e+27
+Nbr orbites : 0
+stabilité : False
+
+7.15 masse de la Terre
+Masse planète mère : 1.6076961263675823e+27
+Nbr orbites : 1
+stabilité : True
+
+7.15 masse de la Terre
+Masse planète mère : 4.427576719473271e+27
+Nbr orbites : 4
+stabilité : True
+
+7.15 masse de la Terre
+Masse planète mère : 4.906472686358208e+27
+Nbr orbites : 0
+stabilité : False
+
+7.2 masse de la Terre
+Masse planète mère : 3.644530843202214e+27
+Nbr orbites : 3
+stabilité : True
+
+7.2 masse de la Terre
+Masse planète mère : 1.2884567284399086e+26
+Nbr orbites : 0
+stabilité : False
+
+7.2 masse de la Terre
+Masse planète mère : 3.930342084448826e+25
+Nbr orbites : 0
+stabilité : False
+
+7.2 masse de la Terre
+Masse planète mère : 2.602620919211184e+27
+Nbr orbites : 1
+stabilité : True
+
+7.2 masse de la Terre
+Masse planète mère : 3.910901548598825e+27
+Nbr orbites : 0
+stabilité : False
+
+7.25 masse de la Terre
+Masse planète mère : 2.906983436276537e+26
+Nbr orbites : 0
+stabilité : False
+
+7.25 masse de la Terre
+Masse planète mère : 3.658349625314556e+27
+Nbr orbites : 0
+stabilité : False
+
+7.25 masse de la Terre
+Masse planète mère : 2.762440986839842e+27
+Nbr orbites : 1
+stabilité : True
+
+7.25 masse de la Terre
+Masse planète mère : 3.726767186921084e+27
+Nbr orbites : 1
+stabilité : True
+
+7.25 masse de la Terre
+Masse planète mère : 2.4017767863537084e+27
+Nbr orbites : 1
+stabilité : True
+
+7.3 masse de la Terre
+Masse planète mère : 2.974757475210882e+27
+Nbr orbites : 1
+stabilité : True
+
+7.3 masse de la Terre
+Masse planète mère : 2.993892049116059e+27
+Nbr orbites : 1
+stabilité : True
+
+7.3 masse de la Terre
+Masse planète mère : 3.7234594580212046e+27
+Nbr orbites : 0
+stabilité : False
+
+7.3 masse de la Terre
+Masse planète mère : 3.21873553326342e+27
+Nbr orbites : 5
+stabilité : True
+
+7.3 masse de la Terre
+Masse planète mère : 1.489933551535196e+27
+Nbr orbites : 0
+stabilité : False
+
+7.35 masse de la Terre
+Masse planète mère : 3.389937355719288e+27
+Nbr orbites : 4
+stabilité : True
+
+7.35 masse de la Terre
+Masse planète mère : 1.3377896436142802e+27
+Nbr orbites : 0
+stabilité : False
+
+7.35 masse de la Terre
+Masse planète mère : 1.2584914500549364e+26
+Nbr orbites : 0
+stabilité : False
+
+7.35 masse de la Terre
+Masse planète mère : 3.09370690010925e+27
+Nbr orbites : 0
+stabilité : False
+
+7.35 masse de la Terre
+Masse planète mère : 3.5905958428347936e+27
+Nbr orbites : 3
+stabilité : True
+
+7.4 masse de la Terre
+Masse planète mère : 3.28993350564879e+27
+Nbr orbites : 1
+stabilité : True
+
+7.4 masse de la Terre
+Masse planète mère : 3.7757422924205846e+27
+Nbr orbites : 0
+stabilité : False
+
+7.4 masse de la Terre
+Masse planète mère : 4.0411795283908693e+27
+Nbr orbites : 2
+stabilité : True
+
+7.4 masse de la Terre
+Masse planète mère : 2.4596644077493387e+27
+Nbr orbites : 0
+stabilité : False
+
+7.4 masse de la Terre
+Masse planète mère : 2.858970592721284e+27
+Nbr orbites : 1
+stabilité : True
+
+7.45 masse de la Terre
+Masse planète mère : 4.1400208108204503e+27
+Nbr orbites : 1
+stabilité : True
+
+7.45 masse de la Terre
+Masse planète mère : 1.1026978507764824e+27
+Nbr orbites : 0
+stabilité : False
+
+7.45 masse de la Terre
+Masse planète mère : 4.963649081100356e+26
+Nbr orbites : 0
+stabilité : False
+
+7.45 masse de la Terre
+Masse planète mère : 1.143503307261909e+27
+Nbr orbites : 0
+stabilité : False
+
+7.45 masse de la Terre
+Masse planète mère : 1.9819603147417702e+27
+Nbr orbites : 0
+stabilité : False
+
+7.5 masse de la Terre
+Masse planète mère : 2.7042075599243855e+27
+Nbr orbites : 1
+stabilité : True
+
+7.5 masse de la Terre
+Masse planète mère : 4.958869553046527e+27
+Nbr orbites : 1
+stabilité : True
+
+7.5 masse de la Terre
+Masse planète mère : 2.193224234732702e+27
+Nbr orbites : 1
+stabilité : True
+
+7.5 masse de la Terre
+Masse planète mère : 3.3569495899059014e+27
+Nbr orbites : 1
+stabilité : True
+
+7.5 masse de la Terre
+Masse planète mère : 9.251047018873461e+26
+Nbr orbites : 1
+stabilité : True
+
+7.55 masse de la Terre
+Masse planète mère : 2.718296105508238e+27
+Nbr orbites : 1
+stabilité : True
+
+7.55 masse de la Terre
+Masse planète mère : 4.1861059369205506e+27
+Nbr orbites : 2
+stabilité : True
+
+7.55 masse de la Terre
+Masse planète mère : 1.7828092517725027e+26
+Nbr orbites : 0
+stabilité : False
+
+7.55 masse de la Terre
+Masse planète mère : 4.592229885883547e+27
+Nbr orbites : 1
+stabilité : True
+
+7.55 masse de la Terre
+Masse planète mère : 3.0777418315097566e+27
+Nbr orbites : 0
+stabilité : False
+
+7.6 masse de la Terre
+Masse planète mère : 6.084606752322318e+25
+Nbr orbites : 0
+stabilité : False
+
+7.6 masse de la Terre
+Masse planète mère : 1.5564420211433926e+27
+Nbr orbites : 1
+stabilité : True
+
+7.6 masse de la Terre
+Masse planète mère : 1.1966119695096045e+27
+Nbr orbites : 0
+stabilité : False
+
+7.6 masse de la Terre
+Masse planète mère : 9.467643710559632e+26
+Nbr orbites : 0
+stabilité : False
+
+7.6 masse de la Terre
+Masse planète mère : 3.9986272153921545e+27
+Nbr orbites : 2
+stabilité : True
+
+7.65 masse de la Terre
+Masse planète mère : 5.192715588075128e+27
+Nbr orbites : 1
+stabilité : True
+
+7.65 masse de la Terre
+Masse planète mère : 4.622653880604951e+27
+Nbr orbites : 1
+stabilité : True
+
+7.65 masse de la Terre
+Masse planète mère : 4.99750966255154e+27
+Nbr orbites : 0
+stabilité : False
+
+7.65 masse de la Terre
+Masse planète mère : 2.880282139486891e+27
+Nbr orbites : 1
+stabilité : True
+
+7.65 masse de la Terre
+Masse planète mère : 4.347665344182159e+27
+Nbr orbites : 2
+stabilité : True
+
+7.7 masse de la Terre
+Masse planète mère : 3.591094537165122e+27
+Nbr orbites : 1
+stabilité : True
+
+7.7 masse de la Terre
+Masse planète mère : 4.3610372041957826e+27
+Nbr orbites : 1
+stabilité : True
+
+7.7 masse de la Terre
+Masse planète mère : 3.43039141464872e+27
+Nbr orbites : 1
+stabilité : True
+
+7.7 masse de la Terre
+Masse planète mère : 3.3650001073584577e+27
+Nbr orbites : 3
+stabilité : True
+
+7.7 masse de la Terre
+Masse planète mère : 4.0222375778493315e+27
+Nbr orbites : 1
+stabilité : True
+
+7.75 masse de la Terre
+Masse planète mère : 3.988054583681253e+27
+Nbr orbites : 1
+stabilité : True
+
+7.75 masse de la Terre
+Masse planète mère : 2.316122957083094e+26
+Nbr orbites : 0
+stabilité : False
+
+7.75 masse de la Terre
+Masse planète mère : 2.623043929772512e+27
+Nbr orbites : 2
+stabilité : True
+
+7.75 masse de la Terre
+Masse planète mère : 4.9204630459093155e+27
+Nbr orbites : 3
+stabilité : True
+
+7.75 masse de la Terre
+Masse planète mère : 3.355799634964217e+27
+Nbr orbites : 0
+stabilité : False
+
+7.8 masse de la Terre
+Masse planète mère : 2.8266935602255754e+27
+Nbr orbites : 2
+stabilité : True
+
+7.8 masse de la Terre
+Masse planète mère : 1.943862148715458e+27
+Nbr orbites : 1
+stabilité : True
+
+7.8 masse de la Terre
+Masse planète mère : 3.781185480222216e+26
+Nbr orbites : 0
+stabilité : False
+
+7.8 masse de la Terre
+Masse planète mère : 3.3535684579586635e+27
+Nbr orbites : 1
+stabilité : True
+
+7.8 masse de la Terre
+Masse planète mère : 2.9668290198645754e+27
+Nbr orbites : 0
+stabilité : False
+
+7.85 masse de la Terre
+Masse planète mère : 4.5754568816597384e+27
+Nbr orbites : 2
+stabilité : True
+
+7.85 masse de la Terre
+Masse planète mère : 3.621612844367035e+27
+Nbr orbites : 1
+stabilité : True
+
+7.85 masse de la Terre
+Masse planète mère : 3.327149046593869e+27
+Nbr orbites : 2
+stabilité : True
+
+7.85 masse de la Terre
+Masse planète mère : 2.502172862458756e+27
+Nbr orbites : 0
+stabilité : False
+
+7.85 masse de la Terre
+stabilité : False
+
+# Essai 7.9 - 1.0
+
+7.9 masse de la Terre
+Masse planète mère : 5.161430864718535e+27
+Nbr orbites : 1
+stabilité : True
+
+7.9 masse de la Terre
+Masse planète mère : 3.3345888697796466e+27
+Nbr orbites : 1
+stabilité : True
+
+7.9 masse de la Terre
+Masse planète mère : 7.217591701169578e+26
+Nbr orbites : 0
+stabilité : False
+
+7.9 masse de la Terre
+Masse planète mère : 3.455694787108859e+27
+Nbr orbites : 2
+stabilité : True
+
+7.9 masse de la Terre
+Masse planète mère : 1.769454209579857e+27
+Nbr orbites : 3
+stabilité : True
+
+7.95 masse de la Terre
+Masse planète mère : 3.418419392455538e+27
+Nbr orbites : 1
+stabilité : True
+
+7.95 masse de la Terre
+Masse planète mère : 2.8362072919831045e+27
+Nbr orbites : 2
+stabilité : True
+
+7.95 masse de la Terre
+Masse planète mère : 4.4547151356944634e+27
+Nbr orbites : 2
+stabilité : True
+
+7.95 masse de la Terre
+Masse planète mère : 2.5771237946779623e+27
+Nbr orbites : 1
+stabilité : True
+
+7.95 masse de la Terre
+Masse planète mère : 4.670778724406519e+27
+Nbr orbites : 1
+stabilité : True
+
+8.0 masse de la Terre
+Masse planète mère : 2.4834315199874047e+27
+Nbr orbites : 0
+stabilité : False
+
+8.0 masse de la Terre
+Masse planète mère : 2.379880191461837e+27
+Nbr orbites : 0
+stabilité : False
+
+8.0 masse de la Terre
+Masse planète mère : 2.507023725404173e+26
+Nbr orbites : 0
+stabilité : False
+
+8.0 masse de la Terre
+Masse planète mère : 2.9975801777289444e+27
+Nbr orbites : 2
+stabilité : True
+
+8.0 masse de la Terre
+Masse planète mère : 3.7607268353385124e+27
+Nbr orbites : 2
+stabilité : True
+
