@@ -351,5 +351,5 @@ def main(liste_planetes):
     #Traçage de l'animation
     plt.show()
 
-    anim.save('planet.gif', writer='imagemagick', dpi=150, fps=30)
+    anim.save('planet.gif', writer='imagemagick', dpi=120, fps=27)
 
