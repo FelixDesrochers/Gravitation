@@ -34,11 +34,11 @@ Par exemple, pour un système dont le nombre de planètes initial, la vitesse mo
 
 #### Nombre moyen de corps formant un système stable
 
-<img src="/Analyse_result/Masse/Nbr_orbite.png" width="1200" height="600" />
+<img src="/Analyse_result/Masse/Nbr_orbites.png" width="600" height="300" />
 
 #### Nombre de corps restant à la fin de la simulation
 
-<img src="/Analyse_result/Masse/Nbr_restant_Masse.png" width="1200" height="600" />
+<img src="/Analyse_result/Masse/Nbr_restant_masse.png" width="600" height="300" />
 
 
 ### Influence du nombre initial de corps
@@ -46,30 +46,30 @@ Par exemple, pour un système dont le nombre de planètes initial, la vitesse mo
 #### Nombre moyen de corps formant un système stable
 
 
-<img src="/Analyse_result/Nbr_planetes/Nbr_orbites.png" width="1200" height="600" />
+<img src="/Analyse_result/Nbr_planetes/Nbr_orbites.png" width="600" height="300" />
 
 #### Nombre de corps restant à la fin de la simulation
 
-<img src="/Analyse_result/Nbr_planetes/Nbr_restant.png" width="1200" height="600" />
+<img src="/Analyse_result/Nbr_planetes/Nbr_restant.png" width="600" height="300" />
 
 #### Masse moyenne du corps central 
 
-<img src="/Analyse_result/Nbr_planetes/Masse_centre.png" width="1200" height="600" />
+<img src="/Analyse_result/Nbr_planetes/Masse_centre.png" width="600" height="300" />
 
 
 ### Influence de la vitesse initiale moyenne
 
 #### Nombre moyen de corps formant un système stable
 
-<img src="/Analyse_result/vitesse/orbite_v.png" width="1200" height="600" />
+<img src="/Analyse_result/vitesse/orbite_v.png" width="600" height="300" />
 
 #### Nombre de corps restant à la fin de la simulation
 
-<img src="/Analyse_result/vitesse/restant_v.png" width="1200" height="600" />
+<img src="/Analyse_result/vitesse/restant_v.png" width="600" height="300" />
 
 #### Masse moyenne du corps central 
 
-<img src="/Analyse_result/vitesse/Masse_mere_v.png" width="1200" height="600" />
+<img src="/Analyse_result/vitesse/Masse_mere_v.png" width="600" height="300" />
 
 
 
