@@ -1,0 +1,9 @@
+
+# Essai 170 - 1
+lz_max: 2.084680694069366e+36
+nombre de planètes : 170
+masse moyenne : 1.7916600000000004e+25
+rayon moyen : 60128.060032726346
+vitesse moyenne : 24999.99999999999
+quantité de mouvement moyenne : 4.444342902440586e+29
+lz : 1.9999999999999806e+33
